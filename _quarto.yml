@@ -104,6 +104,9 @@ format:
           \AtBeginDocument{\renewcommand\float@endH{\@endfloatbox\vskip\intextsep
             \if@flstyle\setbox\@currbox\float@makebox\columnwidth\fi
             \nointerlineskip\box\@currbox\vskip\intextsep\relax}}
+          % Inside figures, use normal line spacing so an image can't overlap
+          % its caption; keep at least 6pt between them.
+          \AtBeginDocument{\g@addto@macro\@floatboxreset{\lineskiplimit\z@ \lineskip 6pt\relax}}
           \makeatother
     filters:
       # pre-ast: before Quarto turns figure divs into its own float objects
