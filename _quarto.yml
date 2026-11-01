@@ -84,6 +84,17 @@ format:
       - text: |
           \lineskiplimit = -\maxdimen
           \usepackage{setspace}
+          \usepackage{needspace}
+          % Quarto puts margin content (portraits, citations, footnotes) in
+          % \marginnote, which is fixed in place and runs off the bottom of the
+          % page. Use \marginpar instead, which marginfix stacks without
+          % overlaps and keeps within the page.
+          \usepackage{marginfix}
+          \AtBeginDocument{\renewcommand{\marginnote}[1]{\marginpar[{\raggedleft #1}]{\raggedright #1}}}
+    filters:
+      # pre-ast: before Quarto turns figure divs into its own float objects
+      - path: pdf-layout.lua
+        at: pre-ast
 
   html:
     theme:
