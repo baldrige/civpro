@@ -1,0 +1,19 @@
+# Quarto build output and caches
+/_book/
+/.quarto/
+/site_libs/
+/index_files/
+*_files/
+/Civil-Procedure.tex
+*.log
+
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*

@@ -1,0 +1,19 @@
+# Preface {.unnumbered}
+
+## About This Book
+
+This book is designed as an introductory text for a first-year law school course in federal civil procedure. These materials are free to use and may be adapted with permission. 
+
+::: {.callout-note}
+Clicking the PDF icon in the sidebar will open this book as a PDF file. Clicking the toggle icon will switch between dark and light mode.
+:::
+
+## Acknowledgements
+
+Thank you to all my students over the years, especially those of you who emailed to identify typos in these materials. I dedicate this book to Bennett and Evie, who play quietly in the early morning hours. 
+
+-TBB
+
+::: {.callout-tip title="In case of errors"}
+If you have any questions or spot any errors, please email them to [me](mailto:tbbennett@smu.edu).
+:::

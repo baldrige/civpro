@@ -1,0 +1,94 @@
+project:
+  type: book
+
+book:
+  title: "Civil Procedure"
+  author: "Thomas B. Bennett"
+  chapters:
+    - index.qmd
+    - part: "From Claim to Judgment"
+      chapters:
+        - intro1.qmd
+        - tradeoffs.qmd
+        - what_is_procedure.qmd
+        - pleadings.qmd
+        - discovery.qmd
+        - avoiding_trial.qmd
+        - trial_appeal.qmd
+        - judgments.qmd
+        - aggregation.qmd
+    - part: "Jurisdiction & Choice of Law"
+      chapters:
+        - intro2.qmd
+        - personal_jurisdiction.qmd
+        - subject_matter_jurisdiction.qmd
+        - venue_transfer_fnc.qmd
+        - erie_doctrine.qmd
+    - part: "Supplement"
+      chapters:
+        - frcp.qmd
+        - statutes.qmd
+        - constitution.qmd
+  sidebar:
+    logo: cover.jpg
+  downloads: [pdf]
+  google-analytics: "G-M6E3TREXQZ"
+
+format:
+
+  pdf:
+    cover-image: cover.jpg
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    number-depth: 1
+    documentclass: scrbook
+    papersize: letter
+    geometry:
+      - left = 1 in
+      - right = 2.75 in
+      - top = 1.5 in
+      - bottom = 1.5 in
+      - marginparsep = 5 mm
+      - marginparwidth = 50 mm
+      - heightrounded
+    pagestyle: headings
+    pdf-engine: xelatex
+    # Free fonts bundled with TeX Live (tex-gyre), so the PDF builds anywhere.
+    # Pagella is a Palatino clone; Adventor is a geometric sans in the spirit of Futura.
+    mainfont: texgyrepagella
+    mainfontoptions:
+      - Extension = .otf
+      - UprightFont = *-regular
+      - BoldFont = *-bold
+      - ItalicFont = *-italic
+      - BoldItalicFont = *-bolditalic
+    sansfont: texgyreadventor
+    sansfontoptions:
+      - Extension = .otf
+      - UprightFont = *-regular
+      - BoldFont = *-bold
+      - ItalicFont = *-italic
+      - BoldItalicFont = *-bolditalic
+    fontsize: 10pt
+    linestretch: 1.0
+    keep-tex: true
+    header-includes: |
+          \titlehead{\includegraphics[width=4.5in]{cover.jpg}}
+    include-in-header:
+      - text: |
+          \lineskiplimit = -\maxdimen
+          \usepackage{setspace}
+
+  html:
+    theme:
+      light: [flatly, theme.scss]
+      dark: [darkly, theme.scss]
+    lightbox:
+      match: auto
+
+fig-cap-location: top
+number-depth: 2
+lightbox: true
+
+

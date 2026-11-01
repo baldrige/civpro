@@ -1,0 +1,11 @@
+# Introduction
+
+In the first half of this course of study, you mastered the Rules. You learned about the life cycle of a civil suit in federal court from start to finish, from chose in action to judgment. Now you know what belongs in a complaint, how to analyze a motion to dismiss, what evidence suffices to survive a motion for summary judgment, and how to determine the preclusive effect of a prior judgment.
+
+You also saw how the Rules draw upon deeper values, most notably due process. Our civil justice system aims at the ideal that every litigant should get one, but only one, chance to air her claims in court. Most often, that principle demands notice and an opportunity to be heard. But as we have seen, striking the appropriate balance between accuracy and efficiency requires constant tradeoffs—tradeoffs embedded in nearly every Rule in the book.
+
+Now we will take a step back and focus on two prior questions. First, which court or courts are competent to decide a given dispute? This is the question of jurisdiction, the power of a court to proceed to judgment. Without proper jurisdiction, a putative judgment isn’t worth the paper it’s printed on. To issue a valid judgment, then, a court must have jurisdiction over both the parties and the subject matter of the dispute.
+
+Second, which body of law should a court of competent jurisdiction apply once it has agreed to hear a case? Our system of judicial federalism often tasks federal courts with deciding disputes traditionally governed by ordinary common law. Should federal courts deciding such cases make their own common law, or should they instead apply substantive state law? And how do the Rules we learned last semester fit into that question? This is the nub of the *Erie* doctrine, a vexing choice-of-law puzzle that forces us to confront the role of federal courts in a constitutional order that prizes both federalism and the separation of powers. 
+
+As we have so far, we will at times turn our gaze upward to high theory or downward to the doctrinal details. We must not lose sight of either, as we can learn much about the political theory undergirding our system of judicial federalism by focusing on how courts have disposed of narrow legal questions. And a proper resolution of complex edge cases requires a deeper understanding of the larger aims of our civil justice system. 

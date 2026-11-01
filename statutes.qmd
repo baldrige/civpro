@@ -1,0 +1,1063 @@
+# Selected Federal Statutes {.unnumbered}
+
+### 28 U.S.C. § 1291, Final Decisions of District Courts
+
+The courts of appeals (other than the United States Court of Appeals for
+the Federal Circuit) shall have jurisdiction of appeals from all final
+decisions of the district courts of the United States, the United States
+District Court for the District of the Canal Zone, the District Court of
+Guam, and the District Court of the Virgin Islands, except where a
+direct review may be had in the Supreme Court. The jurisdiction of the
+United States Court of Appeals for the Federal Circuit shall be limited
+to the jurisdiction described in sections 1292(c) and (d) and 1295 of
+this title.
+
+### 28 U.S.C. § 1292, Interlocutory Decisions
+
+\(a\) Except as provided in subsections (c) and (d) of this section, the
+courts of appeals shall have jurisdiction of appeals from:
+
+> \(1\) Interlocutory orders of the district courts of the United
+> States, the United States District Court for the District of the Canal
+> Zone, the District Court of Guam, and the District Court of the Virgin
+> Islands, or of the judges thereof, granting, continuing, modifying,
+> refusing or dissolving injunctions, or refusing to dissolve or modify
+> injunctions, except where a direct review may be had in the Supreme
+> Court;
+>
+> \(2\) Interlocutory orders appointing receivers, or refusing orders to
+> wind up receiverships or to take steps to accomplish the purposes
+> thereof, such as directing sales or other disposals of property;
+>
+> \(3\) Interlocutory decrees of such district courts or the judges
+> thereof determining the rights and liabilities of the parties to
+> admiralty cases in which appeals from final decrees are allowed.
+
+\(b\) When a district judge, in making in a civil action an order not
+otherwise appealable under this section, shall be of the opinion that
+such order involves a controlling question of law as to which there is
+substantial ground for difference of opinion and that an immediate
+appeal from the order may materially advance the ultimate termination of
+the litigation, he shall so state in writing in such order. The Court of
+Appeals which would have jurisdiction of an appeal of such action may
+thereupon, in its discretion, permit an appeal to be taken from such
+order, if application is made to it within ten days after the entry of
+the order: Provided, however, That application for an appeal hereunder
+shall not stay proceedings in the district court unless the district
+judge or the Court of Appeals or a judge thereof shall so order.
+
+\(c\) The United States Court of Appeals for the Federal Circuit shall
+have exclusive jurisdiction---
+
+> \(1\) Of an appeal from an interlocutory order or decree described in
+> subsection (a) or (b) of this section in any case over which the court
+> would have jurisdiction of an appeal under section 1295 of this title;
+> and
+>
+> \(2\) Of an appeal from a judgment in a civil action for patent
+> infringement which would otherwise be appealable to the United States
+> Court of Appeals for the Federal Circuit and is final except for an
+> accounting.
+
+\(d\)
+
+> \(1\) When the chief judge of the Court of International Trade issues
+> an order under the provisions of section 256(b) of this title, or when
+> any judge of the Court of International Trade, in issuing any other
+> interlocutory order, includes in the order a statement that a
+> controlling question of law is involved with respect to which there is
+> a substantial ground for difference of opinion and that an immediate
+> appeal from that order may materially advance the ultimate termination
+> of the litigation, the United States Court of Appeals for the Federal
+> Circuit may, in its discretion, permit an appeal to be taken from such
+> order, if application is made to that Court within ten days after the
+> entry of such order.
+>
+> \(2\) When the chief judge of the United States Court of Federal
+> Claims issues an order under section 798(b) of this title, or when any
+> judge of the United States Court of Federal Claims, in issuing an
+> interlocutory order, includes in the order a statement that a
+> controlling question of law is involved with respect to which there is
+> a substantial ground for difference of opinion and that an immediate
+> appeal from that order may materially advance the ultimate termination
+> of the litigation, the United States Court of Appeals for the Federal
+> Circuit may, in its discretion, permit an appeal to be taken from such
+> order, if application is made to that Court within ten days after the
+> entry of such order.
+>
+> \(3\) Neither the application for nor the granting of an appeal under
+> this subsection shall stay proceedings in the Court of International
+> Trade or in the Court of Federal Claims, as the case may be, unless a
+> stay is ordered by a judge of the Court of International Trade or of
+> the Court of Federal Claims or by the United States Court of Appeals
+> for the Federal Circuit or a judge of that court.
+>
+> \(4\)
+>
+>> (A)\ The United States Court of Appeals for the Federal Circuit shall
+>> have exclusive jurisdiction of an appeal from an interlocutory order
+>> of a district court of the United States, the District Court of
+>> Guam, the District Court of the Virgin Islands, or the District
+>> Court for the Northern Mariana Islands, granting or denying, in
+>> whole or in part, a motion to transfer an action to the United
+>> States Court of Federal Claims under section 1631 of this title.
+>>
+>> (B)\ When a motion to transfer an action to the Court of Federal Claims
+>> is filed in a district court, no further proceedings shall be taken
+>> in the district court until 60 days after the court has ruled upon
+>> the motion. If an appeal is taken from the district court's grant or
+>> denial of the motion, proceedings shall be further stayed until the
+>> appeal has been decided by the Court of Appeals for the Federal
+>> Circuit. The stay of proceedings in the district court shall not bar
+>> the granting of preliminary or injunctive relief, where appropriate
+>> and where expedition is reasonably necessary. However, during the
+>> period in which proceedings are stayed as provided in this
+>> subparagraph, no transfer to the Court of Federal Claims pursuant to
+>> the motion shall be carried out.
+
+\(e\) The Supreme Court may prescribe rules, in accordance with section
+2072 of this title, to provide for an appeal of an interlocutory
+decision to the courts of appeals that is not otherwise provided for
+under subsection (a), (b), (c), or (d).
+
+### 28 U.S.C. § 1331, Federal Question
+
+The district courts shall have original jurisdiction of all civil
+actions arising under the Constitution, laws, or treaties of the United
+States.
+
+### 28 U.S.C. § 1332, Diversity of Citizenship; Amount in Controversy; Costs
+
+\(a\) The district courts shall have original jurisdiction of all civil
+actions where the matter in controversy exceeds the sum or value of
+\$75,000, exclusive of interest and costs, and is between---
+
+> \(1\) Citizens of different States;
+>
+> \(2\) Shall not have original jurisdiction under this subsection of an
+> action between citizens of a State and citizens or subjects of a
+> foreign state who are lawfully admitted for permanent residence in the
+> United States and are domiciled in the same State;
+>
+> \(3\) Citizens of different States and in which citizens or subjects
+> of a foreign state are additional parties
+
+\(b\) Except when express provision therefor is otherwise made in a
+statute of the United States, where the plaintiff who files the case
+originally in the Federal courts is finally adjudged to be entitled to
+recover less than the sum or value of \$75,000, computed without regard
+to any setoff or counterclaim to which the defendant may be adjudged to
+be entitled, and exclusive of interest and costs, the district court may
+deny costs to the plaintiff and, in addition, may impose costs on the
+plaintiff.
+
+\(c\) For the purposes of this section and section 1441 of this title---
+
+> \(1\) a corporation shall be deemed to be a citizen of every State and foreign state by which it has been incorporated and of the State or foreign state where it has its principal place of business, except that in any direct action against the insurer of a policy or contract of liability insurance, whether incorporated or unincorporated, to which action the insured is not joined as a party-defendant, such insurer shall be deemed a citizen of---
+>
+>> (A)\ every State and foreign state of which the insured is a citizen;
+>> 
+>> (B)\ every State and foreign state by which the insurer has been incorporated; and
+>>
+>> (C)\ the State or foreign state where the insurer has its principal place of business; and
+> 
+> \(2\) the legal representative of the estate of a decedent shall be deemed to be a citizen only of the same State as the decedent, and the legal representative of an infant or incompetent shall be deemed to be a citizen only of the same State as the infant or incompetent.
+
+\(d\)
+
+> \(1\) In this subsection---
+> 
+>> (A)\ The term "class" means all of the class members in a class action;
+>>
+>> (B)\ The term "class action" means any civil action filed under rule 23
+>> of the Federal Rules of Civil Procedure or similar State statute or
+>> rule of judicial procedure authorizing an action to be brought by 1
+>> or more representative persons as a class action;
+>>
+>> (C)\ The term "class certification order" means an order issued by a
+>> court approving the treatment of some or all aspects of a civil
+>> action as a class action and
+>>
+>> (D)\ The term "class members" means the persons (named or unnamed) who
+>> fall within the definition of the proposed or certified class in a
+>> class action
+>
+> \(2\) The district courts shall have original jurisdiction of any
+> civil action in which the matter in controversy exceeds the sum or
+> value of \$5,000,000, exclusive of interest and costs, and is a class
+> action in which---
+>
+>> (A)\ Any member of a class of plaintiffs is a citizen of a State
+>> different from any defendant;
+>>
+>> (B)\ Any member of a class of plaintiffs is a foreign state or a citizen
+>> or subject of a foreign state and any defendant is a citizen of a
+>> State; or
+>>
+>> (C)\ Any member of a class of plaintiffs is a citizen of a State and any
+>> defendant is a foreign state or a citizen or subject of a foreign
+>> state.
+>
+> \(3\) A district court may, in the interests of justice and looking at
+> the totality of the circumstances, decline to exercise jurisdiction
+> under paragraph (2) over a class action in which greater than
+> one-third but less than two-thirds of the members of all proposed
+> plaintiff classes in the aggregate and the primary defendants are
+> citizens of the State in which the action was originally filed based
+> on consideration of---
+>
+>> (A)\ Whether the claims asserted involve matters of national or
+>> interstate interest;
+>>
+>> (B)\ Whether the claims asserted will be governed by laws of the State in
+>> which the action was originally filed or by the laws of other
+>> States;
+>>
+>> (C)\ Whether the class action has been pleaded in a manner that seeks to
+>> avoid Federal jurisdiction;
+>> 
+>> (D)\ Whether the action was brought in a forum with a distinct nexus with
+>> the class members the alleged harm, or the defendants;
+>>
+>> (E)\ Whether the number of citizens of the State in which the action was
+>> originally filed in all proposed plaintiff classes in the aggregate
+>> is substantially larger than the number of citizens from any other
+>> State, and the citizenship of the other members of the proposed
+>> class is dispersed among a substantial number of States; and
+>>
+>> (F)\ Whether, during the 3-year period preceding the filing of that class
+>> action, 1 or more other class actions asserting the same or similar
+>> claims on behalf of the same or other persons have been filed.
+> 
+> \(4\) A district court shall decline to exercise jurisdiction under
+> paragraph (2)---
+>
+>> (A)\  
+>>
+>>> \(i\) Over a class action in which---
+>>>
+>>>> \(I\) Greater than two-thirds of the members of all proposed plaintiff
+>>>> classes in the aggregate are citizens of the State in which the action
+>>>> was originally filed;
+>>>>
+>>>> \(II\) At least 1 defendant is a defendant---
+>>>>
+>>>>> (aa) From whom significant relief is sought by members of the
+>>>>> plaintiff class;
+>>>>>
+>>>>> (bb) Whose alleged conduct forms a significant basis for the claims
+>>>>> asserted by the proposed plaintiff class; and
+>>>>>
+>>>>> \(cc\) Who is a citizen of the State in which the action was
+>>>>> originally filed; and
+>>>>
+>>>> \(III\) Principal injuries resulting from the alleged conduct or any
+>>>> related conduct of each defendant were incurred in the State in which
+>>>> the action was originally filed; and
+>>>
+>>> \(ii\) During the 3-year period preceding the filing of that class
+>>> action, no other class action has been filed asserting the same or
+>>> similar factual allegations against any of the defendants on behalf of
+>>> the same or other persons; or
+>>
+>> (B)\ Two-thirds or more of the members of all proposed plaintiff classes
+>> in the aggregate, and the primary defendants, are citizens of the
+>> State in which the action was originally filed.
+
+> \(5\) Paragraphs (2) through (4) shall not apply to any class action
+> in which---
+>
+>> (A)\ The primary defendants are States, State officials, or other
+>> governmental entities against whom the district court may be
+>> foreclosed from ordering relief; or
+>>
+>> (B)\ The number of members of all proposed plaintiff classes in the
+>>aggregate is less than 100.
+> 
+> \(6\) In any class action, the claims of the individual class members
+> shall be aggregated to determine whether the matter in controversy
+> exceeds the sum or value of \$5,000,000, exclusive of interest and
+> costs.
+>
+> \(7\) Citizenship of the members of the proposed plaintiff class shall
+> be determined for purposes of paragraphs (2) through (6) as of the
+> date of filing of the complaint or amended complaint, or, if the case
+> stated by the initial pleading is not subject to Federal jurisdiction,
+> as of the date of service by plaintiffs of an amended pleading,
+> motion, or other paper, indicating the existence of Federal
+> jurisdiction.
+>
+> \(8\) This subsection shall apply to any class action before or after
+> the entry of a class certification order by the court with respect to
+> that action.
+>
+> \(9\) Paragraph (2) shall not apply to any class action that solely
+> involves a claim---
+>
+>> (A)\  Concerning a covered security as defined under 16(f)(3) \[1\] of
+>> the Securities Act of 1933 (15 U.S.C. 78p(f)(3) \[2\]) and section
+>> 28(f)(5)(E) of the Securities Exchange Act of 1934 (15 U.S.C.
+>> 78bb(f)(5)(E));
+>>
+>> (B)\ That relates to the internal affairs or governance of a corporation
+>> or other form of business enterprise and that arises under or by
+>> virtue of the laws of the State in which such corporation or
+>> business enterprise is incorporated or organized; or
+>> 
+>> (C)\ That relates to the rights, duties (including fiduciary duties), and
+>> obligations relating to or created by or pursuant to any security
+>> (as defined under section 2(a)(1) of the Securities Act of 1933 (15
+>> U.S.C. 77b(a)(1)) and the regulations issued thereunder)
+>
+> \(10\) For purposes of this subsection and section 1453, an
+> unincorporated association shall be deemed to be a citizen of the
+> State where it has its principal place of business and the State under
+> whose laws it is organized.
+>
+> \(11\)
+>
+>> (A)\ For purposes of this subsection and section 1453, a mass action
+>> shall be deemed to be a class action removable under paragraphs (2)
+>> through (10) if it otherwise meets the provisions of those
+>> paragraphs.
+>> 
+>> (B)\  
+>>
+>>> \(i\) As used in subparagraph (A), the term "mass action" means any
+>>> civil action (except a civil action within the scope of section
+>>> 1711(2)) in which monetary relief claims of 100 or more persons are
+>>> proposed to be tried jointly on the ground that the plaintiffs' claims
+>>> involve common questions of law or fact, except that jurisdiction
+>>> shall exist only over those plaintiffs whose claims in a mass action
+>>> satisfy the jurisdictional amount requirements under subsection (a).
+>>>
+>>> \(ii\) As used in subparagraph (A), the term "mass action" shall not
+>>> include any civil action in which---
+>>>
+>>>> \(I\) All of the claims in the action arise from an event or
+>>>> occurrence in the State in which the action was filed, and that
+>>>> allegedly resulted in injuries in that State or in States contiguous
+>>>> to that State;
+>>>>
+>>>> \(II\) The claims are joined upon motion of a defendant;
+>>>>
+>>>> \(III\) All of the claims in the action are asserted on behalf of the
+>>>> general public (and not on behalf of individual claimants or members
+>>>> of a purported class) pursuant to a State statute specifically
+>>>> authorizing such action; or
+>>>>
+>>>> \(IV\) The claims have been consolidated or coordinated solely for
+>>>> pretrial proceedings.
+>>
+>> (C)\
+>>
+>>> \(i\) Any action(s) removed to Federal court pursuant to this
+>>> subsection shall not thereafter be transferred to any other court
+>>> pursuant to section 1407, or the rules promulgated thereunder, unless
+>>> a majority of the plaintiffs in the action request transfer pursuant
+>>> to section 1407.
+>>>
+>>> \(ii\) This subparagraph will not apply---
+>>>
+>>>> \(I\) To cases certified pursuant to rule 23 of the Federal Rules of
+>>>> Civil Procedure; or
+>>>>
+>>>> \(II\) If plaintiffs propose that the action proceed as a class action
+>>>> pursuant to rule 23 of the Federal Rules of Civil Procedure.
+>>
+>> (D)\ The limitations periods on any claims asserted in a mass action that
+>> is removed to Federal court pursuant to this subsection shall be
+>> deemed tolled during the period that the action is pending in
+>> Federal court.
+
+\(e\) The word "States", as used in this section, includes the
+Territories, the District of Columbia, and the Commonwealth of Puerto
+Rico.
+
+### 28 U.S.C. § 1335, Interpleader
+
+\(a\) The district courts shall have original jurisdiction of any civil
+action of interpleader or in the nature of interpleader filed by any
+person, firm, or corporation, association, or society having in his or
+its custody or possession money or property of the value of \$500 or
+more, or having issued a note, bond, certificate, policy of insurance,
+or other instrument of value or amount of \$500 or more, or providing
+for the delivery or payment or the loan of money or property of such
+amount or value, or being under any obligation written or unwritten to
+the amount of \$500 or more, if
+
+> \(1\) Two or more adverse claimants, of diverse citizenship as defined
+> in subsection (a) or (d) of section 1332 of this title, are claiming
+> or may claim to be entitled to such money or property, or to any one
+> or more of the benefits arising by virtue of any note, bond,
+> certificate, policy or other instrument, or arising by virtue of any
+> such obligation; and if 
+> 
+> (2)\ the plaintiff has deposited such money or
+> property or has paid the amount of or the loan or other value of such
+> instrument or the amount due under such obligation into the registry
+> of the court, there to abide the judgment of the court, or has given
+> bond payable to the clerk of the court in such amount and with such
+> surety as the court or judge may deem proper, conditioned upon the
+> compliance by the plaintiff with the future order or judgment of the
+> court with respect to the subject matter of the controversy.
+
+\(b\) Such an action may be entertained although the titles or claims of
+the conflicting claimants do not have a common origin, or are not
+identical, but are adverse to and independent of one another.
+
+### 28 U.S.C. § 1367, Supplemental Jurisdiction
+
+\(a\) Except as provided in subsections (b) and (c) or as expressly
+provided otherwise by Federal statute, in any civil action of which the
+district courts have original jurisdiction, the district courts shall
+have supplemental jurisdiction over all other claims that are so related
+to claims in the action within such original jurisdiction that they form
+part of the same case or controversy under Article III of the
+United States Constitution. Such supplemental jurisdiction shall include
+claims that involve the joinder or intervention of additional parties.
+
+\(b\) In any civil action of which the district courts have original
+jurisdiction founded solely on section 1332 of this title, the district
+courts shall not have supplemental jurisdiction under subsection (a)
+over claims by plaintiffs against persons made parties under Rule 14,
+19, 20, or 24 of the Federal Rules of Civil Procedure, or over claims by
+persons proposed to be joined as plaintiffs under Rule 19 of such rules,
+or seeking to intervene as plaintiffs under Rule 24 of such rules, when
+exercising supplemental jurisdiction over such claims would be
+inconsistent with the jurisdictional requirements of section 1332.
+
+\(c\) The district courts may decline to exercise supplemental
+jurisdiction over a claim under subsection (a) if---
+
+> \(1\) The claim raises a novel or complex issue of State law,
+> 
+> \(2\) The claim substantially predominates over the claim or claims
+> over which the district court has original jurisdiction,
+>
+> \(3\) The district court has dismissed all claims over which it has
+> original jurisdiction, or
+>
+> \(4\) In exceptional circumstances, there are other compelling reasons
+> for declining jurisdiction.
+
+### 28 U.S.C. § 1391, Venue Generally
+
+\(a\) Applicability of Section.---Except as otherwise provided by law---
+
+> (1)\ This section shall govern the venue of all civil actions brought in
+> district courts of the United States; and
+> 
+> (2)\  The proper venue for a civil action shall be determined without
+> regard to whether the action is local or transitory in nature.
+
+\(b\) Venue in general.---A civil action may be brought in---
+
+> (1)\ A judicial district in which any defendant resides, if all
+> defendants are residents of the State in which the district is
+> located; 
+> 
+> (2)\ A judicial district in which a substantial part of the events or
+> omissions giving rise to the claim occurred, or a substantial part
+> of property that is the subject of the action is situated; or 
+>
+> (3)\ If there is no district in which an action may otherwise be brought
+> as provided in this section, any judicial district in which any
+> defendant is subject to the court's personal jurisdiction with
+> respect to such action. 
+
+\(c\) Residency---For All Venue Purposes---
+
+> (1)\ A natural person, including an alien lawfully admitted for permanent
+> residence in the United States, shall be deemed to reside in the
+> judicial district in which that person is domiciled;
+> 
+> (2)\ An entity with the capacity to sue and be sued in its common name
+> under applicable law, whether or not incorporated, shall be deemed
+> to reside, if a defendant, in any judicial district in which such
+> defendant is subject to the court's personal jurisdiction with
+> respect to the civil action in question and, if a plaintiff, only in
+> the judicial district in which it maintains its principal place of
+> business; and 
+>
+> (3)\ A defendant not resident in the United States may be sued in any
+> judicial district, and the joinder of such a defendant shall be
+> disregarded in determining where the action may be brought with
+> respect to other defendants. 
+
+\(d\) Residency of corporations in States with multiple districts.---
+
+For purposes of venue under this chapter, in a State which has more than
+one judicial district and in which a defendant that is a corporation is
+subject to personal jurisdiction at the time an action is commenced,
+such corporation shall be deemed to reside in any district in that State
+within which its contacts would be sufficient to subject it to personal
+jurisdiction if that district were a separate State, and, if there is no
+such district, the corporations hall be deemed to reside in the district
+within which it has the most significant contacts. 
+
+\(e\) Actions Where Defendant Is Officer or Employee of the United
+States.---
+
+> \(1\) In general.---
+> 
+> A civil action in which a defendant is an officer or employee of the
+> United States or any agency thereof acting in his official capacity or
+> under color of legal authority, or an agency of the United States, or
+> the United States, may, except as otherwise provided by law, be
+> brought in any judicial district in which (A) a defendant in the
+> action resides, (B) a substantial part of the events or omissions
+> giving rise to the claim occurred, or a substantial part of property
+> that is the subject of the action is situated, or (C) the plaintiff
+> resides if no real property is involved in the action. Additional
+> persons may be joined as parties to any such action in accordance with
+> the Federal Rules of Civil Procedure and with such other venue
+> requirements as would be applicable if the United States or one of its
+> officers, employees, or agencies were not a party.
+>
+> \(2\) Service.---
+>
+> The summons and complaint in such an action shall be served as
+> provided by the Federal Rules of Civil Procedure except that the
+> delivery of the summons and complaint to the officer or agency as
+> required by the rules may be made by certified mail beyond the
+> territorial limits of the district in which the action is brought.
+
+\(f\) Civil Actions Against a Foreign State.---A civil action against a
+foreign state as defined in section 1603(a) of this title may be
+brought---
+
+> \(1\) In any judicial district in which a substantial part of the
+> events or omissions giving rise to the claim occurred, or a
+> substantial part of property that is the subject of the action is
+> situated;
+>
+> \(2\) In any judicial district in which the vessel or cargo of a
+> foreign state is situated, if the claim is asserted under section
+> 1605(b) of this title;
+>
+> \(3\) In any judicial district in which the agency or instrumentality
+> is licensed to do business or is doing business, if the action is
+> brought against an agency or instrumentality of a foreign state as
+> defined in section 1603(b) of this title; or
+>
+> \(4\) In the United States District Court for the District of Columbia
+> if the action is brought against a foreign state or political
+> subdivision thereof.
+
+\(g\) Multiparty, Multiforum Litigation.---
+
+A civil action in which jurisdiction of the district court is based upon
+section 1369 of this title may be brought in any district in which any
+defendant resides or in which a substantial part of the accident giving
+rise to the action took place.
+
+### 28 U.S.C. § 1404, Change of Venue
+
+\(a\) For the convenience of parties and witnesses, in the interest of
+justice, a district court may transfer any civil action to any other
+district or division where it might have been brought or to any district
+or division to which all parties have consented. 
+
+\(b\) Upon motion, consent or stipulation of all parties, any action,
+suit or proceeding of a civil nature or any motion or hearing thereof,
+may be transferred, in the discretion of the court, from the division in
+which pending to any other division in the same district. Transfer of
+proceedings in rem brought by or on behalf of the United States may be
+transferred under this section without the consent of the United States
+where all other parties request transfer.
+
+\(c\) A district court may order any civil action to be tried at any
+place within the division in which it is pending.
+
+\(d\) Transfers from a district court of the United States to the
+District Court of Guam, the District Court for the Northern Mariana
+Islands, or the District Court of the Virgin Islands shall not be
+permitted under this section. As otherwise used in this section, the
+term "district court" includes the District Court of Guam, the District
+Court for the Northern Mariana Islands, and the District Court of the
+Virgin Islands, and the term "district" includes the territorial
+jurisdiction of each such court.
+
+### 28 U.S.C. § 1406, Cure or Waiver of Defects
+
+\(a\) The district court of a district in which is filed a case
+laying venue in the wrong division or district shall dismiss, or if it
+be in the interest of justice, transfer such case to any district or
+division in which it could have been brought.
+
+\(b\) Nothing in this chapter shall impair the jurisdiction of
+a district court of any matter involving a party who does not interpose
+timely and sufficient objection to the venue.
+
+\(c\) As used in this section, the term "district court" includes
+the District Court of Guam, the District Court for the Northern Mariana
+Islands, and the District Court of the Virgin Islands, and the
+term "district" includes the territorial jurisdiction of each such
+court.
+
+### 28 U.S.C. § 1407, Multidistrict Litigation
+
+\(a\) When civil actions involving one or more common questions of fact
+are pending in different districts, such actions may be transferred to
+any district for coordinated or consolidated pretrial proceedings. Such
+transfers shall be made by the Judicial Panel on Multidistrict
+Litigation authorized by this section upon its determination that
+transfers for such proceedings will be for the convenience of parties
+and witnesses and will promote the just and efficient conduct of such
+actions. Each action so transferred shall be remanded by the panel at or
+before the conclusion of such pretrial proceedings to the district from
+which it was transferred unless it shall have been previously
+terminated; Provided, however, That the panel may separate any claim,
+cross-claim, counter-claim, or third-party claim and remand any of such
+claims before the remainder of the action is remanded. 
+
+\(b\) Such coordinated or consolidated pretrial proceedings shall be
+conducted by a judge or judges to whom such actions are assigned by the
+judicial panel on multidistrict litigation. For this purpose, upon
+request of the panel, a circuit judge or a district judge may be
+designated and assigned temporarily for service in the transferee
+district by the Chief Justice of the United States or the chief judge of
+the circuit, as may be required, in accordance with the provisions of
+chapter 13 of this title. With the consent of the transferee district
+court, such actions may be assigned by the panel to a judge or judges of
+such district. The judge or judges to whom such actions are assigned,
+the members of the judicial panel on multidistrict litigation, and other
+circuit and district judges designated when needed by the panel may
+exercise the powers of a district judge in any district for the purpose
+of conducting pretrial depositions in such coordinated or consolidated
+pretrial proceedings.
+
+\(c\) Proceedings for the transfer of an action under this section may
+be initiated by---
+
+> \(i\) The judicial panel on multidistrict litigation upon its own
+> initiative, or
+> 
+> \(ii\) Motion filed with the panel by a party in any action in which
+> transfer for coordinated or consolidated pretrial proceedings under
+> this section may be appropriate. A copy of such motion shall be filed
+> in the district court in which the moving party's action is pending.
+
+The panel shall give notice to the parties in all actions in which
+transfers for coordinated or consolidated pretrial proceedings are
+contemplated, and such notice shall specify the time and place of any
+hearing to determine whether such transfer shall be made. Orders of
+the panel to set a hearing and other orders of the panel issued prior
+to the order either directing or denying transfer shall be filed in
+the office of the clerk of the district court in which a transfer
+hearing is to be or has been held. The panel's order of transfer shall
+be based upon a record of such hearing at which material evidence may
+be offered by any party to an action pending in any district that
+would be affected by the proceedings under this section, and shall be
+supported by findings of fact and conclusions of law based upon such
+record. Orders of transfer and such other orders as the panel may make
+thereafter shall be filed in the office of the clerk of the district
+court of the transferee district and shall be effective when thus
+filed. The clerk of the transferee district court shall forthwith
+transmit a certified copy of the panel's order to transfer to the
+clerk of the district court from which the action is being
+transferred. An order denying transfer shall be filed in each district
+wherein there is a case pending in which the motion for transfer has
+been made.
+
+\(d\) The judicial panel on multidistrict litigation shall consist of
+seven circuit and district judges designated from time to time by the
+Chief Justice of the United States, no two of whom shall be from the
+same circuit. The concurrence of four members shall be necessary to any
+action by the panel.
+
+\(e\) No proceedings for review of any order of the panel may be
+permitted except by extraordinary writ pursuant to the provisions of
+title 28, section 1651, United States Code. Petitions for an
+extraordinary writ to review an order of the panel to set a transfer
+hearing and other orders of the panel issued prior to the order either
+directing or denying transfer shall be filed only in the court of
+appeals having jurisdiction over the district in which a hearing is to
+be or has been held. Petitions for an extraordinary writ to review an
+order to transfer or orders subsequent to transfer shall be filed only
+in the court of appeals having jurisdiction over the transferee
+district. There shall be no appeal or review of an order of the panel
+denying a motion to transfer for consolidated or coordinated
+proceedings.
+
+\(f\) The panel may prescribe rules for the conduct of its business not
+inconsistent with Acts of Congress and the Federal Rules of Civil
+Procedure.
+
+\(g\) Nothing in this section shall apply to any action in which the
+United States is a complainant arising under the antitrust laws.
+"Antitrust laws" as used herein include those acts referred to in the
+Act of October 15, 1914, as amended (38 Stat. 730; 15 U.S.C. 12), and
+also include the Act of June 19, 1936(49 Stat. 1526; 15 U.S.C. 13, 13a,
+and 13b) and the Act of September 26, 1914, as added March 21, 1938 (52
+Stat. 116, 117; 15 U.S.C. 56); but shall not include section 4A of the
+Act of October 15, 1914, as added July 7, 1955 (69 Stat. 282; 15 U.S.C.
+15a).
+
+\(h\) Notwithstanding the provisions of section 1404 or subsection (f)
+of this section, the judicial panel on multidistrict litigation may
+consolidate and transfer with or without the consent of the parties, for
+both pretrial purposes and for trial, any action brought under section
+4C of the Clayton Act.
+
+### 28 U.S.C. § 1441, Removal of Civil Actions
+
+\(a\) Generally.---
+
+Except as otherwise expressly provided by Act of Congress, any civil
+action brought in a State court of which the district courts of the
+United States have original jurisdiction, may be removed by the
+defendant or the defendants, to the district court of the United States
+for the district and division embracing the place where such action is
+pending.
+
+\(b\) Removal Based on Diversity of Citizenship.---
+
+> \(1\) In determining whether a civil action is removable on the basis
+> of the jurisdiction under section 1332(a) of this title, the
+> citizenship of defendants sued under fictitious names shall be
+> disregarded.
+>
+> \(2\) A civil action otherwise removable solely on the basis of the
+> jurisdiction under section 1332(a) of this title may not be removed if
+> any of the parties in interest properly joined and served as
+> defendants is a citizen of the State in which such action is brought.
+
+\(c\) Joinder of Federal Law Claims and State Law Claims.---
+
+> \(1\) If a civil action includes---
+> 
+>> (A)\ A claim arising under the Constitution, laws, or treaties of the
+>> United States (within the meaning of section 1331 of this title), and
+>>
+>> (B)\ A claim not within the original or supplemental jurisdiction of the
+>> district court or a claim that has been made nonremovable by
+>> statute, the entire action may be removed if the action would be
+>> removable without the inclusion of the claim described in
+>> subparagraph (B).
+>
+> \(2\) Upon removal of an action described in paragraph (1), the
+> district court shall sever from the action all claims described in
+> paragraph (1)(B) and shall remand the severed claims to the State
+> court from which the action was removed. Only defendants against whom
+> a claim described in paragraph (1)(A) has been asserted are required
+> to join in or consent to the removal under paragraph (1).
+
+\(d\) Actions Against Foreign States.---
+
+Any civil action brought in a State court against a foreign state as
+defined in section 1603(a) of this title may be removed by the foreign
+state to the district court of the United States for the district and
+division embracing the place where such action is pending. Upon removal
+the action shall be tried by the court without jury. Where removal is
+based upon this subsection, the time limitations of section 1446(b) of
+this chapter may be enlarged at any time for cause shown.
+
+\(e\) Multiparty, Multiforum Jurisdiction.---
+
+> \(1\) Notwithstanding the provisions of subsection (b) of this
+> section, a defendant in a civil action in a State court may remove the
+> action to the district court of the United States for the district and
+> division embracing the place where the action is pending if---
+>
+>> \(A\) The action could have been brought in a United States district
+>> court under section 1369 of this title; or
+>>
+>> \(B\) The defendant is a party to an action which is or could have
+>> been brought, in whole or in part, under section 1369 in a United
+>> States district court and arises from the same accident as the action
+>> in State court, even if the action to be removed could not have been
+>> brought in a district court as an original matter.
+>
+> The removal of an action under this subsection shall be made in
+> accordance with section 1446 of this title, except that a notice of
+> removal may also be filed before trial of the action in State court
+> within 30 days after the date on which the defendant first becomes a
+> party to an action under section 1369 in a United States district
+> court that arises from the same accident as the action in State court,
+> or at a later time with leave of the district court.
+>
+> \(2\) Whenever an action is removed under this subsection and the
+> district court to which it is removed or transferred under section
+> 1407(j) \[1\] has made a liability determination requiring further
+> proceedings as to damages, the district court shall remand the action
+> to the State court from which it had been removed for the
+> determination of damages, unless the court finds that, for the
+> convenience of parties and witnesses and in the interest of justice,
+> the action should be retained for the determination of damages.
+>
+> \(3\) Any remand under paragraph (2) shall not be effective until 60
+> days after the district court has issued an order determining
+> liability and has certified its intention to remand the removed action
+> for the determination of damages. An appeal with respect to the
+> liability determination of the district court may be taken during that
+> 60-day period to the court of appeals with appellate jurisdiction over
+> the district court. In the event a party files such an appeal, the
+> remand shall not be effective until the appeal has been finally
+> disposed of. Once the remand has become effective, the liability
+> determination shall not be subject to further review by appeal or
+> otherwise.
+>
+> \(4\) Any decision under this subsection concerning remand for the
+> determination of damages shall not be reviewable by appeal or
+> otherwise.
+>
+> \(5\) An action removed under this subsection shall be deemed to be an
+> action under section 1369 and an action in which jurisdiction is based
+> on section 1369 of this title for purposes of this section and
+> sections 1407, 1697, and 1785 of this title.
+>
+> \(6\) Nothing in this subsection shall restrict the authority of the
+> district court to transfer or dismiss an action on the ground of
+> inconvenient forum.
+
+\(f\) Derivative Removal Jurisdiction.---
+
+The court to which a civil action is removed under this section is not
+precluded from hearing and determining any claim in such civil action
+because the State court from which such civil action is removed did not
+have jurisdiction over that claim.
+
+### 28 U.S.C. § 1446, Procedure For Removal of Civil Actions
+
+\(a\) Generally.---
+
+A defendant or defendants desiring to remove any civil action from
+a State court shall file in the district court of the United States for
+the district and division within which such action is pending a notice
+of removal signed pursuant to Rule 11 of the Federal Rules of Civil
+Procedure and containing a short and plain statement of the grounds for
+removal, together with a copy of all process, pleadings, and orders
+served upon such defendant or defendants in such action.
+
+\(b\) Requirements; Generally.---
+
+> \(1\) The notice of removal of a civil action or proceeding shall be
+> filed within 30 days after the receipt by the defendant, through
+> service or otherwise, of a copy of the initial pleading setting forth
+> the claim for relief upon which such action or proceeding is based, or
+> within 30 days after the service of summons upon the defendant if such
+> initial pleading has then been filed in court and is not required to
+> be served on the defendant, whichever period is shorter.
+>
+> \(2\)
+>
+>> \(A\) When a civil action is removed solely under section 1441(a), all
+>> defendants who have been properly joined and served must join in or
+>> consent to the removal of the action.
+>>
+>> \(B\) Each defendant shall have 30 days after receipt by or service on
+>> that defendant of the initial pleading or summons described in
+>> paragraph (1) to file the notice of removal.
+>>
+>> \(C\) If defendants are served at different times, and a later-served
+>> defendant files a notice of removal, any earlier-served defendant may
+>> consent to the removal even though that earlier-served defendant did
+>> not previously initiate or consent to removal.
+>
+> \(3\) Except as provided in subsection (c), if the case stated by the
+> initial pleading is not removable, a notice of removal may be filed
+> within thirty days after receipt by the defendant, through service or
+> otherwise, of a copy of an amended pleading, motion, order or other
+> paper from which it may first be ascertained that the case is one
+> which is or has become removable.
+
+\(c\) Requirements; Removal Based on Diversity of Citizenship.---
+
+> \(1\) A case may not be removed under subsection (b)(3) on the basis
+> of jurisdiction conferred by section 1332 more than 1 year after
+> commencement of the action, unless the district court finds that the
+> plaintiff has acted in bad faith in order to prevent a defendant from
+> removing the action.
+>
+> \(2\) If removal of a civil action is sought on the basis of the
+> jurisdiction conferred by section 1332(a), the sum demanded in good
+> faith in the initial pleading shall be deemed to be the amount in
+> controversy, except that---
+>
+>> \(A\) the notice of removal may assert the amount in controversy if
+>> the initial pleading seeks---
+>>
+>>> \(i\) nonmonetary relief; or
+>>>
+>>> \(ii\) a money judgment, but the State practice either does not permit
+>>> demand for a specific sum or permits recovery of damages in excess of
+>>> the amount demanded; and
+>>
+>> \(B\) removal of the action is proper on the basis of an amount in
+>> controversy asserted under subparagraph (A) if the district court
+>> finds, by the preponderance of the evidence, that the amount in
+>> controversy exceeds the amount specified in section 1332(a).
+>
+> \(3\)
+>
+>> \(A\) If the case stated by the initial pleading is not removable
+>> solely because the amount in controversy does not exceed the amount
+>> specified in section 1332(a), information relating to the amount in
+>> controversy in the record of the State proceeding, or in responses to
+>> discovery, shall be treated as an "other paper" under subsection
+>> (b)(3).
+>>
+>> \(B\) If the notice of removal is filed more than 1 year after
+>> commencement of the action and the district court finds that the
+>> plaintiff deliberately failed to disclose the actual amount in
+>> controversy to prevent removal, that finding shall be deemed bad faith
+>> under paragraph (1).
+
+\(d\) Notice to Adverse Parties and State Court.---
+
+Promptly after the filing of such notice of removal of a civil action
+the defendant or defendants shall give written notice thereof to all
+adverse parties and shall file a copy of the notice with the clerk of
+such State court, which shall effect the removal and the State
+court shall proceed no further unless and until the case is remanded.
+
+\(e\) Counterclaim in 337 Proceeding.---
+
+With respect to any counterclaim removed to a district court pursuant to
+section 337(c) of the Tariff Act of 1930, the district court shall
+resolve such counterclaim in the same manner as an original complaint
+under the Federal Rules of Civil Procedure, except that the payment of a
+filing fee shall not be required in such cases and the counterclaim
+shall relate back to the date of the original complaint in the
+proceeding before the International Trade Commission under section 337
+of that Act.
+
+\(g\) Where the civil action or criminal prosecution that is removable
+under section 1442(a) is a proceeding in which a judicial order for
+testimony or documents is sought or issued or sought to be enforced, the
+30-day requirement of subsection (b) of this section and paragraph (1)
+of section 1455(b) is satisfied if the person or entity desiring to
+remove the proceeding files the notice of removal not later than 30 days
+after receiving, through service, notice of any such proceeding.
+
+### 28 U.S.C. § 1447, Procedure After Removal Generally
+
+\(a\) In any case removed from a State court, the district court may
+issue all necessary orders and process to bring before it all proper
+parties whether served by process issued by the State court or
+otherwise.
+
+\(b\) It may require the removing party to file with its clerk copies of
+all records and proceedings in such State court or may cause the same to
+be brought before it by writ of certiorari issued to such State court.
+
+\(c\) A motion to remand the case on the basis of any defect other than
+lack of subject matter jurisdiction must be made within 30 days after
+the filing of the notice of removal under section 1446(a). If at any
+time before final judgment it appears that the district court lacks
+subject matter jurisdiction, the case shall be remanded. An order
+remanding the case may require payment of just costs and any actual
+expenses, including attorney fees, incurred as a result of the removal.
+A certified copy of the order of remand shall be mailed by the clerk to
+the clerk of the State court. The State court may thereupon proceed with
+such case.
+
+\(d\) An order remanding a case to the State court from which it was
+removed is not reviewable on appeal or otherwise, except that an order
+remanding a case to the State court from which it was removed pursuant
+to section 1442 or 1443 of this title shall be reviewable by appeal or
+otherwise.
+
+\(e\) If after removal the plaintiff seeks to join additional defendants
+whose joinder would destroy subject matter jurisdiction, the court may
+deny joinder, or permit joinder and remand the action to the State
+court.
+
+### 28 U.S.C. § 1453, Removal of Class Actions
+
+\(a\) Definitions.---
+
+In this section, the terms "class", "class action", "class certification
+order", and "class member" shall have the meanings given such terms
+under section 1332(d)(1).
+
+\(b\) In General.---
+
+A class action may be removed to a district court of the
+United States in accordance with section 1446 (except that the 1-year
+limitation under section 1446(c)(1) shall not apply), without regard to
+whether any defendant is a citizen of the State in which the action is
+brought, except that such action may be removed by any defendant without
+the consent of all defendants.
+
+\(c\) Review of Remand Orders.---
+
+> \(1\) In general.---
+>
+> Section 1447 shall apply to any removal of a case under this section,
+> except that notwithstanding section 1447(d), a court of appeals may
+> accept an appeal from an order of a district court granting or denying
+> a motion to remand a class action to the State court from which it was
+> removed if application is made to the court of appeals not more than
+> 10 days after entry of the order.
+>
+> \(2\) Time period for judgment.---
+>
+> If the court of appeals accepts an appeal under paragraph (1), the
+> court shall complete all action on such appeal, including rendering
+> judgment, not later than 60 days after the date on which such appeal
+> was filed, unless an extension is granted under paragraph (3).
+>
+> \(3\) Extension of time period.---The court of appeals may grant an
+> extension of the 60-day period described in paragraph (2) if---
+>
+>> \(A\) all parties to the proceeding agree to such extension, for any
+>> period of time; or
+>>
+>> \(B\) such extension is for good cause shown and in the interests of
+>> justice, for a period not to exceed 10 days.
+>
+> \(4\) Denial of appeal.---
+>
+> If a final judgment on the appeal under paragraph (1) is not issued
+> before the end of the period described in paragraph (2), including any
+> extension under paragraph (3), the appeal shall be denied.
+
+\(d\) Exception.---This section shall not apply to any class action that
+solely involves---
+
+> \(1\) a claim concerning a covered security as defined under section
+> 16(f)(3) of the Securities Act of 1933 (15 U.S.C. 78p(f)(3) \[1\]) and
+> section 28(f)(5)(E) of the Securities Exchange Act of 1934 (15 U.S.C.
+> 78bb(f)(5)(E));
+>
+> \(2\) a claim that relates to the internal affairs or governance of a
+> corporation or other form of business enterprise and arises under or
+> by virtue of the laws of the State in which such corporation or
+> business enterprise is incorporated or organized; or
+>
+> \(3\) a claim that relates to the rights, duties (including fiduciary
+> duties), and obligations relating to or created by or pursuant to any
+> security (as defined under section 2(a)(1) of the Securities Act of
+> 1933 (15 U.S.C. 77b(a)(1)) and the regulations issued thereunder).
+
+### 28 U.S.C. § 1652, State Laws as Rules of Decision (*The Rules of Decision Act)*
+
+The laws of the several states, except where the Constitution or
+treaties of the United States or Acts of Congress otherwise require or
+provide, shall be regarded as rules of decision in civil actions in the
+courts of the United States, in cases where they apply. 
+
+### 28 U.S.C. § 1927, Counsel's Liability for Excessive Costs
+
+Any attorney or other person admitted to conduct cases in any court of
+the United States or any Territory thereof who so multiplies the
+proceedings in any case unreasonably and vexatiously may be required by
+the court to satisfy personally the excess costs, expenses, and
+attorneys' fees reasonably incurred because of such conduct.
+
+### 28 U.S.C. § 2072, Rules of Procedure and Evidence; Power to Prescribe 
+
+\(a\) The Supreme Court shall have the power to prescribe general rules
+of practice and procedure and rules of evidence for cases in the United
+States district courts (including proceedings before magistrate judges
+thereof) and courts of appeals.
+
+\(b\) Such rules shall not abridge, enlarge or modify any substantive
+right. All laws in conflict with such rules shall be of no further force
+or effect after such rules have taken effect.
+
+\(c\) Such rules may define when a ruling of a district court is final
+for the purposes of appeal under section 1291 of this title.

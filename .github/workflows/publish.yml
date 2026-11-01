@@ -1,0 +1,47 @@
+name: Build and publish
+
+# Every push to main rebuilds the HTML site and the PDF and deploys them to
+# GitHub Pages. Pull requests are built (to catch errors) but not deployed.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: 1.7.31
+          tinytex: true
+
+      - name: Render book (HTML + PDF)
+        run: quarto render
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _book
+
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
