@@ -298,7 +298,7 @@ or Employees.]{.smallcaps}
 >> \(B\) exercising jurisdiction is consistent with the United States
 >> Constitution and laws.
 
-(l)\ Proving Service.
+(l) [Proving Service.]{.smallcaps}
 
 > (1) Affidavit Required. Unless service is waived, proof of service
 > must be made to the court. Except for service by a United States
@@ -345,7 +345,7 @@ under Rule 71.1(d)(3)(A).
 
 ### Rule 4.1 -- Serving Other Process
 
-a) [In General.]{.smallcaps} Process---other than a summons under Rule
+(a) [In General.]{.smallcaps} Process---other than a summons under Rule
 4 or a subpoena under Rule 45---must be served by a United States
 marshal or deputy marshal or by a person specially appointed for that
 purpose. It may be served anywhere within the territorial limits of the
@@ -427,7 +427,7 @@ United States within 100 miles from where the order was issued.
 >> writing---in which event service is complete when the person making
 >> service delivers it to the agency designated to make delivery.
 >
-> (3) Using Court Facilities. \[Abrogated (Apr.\_, 2018, eff. Dec. 1,
+> (3) Using Court Facilities. \[Abrogated (Apr. 26, 2018, eff. Dec. 1,
 > 2018)\]
 
 (c) [Serving Numerous Defendants.]{.smallcaps}
@@ -507,7 +507,7 @@ United States within 100 miles from where the order was issued.
 > solely because it is not in the form prescribed by these rules or by a
 > local rule or practice.
 
-### Rule 5.1 -- Constitutional Challenge to a Statute-Notice, Certification, and Intervention  {#sec-frcp5-1}
+### Rule 5.1 -- Constitutional Challenge to a Statute---Notice, Certification, and Intervention  {#sec-frcp5-1}
 
 (a) [Notice by a Party.]{.smallcaps} A party that files a pleading,
 written motion, or other paper drawing into question the
@@ -579,7 +579,7 @@ redaction requirement does not apply to the following:
 > \(5\) a filing covered by Rule 5.2(c) or (d); and
 >
 > \(6\) a pro se filing in an action brought under 28 U.S.C.
-> § §2241, 2254, or 2255.
+> §§ 2241, 2254, or 2255.
 
 (c) [Limitations on Remote Access to Electronic Files; Social-Security
 Appeals and Immigration Cases.]{.smallcaps} Unless the court orders
@@ -737,7 +737,7 @@ period would otherwise expire under Rule 6(a).
 
 ## Pleadings and Motions
 
-### Rule 7 - Pleadings Allowed; Form of Motions and Other Papers  {#sec-frcp7}
+### Rule 7 -- Pleadings Allowed; Form of Motions and Other Papers  {#sec-frcp7}
 
 (a) [Pleadings.]{.smallcaps} Only these pleadings are allowed:
 
@@ -794,7 +794,7 @@ period would otherwise expire under Rule 6(a).
 >> \(B\) when any later event occurs that could affect the court's
 >> jurisdiction under § 1332(a).
 
-\(b\) [Time to File; Supplemental Filing]{.smallcaps}. A party,
+\(b\) [Time to File; Supplemental Filing.]{.smallcaps} A party,
 intervenor, or proposed intervenor must:
 
 > \(1\) file the disclosure statement with its first appearance,
@@ -859,7 +859,7 @@ relief must contain:
 > affirmatively state any avoidance or affirmative defense, including:
 >
 > * accord and satisfaction;  
-> * arbitration and award  
+> * arbitration and award;  
 > * assumption of risk;  
 > * contributory negligence;  
 > * duress;  
@@ -1067,7 +1067,7 @@ under the circumstances:
 to disclosures and discovery requests, responses, objections, and
 motions under Rules 26 through 37.
 
-### Rule 12 -- Defenses and Objections: When and How Presented; Notion for Judgement on the Pleadings; Consolidating Motions; Waiving Defenses; Pretrial Hearing {#sec-frcp12}
+### Rule 12 -- Defenses and Objections: When and How Presented; Motion for Judgment on the Pleadings; Consolidating Motions; Waiving Defenses; Pretrial Hearing {#sec-frcp12}
 
 (a) [Time to Serve a Responsive Pleading.]{.smallcaps} Unless another
 time is specified by a federal statute, the time for serving a
@@ -1260,7 +1260,7 @@ court may permit a party to file a supplemental pleading asserting a
 counterclaim that matured or was acquired by the party after serving an
 earlier pleading.
 
-(f) [\[Abrogated.]{.smallcaps} \]
+(f) [\[Abrogated.\]]{.smallcaps}
 
 (g) [Crossclaim Against a Coparty.]{.smallcaps} A pleading may state as
 a crossclaim any claim by one party against a coparty if the claim
@@ -1299,7 +1299,7 @@ otherwise resolved.
 >> claim under Rule 12;
 >>
 >> \(B\) must assert any counterclaim against the third-party plaintiff
->> under Rule 13a, and may assert any counterclaim against the
+>> under Rule 13(a), and may assert any counterclaim against the
 >> third-party plaintiff under Rule 13(b) or any crossclaim against
 >> another third-party defendant under Rule 13(g);
 >>
@@ -1344,7 +1344,7 @@ third party if this rule would allow a defendant to do so.
 > a right under Supplemental Rule C(6)(a)(i) may, as a third-party
 > plaintiff, bring in a third-party defendant who may be wholly or
 > partly liable---either to the plaintiff or to the third-party
-> plaintiff--- for remedy over, contribution, or otherwise on account of
+> plaintiff---for remedy over, contribution, or otherwise on account of
 > the same transaction, occurrence, or series of transactions or
 > occurrences.
 >
@@ -1736,7 +1736,7 @@ is determined as follows:
 >> to enforce a substantive right existing under the United States
 >> Constitution or laws; and
 >>
->> \(B\) 28 U.S.C. § §754 and 959(a) govern the capacity of a receiver
+>> \(B\) 28 U.S.C. §§ 754 and 959(a) govern the capacity of a receiver
 >> appointed by a United States court to sue or be sued in a United
 >> States court.
 
@@ -1906,7 +1906,7 @@ drop a party. The court may also sever any claim against a party.
 (b) [Relation to Other Rules and Statutes.]{.smallcaps} This rule
 supplements---and does not limit---the joinder of parties allowed
 by Rule 20. The remedy this rule provides is in addition to---and does
-not supersede or limit---the remedy provided by 28 U.S.C. § §1335, 1397,
+not supersede or limit---the remedy provided by 28 U.S.C. §§ 1335, 1397,
 and 2361. An action under those statutes must be conducted under these
 rules.
 
@@ -1993,7 +1993,7 @@ Classes; Subclasses.]{.smallcaps}
 >> is practicable under the circumstances, including individual notice to
 >> all members who can be identified through reasonable effort. The
 >> notice may be by one or more of the following: United States mail,
->> electronic means, or other appropriate means.The notice must clearly
+>> electronic means, or other appropriate means. The notice must clearly
 >> and concisely state in plain, easily understood language:
 >>
 >>> \(i\) the nature of the action;
@@ -2539,7 +2539,7 @@ time, but the absence of such an order does not affect the substitution.
 > in resolving the issues, and whether the burden or expense of the
 > proposed discovery outweighs its likely benefit. Information within
 > this scope of discovery need not be admissible in evidence to be
-> discoverable..
+> discoverable.
 >
 > (2) Limitations on Frequency and Extent.
 >
@@ -2734,8 +2734,8 @@ time, but the absence of such an order does not affect the substitution.
 >
 > \(2\) Early Rule 34 Requests.
 >
->> (A)\ Time to Deliver. More than 21 days after the summons and complaint are
-> served on a party, a request under Rule 34 may be delivered:
+>> (A) Time to Deliver. More than 21 days after the summons and complaint are
+>> served on a party, a request under Rule 34 may be delivered:
 >>
 >>> \(i\) to that party by any other party, and
 >>>
@@ -2745,7 +2745,7 @@ time, but the absence of such an order does not affect the substitution.
 >> \(B\) When Considered Served. The request is considered to have been
 >> served at the first Rule 26(f) conference.
 >
-> (3) Sequence. Unlessthe parties stipulate or the court orders
+> (3) Sequence. Unless the parties stipulate or the court orders
 > otherwise for the parties' and witnesses' convenience and in the
 > interests of justice:
 >
@@ -3309,7 +3309,7 @@ the manner provided in Rule 30(c), (e), and (f) to:
 >> \(A\) the party was present or represented at the taking of the deposition or had reasonable notice of it;
 >>
 >> \(B\) it is used to the extent it would be admissible under the Federal Rules of Evidence if the deponent were present and
-> testifying; and
+>> testifying; and
 >>
 >> \(C\) the use is allowed by Rule 32(a)(2) through (8).
 >
@@ -3387,7 +3387,7 @@ cause orders otherwise.
 >
 > (3) To the Taking of the Deposition.
 >
->> (A) Objection to Competence, Relevance, or Materiality. An objection to a deponent's competence---or to the competence, relevance, or> materiality of testimony---is not waived by a failure to make the objection before or during the deposition, unless the ground for it might have been corrected at that time.
+>> (A) Objection to Competence, Relevance, or Materiality. An objection to a deponent's competence---or to the competence, relevance, or materiality of testimony---is not waived by a failure to make the objection before or during the deposition, unless the ground for it might have been corrected at that time.
 >>
 >> (B) Objection to an Error or Irregularity. An objection to an error or irregularity at an oral examination is waived if:
 >>
@@ -3473,7 +3473,7 @@ request within the scope of Rule 26(b):
 > responding party's possession, custody, or control:
 >
 >> \(A\) any designated documents or electronically stored information---including writings, drawings, graphs, charts,
-> photographs, sound recordings, images, and other data or data compilations---stored in any medium from which information can be obtained either directly or, if necessary, after translation by the responding party into a reasonably usable form; or
+>> photographs, sound recordings, images, and other data or data compilations---stored in any medium from which information can be obtained either directly or, if necessary, after translation by the responding party into a reasonably usable form; or
 >>
 >> \(B\) any designated tangible things; or
 >
@@ -3708,7 +3708,7 @@ Discovery.]{.smallcaps}
 >>>
 >>> \(vii\) treating as contempt of court the failure to obey any order except an order to submit to a physical or mental examination.
 >>
->> (B) For Not Producing a Person for Examination. If a party fails to comply with an order under Rule 35(a) requiring it to produce another person for examination, the court may issue any of the orders listed in Rule 37(b)(2)(A)(i)---(vi), unless the disobedient party shows that it cannot produce the other person.
+>> (B) For Not Producing a Person for Examination. If a party fails to comply with an order under Rule 35(a) requiring it to produce another person for examination, the court may issue any of the orders listed in Rule 37(b)(2)(A)(i)--(vi), unless the disobedient party shows that it cannot produce the other person.
 >>
 >> (C) Payment of Expenses. Instead of or in addition to the orders above, the court must order the disobedient party, the attorney advising that party, or both to pay the reasonable expenses, including attorney's fees, caused by the failure, unless the failure was substantially justified or other circumstances make an award of expenses unjust.
 
@@ -3727,7 +3727,7 @@ Admit.]{.smallcaps}
 >>
 >> \(B\) may inform the jury of the party's failure; and
 >>
->> \(C\) may impose other appropriate sanctions, including any of the orders listed in Rule 37(b)(2)(A)(i)---(vi).
+>> \(C\) may impose other appropriate sanctions, including any of the orders listed in Rule 37(b)(2)(A)(i)--(vi).
 >
 > (2) Failure to Admit. If a party fails to admit what is requested
 > under Rule 36 and if the requesting party later proves a document to
@@ -3763,7 +3763,7 @@ Interrogatories, or Respond to a Request for Inspection.]{.smallcaps}
 > pending motion for a protective order under Rule 26(c).
 >
 > (3) Types of Sanctions. Sanctions may include any of the orders listed
-> in Rule 37(b)(2)(A)(i)---(vi). Instead of or in addition to these
+> in Rule 37(b)(2)(A)(i)--(vi). Instead of or in addition to these
 > sanctions, the court must require the party failing to act, the
 > attorney advising that party, or both to pay the reasonable expenses,
 > including attorney's fees, caused by the failure, unless the failure
@@ -4136,7 +4136,7 @@ Enforcement.]{.smallcaps}
 >> (A) Documents. A person responding to a subpoena to produce documents must produce them as they are kept in the ordinary course of business or must organize and label them to correspond to the categories in the demand.
 >>
 >> (B) Form for Producing Electronically Stored Information Not Specified. If a subpoena does not specify a form for producing
-> electronically stored information, the person responding must produce it in a form or forms in which it is ordinarily maintained or in a reasonably usable form or forms.
+>> electronically stored information, the person responding must produce it in a form or forms in which it is ordinarily maintained or in a reasonably usable form or forms.
 >>
 >> (C) Electronically Stored Information Produced in Only One Form. The person responding need not produce the same electronically stored information in more than one form.
 >>
@@ -4388,7 +4388,7 @@ judgment.
 > its conclusions of law separately. The findings and conclusions may be
 > stated on the record after the close of the evidence or may appear in
 > an opinion or a memorandum of decision filed by the court. Judgment
-> must be entered under Rule 58
+> must be entered under Rule 58.
 >
 > (2) For an Interlocutory Injunction. In granting or refusing an
 > interlocutory injunction, the court must similarly state the findings
@@ -4728,7 +4728,7 @@ notice and a reasonable time to respond, the court may:
 
 > \(1\) grant summary judgment for a nonmovant;
 >
-> \(2\) grant the motion on grounds not raised by a party;or
+> \(2\) grant the motion on grounds not raised by a party; or
 >
 > \(3\) consider summary judgment on its own after identifying for the
 > parties material facts that may not be genuinely in dispute.
@@ -4815,7 +4815,7 @@ may not be delayed, nor the time for appeal extended, in order to tax
 costs or award fees. But if a timely motion for attorney's fees is made
 under Rule 54(d)(2), the court may act before a notice of appeal has
 been filed and become effective to order that the motion have the same
-effect under Federal Rule of Appellate Procedure 4 (a)(4) as a timely
+effect under Federal Rule of Appellate Procedure 4(a)(4) as a timely
 motion under Rule 59.
 
 ### Rule 59 -- New Trial; Altering or Amending a Judgment {#sec-frcp59}
@@ -4927,13 +4927,13 @@ do not affect any party's substantial rights.
 (d), execution on a judgment and proceedings to enforce it are stayed
 for 30 days after its entry, unless the court orders otherwise.
 
-\(b\) Stay by Bond or Other Security. At any time after judgment is
+\(b\) [Stay by Bond or Other Security.]{.smallcaps} At any time after judgment is
 entered, a party may obtain a stay by providing a bond or other
 security. The stay takes effect when the court approves the bond or
 other security and remains in effect for the time specified in the
 bond or other security.
 
-\(c\) Stay of an Injunction, Receivership, or Patent Accounting Order.
+\(c\) [Stay of an Injunction, Receivership, or Patent Accounting Order.]{.smallcaps}
 Unless the court orders otherwise, the following are not stayed after
 being entered, even if an appeal is taken:
 
@@ -5166,7 +5166,7 @@ deliver to the clerk a copy of the order permitting deposit.
 
 (b) [Investing and Withdrawing Funds.]{.smallcaps} Money paid into court
 under this rule must be deposited and withdrawn in accordance with 28
-U.S.C. § §2041 and 2042 and any like statute. The money must be
+U.S.C. §§ 2041 and 2042 and any like statute. The money must be
 deposited in an interest-bearing account or invested in a
 court-approved, interest-bearing instrument.
 
@@ -5220,7 +5220,7 @@ U.S.C. § 2006, or against an officer of Congress in the circumstances
 stated in 2 U.S.C. § 118, the judgment must be satisfied as those
 statutes provide.
 
-### Rule 70 -- Enforcing a Judgement for a Specific Act {#sec-frcp70}
+### Rule 70 -- Enforcing a Judgment for a Specific Act {#sec-frcp70}
 
 (a) [Party's Failure to Act; Ordering Another to Act.]{.smallcaps} If a
 judgment requires a party to convey land, to deliver a deed or other
@@ -5454,7 +5454,7 @@ domain under state law. But if state law provides for trying an issue by
 jury---or for trying the issue of compensation by jury or commission or
 both---that law governs.
 
-\(l\) Costs. Costs are not subject to Rule 54(d).
+\(l\) [Costs.]{.smallcaps} Costs are not subject to Rule 54(d).
 
 ### Rule 72 -- Magistrate Judges: Pretrial Order {#sec-frcp72}
 
@@ -5527,17 +5527,17 @@ must be made in accordance with 28 U.S.C. § 636(c)(5).
 direction may be taken to the court of appeals as would any other appeal
 from a district-court judgment.
 
-### Rule 74 -- \[Abrogated (Apr. 11, 1997, eff. Dec. 1, 1997),\]
+### Rule 74 -- \[Abrogated (Apr. 11, 1997, eff. Dec. 1, 1997).\]
 
-### Rule 75 - \[Abrogated (Apr. 11, 1997, eff. Dec. 1, 1997),\]
+### Rule 75 -- \[Abrogated (Apr. 11, 1997, eff. Dec. 1, 1997).\]
 
-### Rule 76 - \[Abrogated (Apr. 11, 1997, eff. Dec. 1, 1997),\]
+### Rule 76 -- \[Abrogated (Apr. 11, 1997, eff. Dec. 1, 1997).\]
 
 ### \[Rule 71A. Renumbered Rule 71.1\]
 
 ## District Courts and Clerks: Conducting Business; Issuing Orders
 
-### Rule 77 -- Conducting Business; Clerk's Authority; Notice of an Order or Judgement {#sec-frcp77}
+### Rule 77 -- Conducting Business; Clerk's Authority; Notice of an Order or Judgment {#sec-frcp77}
 
 (a) [When Court Is Open.]{.smallcaps} Every district court is considered
 always open for filing any paper, issuing and returning process, making
@@ -5615,7 +5615,7 @@ without oral hearings.
 >>
 >> \(C\) appearances, orders, verdicts, and judgments.
 >
-> (3) Contents of Entries; Jury *Trial* Demanded. Each entry must
+> (3) Contents of Entries; Jury Trial Demanded. Each entry must
 > briefly show the nature of the paper filed or writ issued, the
 > substance of each proof of service or other return, and the substance
 > and date of entry of each order and judgment. When a jury trial has
@@ -5656,8 +5656,8 @@ a transcript certified by the person who reported it.
 
 (a) [Applicability to Particular Proceedings.]{.smallcaps}
 
-> (1) *Prize* Proceedings. These rules do not apply to prize proceedings
-> in admiralty governed by 10 U.S.C. § § 7651--7681.
+> (1) Prize Proceedings. These rules do not apply to prize proceedings
+> in admiralty governed by 10 U.S.C. §§ 7651--7681.
 >
 > (2) Bankruptcy. These rules apply to bankruptcy proceedings to the
 > extent provided by the Federal Rules of Bankruptcy Procedure.
@@ -5687,7 +5687,7 @@ a transcript certified by the person who reported it.
 > proceedings under the following laws, except as these laws provide
 > other procedures:
 >
->> \(A\) 7 U.S.C. § § 292, 499g(c), for reviewing an order of the Secretary of Agriculture;
+>> \(A\) 7 U.S.C. §§ 292, 499g(c), for reviewing an order of the Secretary of Agriculture;
 >>
 >> (B) 9 U.S.C., relating to arbitration;
 >>
@@ -5695,9 +5695,9 @@ a transcript certified by the person who reported it.
 >>
 >> (D) 15 U.S.C. § 715d(c), for reviewing an order denying a certificate of clearance;
 >>
->> \(E\) 29 U.S.C. § § 159, 160, for enforcing an order of the National Labor Relations Board;
+>> \(E\) 29 U.S.C. §§ 159, 160, for enforcing an order of the National Labor Relations Board;
 >>
->> \(F\) 33 U.S.C. § § 918, 921, for enforcing or reviewing a compensation order under the Longshore and Harbor Workers' Compensation Act; and
+>> \(F\) 33 U.S.C. §§ 918, 921, for enforcing or reviewing a compensation order under the Longshore and Harbor Workers' Compensation Act; and
 >>
 >> (G) 45 U.S.C. § 159, for reviewing an arbitration award in a railway-labor dispute.
 
@@ -5721,11 +5721,11 @@ be obtained by appropriate action or motion under these rules.
 >>
 >> \(C\) 7 days after the notice of removal is filed.
 >
-> (3) Demand for a Jury *Trial*.
+> (3) Demand for a Jury Trial.
 >
 >> (A) As Affected by State Law. A party who, before removal, expressly demanded a jury trial in accordance with state law need not renew the demand after removal. If the state law did not require an express demand for a jury trial, a party need not make one after removal unless the court orders the parties to do so within a specified time. The court must so order at a party's request and may so order on its own. A party who fails to make a demand when so ordered waives a jury trial.
 >>
->> (B) Under *Rule 38*. If all necessary pleadings have been served at the time of removal, a party entitled to a jury trial under Rule 38 must be given one if the party serves a demand within 14 days after:
+>> (B) Under Rule 38. If all necessary pleadings have been served at the time of removal, a party entitled to a jury trial under Rule 38 must be given one if the party serves a demand within 14 days after:
 >>>
 >>> \(i\) it files a notice of removal; or
 >>>
@@ -5749,7 +5749,7 @@ be obtained by appropriate action or motion under these rules.
 
 These rules do not extend or limit the jurisdiction of the district
 courts or the venue of actions in those courts. An admiralty or maritime
-claim under Rule 9(h) is governed by 28 U.S.C § 1390.
+claim under Rule 9(h) is governed by 28 U.S.C. § 1390.
 
 ### Rule 83 -- Rules by District Courts; Judge's Directives {#sec-frcp83}
 
@@ -5759,7 +5759,7 @@ claim under Rule 9(h) is governed by 28 U.S.C § 1390.
 > comment, a district court, acting by a majority of its district
 > judges, may adopt and amend rules governing its practice. A local rule
 > must be consistent with---but not duplicate---federal statutes and
-> rules adopted under 28 U.S.C. § §2072 and 2075, and must conform to
+> rules adopted under 28 U.S.C. §§ 2072 and 2075, and must conform to
 > any uniform numbering system prescribed by the Judicial Conference of
 > the United States. A local rule takes effect on the date specified by
 > the district court and remains in effect unless amended by the court
@@ -5774,13 +5774,13 @@ claim under Rule 9(h) is governed by 28 U.S.C § 1390.
 
 (b) [Procedure When There Is No Controlling Law.]{.smallcaps} A judge
 may regulate practice in any manner consistent with federal law, rules
-adopted under 28 U.S.C. § §2072 and 2075, and the district's local
+adopted under 28 U.S.C. §§ 2072 and 2075, and the district's local
 rules. No sanction or other disadvantage may be imposed for
 noncompliance with any requirement not in federal law, federal rules, or
 the local rules unless the alleged violator has been furnished in the
 particular case with actual notice of the requirement.
 
-### Rule 84 -- Abrogated, eff. Dec, 2015
+### Rule 84 -- \[Abrogated (Apr. 29, 2015, eff. Dec. 1, 2015).\]
 
 ### Rule 85 -- Title {#sec-frcp85}
 
@@ -5804,7 +5804,7 @@ They govern:
 (b) [December 1, 2007 Amendments.]{.smallcaps} If any provision in Rules
 1--5.1, 6--73, or 77--86 conflicts with another law, priority in time
 for the purpose of 28 U.S.C. § 2072(b) is not affected by the amendments
-taking effect on December 1, 2007
+taking effect on December 1, 2007.
 
 ### Rule 87. Civil Rules Emergency {#sec-frcp87}
 

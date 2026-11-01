@@ -181,11 +181,11 @@ plaintiff.
 >>
 >> (C)\ The term "class certification order" means an order issued by a
 >> court approving the treatment of some or all aspects of a civil
->> action as a class action and
+>> action as a class action; and
 >>
 >> (D)\ The term "class members" means the persons (named or unnamed) who
 >> fall within the definition of the proposed or certified class in a
->> class action
+>> class action.
 >
 > \(2\) The district courts shall have original jurisdiction of any
 > civil action in which the matter in controversy exceeds the sum or
@@ -222,7 +222,7 @@ plaintiff.
 >> avoid Federal jurisdiction;
 >> 
 >> (D)\ Whether the action was brought in a forum with a distinct nexus with
->> the class members the alleged harm, or the defendants;
+>> the class members, the alleged harm, or the defendants;
 >>
 >> (E)\ Whether the number of citizens of the State in which the action was
 >> originally filed in all proposed plaintiff classes in the aggregate
@@ -268,7 +268,7 @@ plaintiff.
 >> (B)\ Two-thirds or more of the members of all proposed plaintiff classes
 >> in the aggregate, and the primary defendants, are citizens of the
 >> State in which the action was originally filed.
-
+>
 > \(5\) Paragraphs (2) through (4) shall not apply to any class action
 > in which---
 >
@@ -299,8 +299,8 @@ plaintiff.
 > \(9\) Paragraph (2) shall not apply to any class action that solely
 > involves a claim---
 >
->> (A)\  Concerning a covered security as defined under 16(f)(3) \[1\] of
->> the Securities Act of 1933 (15 U.S.C. 78p(f)(3) \[2\]) and section
+>> (A)\  Concerning a covered security as defined under 16(f)(3)^1^[ ^1^ \[U.S. Code footnote: So in original. Probably should be preceded by "section".\]]{.aside} of
+>> the Securities Act of 1933 (15 U.S.C. 78p(f)(3)^2^[ ^2^ \[U.S. Code footnote: So in original. Probably should be "77p(f)(3)".\]]{.aside}) and section
 >> 28(f)(5)(E) of the Securities Exchange Act of 1934 (15 U.S.C.
 >> 78bb(f)(5)(E));
 >>
@@ -312,7 +312,7 @@ plaintiff.
 >> (C)\ That relates to the rights, duties (including fiduciary duties), and
 >> obligations relating to or created by or pursuant to any security
 >> (as defined under section 2(a)(1) of the Securities Act of 1933 (15
->> U.S.C. 77b(a)(1)) and the regulations issued thereunder)
+>> U.S.C. 77b(a)(1)) and the regulations issued thereunder).
 >
 > \(10\) For purposes of this subsection and section 1453, an
 > unincorporated association shall be deemed to be a citizen of the
@@ -354,7 +354,7 @@ plaintiff.
 >>>> \(IV\) The claims have been consolidated or coordinated solely for
 >>>> pretrial proceedings.
 >>
->> (C)\
+>> (C)\ 
 >>
 >>> \(i\) Any action(s) removed to Federal court pursuant to this
 >>> subsection shall not thereafter be transferred to any other court
@@ -482,7 +482,7 @@ possession of the United States.
 > defendant is subject to the court's personal jurisdiction with
 > respect to such action. 
 
-\(c\) Residency---For All Venue Purposes---
+\(c\) Residency.---For all venue purposes---
 
 > (1)\ A natural person, including an alien lawfully admitted for permanent
 > residence in the United States, shall be deemed to reside in the
@@ -624,7 +624,7 @@ and witnesses and will promote the just and efficient conduct of such
 actions. Each action so transferred shall be remanded by the panel at or
 before the conclusion of such pretrial proceedings to the district from
 which it was transferred unless it shall have been previously
-terminated; Provided, however, That the panel may separate any claim,
+terminated: Provided, however, That the panel may separate any claim,
 cross-claim, counter-claim, or third-party claim and remand any of such
 claims before the remainder of the action is remanded. 
 
@@ -741,9 +741,11 @@ pending.
 >>
 >> (B)\ A claim not within the original or supplemental jurisdiction of the
 >> district court or a claim that has been made nonremovable by
->> statute, the entire action may be removed if the action would be
->> removable without the inclusion of the claim described in
->> subparagraph (B).
+>> statute,
+>
+> the entire action may be removed if the action would be
+> removable without the inclusion of the claim described in
+> subparagraph (B).
 >
 > \(2\) Upon removal of an action described in paragraph (1), the
 > district court shall sever from the action all claims described in
@@ -788,7 +790,7 @@ this chapter may be enlarged at any time for cause shown.
 >
 > \(2\) Whenever an action is removed under this subsection and the
 > district court to which it is removed or transferred under section
-> 1407(j) \[1\] has made a liability determination requiring further
+> 1407(j)^1^[ ^1^ \[U.S. Code footnote: So in original. Section 1407 of this title does not contain a subsec. (j).\]]{.aside} has made a liability determination requiring further
 > proceedings as to damages, the district court shall remand the action
 > to the State court from which it had been removed for the
 > determination of damages, unless the court finds that, for the
@@ -1027,7 +1029,7 @@ the consent of all defendants.
 solely involves---
 
 > \(1\) a claim concerning a covered security as defined under section
-> 16(f)(3) of the Securities Act of 1933 (15 U.S.C. 78p(f)(3) \[1\]) and
+> 16(f)(3) of the Securities Act of 1933 (15 U.S.C. 78p(f)(3)^1^[ ^1^ \[U.S. Code footnote: So in original. Probably should be "77p(f)(3)".\]]{.aside}) and
 > section 28(f)(5)(E) of the Securities Exchange Act of 1934 (15 U.S.C.
 > 78bb(f)(5)(E));
 >
@@ -1041,7 +1043,7 @@ solely involves---
 > security (as defined under section 2(a)(1) of the Securities Act of
 > 1933 (15 U.S.C. 77b(a)(1)) and the regulations issued thereunder).
 
-### 28 U.S.C. § 1652, State Laws as Rules of Decision (*The Rules of Decision Act)*
+### 28 U.S.C. § 1652, State Laws as Rules of Decision (*The Rules of Decision Act*)
 
 The laws of the several states, except where the Constitution or
 treaties of the United States or Acts of Congress otherwise require or

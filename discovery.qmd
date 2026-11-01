@@ -197,7 +197,7 @@ their claims of negligent hiring and negligent supervision. The elements
 of these claims are discussed above. \[...\] \[E\]ven if the defendant
 possessed documents relating to treatment Sister Stobierski received for
 her alleged anger management or psychological and psychiatric
-482conditions, these records would not establish Sister Stobierski's
+conditions, these records would not establish Sister Stobierski's
 propensity for the type of behavior that caused Maryann Favale harm
 because they would not demonstrate a propensity for sexual harassment.
 Again, it is significant that plaintiffs do not allege that Maryann
@@ -589,7 +589,7 @@ in the United States is GRANTED.
     ultimately allowed?
 
 3.  Why might the defendant try to limit the scope of discovery in a
-    case like this *Cerrato*? What about the plaintiff in *Rengifo*?
+    case like *Cerrato*? What about the plaintiff in *Rengifo*?
 
 4.  Note that *Wagoner* rejects the idea that simply because discovery
     is expensive to produce, it is not proportional to the case. In
@@ -1047,12 +1047,12 @@ interviewed other persons believed to have some information relating to
 the accident and in some cases he made memoranda of what they told him.
 \[...\]
 
-One year later, petitioner\[, who was one of the surivors,\] filed 39
+One year later, petitioner\[, who was one of the survivors,\] filed 39
 interrogatories directed to the tug owners. The 38th interrogatory read:
 "State whether any statements of the members of the crews of the Tugs
 'J.M. Taylor' and 'Philadelphia' or of any other vessel were taken in
 connection with the towing of the car float and the sinking of the Tug
-\`John M. Taylor.' Attach hereto exact copies of all such statements if
+'John M. Taylor.' Attach hereto exact copies of all such statements if
 in writing, and if oral, set forth in detail the exact provisions of any
 such oral statements or reports."
 
@@ -1641,9 +1641,9 @@ notorious for perceived and real abuses. To control the process and
 ensure parties comply with the rules, courts have broad power to punish
 misbehavior during discovery. These next cases explore this power.
 
-### Zubulake v. UBS Warburg LLP
+### Zubulake v. UBS Warburg LLC
 
-**SCHEINDLIN, J.** [229 F.R.D. 422 (S.D.N.Y. 2003)]{.aside}
+**SCHEINDLIN, J.** [229 F.R.D. 422 (S.D.N.Y. 2004)]{.aside}
 
 \[...\] What is true in love is equally true at law: Lawyers and their
 clients need to communicate clearly and effectively with one another to
@@ -1893,7 +1893,7 @@ instruction at trial, to direct the jury "that the entirety of the June
 
 **II. LEGAL STANDARD**
 
-"A spoliation sanction is proper where: \`(1) a party has a duty to
+"A spoliation sanction is proper where: '(1) a party has a duty to
 preserve evidence because it knew, or should have known, that litigation
 was imminent, and (2) the adverse party was prejudiced by the
 destruction of the evidence.'" In deciding whether to sanction a party
@@ -2075,7 +2075,7 @@ as described above.
     focuses on the consequences of spoliation: the punishment for
     misbehavior.
 
-2.  Note that in *Muller*, the court stopped short of imposing an
+2.  Note that in *Mueller*, the court stopped short of imposing an
     adverse inference instruction because there was not clear evidence
     of bad faith behind Mueller's behavior. Instead, the Court allowed
     Swift's lawyer to cross-examine Mueller about the missing recording

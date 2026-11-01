@@ -6,7 +6,7 @@
 
 No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a grand jury, except in cases arising in the land or naval forces, or in the militia, when in actual service in time of war or public danger; nor shall any person be subject for the same offense to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation.
 
-### U.S. Constitution amend XIV
+### U.S. Constitution amend. XIV
 
 **Section 1.**
 
@@ -38,7 +38,7 @@ In the late spring of 1975, after hearing evidence that the petitioner, Abby Gai
 
 Ms. Lassiter was served with the petition and with notice that a hearing on it would be held. Although her mother had retained counsel for her in connection with an effort to invalidate the murder conviction, Ms. Lassiter never mentioned the forthcoming hearing to him (or, for that matter, to any other person except, she said, to “someone” in the prison). At the behest of the Department of Social Services’ attorney, she was brought from prison to the hearing, which was held August 31, 1978. The hearing opened, apparently at the judge’s instance, with a discussion of whether Ms. Lassiter should have more time in which to find legal assistance. Since the court concluded that she “has had ample opportunity to seek and obtain counsel prior to the hearing of this matter, and [that] her failure to do so is without just cause,” the court did not postpone the proceedings. Ms. Lassiter did not aver that she was indigent, and the court did not appoint counsel for her.
 
-A social worker from the respondent Department was the first witness. She testified that in 1975 the Department “received a complaint from Duke Pediatrics that William had not been followed in the pediatric clinic for medical problems and that they were having difficulty in locating Ms. Lassiter … .” She said that in May 1975 a social worker had taken William to the hospital, where doctors asked that he stay “because of breathing difficulties [and] malnutrition and [because] there was a great deal of scarring that indicated that he had a severe infection that had gone untreated.” The witness further testified that, except for one “prearranged” visit and a chance meeting on the street, Ms. Lassiter had not seen William after he had come into the State’s custody, and that neither Ms. Lassiter nor her mother had “made any contact with the Department of Social Services regarding that child.” When asked whether William should be placed in his grandmother’s custody, the social worker said he should not, since the grandmother “has indicated to me on a number of occasions that she was not able to take responsibility for the child” and since “I have checked with people in the community and from Ms. Lassiter’s church who also feel that this additional responsibility would be more than she can handle.” The social worker added that William “has not seen his grandmother since the chance meeting in July of ‘76 and that was the only time.”
+A social worker from the respondent Department was the first witness. She testified that in 1975 the Department “received a complaint from Duke Pediatrics that William had not been followed in the pediatric clinic for medical problems and that they were having difficulty in locating Ms. Lassiter … .” She said that in May 1975 a social worker had taken William to the hospital, where doctors asked that he stay “because of breathing difficulties [and] malnutrition and [because] there was a great deal of scarring that indicated that he had a severe infection that had gone untreated.” The witness further testified that, except for one “prearranged” visit and a chance meeting on the street, Ms. Lassiter had not seen William after he had come into the State’s custody, and that neither Ms. Lassiter nor her mother had “made any contact with the Department of Social Services regarding that child.” When asked whether William should be placed in his grandmother’s custody, the social worker said he should not, since the grandmother “has indicated to me on a number of occasions that she was not able to take responsibility for the child” and since “I have checked with people in the community and from Ms. Lassiter’s church who also feel that this additional responsibility would be more than she can handle.” The social worker added that William “has not seen his grandmother since the chance meeting in July of ’76 and that was the only time.”
 
 […]
 
@@ -231,7 +231,7 @@ proceedings in this mold, that relate to a subject so vital, can comport
 with fundamental fairness when the defendant parent remains
 unrepresented by counsel. As the Court today properly acknowledges, our
 consideration of the process due in this context, as in others, must
-rely on' a balancing of the competing private and public interests, an
+rely on a balancing of the competing private and public interests, an
 approach succinctly described in *Mathews v. Eldridge*, 424 U.S. 319,
 335 (1976).
 \[...\] As does the majority, I evaluate the “three distinct factors” specified in *Eldridge*: the private interest affected; the risk of error under the procedure employed by the State; and the countervailing governmental interest in support of the challenged procedure.
@@ -248,7 +248,9 @@ stake in a parental termination proceeding is undeniable, and I would
 find this first portion of the due process balance weighing heavily in
 favor of refined procedural protections. \[...\]
 
-Given the weight of the interests at stake, this risk of error assumes
+**B**
+
+\[...\] Given the weight of the interests at stake, this risk of error assumes
 extraordinary proportions. By intimidation, inarticulateness, or
 confusion, a parent can lose forever all contact and involvement with
 his or her offspring.
@@ -590,7 +592,7 @@ position that no further process is due.
 
 **C**
 
-The Government's \[argues\] that further factual exploration is
+The Government's \[second argument is\] that further factual exploration is
 unwarranted and inappropriate in light of the extraordinary
 constitutional interests at stake. Under the Government's most extreme
 rendition of this argument, "\[r\]espect for separation of powers and
@@ -1193,4 +1195,4 @@ correctly. I respectfully dissent. \[...\]
     suspended by Congress. As you may learn in other classes, the right
     of habeas corpus guarantees certain procedures above and beyond due
     process. It is therefore important to remember that due process is
-    but one element of procedural rights enshrined in the constitution.
+    but one element of procedural rights enshrined in the Constitution.

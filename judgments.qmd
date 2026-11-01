@@ -182,7 +182,7 @@ when the plaintiff litigated in the first suit a subset of all available
 disputes between the parties. *See Baird & Warner, Inc. v. Addison
 Industrial Park, Inc.*, 70 Ill. App. 3d 59 (1st Dist. 1979), which holds
 that a suit on three of six disputed parcels of land precludes a
-subsequent suit on all six. We doubt that Illinois would see difference
+subsequent suit on all six. We doubt that Illinois would see a difference
 between three lots out of six and two cars out of four.
 
 If Frier had filed the current suit in state court, he would have lost
@@ -639,7 +639,7 @@ It is so ordered.
 When it applies, claim preclusion bars relitigation of entire
 claims---causes of action arising out of a common set of facts. Issue
 preclusion is different: it bars relitigation of *issues*: facts or
-legal determinations, even if they are only one small part of claim, and
+legal determinations, even if they are only one small part of a claim, and
 even if the prior suit was only somewhat related to the present one. But
 issue preclusion only applies to issues that were actually litigated and
 actually decided (recall that claim preclusion often applies to claims
@@ -656,7 +656,7 @@ part of the earlier suit.
 
 As the next case illustrates well, often the doctrines of claim and
 issue preclusion will overlap, or arguably overlap. That is why it is so
-important to keep the two doctrines straight in you mind.
+important to keep the two doctrines straight in your mind.
 
 ### Illinois Central Gulf Railroad v. Parks
 
@@ -729,7 +729,7 @@ it had to have decided that he either sustained no damages or that his
 own negligence was a proximate cause of his damages.
 
 This third proposition places upon the railroad the heavy burden
-outlined in \[*Flora v. Indiana Service Co.*, 222 Ind. App. 253, 256--57
+outlined in \[*Town of Flora v. Indiana Service Corp.*, 222 Ind. 253, 256--57
 (1944)\]:
 
 > "\[W\]here a judgment may have been based upon either or any of two or
@@ -891,7 +891,7 @@ both parties were bound by the judgment. Based on the premise that it is
 somehow unfair to allow a party to use a prior judgment when he himself
 would not be so bound,^7^ [ ^7^ It is a violation of due process for a judgment to be binding
     on a litigant who was not a party or a privy and therefore has never
-    has an opportunity to be heard.\
+    had an opportunity to be heard.\
 ]{.aside} the mutuality requirement provided a party
 who had litigated and lost in a previous action an opportunity to
 relitigate identical issues with new parties.
