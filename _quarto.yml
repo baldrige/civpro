@@ -47,6 +47,9 @@ format:
     toc-depth: 3
     number-sections: true
     number-depth: 1
+    # Place figures exactly where they appear in the text (as on the website)
+    # rather than letting LaTeX float them away from the surrounding text.
+    fig-pos: H
     documentclass: scrbook
     papersize: letter
     geometry:
@@ -85,12 +88,23 @@ format:
           \lineskiplimit = -\maxdimen
           \usepackage{setspace}
           \usepackage{needspace}
+          % When a figure or a case heading moves to the next page, leave the
+          % space at the bottom instead of stretching the text to fill it.
+          \raggedbottom
           % Quarto puts margin content (portraits, citations, footnotes) in
           % \marginnote, which is fixed in place and runs off the bottom of the
           % page. Use \marginpar instead, which marginfix stacks without
           % overlaps and keeps within the page.
           \usepackage{marginfix}
           \AtBeginDocument{\renewcommand{\marginnote}[1]{\marginpar[{\raggedleft #1}]{\raggedright #1}}}
+          % With \lineskiplimit = -\maxdimen, a figure placed in the text
+          % (fig-pos: H) would overlap the line above it. Add no interline
+          % glue before the figure box.
+          \makeatletter
+          \AtBeginDocument{\renewcommand\float@endH{\@endfloatbox\vskip\intextsep
+            \if@flstyle\setbox\@currbox\float@makebox\columnwidth\fi
+            \nointerlineskip\box\@currbox\vskip\intextsep\relax}}
+          \makeatother
     filters:
       # pre-ast: before Quarto turns figure divs into its own float objects
       - path: pdf-layout.lua
