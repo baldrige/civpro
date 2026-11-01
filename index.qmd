@@ -2,7 +2,7 @@
 
 ## About This Book
 
-This book is designed as an introductory text for a first-year law school course in federal civil procedure. 
+This book is an introductory text for a first-year law school course in federal civil procedure. It is designed to flexible, lightweight, and open-access. The materials contained here are left to speak primarily for themselves. Where helpful, secondary materials and my own notes and explanations are appended. A supplement containing the Federal Rules of Civil Procedure, selected federal statutes, and the United States Constitution, is included.
 
 ::: {.callout-note}
 Clicking the PDF icon in the sidebar will open this book as a PDF file. Clicking the toggle icon will switch between dark and light mode.
@@ -18,6 +18,6 @@ Thank you to all my students over the years, especially those of you who emailed
 If you have any questions or spot any errors, please email them to [me](mailto:tbbennett@smu.edu). You can also click "Report an issue" in the sidebar of any chapter.
 :::
 
-::: {.callout-note}
-These materials are free to use and are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): you may share and adapt them for noncommercial purposes, with attribution, so long as you share your adaptations under the same terms. Judicial opinions, statutes, and rules reproduced here are public domain. Portraits of Supreme Court Justices are courtesy of [Oyez](https://www.oyez.org) and used under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
-:::
+## Copyright
+
+These materials are free to use and are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): you can share and adapt them for noncommercial purposes, with attribution, as long as you share your adaptations under the same terms. Judicial opinions, statutes, and rules reproduced here are public domain. Portraits of Supreme Court Justices are courtesy of [Oyez](https://www.oyez.org) and used under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
