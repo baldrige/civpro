@@ -134,13 +134,18 @@ actions where the matter in controversy exceeds the sum or value of
 
 > \(1\) Citizens of different States;
 >
-> \(2\) Shall not have original jurisdiction under this subsection of an
-> action between citizens of a State and citizens or subjects of a
-> foreign state who are lawfully admitted for permanent residence in the
-> United States and are domiciled in the same State;
+> \(2\) Citizens of a State and citizens or subjects of a foreign
+> state, except that the district courts shall not have original
+> jurisdiction under this subsection of an action between citizens of a
+> State and citizens or subjects of a foreign state who are lawfully
+> admitted for permanent residence in the United States and are
+> domiciled in the same State;
 >
 > \(3\) Citizens of different States and in which citizens or subjects
-> of a foreign state are additional parties
+> of a foreign state are additional parties; and
+>
+> \(4\) A foreign state, defined in section 1603(a) of this title, as
+> plaintiff and citizens of a State or of different States.
 
 \(b\) Except when express provision therefor is otherwise made in a
 statute of the United States, where the plaintiff who files the case
@@ -279,7 +284,7 @@ plaintiff.
 > exceeds the sum or value of \$5,000,000, exclusive of interest and
 > costs.
 >
-> \(7\) Citizenship of the members of the proposed plaintiff class shall
+> \(7\) Citizenship of the members of the proposed plaintiff classes shall
 > be determined for purposes of paragraphs (2) through (6) as of the
 > date of filing of the complaint or amended complaint, or, if the case
 > stated by the initial pleading is not subject to Federal jurisdiction,
@@ -441,6 +446,17 @@ jurisdiction over a claim under subsection (a) if---
 > \(4\) In exceptional circumstances, there are other compelling reasons
 > for declining jurisdiction.
 
+\(d\) The period of limitations for any claim asserted under subsection
+(a), and for any other claim in the same action that is voluntarily
+dismissed at the same time as or after the dismissal of the claim under
+subsection (a), shall be tolled while the claim is pending and for a
+period of 30 days after it is dismissed unless State law provides for a
+longer tolling period.
+
+\(e\) As used in this section, the term "State" includes the District
+of Columbia, the Commonwealth of Puerto Rico, and any territory or
+possession of the United States.
+
 ### 28 U.S.C. § 1391, Venue Generally
 
 \(a\) Applicability of Section.---Except as otherwise provided by law---
@@ -493,7 +509,7 @@ subject to personal jurisdiction at the time an action is commenced,
 such corporation shall be deemed to reside in any district in that State
 within which its contacts would be sufficient to subject it to personal
 jurisdiction if that district were a separate State, and, if there is no
-such district, the corporations hall be deemed to reside in the district
+such district, the corporation shall be deemed to reside in the district
 within which it has the most significant contacts. 
 
 \(e\) Actions Where Defendant Is Officer or Employee of the United
@@ -686,20 +702,12 @@ inconsistent with Acts of Congress and the Federal Rules of Civil
 Procedure.
 
 \(g\) Nothing in this section shall apply to any action in which the
-United States is a complainant arising under the antitrust laws.
+United States or a State is a complainant arising under the antitrust laws.
 "Antitrust laws" as used herein include those acts referred to in the
 Act of October 15, 1914, as amended (38 Stat. 730; 15 U.S.C. 12), and
-also include the Act of June 19, 1936(49 Stat. 1526; 15 U.S.C. 13, 13a,
+also include the Act of June 19, 1936 (49 Stat. 1526; 15 U.S.C. 13, 13a,
 and 13b) and the Act of September 26, 1914, as added March 21, 1938 (52
-Stat. 116, 117; 15 U.S.C. 56); but shall not include section 4A of the
-Act of October 15, 1914, as added July 7, 1955 (69 Stat. 282; 15 U.S.C.
-15a).
-
-\(h\) Notwithstanding the provisions of section 1404 or subsection (f)
-of this section, the judicial panel on multidistrict litigation may
-consolidate and transfer with or without the consent of the parties, for
-both pretrial purposes and for trial, any action brought under section
-4C of the Clayton Act.
+Stat. 116, 117; 15 U.S.C. 56).
 
 ### 28 U.S.C. § 1441, Removal of Civil Actions
 

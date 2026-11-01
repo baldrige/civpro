@@ -688,7 +688,8 @@ time.
 >
 >> \(A\) the day set aside by statute for observing New Year's Day,
 >> Martin Luther King Jr.'s Birthday, Washington's Birthday, Memorial
->> Day, Independence Day, Labor Day, Columbus Day, Veterans' Day,
+>> Day, Juneteenth National Independence Day, Independence Day, Labor
+>> Day, Columbus Day, Veterans' Day,
 >> Thanksgiving Day, or Christmas Day;
 >>
 >> \(B\) any day declared a holiday by the President or Congress; and
@@ -1068,11 +1069,11 @@ motions under Rules 26 through 37.
 
 ### Rule 12 -- Defenses and Objections: When and How Presented; Notion for Judgement on the Pleadings; Consolidating Motions; Waiving Defenses; Pretrial Hearing {#sec-frcp12}
 
-(a) [Time to Serve a Responsive Pleading.]{.smallcaps}
+(a) [Time to Serve a Responsive Pleading.]{.smallcaps} Unless another
+time is specified by a federal statute, the time for serving a
+responsive pleading is as follows:
 
-> (1) In General. Unless another time is specified by this rule or a
-> federal statute, the time for serving a responsive pleading is as
-> follows:
+> (1) In General.
 >
 >> \(A\) A defendant must serve an answer:
 >>
@@ -1360,7 +1361,7 @@ third party if this rule would allow a defendant to do so.
 (a) [Amendments Before Trial.]{.smallcaps}
 
 > (1) Amending as a Matter of Course. A party may amend its pleading
-> once as a matter of course within:
+> once as a matter of course no later than:
 >
 >> \(A\) 21 days after serving it, or
 >>
@@ -1456,7 +1457,7 @@ for one or more pretrial conferences for such purposes as:
 >
 > \(5\) facilitating settlement.
 
-(b) [Scheduling.]{.smallcaps}
+(b) [Scheduling and Management.]{.smallcaps}
 
 > (1) Scheduling Order. Except in categories of actions exempted by
 > local rule, the district judge---or a magistrate judge when authorized
@@ -1488,7 +1489,8 @@ for one or more pretrial conferences for such purposes as:
 >>> \(iii\) provide for disclosure, discovery, or preservation of
 >>> electronically stored information;
 >>>
->>> \(iv\) include any agreements the parties reach for asserting claims
+>>> \(iv\) include the timing and method for complying with Rule
+>>> 26(b)(5)(A) and any agreements the parties reach for asserting claims
 >>> of privilege or of protection as trial-preparation material after
 >>> information is produced, including agreements reached under Federal
 >>> Rule of Evidence 502;
@@ -1597,6 +1599,88 @@ injustice.
 > of any noncompliance with this rule, unless the noncompliance was
 > substantially justified or other circumstances make an award of
 > expenses unjust.
+
+### Rule 16.1 -- Multidistrict Litigation {#sec-frcp16-1}
+
+(a) [Initial Management Conference.]{.smallcaps} After the Judicial Panel on
+Multidistrict Litigation transfers actions, the transferee court should
+schedule an initial management conference to develop an initial plan
+for orderly pretrial activity in the MDL proceedings.
+
+(b) [Report for the Conference.]{.smallcaps}
+
+> (1) Submitting a Report. The transferee court should order the
+> parties to meet and to submit a report to the court before the
+> conference.
+>
+> (2) Required Content: the Parties' Views on Leadership Counsel and
+> Other Matters. The report must address any matter the court
+> designates---which may include any matter in Rule 16---and, unless the
+> court orders otherwise, the parties' views on:
+>
+>> \(A\) whether leadership counsel should be appointed and, if so:
+>>
+>>> \(i\) the timing of the appointments;
+>>>
+>>> \(ii\) the structure of leadership counsel;
+>>>
+>>> \(iii\) the procedure for selecting leadership and whether the
+>>> appointments should be reviewed periodically;
+>>>
+>>> \(iv\) their responsibilities and authority in conducting pretrial
+>>> activities and any role in facilitating resolution of the MDL
+>>> proceedings;
+>>>
+>>> \(v\) the proposed methods for regularly communicating with and
+>>> reporting to the court and nonleadership counsel;
+>>>
+>>> \(vi\) any limits on activity by nonleadership counsel; and
+>>>
+>>> \(vii\) whether and when to establish a means for compensating
+>>> leadership counsel;
+>>
+>> \(B\) any previously entered scheduling or other orders that should
+>> be vacated or modified;
+>>
+>> \(C\) a schedule for additional management conferences with the
+>> court;
+>>
+>> \(D\) how to manage the direct filing of new actions in the MDL
+>> proceedings; and
+>>
+>> \(E\) whether related actions have been---or are expected to
+>> be---filed in other courts, and whether to adopt methods for
+>> coordinating with them.
+>
+> (3) Additional Required Content: the Parties' Initial Views on Various
+> Matters. Unless the court orders otherwise, the report also must
+> address the parties' initial views on:
+>
+>> \(A\) whether consolidated pleadings should be prepared;
+>>
+>> \(B\) how and when the parties will exchange information about the
+>> factual bases for their claims and defenses;
+>>
+>> \(C\) discovery, including any difficult issues that may arise;
+>>
+>> \(D\) any likely pretrial motions;
+>>
+>> \(E\) whether the court should consider any measures to facilitate
+>> resolving some or all actions before the court;
+>>
+>> \(F\) whether any matters should be referred to a magistrate judge
+>> or a master; and
+>>
+>> \(G\) the principal factual and legal issues likely to be presented.
+>
+> (4) Permitted Content. The report may include any other matter that
+> the parties wish to bring to the court's attention.
+
+(c) [Initial Management Order.]{.smallcaps} After the conference, the
+court should enter an initial management order addressing the matters
+in Rule 16.1(b) and, in the court's discretion, any other matters. This
+order controls the course of the proceedings unless the court modifies
+it.
 
 ## Parties
 
@@ -2729,7 +2813,8 @@ time, but the absence of such an order does not affect the substitution.
 >> which it should be produced;
 >>
 >> \(D\) any issues about claims of privilege or of protection as
->> trial-preparation materials, including---if the parties agree on a
+>> trial-preparation materials, including the timing and method for
+>> complying with Rule 26(b)(5)(A) and---if the parties agree on a
 >> procedure to assert these claims after production---whether to ask the
 >> court to include their agreement in an order under Federal Rule of
 >> Evidence 502;
@@ -3073,7 +3158,7 @@ Objections; Written Questions.]{.smallcaps}
 (d) [Duration; Sanction; Motion to Terminate or Limit.]{.smallcaps}
 
 > (1) Duration. Unless otherwise stipulated or ordered by the court, a
-> deposition is limited to 1 day of 7 hours. The court must allow
+> deposition is limited to one day of 7 hours. The court must allow
 > additional time consistent with Rule 26(b)(1) and (2) if needed to
 > fairly examine the deponent or if the deponent, another person, or any
 > other circumstance impedes or delays the examination.
@@ -5255,7 +5340,7 @@ by the same persons or sought for the same use.
 >>
 >> (B) Service by Publication.
 >>
->>> \(i\) A defendant may be served by publication only when the plaintiff's attorney files a certificate stating that the attorney believes the defendant cannot be personally served, because after diligent inquiry within the state where the complaint is filed, the defendant's place of residence is still unknown or, if known, that it is beyond the territorial limits of personal service. Service is then made by publishing the notice---once a week for at least 3 successive weeks---in a newspaper published in the county where the property is located or, if there is no such newspaper, in a newspaper with generalccirculation where the property is located. Before the last publication, a copy of the notice must also be mailed to every defendant who cannot be personally served but whose place of residence is then known. Unknown owners may be served by publication in the same manner by a notice addressed to "Unknown Owners."
+>>> \(i\) A defendant may be served by publication only when the plaintiff's attorney files a certificate stating that the attorney believes the defendant cannot be personally served, because after diligent inquiry within the state where the complaint is filed, the defendant's place of residence is still unknown or, if known, that it is beyond the territorial limits of personal service. Service is then made by publishing the notice---once a week for at least 3 successive weeks---in a newspaper published in the county where the property is located or, if there is no such newspaper, in a newspaper with general circulation where the property is located. Before the last publication, a copy of the notice must also be mailed to every defendant who cannot be personally served but whose place of residence is then known. Unknown owners may be served by publication in the same manner by a notice addressed to "Unknown Owners."
 >>>
 >>> \(ii\) Service by publication is complete on the date of the last publication. The plaintiff's attorney must prove publication and mailing by a certificate, attach a printed copy of the published notice, and mark on the copy the newspaper's name and the dates of publication.
 >
@@ -5392,8 +5477,8 @@ part of the order that is clearly erroneous or is contrary to law.
 > record must be made of all evidentiary proceedings and may, at the
 > magistrate judge's discretion, be made of any other proceedings. The
 > magistrate judge must enter a recommended disposition, including, if
-> appropriate, proposed findings of fact. The clerk must promptly mail a
-> copy to each party.
+> appropriate, proposed findings of fact. The clerk must immediately
+> serve a copy on each party as provided in Rule 5(b).
 >
 > (2) Objections. Within 14 days after being served with a copy of the
 > recommended disposition, a party may serve and file specific written
@@ -5741,17 +5826,17 @@ taking effect on December 1, 2007
 
 (c)\ Emergency Rules.
 
-> (1)\ Emergency Rules 4(e), (h)(1), (i), and (j)(2) and for serving a minor incompetent person. The court may by order authorize service on a defendant described in Rule 4(e), (h)(1), (i), or (j)(2)—or on a minor or incompetent person in a judicial district of the United States—by a method that is reasonably calculated to give notice. A method of service may be completed under the order after the declaration ends unless the court, after notice and an opportunity to be heard, modifies or rescinds the order.
+> (1)\ Emergency Rules 4(e), (h)(1), (i), and (j)(2) and for serving a minor or incompetent person. The court may by order authorize service on a defendant described in Rule 4(e), (h)(1), (i), or (j)(2)—or on a minor or incompetent person in a judicial district of the United States—by a method that is reasonably calculated to give notice. A method of service may be completed under the order after the declaration ends unless the court, after notice and an opportunity to be heard, modifies or rescinds the order.
 > 
 > (2)\ Emergency Rule 6(b)(2).
 > 
->> (A)\ Extension of Time to File Certain Motions. A court may, by order, apply Rule 6(b)(1)(A) to extend for a period of no more than 30 days after an entry of the order the time to act under Rules 50(b) and (d), 52(b), 59(b), (d), and (e), and 60(b).
+>> (A)\ Extension of Time to File Certain Motions. A court may, by order, apply Rule 6(b)(1)(A) to extend for a period of no more than 30 days after entry of the order the time to act under Rules 50(b) and (d), 52(b), 59(b), (d), and (e), and 60(b).
 >>
 >> (B)\ Effect on Time to Appeal. Unless the time to appeal would otherwise be longer:
 >>
 >>> (i)\ if the court denies an extension, the time to file an appeal runs for all parties from the date the order denying the motion to extend is entered;
 >>>
->>> (ii)\ if the court grants an extension, a motion authorized by the court and filed within the extended period is, for purposes of Appellate Rule 4(a)(4)(A), filed "within the time allowed by" the Federal Rules of Civil Procedre; and
+>>> (ii)\ if the court grants an extension, a motion authorized by the court and filed within the extended period is, for purposes of Appellate Rule 4(a)(4)(A), filed "within the time allowed by" the Federal Rules of Civil Procedure; and
 >>>
 >>> (iii)\ if the court grants an extension and no motion authorized by the court is made within the extended period, the time to file an appeal runs for all parties from the expiration of the extended period.
 >>
