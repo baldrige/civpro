@@ -1,3 +1,13 @@
 /*-- scss:defaults --*/
 
 $body-text-align: justify !default;
+
+/*-- scss:rules --*/
+
+// Justify the reading text only. In the narrow sidebars, justification
+// spreads short lines like the book title ("Civil    Procedure") apart.
+.sidebar,
+.navbar,
+.nav-footer {
+  text-align: left;
+}
