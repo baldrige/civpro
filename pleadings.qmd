@@ -31,7 +31,7 @@ to parties appearing before them.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/robert_h_jackson/robert_h_jackson.thumb.png){width=150}
+![](images/justices/robert_h_jackson.png){width=150}
 
 :::
 
@@ -278,7 +278,7 @@ remanded for further proceedings not inconsistent with this opinion.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/john_g_roberts_jr/john_g_roberts_jr.thumb.png){width=150}
+![](images/justices/john_g_roberts_jr.png){width=150}
 
 :::
 
@@ -587,7 +587,7 @@ dissenting.**
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/clarence_thomas/clarence_thomas.thumb.png){width=150}
+![](images/justices/clarence_thomas.png){width=150}
 
 :::
 
@@ -1091,7 +1091,7 @@ judgment of the district court is therefore affirmed.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/william_h_rehnquist/william_h_rehnquist.thumb.png){width=150}
+![](images/justices/william_h_rehnquist.png){width=150}
 
 :::
 
@@ -1272,7 +1272,7 @@ remanded for further proceedings consistent with this opinion.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/hugo_l_black/hugo_l_black.thumb.png){width=150}
+![](images/justices/hugo_l_black.png){width=150}
 
 :::
 
@@ -1315,7 +1315,7 @@ decision on the merits. \[...\]
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/clarence_thomas/clarence_thomas.thumb.png){width=150}
+![](images/justices/clarence_thomas.png){width=150}
 
 :::
 
@@ -1470,7 +1470,7 @@ recovery is very remote and unlikely but that is not the test." \[...\]
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/david_h_souter/david_h_souter.thumb.png){width=150}
+![](images/justices/david_h_souter.png){width=150}
 
 :::
 
@@ -1741,7 +1741,7 @@ dissenting.**
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/john_paul_stevens/john_paul_stevens.thumb.png){width=150}
+![](images/justices/john_paul_stevens.png){width=150}
 
 :::
 
@@ -1975,7 +1975,7 @@ allegations, that could account for this stark break from precedent.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/anthony_m_kennedy/anthony_m_kennedy.thumb.png){width=150}
+![](images/justices/anthony_m_kennedy.png){width=150}
 
 :::
 
@@ -2376,7 +2376,7 @@ BREYER join, dissenting.**
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/david_h_souter/david_h_souter.thumb.png){width=150}
+![](images/justices/david_h_souter.png){width=150}
 
 :::
 
@@ -2478,7 +2478,7 @@ I respectfully dissent.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/stephen_g_breyer/stephen_g_breyer.thumb.png){width=150}
+![](images/justices/stephen_g_breyer.png){width=150}
 
 :::
 
@@ -3586,7 +3586,7 @@ part of plaintiff. \[...\]
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png){width=150}
+![](images/justices/sonia_sotomayor.png){width=150}
 
 :::
 
@@ -3981,7 +3981,7 @@ case for further proceedings consistent with this opinion.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/antonin_scalia/antonin_scalia.thumb.png){width=150}
+![](images/justices/antonin_scalia.png){width=150}
 
 :::
 

@@ -29,8 +29,13 @@ book:
         - frcp.qmd
         - statutes.qmd
         - constitution.qmd
+  site-url: https://civ.pro
+  repo-url: https://github.com/baldrige/civpro
+  repo-actions: [edit, issue]
   sidebar:
     logo: cover.jpg
+  page-footer:
+    center: "© Thomas B. Bennett · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
   downloads: [pdf]
   google-analytics: "G-M6E3TREXQZ"
 

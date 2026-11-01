@@ -1,0 +1,19 @@
+name: Correction
+description: Report a typo, error, or broken link in the casebook
+labels: [correction]
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Where is it?
+      description: Chapter and section, or paste the page link.
+      placeholder: "Pleadings, § 4.2"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What's wrong?
+      description: Quote the text if you can, and say what it should be.
+    validations:
+      required: true

@@ -365,7 +365,7 @@ unenforceable under the doctrine of unconscionability is AFFIRMED.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/filefield_paths/neil_gorsuch.thumb__0.png){width=150}
+![](images/justices/neil_gorsuch.png){width=150}
 
 :::
 
@@ -579,7 +579,7 @@ dissenting.**
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/ruth_bader_ginsburg/ruth_bader_ginsburg.thumb.png){width=150}
+![](images/justices/ruth_bader_ginsburg.png){width=150}
 
 :::
 
@@ -749,7 +749,7 @@ summary judgment.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/john_m_harlan2/john_m_harlan2.thumb.png){width=150}
+![](images/justices/john_m_harlan2.png){width=150}
 
 ^1^ Rev. Stat. § 1979, 42 U.S.C. § 1983 provides:
 
@@ -995,7 +995,7 @@ opinion.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/hugo_l_black/hugo_l_black.thumb.png){width=150}
+![](images/justices/hugo_l_black.png){width=150}
 
 :::
 
@@ -1078,7 +1078,7 @@ substitute for trial by jury which so long has been the hallmark of
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/william_h_rehnquist/william_h_rehnquist.thumb.png){width=150}
+![](images/justices/william_h_rehnquist.png){width=150}
 
 :::
 
@@ -1253,7 +1253,7 @@ case is remanded for further proceedings consistent with this opinion.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/byron_r_white/byron_r_white.thumb.png){width=150}
+![](images/justices/byron_r_white.png){width=150}
 
 :::
 
@@ -1744,7 +1744,7 @@ Court's award of summary judgment to the defendants in this case.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/antonin_scalia/antonin_scalia.thumb.png){width=150}
+![](images/justices/antonin_scalia.png){width=150}
 
 :::
 
@@ -1913,7 +1913,7 @@ reversed.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/john_paul_stevens/john_paul_stevens.thumb.png){width=150}
+![](images/justices/john_paul_stevens.png){width=150}
 
 :::
 

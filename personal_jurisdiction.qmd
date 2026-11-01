@@ -14,7 +14,7 @@ The second suit, then, was brought by Neff against Pennoyer to recover his 300 a
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/stephen_j_field/stephen_j_field.thumb.png){width=150}
+![](images/justices/stephen_j_field.png){width=150}
 
 :::
 
@@ -96,7 +96,7 @@ This section introduces state long-arm statutes and how to interpret and apply t
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/pierce_butler/pierce_butler.thumb.png){width=150}
+![](images/justices/pierce_butler.png){width=150}
 
 :::
 
@@ -198,7 +198,7 @@ Technological, economic, and social change put tremendous pressure on the territ
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/harlan_fiske_stone/harlan_fiske_stone.thumb.png){width=150}
+![](images/justices/harlan_fiske_stone.png){width=150}
 
 :::
 
@@ -246,7 +246,7 @@ Affirmed.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/hugo_l_black/hugo_l_black.thumb.png){width=150}
+![](images/justices/hugo_l_black.png){width=150}
 
 :::
 
@@ -272,7 +272,7 @@ True, the State's power is here upheld. But the rule announced means that tomorr
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/thurgood_marshall/thurgood_marshall.thumb.png){width=150}
+![](images/justices/thurgood_marshall.png){width=150}
 
 :::
 
@@ -363,7 +363,7 @@ It is so ordered.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/lewis_f_powell_jr/lewis_f_powell_jr.thumb.png){width=150}
+![](images/justices/lewis_f_powell_jr.png){width=150}
 
 :::
 
@@ -375,7 +375,7 @@ I would explicitly reserve judgment, however, on whether the ownership of some f
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/john_paul_stevens/john_paul_stevens.thumb.png){width=150}
+![](images/justices/john_paul_stevens.png){width=150}
 
 :::
 
@@ -391,7 +391,7 @@ How the Court's opinion may be applied in other contexts is not entirely clear t
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/william_j_brennan_jr/william_j_brennan_jr.thumb.png){width=150}
+![](images/justices/william_j_brennan_jr.png){width=150}
 
 :::
 
@@ -415,7 +415,7 @@ I, therefore, would approach the minimum contacts analysis differently than does
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/antonin_scalia/antonin_scalia.thumb.png){width=150}
+![](images/justices/antonin_scalia.png){width=150}
 
 :::
 
@@ -479,7 +479,7 @@ It is fair to say, however, that while our holding today does not contradict *Sh
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/byron_r_white/byron_r_white.thumb.png){width=150}
+![](images/justices/byron_r_white.png){width=150}
 
 :::
 
@@ -489,7 +489,7 @@ I join Parts I, II-A, II-B, and II-C of Justice Scalia's opinion and concur in t
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/william_j_brennan_jr/william_j_brennan_jr.thumb.png){width=150}
+![](images/justices/william_j_brennan_jr.png){width=150}
 
 :::
 
@@ -505,7 +505,7 @@ I believe that the approach adopted by Justice Scalia's opinion today---reliance
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/john_paul_stevens/john_paul_stevens.thumb.png){width=150}
+![](images/justices/john_paul_stevens.png){width=150}
 
 ^\*^ Perhaps the adage about hard cases making bad law should be revised to cover easy cases.
 
@@ -533,7 +533,7 @@ An important line in modern personal jurisdiction doctrine distinguishes between
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/hugo_l_black/hugo_l_black.thumb.png){width=150}
+![](images/justices/hugo_l_black.png){width=150}
 
 :::
 
@@ -553,7 +553,7 @@ Turning to this case we think it apparent that the Due Process Clause did not pr
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/earl_warren/earl_warren.thumb.png){width=150}
+![](images/justices/earl_warren.png){width=150}
 
 :::
 
@@ -599,7 +599,7 @@ The cases that follow explore the circumstances when knowingly causing effects w
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/byron_r_white/byron_r_white.thumb.png){width=150}
+![](images/justices/byron_r_white.png){width=150}
 
 :::
 
@@ -665,7 +665,7 @@ Because we find that petitioners have no "contacts, ties, or relations" with the
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/william_j_brennan_jr/william_j_brennan_jr.thumb.png){width=150}
+![](images/justices/william_j_brennan_jr.png){width=150}
 
 :::
 
@@ -717,7 +717,7 @@ The Court's opinion \[...\] suggests that the defendant ought to be subject to a
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/william_h_rehnquist/william_h_rehnquist.thumb.png){width=150}
+![](images/justices/william_h_rehnquist.png){width=150}
 
 :::
 
@@ -738,7 +738,7 @@ We hold that jurisdiction over petitioners in California is proper because of th
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/william_h_rehnquist/william_h_rehnquist.thumb.png){width=150}
+![](images/justices/william_h_rehnquist.png){width=150}
 
 :::
 
@@ -775,7 +775,7 @@ The judgment of the Court of Appeals is reversed, and the cause is remanded for 
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/william_j_brennan_jr/william_j_brennan_jr.thumb.png){width=150}
+![](images/justices/william_j_brennan_jr.png){width=150}
 
 :::
 
@@ -832,7 +832,7 @@ Because Rudzewicz established a substantial and continuing relationship with Bur
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/john_paul_stevens/john_paul_stevens.thumb.png){width=150}
+![](images/justices/john_paul_stevens.png){width=150}
 
 :::
 
@@ -850,7 +850,7 @@ Accordingly, I respectfully dissent.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/sandra_day_oconnor/sandra_day_oconnor.thumb.png){width=150}
+![](images/justices/sandra_day_oconnor.png){width=150}
 
 :::
 
@@ -920,7 +920,7 @@ Because the facts of this case do not establish minimum contacts such that the e
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/william_j_brennan_jr/william_j_brennan_jr.thumb.png){width=150}
+![](images/justices/william_j_brennan_jr.png){width=150}
 
 :::
 
@@ -934,7 +934,7 @@ Part II-A states that "a defendant's awareness that the stream of commerce may o
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/john_paul_stevens/john_paul_stevens.thumb.png){width=150}
+![](images/justices/john_paul_stevens.png){width=150}
 
 :::
 
@@ -958,7 +958,7 @@ Second, even assuming that the test ought to be formulated here, Part II-A misap
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/anthony_m_kennedy/anthony_m_kennedy.thumb.png){width=150}
+![](images/justices/anthony_m_kennedy.png){width=150}
 
 :::
 
@@ -1032,7 +1032,7 @@ Due process protects petitioner's right to be subject only to lawful authority. 
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/stephen_g_breyer/stephen_g_breyer.thumb.png){width=150}
+![](images/justices/stephen_g_breyer.png){width=150}
 
 :::
 
@@ -1064,7 +1064,7 @@ The plurality seems to state strict rules that limit jurisdiction where a defend
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/ruth_bader_ginsburg/ruth_bader_ginsburg.thumb.png){width=150}
+![](images/justices/ruth_bader_ginsburg.png){width=150}
 
 :::
 
@@ -1122,7 +1122,7 @@ For the reasons stated, I would hold McIntyre UK answerable in New Jersey for th
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/clarence_thomas/clarence_thomas.thumb.png){width=150}
+![](images/justices/clarence_thomas.png){width=150}
 
 :::
 
@@ -1201,7 +1201,7 @@ As the cases that follow demonstrate, the path of development of general jurisdi
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/harold_burton/harold_burton.thumb.png){width=150}
+![](images/justices/harold_burton.png){width=150}
 
 :::
 
@@ -1251,7 +1251,7 @@ Accordingly, the judgment of the Supreme Court of Ohio is vacated and the cause 
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/harry_a_blackmun/harry_a_blackmun.thumb.png){width=150}
+![](images/justices/harry_a_blackmun.png){width=150}
 
 :::
 
@@ -1310,7 +1310,7 @@ We hold that Helicol's contacts with the State of Texas were insufficient to sat
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/william_j_brennan_jr/william_j_brennan_jr.thumb.png){width=150}
+![](images/justices/william_j_brennan_jr.png){width=150}
 
 :::
 
@@ -1364,7 +1364,7 @@ Our interpretation of the Due Process Clause has never been so dependent upon th
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/ruth_bader_ginsburg/ruth_bader_ginsburg.thumb.png){width=150}
+![](images/justices/ruth_bader_ginsburg.png){width=150}
 
 :::
 
@@ -1448,7 +1448,7 @@ For the reasons stated, the judgment of the North Carolina Court of Appeals is
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/ruth_bader_ginsburg/ruth_bader_ginsburg.thumb.png){width=150}
+![](images/justices/ruth_bader_ginsburg.png){width=150}
 
 :::
 
@@ -1529,7 +1529,7 @@ For the reasons stated, the judgment of the United States Court of Appeals for t
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png){width=150}
+![](images/justices/sonia_sotomayor.png){width=150}
 
 :::
 
@@ -1559,7 +1559,7 @@ Regrettably, these errors are unforced. The Court can and should decide this cas
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/samuel_alito_jr/samuel_alito_jr.thumb.png){width=150}
+![](images/justices/samuel_alito_jr.png){width=150}
 
 :::
 
@@ -1627,7 +1627,7 @@ It is so ordered.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/sonia_sotomayor/sonia_sotomayor.thumb.png){width=150}
+![](images/justices/sonia_sotomayor.png){width=150}
 
 :::
 
@@ -1691,7 +1691,7 @@ This is not a rule the Constitution has required before. I respectfully dissent.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/elena_kagan/elena_kagan.thumb.png){width=150}
+![](images/justices/elena_kagan.png){width=150}
 
 :::
 
@@ -1776,7 +1776,7 @@ It is so ordered.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/samuel_alito_jr/samuel_alito_jr.thumb.png){width=150}
+![](images/justices/samuel_alito_jr.png){width=150}
 
 :::
 
@@ -1802,7 +1802,7 @@ I would leave the law exactly where it stood before we took these cases, and for
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/filefield_paths/neil_gorsuch.thumb__0.png){width=150}
+![](images/justices/neil_gorsuch.png){width=150}
 
 :::
 
@@ -1866,7 +1866,7 @@ Personal jurisdiction is waivable, and defendants are free to consent to jurisdi
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/harry_a_blackmun/harry_a_blackmun.thumb.png){width=150}
+![](images/justices/harry_a_blackmun.png){width=150}
 
 :::
 
@@ -1914,7 +1914,7 @@ It bears emphasis that forum-selection clauses contained in form passage contrac
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/john_paul_stevens/john_paul_stevens.thumb.png){width=150}
+![](images/justices/john_paul_stevens.png){width=150}
 
 :::
 
@@ -1954,7 +1954,7 @@ Appendix to Justice Stevens's dissent
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/filefield_paths/neil_gorsuch.thumb__0.png){width=150}
+![](images/justices/neil_gorsuch.png){width=150}
 
 :::
 
@@ -2050,7 +2050,7 @@ It is so ordered.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/samuel_alito_jr/samuel_alito_jr.thumb.png){width=150}
+![](images/justices/samuel_alito_jr.png){width=150}
 
 :::
 
@@ -2062,7 +2062,7 @@ I am not convinced, however, that the Constitution permits a State to impose suc
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/filefield_paths/barret-thumb.png){width=150}
+![](images/justices/amy_coney_barrett.png){width=150}
 
 :::
 

@@ -333,7 +333,7 @@ affirm the judgment below.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/ruth_bader_ginsburg/ruth_bader_ginsburg.thumb.png){width=150}
+![](images/justices/ruth_bader_ginsburg.png){width=150}
 
 :::
 
@@ -785,7 +785,7 @@ whether Jessie sustained personal injuries and compensable damages.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/potter_stewart/potter_stewart.thumb.png){width=150}
+![](images/justices/potter_stewart.png){width=150}
 
 :::
 

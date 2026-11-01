@@ -21,3 +21,9 @@ Pushing to `main` triggers the GitHub Actions workflow in `.github/workflows/pub
 ## Corrections
 
 Spotted a typo or an error? Please [open an issue](../../issues) or email tbbennett@smu.edu.
+
+## License
+
+The author's original text is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) (see `LICENSE`). Judicial opinions, statutes, and rules are public domain. Justice portraits in `images/justices/` are from [Oyez](https://www.oyez.org), used under CC BY-NC 4.0.
+
+A weekly GitHub Action (`.github/workflows/links.yml`) checks every external link and files a "Broken links report" issue if any fail.

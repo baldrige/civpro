@@ -1012,7 +1012,7 @@ lose.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/william_h_rehnquist/william_h_rehnquist.thumb.png){width=150}
+![](images/justices/william_h_rehnquist.png){width=150}
 
 :::
 
@@ -1223,7 +1223,7 @@ join, dissenting.**
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/john_paul_stevens/john_paul_stevens.thumb.png){width=150}
+![](images/justices/john_paul_stevens.png){width=150}
 
 :::
 
@@ -1327,7 +1327,7 @@ in the earlier litigation.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/harlan_fiske_stone/harlan_fiske_stone.thumb.png){width=150}
+![](images/justices/harlan_fiske_stone.png){width=150}
 
 ^\*^ \[Such covenants were held unenforceable eight years later
 in *Shelley v. Kraemer*, 334 U.S. 1 (1948). *--Ed*.\]
@@ -1652,7 +1652,7 @@ Like a heavy load.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/antonin_scalia/antonin_scalia.thumb.png){width=150}
+![](images/justices/antonin_scalia.png){width=150}
 
 :::
 
@@ -2195,7 +2195,7 @@ concurring in part and dissenting in part.**
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/ruth_bader_ginsburg/ruth_bader_ginsburg.thumb.png){width=150}
+![](images/justices/ruth_bader_ginsburg.png){width=150}
 
 :::
 
@@ -2314,7 +2314,7 @@ complex litigation for the last 50 years, as the next case shows.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/ruth_bader_ginsburg/ruth_bader_ginsburg.thumb.png){width=150}
+![](images/justices/ruth_bader_ginsburg.png){width=150}
 
 :::
 
@@ -2651,7 +2651,7 @@ dissenting in part.**
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/stephen_g_breyer/stephen_g_breyer.thumb.png){width=150}
+![](images/justices/stephen_g_breyer.png){width=150}
 
 :::
 
@@ -2753,7 +2753,7 @@ except insofar as Scalia, J., did not join Part II---C.**
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/david_h_souter/david_h_souter.thumb.png){width=150}
+![](images/justices/david_h_souter.png){width=150}
 
 :::
 

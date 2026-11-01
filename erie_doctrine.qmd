@@ -35,7 +35,7 @@ The question in *Swift* was which body of law applied: the common law as underst
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/joseph_story/joseph_story.thumb.png){width=150}
+![](images/justices/joseph_story.png){width=150}
 
 :::
 
@@ -58,7 +58,7 @@ For that reason, under the rule of *Swift v. Tyson*, federal courts---applying t
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/louis_d_brandeis/louis_d_brandeis.thumb.png){width=150}
+![](images/justices/louis_d_brandeis.png){width=150}
 
 :::
 
@@ -239,7 +239,7 @@ opinion.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/pierce_butler/pierce_butler.thumb.png){width=150}
+![](images/justices/pierce_butler.png){width=150}
 
 :::
 
@@ -267,7 +267,7 @@ I am of opinion that the constitutional validity of the rule need not be conside
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/stanley_reed/stanley_reed.thumb_3.png){width=150}
+![](images/justices/stanley_reed.png){width=150}
 
 :::
 
@@ -324,7 +324,7 @@ circumstances of this case, to interpret the Constitution.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/stanley_reed/stanley_reed.thumb_3.png){width=150}
+![](images/justices/stanley_reed.png){width=150}
 
 :::
 
@@ -363,7 +363,7 @@ _Reversed._
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/antonin_scalia/antonin_scalia.thumb.png){width=150}
+![](images/justices/antonin_scalia.png){width=150}
 
 :::
 
@@ -623,7 +623,7 @@ opinion.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/thurgood_marshall/thurgood_marshall.thumb.png){width=150}
+![](images/justices/thurgood_marshall.png){width=150}
 
 :::
 
@@ -672,7 +672,7 @@ _It is so ordered._
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/antonin_scalia/antonin_scalia.thumb.png){width=150}
+![](images/justices/antonin_scalia.png){width=150}
 
 :::
 
@@ -719,7 +719,7 @@ For the reasons stated, I respectfully dissent.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/felix_frankfurter/felix_frankfurter.thumb.png){width=150}
+![](images/justices/felix_frankfurter.png){width=150}
 
 :::
 
@@ -807,7 +807,7 @@ omitted.\]**
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/william_j_brennan_jr/william_j_brennan_jr.thumb.png){width=150}
+![](images/justices/william_j_brennan_jr.png){width=150}
 
 :::
 
@@ -940,7 +940,7 @@ omitted.\]**
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/earl_warren/earl_warren.thumb.png){width=150}
+![](images/justices/earl_warren.png){width=150}
 
 :::
 
@@ -992,7 +992,7 @@ We are reminded by the *Erie* opinion that neither Congress nor the federal cour
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/john_m_harlan2/john_m_harlan2.thumb.png){width=150}
+![](images/justices/john_m_harlan2.png){width=150}
 
 :::
 
@@ -1026,7 +1026,7 @@ One can understand the history of the *Erie* doctrine as a dialogue between two 
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/ruth_bader_ginsburg/ruth_bader_ginsburg.thumb.png){width=150}
+![](images/justices/ruth_bader_ginsburg.png){width=150}
 
 :::
 
@@ -1141,7 +1141,7 @@ _It is so ordered._
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/antonin_scalia/antonin_scalia.thumb.png){width=150}
+![](images/justices/antonin_scalia.png){width=150}
 
 :::
 
@@ -1195,7 +1195,7 @@ When there is added to the revision of the Seventh Amendment the Court’s prece
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/antonin_scalia/antonin_scalia.thumb.png){width=150}
+![](images/justices/antonin_scalia.png){width=150}
 
 :::
 
@@ -1279,7 +1279,7 @@ _It is so ordered._
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/john_paul_stevens/john_paul_stevens.thumb.png){width=150}
+![](images/justices/john_paul_stevens.png){width=150}
 
 :::
 
@@ -1329,7 +1329,7 @@ Accordingly, I concur in part and concur in the judgment.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/ruth_bader_ginsburg/ruth_bader_ginsburg.thumb.png){width=150}
+![](images/justices/ruth_bader_ginsburg.png){width=150}
 
 :::
 

@@ -1,0 +1,48 @@
+name: Check links
+
+# Weekly check of every external link in the chapters. Broken links are
+# reported in a single GitHub issue ("Broken links report"), which is
+# updated on each run rather than duplicated.
+on:
+  schedule:
+    - cron: "0 12 * * 1" # Mondays, 12:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  lychee:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # Court and government sites often refuse automated requests (403)
+          # or rate-limit (429); those links are usually fine for readers.
+          args: >-
+            --no-progress
+            --max-concurrency 4
+            --accept 200..=299,403,429
+            --exclude-path _book
+            './**/*.qmd'
+          output: lychee-report.md
+          fail: false
+
+      - name: Open or update the report issue
+        if: steps.lychee.outputs.exit_code != 0
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          title="Broken links report"
+          gh label create links --color d93f0b --description "Broken link report" 2>/dev/null || true
+          num=$(gh issue list --state open --label links --search "in:title \"$title\"" --json number -q '.[0].number')
+          if [ -n "$num" ]; then
+            gh issue edit "$num" --body-file lychee-report.md
+          else
+            gh issue create --title "$title" --label links --body-file lychee-report.md
+          fi

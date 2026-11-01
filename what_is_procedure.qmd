@@ -28,7 +28,7 @@ All persons born or naturalized in the United States, and subject to the jurisdi
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/potter_stewart/potter_stewart.thumb.png){width=150}
+![](images/justices/potter_stewart.png){width=150}
 
 :::
 
@@ -185,7 +185,7 @@ For the reasons stated in this opinion, the judgment is affirmed.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/harry_a_blackmun/harry_a_blackmun.thumb.png){width=150}
+![](images/justices/harry_a_blackmun.png){width=150}
 
 :::
 
@@ -373,7 +373,7 @@ I respectfully dissent.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/john_paul_stevens/john_paul_stevens.thumb.png){width=150}
+![](images/justices/john_paul_stevens.png){width=150}
 
 :::
 
@@ -424,7 +424,7 @@ join.**
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/sandra_day_oconnor/sandra_day_oconnor.thumb.png){width=150}
+![](images/justices/sandra_day_oconnor.png){width=150}
 
 :::
 
@@ -842,7 +842,7 @@ dissenting in part, and concurring in the judgment.**
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/david_h_souter/david_h_souter.thumb.png){width=150}
+![](images/justices/david_h_souter.png){width=150}
 
 :::
 
@@ -941,7 +941,7 @@ case.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/antonin_scalia/antonin_scalia.thumb.png){width=150}
+![](images/justices/antonin_scalia.png){width=150}
 
 :::
 
@@ -1129,7 +1129,7 @@ does not envision, I respectfully dissent.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/clarence_thomas/clarence_thomas.thumb.png){width=150}
+![](images/justices/clarence_thomas.png){width=150}
 
 :::
 

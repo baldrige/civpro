@@ -1018,7 +1018,7 @@ able to amicably resolve payment of attorneys' fees and costs.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/frank_murphy/frank_murphy.thumb.png){width=150}
+![](images/justices/frank_murphy.png){width=150}
 
 :::
 
@@ -1237,7 +1237,7 @@ We therefore affirm the judgment of the Circuit Court of Appeals.
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/robert_h_jackson/robert_h_jackson.thumb.png){width=150}
+![](images/justices/robert_h_jackson.png){width=150}
 
 :::
 
@@ -1281,7 +1281,7 @@ an account of what witnesses have told him. \[...\]
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/william_h_rehnquist/william_h_rehnquist.thumb.png){width=150}
+![](images/justices/william_h_rehnquist.png){width=150}
 
 :::
 

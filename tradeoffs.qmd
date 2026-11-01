@@ -117,7 +117,7 @@ June 26, 2006 Order
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/potter_stewart/potter_stewart.thumb.png){width=150}
+![](images/justices/potter_stewart.png){width=150}
 
 :::
 
@@ -161,7 +161,7 @@ The rule of law that Alabama followed in this case reflects a belief that in the
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/earl_warren/earl_warren.thumb.png){width=150}
+![](images/justices/earl_warren.png){width=150}
 
 :::
 
@@ -171,7 +171,7 @@ Petitioners in this case contend that they were convicted under an ordinance tha
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/william_o_douglas/william_o_douglas.thumb.png){width=150}
+![](images/justices/william_o_douglas.png){width=150}
 
 :::
 
@@ -226,7 +226,7 @@ Which of these do you think is unjust? Which did the SCLC disobey?
 
 ::: {.column-margin}
 
-![](https://api.oyez.org/sites/default/files/images/people/potter_stewart/potter_stewart.thumb.png){width=150}
+![](images/justices/potter_stewart.png){width=150}
 
 :::
 
