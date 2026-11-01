@@ -87,10 +87,20 @@ format:
       - text: |
           \lineskiplimit = -\maxdimen
           \usepackage{setspace}
-          \usepackage{needspace}
           % When a figure or a case heading moves to the next page, leave the
           % space at the bottom instead of stretching the text to fill it.
           \raggedbottom
+          \makeatletter
+          % With ragged bottoms a short page costs nothing, so LaTeX's bonus
+          % for breaking before a heading (\@secpenalty = -300) would pull
+          % headings to the next page, leaving their margin notes behind.
+          \AtBeginDocument{\@secpenalty=\z@}
+          % Start a new page if less than #1 is left (used by pdf-layout.lua
+          % before case headings with portraits). \penalty\z@ updates
+          % \pagetotal without favoring a break here.
+          \newcommand\portraitspace[1]{\par\penalty\z@
+            \ifdim\dimexpr\pagegoal-\pagetotal\relax<#1\relax\newpage\fi}
+          \makeatother
           % Quarto puts margin content (portraits, citations, footnotes) in
           % \marginnote, which is fixed in place and runs off the bottom of the
           % page. Use \marginpar instead, which marginfix stacks without
