@@ -871,7 +871,7 @@ Healthmaster.
 9\. Defendant Garrison has at all relevant times owned 50% of the stock
 of Healthmaster and controlled Healthmaster until April or May, 1995,
 when a trustee was appointed for Healthmaster, then a debtor in
-possession under Chapter II of the federal Bankruptcy Code, by the
+possession under Chapter 11 of the federal Bankruptcy Code, by the
 United States Bankruptcy Court for the Southern District of Georgia.
 
 10\. The individual Defendants herein have all served in various
@@ -1195,9 +1195,9 @@ tradition in this case. As Thomas Cooley recognized:
 employer to discharge an employee, by means of false statements,
 threats or putting in fear, or perhaps by means of malevolent advice
 and persuasion, is liable in an action of tort to the employee for the
-damages thereby sustained. And it makes no difference whether the
+damages thereby sustained. *And it makes no difference whether the
 employment was for a fixed term not yet expired or is terminable at
-the will of the employer."
+the will of the employer*."
 
 2 Law of Torts 589--591 (3d ed. 1906) (emphasis added).
 

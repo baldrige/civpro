@@ -648,9 +648,9 @@ aid or protection." 29 U.S.C. § 102. ...
 But Congress did so three years later, in 1935, when it enacted the
 NLRA. Relevant here, § 7 of the NLRA guarantees employees "the right to
 self-organization, to form, join, or assist labor organizations, to
-bargain collectively through representatives of their own choosing, and
+bargain collectively through representatives of their own choosing, *and
 to engage in other concerted activities for the purpose of collective
-bargaining or other mutual aid or protection." 29 U.S.C. § 157 (emphasis
+bargaining or other mutual aid or protection*." 29 U.S.C. § 157 (emphasis
 added). Section 8(a)(1) safeguards those rights by making it an "unfair
 labor practice" for an employer to "interfere with, restrain, or coerce
 employees in the exercise of the rights guaranteed in \[§ 7\]."
@@ -1825,7 +1825,7 @@ the Court of Appeals did here) the plaintiff's version of the facts.
 
 ::: {.column-margin}
 
-^5^ Justice Stevens suggests that our reaction to the videotape is somehow idiosyncratic, and seems to believe we are misrepresenting its contents. *See* post, at 392 (dissenting opinion) ("In sum, the factual statements by the Court of Appeals quoted by the Court ... were entirely accurate"). We are happy to allow the videotape to speak for itself See Record 36, Exh. A, available at [http://www.supremecourtus.gov/opinions/video/scott_v_harris.html](https://web.archive.org/web/20090117060952/http://www.supremecourtus.gov/opinions/video/scott_v_harris.html) and in Clerk of Court's case file. *\[Ed. note: That page is no longer online; the link above goes to an archived copy. The video is now available from the Supreme Court at <https://www.supremecourt.gov/media/video/mp4files/scott_v_harris.mp4> and is embedded below.\]*
+^5^ Justice Stevens suggests that our reaction to the videotape is somehow idiosyncratic, and seems to believe we are misrepresenting its contents. *See* post, at 392 (dissenting opinion) ("In sum, the factual statements by the Court of Appeals quoted by the Court ... were entirely accurate"). We are happy to allow the videotape to speak for itself. See Record 36, Exh. A, available at [http://www.supremecourtus.gov/opinions/video/scott_v_harris.html](https://web.archive.org/web/20090117060952/http://www.supremecourtus.gov/opinions/video/scott_v_harris.html) and in Clerk of Court's case file. *\[Ed. note: That page is no longer online; the link above goes to an archived copy. The video is now available from the Supreme Court at <https://www.supremecourt.gov/media/video/mp4files/scott_v_harris.mp4> and is embedded below.\]*
 
 {{< video https://www.supremecourt.gov/media/video/mp4files/scott_v_harris.mp4 >}}
 

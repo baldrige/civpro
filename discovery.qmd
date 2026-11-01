@@ -242,7 +242,7 @@ Motion to Compel is granted in part and denied in part.
 
 Plaintiffs Phyllis and German Cerrato bring this products liability
 action against Defendants for injuries allegedly sustained by Plaintiff
-Phillis Cerrato while using a blender designed and manufactured by
+Phyllis Cerrato while using a blender designed and manufactured by
 Defendants. Plaintiffs allege that the blender exploded and resulted in
 hot liquids burning Plaintiff Phyllis Cerrato and causing property
 damage to Plaintiffs' kitchen. Plaintiffs bring negligence, strict
@@ -451,7 +451,7 @@ Proportionality consists of more than whether the particular discovery
 method is expensive. Here, Lewis Gale advances no other reasonable
 alternative to obtain the requested information. Lewis Gale simply
 proposes to have the very person who may have authored relevant
-documents search their computer for responsive information. No insurance
+documents search their computer for responsive information. No \[assurance\]
 exists that this search method would yield any ESI deleted prior to the
 search. Employment discovery presents particular challenges to the
 employees where most, and sometimes all, relevant discovery is in the
@@ -1825,7 +1825,7 @@ U.S.C. § 1332, Plaintiff pursues claims against all Defendants for
 tortious interference with his employment contract and with related
 business expectancies, while Defendant-Counter Claimant Taylor Swift
 ("Swift") pursues counterclaims for the torts of assault and battery.
-Now before the Court is Plaintiff's Motion for Sanctions for Plaintiff's
+Now before the Court is \[Defendants'\] Motion for Sanctions for Plaintiff's
 Spoliation of Evidence. (ECF No. 139 (Defendants' "Motion").) As
 explained below, Defendants' Motion is granted in part, to impose a
 spoliation sanction that is less harsh than the adverse inference
@@ -1946,7 +1946,7 @@ following the incident with Swift and the day before KYGO fired him
 would plainly be relevant to proving or disproving those facts.
 Moreover, the record reflects that one of the reasons Mr. Call decided
 to terminate Plaintiff was because he perceived that Plaintiff had
-"changed his story" during the course his communications with KYGO. (ECF
+"changed his story" during the course \[of\] his communications with KYGO. (ECF
 No. 108-8 at 20.) A recording of this conversation could be invaluable
 to a jury that will be asked to decide, in part, whether they agree with
 Mr. Call's assessment that Plaintiff has been inconsistent in his
@@ -1962,7 +1962,7 @@ available, it might have saved time and expense in litigation by
 documenting the June 3, 2013 conversation, allowing for better
 preparation for depositions and ultimately for trial. Moreover, to the
 extent there may now be discrepancies in the accounts that Plaintiff and
-Messrs. Call and Haskill give regarding their June 3, 2013 conversation,
+Messrs. Call and Haskell give regarding their June 3, 2013 conversation,
 the recording would probably have resolved them. \[...\]
 
 **4.\ Culpability**
@@ -2020,7 +2020,7 @@ or "yes/no" issue. "The destruction of potentially relevant evidence
 obviously occurs along a continuum of fault---ranging from innocence
 through the degrees of negligence to intentionality." As set forth
 above, the Court takes a dim view of Plaintiff's acts of spoliation,
-which Defendants characterize---not entirely unfairly---as defendant
+which Defendants characterize---not entirely unfairly---as \[Plaintiff\]
 "cherry picking what he wanted" from the recording, then "conveniently
 destroy\[ing\] the multiple copies." However, the record does not
 establish---at least not clearly---that Plaintiff was acting with an

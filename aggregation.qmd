@@ -422,7 +422,13 @@ properly implead ITW, the court need not address the applicability of
 Rule 14 to the other claims in Latco's Third Party Complaint. It is well
 established that a properly impleaded claim may serve as an anchor for
 separate and independent claims under Rule 18(a).^3^ \[...\] In short,
-the court finds that Latco has properly impleaded ITW under Rule 14(a). 
+the court finds that Latco has properly impleaded ITW under Rule 14(a).
+
+::: {.column-margin}
+
+^3^ The court finds it necessary to dispel any worry that its rule might permit defendants to improperly encumber ongoing lawsuits by simply asserting claims of implied contractual indemnity. Rule 14(a) grants federal courts discretion in determining the propriety of a third party complaint, and in making its determination, a court may consider the burden upon the litigation that might ensue, as well as the merit of the third party complaint. *See generally* 6 Charles A. Wright, Arthur R. Miller & Mary Kay Kane, Federal Practice and Procedure § 1443. Rules 21 and 42 further provide original plaintiffs protection against vexatious litigation by permitting the court to drop parties or to sever claims. In the present matter, the court deems it appropriate to allow the factual record to develop so that the role of ITW's products in the allegedly defective chicken houses can be determined. Under the rationale that a stitch in time saves nine, the court considers it more efficient to determine liability presently rather than to risk potential relitigation on all the issues at a later date. \[...\] This conclusion is underscored given that forty identical suits were filed against Latco. (Mot. ¶ 1.)
+
+:::
 
 Accordingly, it is CONSIDERED and ORDERED that ITW's Motion to Dismiss
 be and the same is hereby DENIED.
@@ -831,6 +837,7 @@ action may as a practical matter impair or impede their ability to
 protect that interest.
 >
 > 3\. Whether their interest is not adequately represented by existing
+> parties.
 
 \[...\] Our conclusion is that the interests of movants in the subject
 matter is sufficient to satisfy the requirements of Rule 24 and that the
