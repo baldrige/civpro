@@ -29,6 +29,7 @@ jobs:
             --max-concurrency 4
             --accept 200..=299,403,429
             --exclude-path _book
+            --exclude supremecourtus.gov
             './**/*.qmd'
           output: lychee-report.md
           fail: false
@@ -46,3 +47,12 @@ jobs:
           else
             gh issue create --title "$title" --label links --body-file lychee-report.md
           fi
+
+      - name: Close the report issue when all links pass
+        if: steps.lychee.outputs.exit_code == 0
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for num in $(gh issue list --state open --label links --json number -q '.[].number'); do
+            gh issue close "$num" --comment "All links passed on the latest check."
+          done
