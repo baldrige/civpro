@@ -9,6 +9,10 @@
 -- 2. Multi-page scans. A figure whose pages are stacked in one column (e.g. the
 --    Avista orders) is taller than a page and cannot break, so it runs off the
 --    bottom. Split it into one figure per page.
+--
+-- 3. Links whose text is itself a URL. LaTeX sets that text as one unbreakable
+--    word, which runs past the narrow margin column. Typeset it with
+--    \nolinkurl so it can break at slashes and dots like other URLs.
 
 if not quarto.doc.is_format("latex") then
   return {}
@@ -114,8 +118,18 @@ local function split_stacked_figure(div)
   return out
 end
 
+local function breakable_url_text(link)
+  local text = pandoc.utils.stringify(link.content)
+  -- Skip text with characters \nolinkurl would need escaped.
+  if not text:match("^https?://%S+$") or text:find("[%%#{}\\^~]") then
+    return nil
+  end
+  link.content = { pandoc.RawInline("latex", "\\nolinkurl{" .. text .. "}") }
+  return link
+end
+
 return {
-  { Div = split_stacked_figure },
+  { Div = split_stacked_figure, Link = breakable_url_text },
   { Pandoc = function(doc)
       doc.blocks = reserve_portrait_space(doc.blocks)
       return doc
