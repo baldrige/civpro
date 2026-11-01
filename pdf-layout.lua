@@ -1,10 +1,11 @@
 -- Layout fixes for the PDF (LaTeX) output only.
 --
--- 1. Margin portraits. Before a case heading (or a separate opinion's author
---    line) that has a portrait in the margin, reserve enough room on the page
---    for the portrait. Otherwise a heading near the bottom of a page leaves its
---    portrait either running off the page or pushed up beside the previous
---    section.
+-- 1. Margin portraits. Move the citation aside on the author line into the
+--    portrait's margin note, so the two are one note and can't be separated.
+--    Before a case heading (or a separate opinion's author line) with a
+--    portrait, start a new page if the portrait won't fit. Otherwise a heading
+--    near the bottom of a page leaves its portrait running off the page or
+--    pushed up beside the previous section.
 --
 -- 2. Multi-page scans. A figure whose pages are stacked in one column (e.g. the
 --    Avista orders) is taller than a page and cannot break, so it runs off the
@@ -57,8 +58,26 @@ local function margin_image(block)
   return src
 end
 
-local function needspace(inches)
-  return pandoc.RawBlock("latex", string.format("\\needspace{%.2fin}", inches))
+-- \portraitspace (defined in _quarto.yml) starts a new page when less than
+-- the given height is left. Unlike \needspace it adds no favored break point.
+local function portraitspace(inches)
+  return pandoc.RawBlock("latex", string.format("\\portraitspace{%.2fin}", inches))
+end
+
+-- Remove a citation aside (a [..]{.aside} span) from an author-line paragraph
+-- and return its content, or nil if there isn't one.
+local function take_aside(para)
+  if para.t ~= "Para" and para.t ~= "Plain" then return nil end
+  for i, inline in ipairs(para.content) do
+    if inline.t == "Span" and inline.classes:includes("aside") then
+      para.content:remove(i)
+      if i > 1 and para.content[i - 1].t == "Space" then
+        para.content:remove(i - 1)
+      end
+      return inline.content
+    end
+  end
+  return nil
 end
 
 local function reserve_portrait_space(blocks)
@@ -66,6 +85,10 @@ local function reserve_portrait_space(blocks)
   for _, block in ipairs(blocks) do
     local src = margin_image(block)
     if src then
+      local cite = #out >= 1 and take_aside(out[#out])
+      if cite then
+        block.content:insert(1, pandoc.Para(cite))
+      end
       local need = CITATION_IN + PORTRAIT_WIDTH_IN * aspect(src)
       -- The portrait is anchored to the preceding author line; if a heading
       -- comes just before that, keep the heading with them too.
@@ -75,7 +98,7 @@ local function reserve_portrait_space(blocks)
         need = need + HEADING_IN
       end
       if at >= 1 then
-        out:insert(at, needspace(need))
+        out:insert(at, portraitspace(need))
       end
     end
     out:insert(block)
