@@ -29,7 +29,7 @@ jobs:
             --max-concurrency 4
             --accept 200..=299,403,429
             --exclude-path _book
-            --exclude supremecourtus.gov
+            --exclude '^http://www\.supremecourtus\.gov/'
             './**/*.qmd'
           output: lychee-report.md
           fail: false
