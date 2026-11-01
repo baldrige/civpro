@@ -14,6 +14,10 @@ quarto render           # full build: website + PDF into _book/
 quarto render --to pdf  # PDF only
 ```
 
+Quarto installs any missing LaTeX packages (such as `marginfix`) on the first PDF build. If that fails because your TinyTeX is from an older year, update it with `quarto update tinytex`.
+
+`pdf-layout.lua` adjusts the PDF only. It keeps margin portraits on the same page as their case headings, and it splits multi-page document scans into one figure per page.
+
 ## Publishing
 
 Pushing to `main` triggers the GitHub Actions workflow in `.github/workflows/publish.yml`. It renders the website and PDF and deploys them to GitHub Pages. Pull requests are built but not deployed. There is no need to upload anything by hand.
