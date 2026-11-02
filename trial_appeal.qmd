@@ -2360,6 +2360,31 @@ Appeal: section introduction
   - clear error for facts: Rule 52(a)(6) and Anderson v. City of Bessemer City, 470 U.S. 564 (1985);
   - abuse of discretion.
 
+
+```{r}
+#| label: fig-reversal
+#| fig-cap: "Percent of private civil appeals (excluding prisoner petitions) decided on the merits that the courts of appeals reversed, by circuit, fiscal years 2021--2025 combined. The dashed line marks the rate for all circuits. Partial reversals count as affirmances, and remands are a separate category. Source: Admin. Off. of the U.S. Cts., *Judicial Business of the United States Courts* tbl. B-5 (2021--2025)."
+#| echo: false
+#| fig-width: 6.5
+#| fig-height: 3.8
+library(ggplot2)
+
+rev <- read.csv("data/reversal_by_circuit.csv")
+rev <- rev[rev$period == "FY2021-FY2025 pooled", ]
+overall <- rev$pct_reversed[grepl("^All", rev$circuit)]
+rev <- rev[!grepl("^All", rev$circuit), ]
+rev$circuit <- ifelse(rev$circuit == "D.C.", "D.C. Cir.", paste(rev$circuit, "Cir."))
+rev$circuit <- reorder(rev$circuit, rev$pct_reversed)
+
+ggplot(rev, aes(pct_reversed, circuit)) +
+  geom_vline(xintercept = overall, linetype = "dashed", colour = "grey55") +
+  geom_point(size = 2.2) +
+  scale_x_continuous(limits = c(0, NA), labels = function(x) paste0(x, "%"),
+                     expand = expansion(mult = c(0, 0.05))) +
+  labs(x = "Appeals decided on the merits that were reversed", y = NULL) +
+  theme_classic(base_size = 11)
+```
+
 ### Mohawk Industries, Inc. v. Carpenter
 
 **JUSTICE SOTOMAYOR delivered the opinion of the Court.** [558 U.S. 100 (2009)]{.aside}
