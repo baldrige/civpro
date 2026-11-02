@@ -1273,7 +1273,7 @@ parties. \[...\]
     law. That first round of litigation resulted in a pair of consent
     decrees (essentially court-enforced settlements) setting benchmarks
     for the future hiring and promotion of Black firefighters. As is
-    required with class-action settlements (*see Amchem v. Ortiz*,
+    required with class-action settlements (*see Amchem Products, Inc. v. Windsor*,
     *infra*), the court conducted a hearing to determine whether the
     consent decrees were fair. At the fairness hearing, the Birmingham
     Firefighters Association---representing mostly white
@@ -1594,7 +1594,7 @@ Reversed.
     history (530 performances), the first Broadway show ever written by
     a Black woman, and the first Broadway play with a Black director.
     The production starred Sidney Poitier and Ruby Dee in the leading
-    roles of Walter and Ruth Younger---roles those two reprised one year
+    roles of Walter and Ruth Younger---roles those two reprised two years
     later in a celebrated film adaptation.
 \
 \
@@ -2239,7 +2239,7 @@ join Part II of the Court's opinion.
     criteria that must be met before a class may be certified and lays
     down special procedures that apply in class-action cases. To certify
     a class, a court must find both that: the four elements of Rule
-    23(a)---numerosity, commonality, representativeness, and adequacy of
+    23(a)---numerosity, commonality, typicality, and adequacy of
     representation---are satisfied; *and* that one of the three elements
     of Rule 23(b) is satisfied.
 

@@ -20,7 +20,7 @@ Article III of the U.S. Constitution grants to Congress the decision whether to 
 
 The Rules of Decision Act specifies that, unless federal law applies, state law governs---even in federal court. But the Rules of Decision Act is not entirely clear about what counts as the "laws of the several states." Surely that category includes state constitutions and statutes. But does it include judicial precedent issued by state courts? And how does the common law fit into all of this? If state judges interpret the common law differently from federal judges, whose interpretation controls when litigation is brought in federal court? 
 
-From 1841 until 1938, the Supreme Court held that judicial precedent interpreting the common law did not count as the "laws of the several states" for purposes of the Rules of Decision Act. The groundbreaking case was *Swift v. Tyson*, 41 U.S. (16 Pet.) 1 (1842). Here is how Supreme Court Justice Hugo Black described the *Swift* case in 1942:
+From 1842 until 1938, the Supreme Court held that judicial precedent interpreting the common law did not count as the "laws of the several states" for purposes of the Rules of Decision Act. The groundbreaking case was *Swift v. Tyson*, 41 U.S. (16 Pet.) 1 (1842). Here is how Supreme Court Justice Hugo Black described the *Swift* case in 1942:
 
 > The famous case of *Swift v. Tyson* arose from the following rather commonplace circumstances: Two persons, [Norton] and Keith, gave Swift a bill of exchange in payment of a promissory note. The bill was accepted, or guaranteed, by another person named Tyson who in so doing meant to pay for certain land which he was purchasing from Norton and Keith. Sadly enough for Tyson, he discovered that Norton and Keith could not sell him the land because they did not own it. Therefore, when Swift sued Tyson on the bill, Tyson defended on the ground that there had been a failure of consideration to him, and that Swift could not, under these circumstances recover as a bona-fide holder for valuable consideration because Swift had paid nothing for the bill---all he had done was to accept the bill as new evidence of an old debt. The controlling issue thus became whether a new bill of exchange for an old debt was an adequate consideration for Swift’s acceptance of the bill.
 > 
@@ -355,7 +355,7 @@ _Reversed._
 
 2. What test did the *Klaxon* Court use to determine whether the choice-of-law inquiry should be governed by state or federal law?
 
-3. The question whether state or federal law should govern proliferated across many areas of the law. The next case asks which body of law should govern the inquiry about the preclusive effect of a state-court judgment---i.e., *res judicata*. For more on this topic, see @sec-judgments.
+3. The question whether state or federal law should govern proliferated across many areas of the law. The next case asks which body of law should govern the inquiry about the preclusive effect of a federal-court judgment in a diversity case---i.e., *res judicata*. For more on this topic, see @sec-judgments.
 
 ### Semtek Int'l Inc. v. Lockheed Martin Corp.
 
@@ -507,7 +507,7 @@ merits.]^\*^
 
 ::: {.column-margin}
 
-^\*^ At the time of the decision, the text of Rule 41(b) read:
+^\*^ At the time of the decision, the text of Rule 41(a)(1) read:
 
 "Unless otherwise stated in the notice of dismissal or stipulation, the
 dismissal is without prejudice, except that a notice of dismissal
@@ -704,7 +704,7 @@ For the reasons stated, I respectfully dissent.
 
 #### Notes & Questions
 
-1. Recall that the gist of the *Erie* doctrine is that federal courts sitting in diversity apply state substantive law and federal procedural law. *Klaxon* introduces a wrinkle: because of the constitution's Supremacy Clause, reproduced in the margin, federal law applies whenever it speaks directly to the question at issue. ["This Constitution, and the laws of the United States which shall be made in pursuance thereof; and all treaties made, or which shall be made, under the authority of the United States, shall be the supreme law of the land; and the judges in every state shall be bound thereby, anything in the Constitution or laws of any State to the contrary notwithstanding." U.S. Const., Art. VI, ¶ 2.\
+1. Recall that the gist of the *Erie* doctrine is that federal courts sitting in diversity apply state substantive law and federal procedural law. *Stewart* introduces a wrinkle: because of the Constitution's Supremacy Clause, reproduced in the margin, federal law applies whenever it speaks directly to the question at issue. ["This Constitution, and the laws of the United States which shall be made in pursuance thereof; and all treaties made, or which shall be made, under the authority of the United States, shall be the supreme law of the land; and the judges in every state shall be bound thereby, anything in the Constitution or laws of any State to the contrary notwithstanding." U.S. Const., Art. VI, ¶ 2.\
 ]{.aside} As a result, if there is a valid federal statute or Rule, it will apply---no matter whether the state law it displaces is procedural or substantive. 
 
 2. Where does Justice Scalia part ways with the majority? 
@@ -797,7 +797,7 @@ omitted.\]**
 
 3. *York* says that the aim of the *Erie* doctrine is to ensure that "the outcome of the litigation in the federal court should be substantially the same, so far as legal rules determine the outcome of a litigation, as it would be if tried in a State court." Is that a fair reading of *Erie*?
 
-4. After *York* was decided, the Supreme Court decided a series of cases that, like *York*, found many questions to be substantive and therefore governed by state law. *See, e.g.*, *Ragan v. Merchants Transfer & Warehouse Co.*, 337 U.S. 530 (1949) (holding that state law governs the question of when a lawsuit is filed, for statute of limitations purposes); *Cohen v. Beneficial Indus. Loan Corp.*, 337 U.S. 541 (1949) (holding that a state law requiring shareholders to post a bond before suing a corporation was substantive for *Erie* purposes); *Woods v. Interstate Realty Co.*, 337 U.S. 535 (1949) (holding that a state law barring out-of-state corporations who do not pay state taxes from suing in state courts was substantive for *Erie* purposes); *Bernhardt v. Polygraphic Co. of America*, 350 U.S. 198 (1956) (holding that state law barring arbitration of employment law matters was substantive for *Erie* purposes).
+4. After *York* was decided, the Supreme Court decided a series of cases that, like *York*, found many questions to be substantive and therefore governed by state law. *See, e.g.*, *Ragan v. Merchants Transfer & Warehouse Co.*, 337 U.S. 530 (1949) (holding that state law governs the question of when a lawsuit is filed, for statute of limitations purposes); *Cohen v. Beneficial Indus. Loan Corp.*, 337 U.S. 541 (1949) (holding that a state law requiring shareholders to post a bond before suing a corporation was substantive for *Erie* purposes); *Woods v. Interstate Realty Co.*, 337 U.S. 535 (1949) (holding that a state law barring out-of-state corporations that had not qualified to do business in the state from suing in state courts was substantive for *Erie* purposes); *Bernhardt v. Polygraphic Co. of America*, 350 U.S. 198 (1956) (holding that state law barring arbitration of employment law matters was substantive for *Erie* purposes).
 
 5. In the wake of these aggressive applications of state law, the next case represents a bit of a retreat.
 

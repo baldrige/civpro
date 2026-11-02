@@ -583,7 +583,7 @@ The cause of action in this case is not one that arises out of an act done or tr
 
 ### Note on "Effects-Based" Jurisdiction
 
-What if a defendant takes some action with knowledge that the effects will be felt in another state? Can knowingly causing effects in another state constitute minimum contacts under *International Shoe*? The Supreme Court first addressed this question in *Kulko v. Superior Court*, 436 U.S. 84 (1978). The case arose out of a child-custody dispute. At first, the mother lived in California, while the father and ex-husband lived in New York with the couple's two children. After a time, the father bought a plane ticket so their daughter could move to California to live with her mother. Next, the mother bought a plane ticket for the son to fly to California (without the father's knowledge) and live there as well. Soon thereafter, the mother sued in California state court seeking to modify the couple's child-support agreement. The California state courts found jurisdiction to be proper on the theory that the father's decision to send his son to live in California caused sufficient effects in that state as to constitute the requisite minimum contacts.
+What if a defendant takes some action with knowledge that the effects will be felt in another state? Can knowingly causing effects in another state constitute minimum contacts under *International Shoe*? The Supreme Court first addressed this question in *Kulko v. Superior Court*, 436 U.S. 84 (1978). The case arose out of a child-custody dispute. At first, the mother lived in California, while the father and ex-husband lived in New York with the couple's two children. After a time, the father bought a plane ticket so their daughter could move to California to live with her mother. Next, the mother bought a plane ticket for the son to fly to California (without the father's knowledge) and live there as well. Soon thereafter, the mother sued in California state court seeking to modify the couple's child-support agreement. The California state courts found jurisdiction to be proper on the theory that the father's decision to send his daughter to live in California caused sufficient effects in that state as to constitute the requisite minimum contacts.
 
 The Supreme Court reversed, 6-3:
 
@@ -946,7 +946,7 @@ Second, even assuming that the test ought to be formulated here, Part II-A misap
 
 1.  In *Asahi*, we can see more clearly the five fairness factors first introduced in *World-Wide Volkswagen*. Can you identify those five factors? How do the fairness factors fit together with the minimum-contacts analysis? Does the court need both? One or the other?
 
-2.  Like *Burnham* (decided one year later), *Asahi* is another personal jurisdiction case in which the Supreme Court failed to reach a majority. On which question(s) did the Court fall short of five votes? What is left unanswered in *Asahi*?
+2.  Like *Burnham* (decided three years later), *Asahi* is another personal jurisdiction case in which the Supreme Court failed to reach a majority. On which question(s) did the Court fall short of five votes? What is left unanswered in *Asahi*?
 
 3.  Note that the dispute at issue in *Asahi* concerned crossclaims: those brought by one defendant (Cheng Shin) for indemnification against another defendant (Asahi). Nevertheless, the court's personal jurisdiction over the relevant defendant is still necessary for any judgment to be valid and enforceable.
 

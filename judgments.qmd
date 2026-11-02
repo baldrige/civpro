@@ -624,7 +624,7 @@ It is so ordered.
 
 1.  *Taylor v. Sturgell* illustrates the rigidity of the requirement of
     mutuality for claim preclusion to attach. The reason why Taylor's
-    claims were barred---even though they were essentially identical to
+    claims were *not* barred---even though they were essentially identical to
     Herrick's, even though Herrick and Taylor were members of the same
     hobbyist group, and even though Herrick and Taylor were represented
     by the same lawyer---is because Taylor is a different person from

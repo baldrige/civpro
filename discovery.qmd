@@ -45,7 +45,7 @@ judge in consultation with the parties:
     discovery requests. There are three major types of discovery
     requests:
 
-    - Requests for Production ([Rules 34](#sec-frcp34) and [35](#sec-frcp35)): at this point, the
+    - Requests for Production ([Rule 34](#sec-frcp34)): at this point, the
         parties may ask each other for documents or any other tangible
         or electronic item that is relevant, proportional and
         nonprivileged. A typical case will involve thousands and
@@ -1047,7 +1047,7 @@ interviewed other persons believed to have some information relating to
 the accident and in some cases he made memoranda of what they told him.
 \[...\]
 
-One year later, petitioner\[, who was one of the survivors,\] filed 39
+One year later, petitioner\[, the administrator of the estate of a deceased crew member,\] filed 39
 interrogatories directed to the tug owners. The 38th interrogatory read:
 "State whether any statements of the members of the crews of the Tugs
 'J.M. Taylor' and 'Philadelphia' or of any other vessel were taken in

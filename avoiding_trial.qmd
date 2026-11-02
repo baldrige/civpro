@@ -1308,7 +1308,7 @@ dissenting.**
         claims in *Anderson* sounded in libel, which carries a heightened
         burden of proof on the plaintiff: clear and convincing evidence.
         The Court held that a plaintiff held to such a standard of proof
-        must satisfy it to win summary judgment.
+        must satisfy it to survive summary judgment.
 
 ### Tolan v. Cotton
 
