@@ -432,6 +432,32 @@ _Affirmed_.
 2.	Note that 28 U.S.C. § 1332, the diversity-jurisdiction statute, requires not only complete diversity but also that the amount in controversy exceed a specified dollar amount. Though Congress has increased that amount over the years to account for inflation, today the requirement is that the amount in controversy exceed $75,000. Typically the amount in controversy is determined by looking at the plaintiff’s complaint, and it does not require any assessment of how likely the plaintiff is to prevail or to persuade a jury that her damages are as much as she alleges. 
 Nevertheless, questions frequently arise about how to value non-monetary forms of relief like injunctions. At least three approaches exist for such valuations: 1. the cost to the defendant of complying; 2. the benefit to the plaintiff of defendant’s compliance; or 3. some combination of both. Courts have divided on which is the right approach.  
 
+```{r}
+#| label: fig-aic
+#| fig-cap: "The diversity amount-in-controversy threshold, 1800--2025, in nominal dollars (gray) and in 2025 dollars (black). Each step marks the year Congress raised the threshold. Sources: 28 U.S.C. § 1332 (amendment notes); Fed. Judicial Ctr., *Jurisdiction: Diversity of Citizenship*; Fed. Reserve Bank of Minneapolis, *Consumer Price Index, 1800--* (annual averages)."
+#| echo: false
+#| fig-width: 6.5
+#| fig-height: 3.5
+library(ggplot2)
+
+aic <- read.csv("data/aic_threshold.csv")
+latest <- aic[nrow(aic), ]
+aic$real <- aic$threshold * latest$cpi / aic$cpi
+
+ggplot(aic, aes(year)) +
+  geom_step(aes(y = threshold), colour = "grey55", linewidth = 0.7) +
+  geom_line(aes(y = real), colour = "black", linewidth = 0.8) +
+  annotate("text", x = 1840, y = 27000, label = paste0("In ", latest$year, " dollars"),
+           size = 3.5) +
+  annotate("text", x = 1972, y = 17000, label = "Nominal dollars",
+           colour = "grey40", hjust = 1, size = 3.5) +
+  scale_y_continuous(labels = scales::label_dollar(), limits = c(0, NA),
+                     expand = expansion(mult = c(0, 0.05))) +
+  scale_x_continuous(breaks = seq(1800, 2025, by = 25)) +
+  labs(x = NULL, y = "Amount in controversy") +
+  theme_classic(base_size = 11)
+```
+
 3.	*Mas* turns heavily on the concept of domicile. A person is a citizen of a state if they are domiciled there. What is the test for determining a person’s domicile? What does it take for a person to establish a new domicile?
 
 4.	Where is a corporation domiciled for purposes of diversity jurisdiction? The test applied in Mas seems like a poor fit for a corporation. So what test should apply? The Supreme Court answered that question in the next case.
