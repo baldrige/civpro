@@ -422,7 +422,13 @@ properly implead ITW, the court need not address the applicability of
 Rule 14 to the other claims in Latco's Third Party Complaint. It is well
 established that a properly impleaded claim may serve as an anchor for
 separate and independent claims under Rule 18(a).^3^ \[...\] In short,
-the court finds that Latco has properly impleaded ITW under Rule 14(a). 
+the court finds that Latco has properly impleaded ITW under Rule 14(a).
+
+::: {.column-margin}
+
+^3^ The court finds it necessary to dispel any worry that its rule might permit defendants to improperly encumber ongoing lawsuits by simply asserting claims of implied contractual indemnity. Rule 14(a) grants federal courts discretion in determining the propriety of a third party complaint, and in making its determination, a court may consider the burden upon the litigation that might ensue, as well as the merit of the third party complaint. *See generally* 6 Charles A. Wright, Arthur R. Miller & Mary Kay Kane, Federal Practice and Procedure § 1443. Rules 21 and 42 further provide original plaintiffs protection against vexatious litigation by permitting the court to drop parties or to sever claims. In the present matter, the court deems it appropriate to allow the factual record to develop so that the role of ITW's products in the allegedly defective chicken houses can be determined. Under the rationale that a stitch in time saves nine, the court considers it more efficient to determine liability presently rather than to risk potential relitigation on all the issues at a later date. \[...\] This conclusion is underscored given that forty identical suits were filed against Latco. (Mot. ¶ 1.)
+
+:::
 
 Accordingly, it is CONSIDERED and ORDERED that ITW's Motion to Dismiss
 be and the same is hereby DENIED.
@@ -644,7 +650,7 @@ Because Helzberg was seeking and the District Court ordered injunctive
 relief which may prevent Lord's from operating its jewelry store in the
 Valley West Mall in the manner in which Lord's originally intended, the
 District Court correctly concluded that Lord's was a party to be joined
-if feasible. *See* Rule 19(a)\[(1)(b)\](i), Fed. R. Civ. P. Therefore,
+if feasible. *See* Rule 19(a)\[(1)(B)\](i), Fed. R. Civ. P. Therefore,
 because Lord's was not and is not subject to personal jurisdiction in
 the Western District of Missouri, the District Court was required to
 determine whether or not Lord's should be regarded as indispensable.
@@ -831,6 +837,7 @@ action may as a practical matter impair or impede their ability to
 protect that interest.
 >
 > 3\. Whether their interest is not adequately represented by existing
+> parties.
 
 \[...\] Our conclusion is that the interests of movants in the subject
 matter is sufficient to satisfy the requirements of Rule 24 and that the
@@ -981,7 +988,7 @@ Kerr-McGee's and American Mining Congress', motions to intervene.
 So far we have spoken of aggregation in terms of addition. Instead of
 one party, twenty. Instead of one claim going one direction, several
 claims traced by arrows pointing in many directions. But lurking
-unassuming in the Federal Rules of Civil Procedure is mechanism for
+unassuming in the Federal Rules of Civil Procedure is a mechanism for
 aggregation by multiplication. Rule 23 authorizes class
 actions---representative suits that combine the claims (or defenses) of
 potentially thousands or even millions of people.
@@ -995,7 +1002,7 @@ more efficient and, we might therefore say, fairer.
 But there is a risk with class actions. Because they litigate the claims
 of people who are not present before the court but rather are
 represented by a lead plaintiff or defendant, they threaten to
-extinguish individual's rights without affording them notice and an
+extinguish individuals' rights without affording them notice and an
 opportunity to be heard. If you've made it this far, your due process
 alarm is sounding. So too does that alarm sound at the Supreme Court.
 
@@ -1123,7 +1130,7 @@ party seeking a judgment binding on another cannot obligate that person
 to intervene; he must be joined. \[...\] Against the background of
 permissive intervention set forth in Chase National Bank, the drafters
 cast Rule 24, governing intervention, in permissive terms. *See* Fed.
-Rule Civ. Proc. 24(a) (intervention as of right) ("\[on timely motion,
+Rule Civ. Proc. 24(a) (intervention as of right) (\["on timely motion,
 the court must permit anyone to intervene"\]); Fed. Rule Civ. Proc.
 24(b) (permissive intervention) (\["on timely motion, the court may
 permit anyone to intervene"\]). They determined that the concern for
@@ -1162,7 +1169,7 @@ linchpin of the "impermissible collateral attack" doctrine---the
 attribution of preclusive effect to a failure to intervene---is
 therefore quite inconsistent with Rule 19 and Rule 24. \[...\] 
 
-Petitioners \[...\] rely on our decision in *Provident Tradesmans Bank*
+Petitioners \[...\] rely on our decision in *Provident Tradesmens Bank*
 as authority for the view which they espouse. In that case we discussed
 Rule 19 shortly after parts of it had been substantially revised, but we
 expressly left open the question of whether preclusive effect might be
@@ -1227,7 +1234,7 @@ join, dissenting.**
 
 :::
 
-As a matter of a law there is a vast difference between persons who are
+As a matter of law there is a vast difference between persons who are
 actual parties to litigation and persons who merely have the kind of
 interest that may as a practical matter be impaired by the outcome of a
 case. Persons in the first category have a right to participate in a
@@ -1257,7 +1264,7 @@ does not mean that the non-parties have been deprived of legal rights or
 that they have standing to appeal from that decree without becoming
 parties. \[...\]
 
-Notes & Questions
+#### Notes & Questions
 
 (@)  Start by focusing on the various stages of litigation discussed in
     the Court's opinion. In the first, the NAACP and a group of Black
@@ -1266,7 +1273,7 @@ Notes & Questions
     law. That first round of litigation resulted in a pair of consent
     decrees (essentially court-enforced settlements) setting benchmarks
     for the future hiring and promotion of Black firefighters. As is
-    required with class-action settlements (*see Amchem v. Ortiz*,
+    required with class-action settlements (*see Amchem Products, Inc. v. Windsor*,
     *infra*), the court conducted a hearing to determine whether the
     consent decrees were fair. At the fairness hearing, the Birmingham
     Firefighters Association---representing mostly white
@@ -1345,8 +1352,8 @@ allegedly covered by a racially restrictive covenant.^\*^ The covenant
 at issue had been recognized as valid and binding in an earlier suit,
 *Burke v. Kleiman*, filed in Illinois state court. In *Burke*, a
 property owner filed a class action "on behalf of herself and other
-property owners in like situation" sued four named individuals allegedly
-in violation of the covenant. The covenant by its terms could not take
+property owners in like situation" against four named individuals who
+had allegedly violated the covenant. The covenant by its terms could not take
 effect unless signed by owners of 95 percent of the covered property.
 Burke was litigated in the Illinois courts, where the parties had
 stipulated (falsely) that the requisite 95 percent had signed. (In fact,
@@ -1562,7 +1569,7 @@ Reversed.
     in that suit. In all three cases, the Supreme Court rejected the
     argument, recognizing instead the "deep-rooted historic tradition
     that everyone should have his own day in court." *Martin*, 490 U.S.
-    at 752.
+    at 761--762.
 
 3.  On the other side of the same coin, *Hansberry* also has important
     consequences for the finality of judgments. Because the Hansberrys
@@ -1575,7 +1582,7 @@ Reversed.
 
 4.  Of course, the stakes of *Hansberry* were more significant than just
     the preclusive effect of class-action judgments. The case concerned
-    a type of legal arrangement that was a key building block in edifice
+    a type of legal arrangement that was a key building block in the edifice
     of de jure racism in the early twentieth century United States. But
     you would hardly know that from reading the case, which is silent on
     the underlying questions of racial segregation. Why do you think
@@ -1587,7 +1594,7 @@ Reversed.
     history (530 performances), the first Broadway show ever written by
     a Black woman, and the first Broadway play with a Black director.
     The production starred Sidney Poitier and Ruby Dee in the leading
-    roles of Walter and Ruth Younger---roles those two reprised one year
+    roles of Walter and Ruth Younger---roles those two reprised two years
     later in a celebrated film adaptation.
 \
 \
@@ -1958,7 +1965,7 @@ testimony of Dr. William Bielby, their sociological expert. Relying on
 "strong corporate culture," that makes it "'vulnerable'" to "gender
 bias." He could not, however, "determine with any specificity how
 regularly stereotypes play a meaningful role in employment decisions at
-Wal-Mart. At his deposition \[...\] Dr. Bielby conceded that he could
+Wal-Mart." At his deposition \[...\] Dr. Bielby conceded that he could
 not calculate whether 0.5 percent or 95 percent of the employment
 decisions at Wal-Mart might be determined by stereotyped thinking.
 \[...\] Bielby\['s testimony\] is worlds away from "significant proof"
@@ -2179,7 +2186,7 @@ average backpay award in the sample set to arrive at the entire class
 recovery---without further individualized proceedings. We disapprove
 that novel project. Because the Rules Enabling Act forbids interpreting
 Rule 23 to "abridge, enlarge or modify any substantive right," 28 U.S.C.
-§ 2072(b); a class cannot be certified on the premise that Wal-Mart will
+§ 2072(b), a class cannot be certified on the premise that Wal-Mart will
 not be entitled to litigate its statutory defenses to individual claims.
 And because the necessity of that litigation will prevent backpay from
 being "incidental" to the classwide injunction, respondents' class could
@@ -2208,7 +2215,7 @@ type may be certifiable under Rule 23(b)(3), if the plaintiffs show that
 common class questions "predominate" over issues affecting
 individuals---*e.g.*, qualification for, and the amount of, backpay or
 compensatory damages---and that a class action is "superior" to other
-modes of adjudication
+modes of adjudication.
 
 Whether the class the plaintiffs describe meets the specific
 requirements of Rule 23(b)(3) is not before the Court, and I would
@@ -2232,14 +2239,14 @@ join Part II of the Court's opinion.
     criteria that must be met before a class may be certified and lays
     down special procedures that apply in class-action cases. To certify
     a class, a court must find both that: the four elements of Rule
-    23(a)---numerosity, commonality, representativeness, and adequacy of
+    23(a)---numerosity, commonality, typicality, and adequacy of
     representation---are satisfied; *and* that one of the three elements
-    of Rule 23(b) are satisfied.
+    of Rule 23(b) is satisfied.
 
 2.  *Wal-Mart* speaks to both Rule 23(a) and Rule 23(b). First, all nine
     members of the Court agreed that the plaintiffs had failed to
     satisfy the requirements of Rule 23(b). The case was litigated as a
-    "(b)(2)" class, meaning that was the only of three Rule 23(b) paths
+    "(b)(2)" class, meaning that was the only one of the three Rule 23(b) paths
     chosen by the plaintiffs. Rule 23(b)(2) (sometimes referred to
     simply as a "civil-rights class") typically applies when the party
     is seeking injunctive relief. The full Court said that, because the
@@ -2250,7 +2257,7 @@ join Part II of the Court's opinion.
     Court held that the plaintiffs had failed to show *commonality*
     under Rule 23(a)(2). The Court explained that, because the class was
     so numerous and geographically dispersed, and because the methods
-    for hiring and promotion in Wal-Mart stores, there were no
+    for hiring and promotion varied from store to store, there were no
     "questions of law or fact common to the class." Is that conclusion
     consistent with *Mosley v. General Motors*, *supra*, which held
     (under Rule 20) that employees alleging discrimination by the same
@@ -2262,7 +2269,7 @@ join Part II of the Court's opinion.
 4.  Perhaps some of the Court's resistance to the class in *Wal-Mart*
     has to do with its size. As certified, the class contained more than
     1.5 million members. Certification alone dramatically shifts the
-    balance of power in litigation, as Judge Posner has explained, even
+    balance of power in litigation: as Judge Posner has explained, even
     if a defendant has defenses to class claims, even a small risk of
     losing---and the potentially ruinous liability that would
     attach---means that defendants "may not wish to roll the\[\] dice.
@@ -2299,8 +2306,8 @@ survival rates even among cancers.
 These features of asbestos posed significant problems for courts trying
 to adjudicate asbestos lawsuits, which began appearing on dockets in
 large numbers in the 1970s. Because the producers of asbestos were not
-making much money selling asbestos products anymore (it was banned for
-most uses by that time), there was a limited amount of money to go
+making much money selling asbestos products anymore (its use had declined
+sharply by that time), there was a limited amount of money to go
 around to those injured by asbestos. Yet it was clear that a large
 number of as-yet unidentified plaintiffs would come forward in the
 future, once injuries manifested from their past asbestos exposure. How
@@ -2341,7 +2348,7 @@ September 1990, described facets of the problem in a 1991 report:
 upon millions of Americans in the 1940s and 1950s, injuries that began
 to take their toll in the 1960s, and a flood of lawsuits beginning in
 the 1970s. On the basis of past and current filing data, and because
-of latency period that may last as long as 40 years for some asbestos
+of a latency period that may last as long as 40 years for some asbestos
 related diseases, a continuing stream of claims can be expected. The
 final toll of asbestos related injuries is unknown. Predictions have
 been made of 200,000 asbestos disease deaths before the year 2000 and
@@ -2686,7 +2693,7 @@ Court of Appeals, I cannot accept the majority's suggestions that
     *Amchem* is madness. By 1997, hundreds of thousands of suits had
     been filed. Even at that time, it was estimated that the total
     number of claimants would exceed one million. Asbestos litigation
-    has bankrupt *multiple* Fortune 500 companies. Total liability has
+    has bankrupted *multiple* Fortune 500 companies. Total liability has
     now reached roughly a quarter *trillion* dollars. Yet only a
     fraction of the money generated by asbestos litigation was actually
     paid to victims. The rest is paid to lawyers on both sides trying to
@@ -2708,8 +2715,8 @@ Court of Appeals, I cannot accept the majority's suggestions that
     present and future claimants against Fibreboard. The lead plaintiffs
     invoked Rule 23(b)(1)(B)---the provision for so-called "limited
     fund" classes.
-    /
-    /
+    \
+    \
     The Supreme Court rejected the proposed class and thus doomed the
 settlement. The Court held that the proposed settlement stretched the
 bounds of the "limited fund" beyond recognition, because the only limit
@@ -2727,7 +2734,7 @@ willing to give up.
     this angle, the Court's interventions in *Amchem* and *Ortiz*
     protect absent class members' due process rights against the threat
     of being sold out by attorneys on both sides. Yet it is worth
-    pausing to ask whether those same absent class members any better
+    pausing to ask whether those same absent class members are any better
     off as asbestos litigation drags into its sixth decade?
 
 ## Multidistrict Litigation
@@ -2830,7 +2837,7 @@ closed down.
 
 In November 1993, Judge Roll dismissed Lexecon's state-law malicious
 prosecution and abuse of process claims, applying a "heightened pleading
-standard," Although the law firms then moved for summary judgment on the
+standard." Although the law firms then moved for summary judgment on the
 claims remaining, the judge deferred action pending completion of
 discovery, during which time the remaining parties to the Lincoln
 Savings litigation reached a final settlement, on which judgment was

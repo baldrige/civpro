@@ -84,7 +84,7 @@ President of the United States is tried, the Chief Justice shall
 preside: And no Person shall be convicted without the Concurrence of
 two thirds of the Members present.
 
-7: Judgment in Cases of impeachment shall not extend further than to
+7: Judgment in Cases of Impeachment shall not extend further than to
 removal from Office, and disqualification to hold and enjoy any Office
 of honor, Trust or Profit under the United States: but the Party
 convicted shall nevertheless be liable and subject to Indictment, Trial,
@@ -253,7 +253,7 @@ require it.
 3: No Bill of Attainder or ex post facto Law shall be passed.
 
 4: No Capitation, or other direct, Tax shall be laid, unless in
-Proportion to the Census or Enumeration herein before directed to be
+Proportion to the Census or enumeration herein before directed to be
 taken.
 
 5: No Tax or Duty shall be laid on Articles exported from any State.
@@ -426,9 +426,8 @@ Treaties made, or which shall be made, under their Authority;---to all
 Cases affecting Ambassadors, other public Ministers and Consuls;---to
 all Cases of admiralty and maritime Jurisdiction;---to Controversies to
 which the United States shall be a Party;---to Controversies between two
-or more States;---between a State and Citizens of another State;
----between Citizens of different States, ---between Citizens of the same
-State claiming Lands under Grants of different States, and between a
+or more States;---between a State and Citizens of another State,---between Citizens of different States,---between
+Citizens of the same State claiming Lands under Grants of different States, and between a
 State, or the Citizens thereof, and foreign States, Citizens or
 Subjects.
 
@@ -663,11 +662,11 @@ eligible to that of Vice-President of the United States. 
 
 ## Amendment 13 
 
-Neither slavery nor involuntary servitude, except as a punishment for
+1: Neither slavery nor involuntary servitude, except as a punishment for
 crime whereof the party shall have been duly convicted, shall exist
 within the United States, or any place subject to their jurisdiction.
 
-Congress shall have power to enforce this article by appropriate
+2: Congress shall have power to enforce this article by appropriate
 legislation.  
 
 ## Amendment 14
@@ -718,11 +717,11 @@ the provisions of this article.  
 
 ## Amendment 15 
 
-The right of citizens of the United States to vote shall not be denied
+1: The right of citizens of the United States to vote shall not be denied
 or abridged by the United States or by any State on account of race,
 color, or previous condition of servitude.
 
-The Congress shall have power to enforce this article by appropriate
+2: The Congress shall have power to enforce this article by appropriate
 legislation.  
 
 ## Amendment 16 
@@ -843,19 +842,19 @@ as President during the remainder of such term.
 
 2: This article shall be inoperative unless it shall have been ratified
 as an amendment to the Constitution by the legislatures of three-fourths
-of the several states within seven years from the date of its submission
-to the states by the Congress.   
+of the several States within seven years from the date of its submission
+to the States by the Congress.   
 
 ## Amendment 23
 
-1: The District constituting the seat of government of the United States
+1: The District constituting the seat of Government of the United States
 shall appoint in such manner as the Congress may direct: A number of
 electors of President and Vice President equal to the whole number of
 Senators and Representatives in Congress to which the District would be
-entitled if it were a state, but in no event more than the least
-populous state; they shall be in addition to those appointed by the
-states, but they shall be considered, for the purposes of the election
-of President and Vice President, to be electors appointed by a state;
+entitled if it were a State, but in no event more than the least
+populous State; they shall be in addition to those appointed by the
+States, but they shall be considered, for the purposes of the election
+of President and Vice President, to be electors appointed by a State;
 and they shall meet in the District and perform such duties as provided
 by the twelfth article of amendment.
 
@@ -868,7 +867,7 @@ legislation.  
 other election for President or Vice President, for electors for
 President or Vice President, or for Senator or Representative in
 Congress, shall not be denied or abridged by the United States or any
-state by reason of failure to pay any poll tax or other tax.
+State by reason of failure to pay any poll tax or other tax.
 
 2: The Congress shall have power to enforce this article by appropriate
 legislation.  
@@ -918,11 +917,11 @@ office.  
 
 ## Amendment 26 
 
-1: The right of citizens of the United States, who are 18 years of age
-or older, to vote, shall not be denied or abridged by the United States
-or any state on account of age.
+1: The right of citizens of the United States, who are eighteen years of age
+or older, to vote shall not be denied or abridged by the United States
+or by any State on account of age.
 
-2: The Congress shall have the power to enforce this article by
+2: The Congress shall have power to enforce this article by
 appropriate legislation.  
 
 ## Amendment 27 

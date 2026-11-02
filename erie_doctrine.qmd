@@ -20,7 +20,7 @@ Article III of the U.S. Constitution grants to Congress the decision whether to 
 
 The Rules of Decision Act specifies that, unless federal law applies, state law governs---even in federal court. But the Rules of Decision Act is not entirely clear about what counts as the "laws of the several states." Surely that category includes state constitutions and statutes. But does it include judicial precedent issued by state courts? And how does the common law fit into all of this? If state judges interpret the common law differently from federal judges, whose interpretation controls when litigation is brought in federal court? 
 
-From 1841 until 1938, the Supreme Court held that judicial precedent interpreting the common law did not count as the "laws of the several states" for purposes of the Rules of Decision Act. The groundbreaking case was *Swift v. Tyson*, 41 U.S. (16 Pet.) 1 (1842). Here is how Supreme Court Justice Hugo Black described the *Swift* case in 1942:
+From 1842 until 1938, the Supreme Court held that judicial precedent interpreting the common law did not count as the "laws of the several states" for purposes of the Rules of Decision Act. The groundbreaking case was *Swift v. Tyson*, 41 U.S. (16 Pet.) 1 (1842). Here is how Supreme Court Justice Hugo Black described the *Swift* case in 1942:
 
 > The famous case of *Swift v. Tyson* arose from the following rather commonplace circumstances: Two persons, [Norton] and Keith, gave Swift a bill of exchange in payment of a promissory note. The bill was accepted, or guaranteed, by another person named Tyson who in so doing meant to pay for certain land which he was purchasing from Norton and Keith. Sadly enough for Tyson, he discovered that Norton and Keith could not sell him the land because they did not own it. Therefore, when Swift sued Tyson on the bill, Tyson defended on the ground that there had been a failure of consideration to him, and that Swift could not, under these circumstances recover as a bona-fide holder for valuable consideration because Swift had paid nothing for the bill---all he had done was to accept the bill as new evidence of an old debt. The controlling issue thus became whether a new bill of exchange for an old debt was an adequate consideration for Swift’s acceptance of the bill.
 > 
@@ -85,16 +85,16 @@ its application to state laws strictly local, that is to say, to the
 positive statutes of the state, and the construction thereof adopted by
 the local tribunals, and to rights and titles to things having a
 permanent locality, such as the rights and
-titles to real estate, and other matters immovable and extraterritorial
+titles to real estate, and other matters immovable and intraterritorial
 in their nature and character. It never has been supposed by us, that
-the section did apply, or was intended to apply, to questions of a more
+the section did apply, or was designed to apply, to questions of a more
 general nature, not at all dependent upon local statutes or local usages
 of a fixed and permanent operation, as, for example, to the construction
 of ordinary contracts or other written instruments, and especially to
 questions of general commercial law, where the state tribunals are
 called upon to perform the like functions as ourselves, that is, to
 ascertain upon general reasoning and legal analogies, what is the true
-exposition of the contract of instrument, or what is the just rule
+exposition of the contract or instrument, or what is the just rule
 furnished by the principles of commercial law to govern the case.
 
 \[...\] The federal courts assumed, in the broad field of "general law,"
@@ -276,7 +276,7 @@ the doctrine of *Swift v. Tyson*, and in the reasoning of the majority
 opinion except insofar as it relies upon the unconstitutionality of the
 "course pursued" by the federal courts. 
 
-\[,,,\]
+\[...\]
 
 To decide the case now before us and to "disapprove" the doctrine of
 *Swift v. Tyson* requires only that we say that the words "the laws"
@@ -318,7 +318,7 @@ circumstances of this case, to interpret the Constitution.
 
 4. *Erie* was decided in 1938, the same year that the Federal Rules of Civil Procedure took effect. The late 1930s were a pivotal period in American law, and *Erie* was a key part of the transformation. But *Erie* threatened to undermine the newly adopted Rules. If state law supplies the substantive law in diversity cases, does that mean state rules of practice should govern instead of the Federal Rules? As you will see, *Erie*'s holding is limited to *substantive*---not procedural---law. But the distinction between substance and procedure is maddeningly vague. To see why, consider the next case, which asks an almost recursive question: which body of law governs the question of which body of law applies to a particular dispute? In other words, does state or federal law dictate the horizontal choice of law inquiry in a diversity case? 
 
-### Klaxon Co. v. Stentor Elec. Mfg. Co
+### Klaxon Co. v. Stentor Elec. Mfg. Co.
 
 **MR. JUSTICE REED delivered the opinion of the Court.**[313 U.S. 487 (1941)]{.aside}
 
@@ -355,7 +355,7 @@ _Reversed._
 
 2. What test did the *Klaxon* Court use to determine whether the choice-of-law inquiry should be governed by state or federal law?
 
-3. The question whether state or federal law should govern proliferated across many areas of the law. The next cases asks which body of law should govern the inquiry about the preclusive effect of a state-court judgment---i.e., *res judicata*. For more on this topic, see @sec-judgments.
+3. The question whether state or federal law should govern proliferated across many areas of the law. The next case asks which body of law should govern the inquiry about the preclusive effect of a federal-court judgment in a diversity case---i.e., *res judicata*. For more on this topic, see @sec-judgments.
 
 ### Semtek Int'l Inc. v. Lockheed Martin Corp.
 
@@ -503,11 +503,11 @@ upon the merits" is the opposite of a "dismissal without prejudice":
 without prejudice. But if the plaintiff previously dismissed any
 federal- or state-court action based on or including the same claim, a
 notice of dismissal operates as an adjudication on the
-merits.^\*^ 
+merits.]^\*^ 
 
 ::: {.column-margin}
 
-^\*^ At the time of the decision, the text of Rule 41(b) read:
+^\*^ At the time of the decision, the text of Rule 41(a)(1) read:
 
 "Unless otherwise stated in the notice of dismissal or stipulation, the
 dismissal is without prejudice, except that a notice of dismissal
@@ -530,7 +530,7 @@ direct appeal.
 :::
 
 The primary meaning of "dismissal without prejudice," we think, is
-dismissal without barring the defendant from returning later, to the
+dismissal without barring the plaintiff from returning later, to the
 same court, with the same underlying claim. That will also ordinarily
 (though not always) have the consequence of not barring the claim from
 *other* courts, but its primary meaning relates to the dismissing court
@@ -613,11 +613,11 @@ opinion.
 
 2. As a result of the foregoing, the Supreme Court remanded a case to Maryland state courts so that they could determine the claim preclusion rules applicable in California state courts, so that they could determine the preclusive effect of the federal-court judgment. Sometimes, federalism can be extremely complicated.
 
-3. A careful reader will have already recognzied a potential problem. If the source of the claim-preclusion rules applied in *Semtek* is "federal common law," how can the outcome in *Semtek* be squared with *Erie*, which famously pronounced that "\[t\]here is no federal general common law." How does the *Semtek* Court deal with this problem. Is the kind of common law at issue in *Semtek* something other than "general"?
+3. A careful reader will have already recognized a potential problem. If the source of the claim-preclusion rules applied in *Semtek* is "federal common law," how can the outcome in *Semtek* be squared with *Erie*, which famously pronounced that "\[t\]here is no federal general common law"? How does the *Semtek* Court deal with this problem? Is the kind of common law at issue in *Semtek* something other than "general"?
 
 ## Federal Supremacy
 
-### Stewart Org., Inc. v. Ricoh Corp
+### Stewart Org., Inc. v. Ricoh Corp.
 
 **JUSTICE MARSHALL delivered the opinion of the Court.**[487 U.S. 22 (1988)]{.aside}
 
@@ -704,7 +704,7 @@ For the reasons stated, I respectfully dissent.
 
 #### Notes & Questions
 
-1. Recall that the gist of the *Erie* doctrine is that federal courts sitting in diversity apply state substantive law and federal procedural law. *Klaxon* introduces a wrinkle: because of the constitution's Supremacy Clause, reproduced in the margin, federal law applies whenever it speaks directly to the question at issue. ["This Constitution, and the laws of the United States which shall be made in pursuance thereof; and all treaties made, or which shall be made, under the authority of the United States, shall be the supreme law of the land; and the judges in every state shall be bound thereby, anything in the Constitution or laws of any State to the contrary notwithstanding." U.S. Const., Art. VI, ¶ 2.\
+1. Recall that the gist of the *Erie* doctrine is that federal courts sitting in diversity apply state substantive law and federal procedural law. *Stewart* introduces a wrinkle: because of the Constitution's Supremacy Clause, reproduced in the margin, federal law applies whenever it speaks directly to the question at issue. ["This Constitution, and the laws of the United States which shall be made in pursuance thereof; and all treaties made, or which shall be made, under the authority of the United States, shall be the supreme law of the land; and the judges in every state shall be bound thereby, anything in the Constitution or laws of any State to the contrary notwithstanding." U.S. Const., Art. VI, ¶ 2.\
 ]{.aside} As a result, if there is a valid federal statute or Rule, it will apply---no matter whether the state law it displaces is procedural or substantive. 
 
 2. Where does Justice Scalia part ways with the majority? 
@@ -797,7 +797,7 @@ omitted.\]**
 
 3. *York* says that the aim of the *Erie* doctrine is to ensure that "the outcome of the litigation in the federal court should be substantially the same, so far as legal rules determine the outcome of a litigation, as it would be if tried in a State court." Is that a fair reading of *Erie*?
 
-4. After *York* was decided, the Supreme Court decided a series of cases that, like *York*, found many questions to be substantive and therefore governed by state law. *See, e.g.*, *Ragan v. Merchants Transfer & Warehouse Co.*, 337 U.S. 530 (1949) (holding that state law governs the question of when a lawsuit is filed, for statute of limitations purposes); *Cohen v. Beneficial Indus. Loan Corp.*, 337 U.S. 541 (1949) (holding that a state law requiring shareholders to post a bond before suing a corporation was substantive for *Erie* purposes); *Woods v. Interstate Realty Co.*, 337 U.S. 535 (1949) (holding that a state law barring out-of-state corporations who do not pay state taxes from suing in state courts was substantive for *Erie* purposes); *Bernhardt v. Polygraphic Co. of America*, 350 U.S. 198 (1956) (holding that state law barring arbitration of employment law matters was substantive for *Erie* purposes).
+4. After *York* was decided, the Supreme Court decided a series of cases that, like *York*, found many questions to be substantive and therefore governed by state law. *See, e.g.*, *Ragan v. Merchants Transfer & Warehouse Co.*, 337 U.S. 530 (1949) (holding that state law governs the question of when a lawsuit is filed, for statute of limitations purposes); *Cohen v. Beneficial Indus. Loan Corp.*, 337 U.S. 541 (1949) (holding that a state law requiring shareholders to post a bond before suing a corporation was substantive for *Erie* purposes); *Woods v. Interstate Realty Co.*, 337 U.S. 535 (1949) (holding that a state law barring out-of-state corporations that had not qualified to do business in the state from suing in state courts was substantive for *Erie* purposes); *Bernhardt v. Polygraphic Co. of America*, 350 U.S. 198 (1956) (holding that state law barring arbitration of employment law matters was substantive for *Erie* purposes).
 
 5. In the wake of these aggressive applications of state law, the next case represents a bit of a retreat.
 
@@ -811,7 +811,7 @@ omitted.\]**
 
 :::
 
-This case was brought in the District Court for the Western District of South Carolina. Jurisdiction was based on diversity of citizenship. \[Plaintiff\], a resident of North Carolina, sued \[defendant\], a South Carolina corporation, for \[...\] negligence. \[The jury returned a verdict in favor of the plaintff.\] \[...\]
+This case was brought in the District Court for the Western District of South Carolina. Jurisdiction was based on diversity of citizenship. \[Plaintiff\], a resident of North Carolina, sued \[defendant\], a South Carolina corporation, for \[...\] negligence. \[The jury returned a verdict in favor of the plaintiff.\] \[...\]
 
 \[Defendant\] is in the business of selling electric power to subscribers in rural sections of South Carolina. \[Plaintiff\] was employed as a lineman in the construction crew of a construction contractor. The contractor, R. H. Bouligny, Inc., held a contract with the respondent in the amount of $334,300 for the \[electrical work\]. The petitioner was injured while connecting power lines \[...\].
 
@@ -871,7 +871,7 @@ jury. Therefore, were "outcome" the only consideration, a strong case
 might appear for saying that the federal court should follow the state
 practice.
 
-::: {.column-margin
+::: {.column-margin}
 
 ^10^ Our conclusion makes unnecessary the consideration of---and we intimate no view upon---the constitutional question whether the right of jury trial protected in federal courts by the Seventh Amendment embraces the factual issue of statutory immunity when asserted, as here, as an affirmative defense in a common-law negligence action.
 
@@ -948,7 +948,7 @@ The question to be decided is whether, in a civil action where the jurisdiction 
 
 \[Plaintiff,\] a citizen of Ohio, filed her complaint in the District Court for the District of Massachusetts, claiming damages in excess of $10,000 for personal injuries resulting from an automobile accident in South Carolina, allegedly caused by the negligence of one Louise Plumer Osgood, a Massachusetts citizen deceased at the time of the filing of the complaint. Respondent, Mrs. Osgood's executor and also a Massachusetts citizen, was named as defendant. \[...\] \[S\]ervice was made by leaving copies of the summons and the complaint with respondent's wife at his residence, concededly in compliance with Rule 4\[(e)(2)(B).\] \[...\]
 
-\[Defendant moved for summary judgment, arguing that service was improper because it did not comply with the statute governing service of process in Massachusetts state court. Under the circumstances of this case, that law required required service by hand upon the defendant personally, and the deadline for effecting service by hand had passed. Plaintiff responded that Fed. R. Civ. P. 4---not the Massachusetts statute---governed service of process in actions pending in federal court.\]
+\[Defendant moved for summary judgment, arguing that service was improper because it did not comply with the statute governing service of process in Massachusetts state court. Under the circumstances of this case, that law required service by hand upon the defendant personally, and the deadline for effecting service by hand had passed. Plaintiff responded that Fed. R. Civ. P. 4---not the Massachusetts statute---governed service of process in actions pending in federal court.\]
 
 We conclude that the adoption of Rule 4\[(e)(2)(B)\], designed to control service of process in diversity actions, neither exceeded the congressional mandate embodied in the Rules Enabling Act nor transgressed constitutional bounds, and that the Rule is therefore the standard against which the District Court should have measured the adequacy of the service. Accordingly, we reverse the decision of the Court of Appeals.
 
@@ -998,7 +998,7 @@ We are reminded by the *Erie* opinion that neither Congress nor the federal cour
 
 \[...\]
 
-*Erie* was something more than an opinion which worried about “forum-shopping and avoidance of inequitable administration of the laws,” although to be sure these were important elements of the decision. I have always regarded that decision as one of the modern cornerstones of our federalism, expressing policies that profoundly touch the allocation of judicial power between the state and federal systems. *Erie* recognized that there should not be two conflicting systems of law controlling the primary activity of citizens, for such alternative governing authority must necessarily give rise to a debilitating uncertainty in the planning of everyday affairs.1 And it recognized that the scheme of our Constitution envisions an allocation of lawmaking functions between state and federal legislative processes which is undercut if the federal judiciary can make substantive law affecting state affairs beyond the bounds of congressional legislative powers in this regard. Thus, in diversity cases *Erie* commands that it be the state law governing primary private activity which prevails.
+*Erie* was something more than an opinion which worried about “forum-shopping and avoidance of inequitable administration of the laws,” although to be sure these were important elements of the decision. I have always regarded that decision as one of the modern cornerstones of our federalism, expressing policies that profoundly touch the allocation of judicial power between the state and federal systems. *Erie* recognized that there should not be two conflicting systems of law controlling the primary activity of citizens, for such alternative governing authority must necessarily give rise to a debilitating uncertainty in the planning of everyday affairs. And it recognized that the scheme of our Constitution envisions an allocation of lawmaking functions between state and federal legislative processes which is undercut if the federal judiciary can make substantive law affecting state affairs beyond the bounds of congressional legislative powers in this regard. Thus, in diversity cases *Erie* commands that it be the state law governing primary private activity which prevails.
 
 The shorthand formulations which have appeared in some past decisions are prone to carry untoward results that frequently arise from oversimplification. The Court is quite right in stating that the "outcome-determinative" test of *Guaranty Trust Co. v. York*, if taken literally, proves too much, for any rule, no matter how clearly "procedural," can affect the outcome of litigation if it is not obeyed. In turning from the "outcome" test of *York* back to the unadorned forum-shopping rationale of *Erie*, however, the Court falls prey to like over-simplification, for a simple forum-shopping rule also proves too much; litigants often choose a federal forum merely to obtain what they consider the advantages of the Federal Rules of Civil Procedure or to try their cases before a supposedly more favorable judge. To my mind the proper line of approach in determining whether to apply a state or a federal rule, whether “substantive” or “procedural,” is to stay close to basic principles by inquiring if the choice of rule would substantially affect those primary decisions respecting human conduct which our constitutional system leaves to state regulation. If so, *Erie* and the Constitution require that the state rule prevail, even in the face of a conflicting federal rule.
 
@@ -1018,9 +1018,9 @@ The Court weakens, if indeed it does not submerge, this basic principle by findi
 
 ## Accommodating State Law
 
-One can understand the history of the *Erie* doctrine as a dialogue between two views. On the one hand, cases like *Stewart Org.* and *Hanna* suggest that federal law applies where it exists, and state law fills in the gaps. On the other hand, cases like *York* suggest that whenever state law is substantive, it should generally apply. A third category of cases, exemplified by *Byrd*, try to accommodate both state and federal interests in the *Erie* inquiry. The tension between these views of the *Erie* doctrine is on full display in the following pair of cases, the most recent word from the Supreme Court on the *Erie* doctrine. 
+One can understand the history of the *Erie* doctrine as a dialogue between two views. On the one hand, cases like *Stewart Org.* and *Hanna* suggest that federal law applies where it exists, and state law fills in the gaps. On the other hand, cases like *York* suggest that whenever state law is substantive, it should generally apply. A third category of cases, exemplified by *Byrd*, tries to accommodate both state and federal interests in the *Erie* inquiry. The tension between these views of the *Erie* doctrine is on full display in the following pair of cases, the most recent word from the Supreme Court on the *Erie* doctrine. 
 
-### Gasperini v. Center for Humanities, Inc
+### Gasperini v. Center for Humanities, Inc.
 
 **Justice Ginsburg delivered the opinion of the Court.**[518 U.S. 415 (1996)]{.aside}
 
@@ -1059,7 +1059,7 @@ In 1986, as part of a series of tort reform measures, New York codified a standa
 
 ::: {.column-margin}
 
-^4^ In full, CPLR § 5501(e) provides:
+^4^ In full, CPLR § 5501(c) provides:
 
 “The appellate division shall review questions of law and questions of fact on an appeal from a judgment or order of a court of original instance and on an appeal from an order of the supreme court, a county court or an appellate term determining an appeal. In reviewing a money judgment in an action in which an itemized verdict is required by rule forty-one hundred eleven of this chapter in which it is contended that the award is excessive or inadequate and that a new trial should have been granted unless a stipulation is entered to a different award, the appellate division shall determine that an award is excessive or inadequate if it deviates materially from what would be reasonable compensation.”
 
@@ -1101,13 +1101,13 @@ It thus appears that if federal courts ignore the change in the New York standar
 
 **B**
 
-CPLR § 5501(c), as earlier noted, is phrased as a direction to the New York Appellate Division. Acting essentially as a surrogate for a New York appellate forum, the Court of Appeals reviewed Gasperini’s award to determine if it “deviate\[d\] materially” from damage awards the Appellate Division permitted in similar circumstances. The Court of Appeals performed this task without benefit of an opinion from the District Court, which had denied “without comment” the Center’s Rule 59 motion. Concentrating on the authority § 5501(e) gives to the Appellate Division, Gasperini urges that the provision shifts fact-finding responsibility from the jury and the trial judge to the appellate court. Assigning such responsibility to an appellate court, he maintains, is incompatible with the Seventh Amendment’s Reexamination Clause, and therefore, Gasperini concludes, § 5501(c) cannot be given effect in federal court. Brief for Petitioner 19-20. Although we reach a different conclusion than Gasperini, we agree that the Second Circuit did not attend to “\[a\]n essential characteristic of \[the federal court\] system,” _Byrd v. Blue Ridge Rural Elec. Cooperative, Inc._, when it used § 5501(c) as “the standard for \[federal\] appellate review.”
+CPLR § 5501(c), as earlier noted, is phrased as a direction to the New York Appellate Division. Acting essentially as a surrogate for a New York appellate forum, the Court of Appeals reviewed Gasperini’s award to determine if it “deviate\[d\] materially” from damage awards the Appellate Division permitted in similar circumstances. The Court of Appeals performed this task without benefit of an opinion from the District Court, which had denied “without comment” the Center’s Rule 59 motion. Concentrating on the authority § 5501(c) gives to the Appellate Division, Gasperini urges that the provision shifts fact-finding responsibility from the jury and the trial judge to the appellate court. Assigning such responsibility to an appellate court, he maintains, is incompatible with the Seventh Amendment’s Reexamination Clause, and therefore, Gasperini concludes, § 5501(c) cannot be given effect in federal court. Brief for Petitioner 19-20. Although we reach a different conclusion than Gasperini, we agree that the Second Circuit did not attend to “\[a\]n essential characteristic of \[the federal court\] system,” _Byrd v. Blue Ridge Rural Elec. Cooperative, Inc._, when it used § 5501(c) as “the standard for \[federal\] appellate review.”
 
 That “essential characteristic” was described in _Byrd_, a diversity suit for negligence in which a pivotal issue of fact would have been tried by a judge were the case in state court. The _Byrd_ Court held that, despite the state practice, the plaintiff was entitled to a jury trial in federal court.
 
 In so ruling, the Court said that the _Guaranty Trust_ “outcome-determination” test was an insufficient guide in cases presenting countervailing federal interests. The Court described the countervailing federal interests present in _Byrd_ this way:
 
-The federal system is an independent system for administering justice to litigants who properly invoke its jurisdiction. An essential characteristic of that system is the manner in which, in civil common-law actions, it distributes trial functions between judge and jury and, under the influence—if not the command—of the Seventh Amendment, assigns the decisions of disputed questions of fact to the jury.
+> The federal system is an independent system for administering justice to litigants who properly invoke its jurisdiction. An essential characteristic of that system is the manner in which, in civil common-law actions, it distributes trial functions between judge and jury and, under the influence—if not the command—of the Seventh Amendment, assigns the decisions of disputed questions of fact to the jury.
 
 The Seventh Amendment, which governs proceedings in federal court, but not in state court, bears not only on the allocation of trial functions between judge and jury, the issue in _Byrd_; it also controls the allocation of authority to review verdicts, the issue of concern here. The Amendment reads:
 
@@ -1161,7 +1161,7 @@ Granting appellate courts authority to decide whether an award is “excessive o
 
 That Amendment was Congress’s response to one of the principal objections to the proposed Constitution raised by the Anti-Federalists during the ratification debates: its failure to ensure, the right to trial by jury in civil actions in federal court. The desire for an explicit constitutional guarantee against reexamination of jury findings was explained by Justice Story, sitting as Circuit Justice in 1812, as having been specifically prompted by Article III’s conferral of “appellate Jurisdiction, both as to Law and Fact” upon the Supreme Court. “\[O\]ne of the most powerful objections urged against \[the Constitution\],” he recounted, was that this authority “would enable that court, with or without a new jury, to re-examine the whole facts, which had been settled by a previous jury.”
 
-The second clause of the Amendment responded to that concern by providing that “\[i\]n \[sjuits at common law … no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law.” U.S. Const., Amdt. 7. The Reexamination Clause put to rest “apprehensions” of “new trials by the appellate courts,” by adopting, in broad fashion, “the rules of the common law” to govern federal-court interference with jury determinations. The content of that law was familiar and fixed. It quite plainly barred reviewing courts from entertaining claims that the jury’s verdict was contrary to the evidence.
+The second clause of the Amendment responded to that concern by providing that “\[i\]n \[s\]uits at common law … no fact tried by a jury, shall be otherwise re-examined in any Court of the United States, than according to the rules of the common law.” U.S. Const., Amdt. 7. The Reexamination Clause put to rest “apprehensions” of “new trials by the appellate courts,” by adopting, in broad fashion, “the rules of the common law” to govern federal-court interference with jury determinations. The content of that law was familiar and fixed. It quite plainly barred reviewing courts from entertaining claims that the jury’s verdict was contrary to the evidence.
 
 \[…\]
 
@@ -1189,7 +1189,7 @@ When there is added to the revision of the Seventh Amendment the Court’s prece
 
 \[…\]
 
-### Shady Grove Orthopedic Assocs., P.A. v. Allstate Ins. Co
+### Shady Grove Orthopedic Assocs., P.A. v. Allstate Ins. Co.
 
 **Justice SCALIA** [559 U.S. 393 (2010)]{.aside} **announced the judgment of the Court and delivered the opinion of the Court with respect to Parts I and II-A, an opinion with respect to Parts II-B and II-D, in which THE CHIEF JUSTICE, Justice THOMAS, and Justice SOTOMAYOR join, and an opinion with respect to Part II-C, in which THE CHIEF JUSTICE and Justice THOMAS join.** 
 
@@ -1203,7 +1203,7 @@ New York law prohibits class actions in suits seeking penalties or statutory min
 
 **I**
 
-The petitioner’s complaint alleged the following: Shady Grove Orthopedic Associates, P. A., provided medical care to Sonia E. Galvez for injuries she suffered in an automobile accident. As partial payment for that care, Galvez assigned to Shady Grove her rights to insurance benefits under a policy issued in New York by Allstate Insurance Co. Shady Grove tendered a claim for the assigned benefits to Allstate, which under New York law had 30 days to pay the claim or deny it. See N.Y. Ins. Law Ann. § 5106(a). Allstate apparently paid, but not on time, and it refused to pay the statutory interest that accrued on the overdue benefits (at two percent per month)_._
+The petitioner’s complaint alleged the following: Shady Grove Orthopedic Associates, P. A., provided medical care to Sonia E. Galvez for injuries she suffered in an automobile accident. As partial payment for that care, Galvez assigned to Shady Grove her rights to insurance benefits under a policy issued in New York by Allstate Insurance Co. Shady Grove tendered a claim for the assigned benefits to Allstate, which under New York law had 30 days to pay the claim or deny it. See N.Y. Ins. Law Ann. § 5106(a). Allstate apparently paid, but not on time, and it refused to pay the statutory interest that accrued on the overdue benefits (at two percent per month).
 
 ::: {.column-margin}
 
@@ -1409,7 +1409,7 @@ Moreover, Shady Grove overlooks the most likely explanation for the absence of l
 
 The point was well put by Brainerd Currie in his seminal article on governmental interest analysis in conflict-of-laws cases. The article centers on a now-archaic Massachusetts law that prevented married women from binding themselves by contract as sureties for their husbands. Discussing whether the Massachusetts prescription applied to transactions involving foreign factors (a foreign forum, foreign place of contracting, or foreign parties), Currie observed:
 
-> When the Massachusetts legislature addresses itself to the problem of married women as sureties, the undeveloped image in its mind is that of _Massachusetts_ married women, husbands, creditors, transactions, courts, and judgments. In the history of Anglo-American law the domestic case has been normal, the conflict-of-laws case marginal.”
+> When the Massachusetts legislature addresses itself to the problem of married women as sureties, the undeveloped image in its mind is that of _Massachusetts_ married women, husbands, creditors, transactions, courts, and judgments. In the history of Anglo-American law the domestic case has been normal, the conflict-of-laws case marginal.
 
 _Married Women’s Contracts: A Study in Conflict-of-Laws Method_, 25 U. Chi. L. Rev. 227, 231 (1958) (emphasis added).
 

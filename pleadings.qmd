@@ -518,7 +518,7 @@ with an unlawful detainer notice.
 Jones believes that the Commissioner should have searched for his new
 address in the Little Rock phonebook and other government records such
 as income tax rolls. We do not believe the government was required to go
-this far. \[...\] An open-ended search for a new address--- especially
+this far. \[...\] An open-ended search for a new address---especially
 when the State obligates the taxpayer to keep his address updated with
 the tax collector, *see* Ark. Code Ann. § 26-35-705 (1997)---imposes
 burdens on the State significantly greater than the several relatively
@@ -742,7 +742,7 @@ Accordingly, I would affirm the judgment of the Arkansas Supreme Court.
     - Can a state require people engaged in certain types of activity
         within the state to appoint an in-state agent for purposes of
         service of process? In *Wuchter v. Pizzutti*, 276 U.S. 13
-        (1928), the Court considered whether a statute requiring all
+        (1928), the Court considered whether a statute could require all
         nonresident motorists to appoint the state Secretary of State as
         their agent for purposes of service of process. The statute did
         not require that the motorist be given any actual notice of the
@@ -820,7 +820,7 @@ ___
 | MICHAEL A. HADDLE,                      |
 |                         Plaintiff       |
 |               v.                        |     Civ. No. 96-00029-CV-1-AAA
-| JEANETTE G. GARRISON \[et al.\],        |
+| JEANETTE G. GARRISON [et al.],          |
 |                         Defendants.     |
 |                                         |
 ```
@@ -871,7 +871,7 @@ Healthmaster.
 9\. Defendant Garrison has at all relevant times owned 50% of the stock
 of Healthmaster and controlled Healthmaster until April or May, 1995,
 when a trustee was appointed for Healthmaster, then a debtor in
-possession under Chapter II of the federal Bankruptcy Code, by the
+possession under Chapter 11 of the federal Bankruptcy Code, by the
 United States Bankruptcy Court for the Southern District of Georgia.
 
 10\. The individual Defendants herein have all served in various
@@ -1195,9 +1195,9 @@ tradition in this case. As Thomas Cooley recognized:
 employer to discharge an employee, by means of false statements,
 threats or putting in fear, or perhaps by means of malevolent advice
 and persuasion, is liable in an action of tort to the employee for the
-damages thereby sustained. And it makes no difference whether the
+damages thereby sustained. *And it makes no difference whether the
 employment was for a fixed term not yet expired or is terminable at
-the will of the employer."
+the will of the employer*."
 
 2 Law of Torts 589--591 (3d ed. 1906) (emphasis added).
 
@@ -1571,7 +1571,7 @@ and "that a recovery is very remote and unlikely." In identifying facts
 that are suggestive enough to render a \§ 1 conspiracy plausible, we have
 the benefit of the prior rulings and considered views of leading
 commentators, already quoted, that lawful parallel conduct fails to
-be-speak unlawful agreement. It makes sense to say, therefore, that an
+bespeak unlawful agreement. It makes sense to say, therefore, that an
 allegation of parallel conduct and a bare assertion of conspiracy will
 not suffice. Without more, parallel conduct does not suggest conspiracy,
 and a conclusory allegation of agreement at some unidentified point does
@@ -2589,7 +2589,7 @@ Stradford submitted a claim under the Policy for \$151,154.74, and
 Northern made payments to Dr. Stradford in this amount. After receiving
 these payments, Dr. Stradford "submitted a revised claim under the
 Policy totaling \$1,385,456.70, consisting of \$168,000.00 for property
-damage, and a business interruption claim of \$1,209,456 .70."
+damage, and a business interruption claim of \$1,209,456.70."
 
 Northern continued to investigate Dr. Stradford's claimed loss\[ and
 ultimately concluded that the damage occurred during the time when the
@@ -2677,7 +2677,7 @@ defendants leave to amend their counterclaims. \[...\]
 
 ### Christian v. Mattel, Inc.
 
-**McKEOWN, Circuit J.** [286 F.3d 1118 (9th Cir. 2003)]{.aside}
+**McKEOWN, Circuit J.** [286 F.3d 1118 (9th Cir. 2002)]{.aside}
 
 ::: {.column-margin}
 
@@ -2905,8 +2905,8 @@ one allegation must make clear which allegations are admitted and which
 are denied (or, as is sometimes appropriate, which the defendant lacks
 knowledge either to admit or deny).
 
-The following case is a study in what can go wrong if a answer fails to
-pay heed to Rule 8(b)(4) and denies more than they intend to.
+The following case is a study in what can go wrong if a party answering a complaint fails
+to pay heed to Rule 8(b)(4) and denies more than it intends to.
 
 ### Zielinski v. Philadelphia Piers, Inc.
 
@@ -3104,7 +3104,7 @@ requires.
 1.  Under a rule of tort law called *respondeat superior*, an employer
     is legally responsible for its employees' workplace negligence. As a
     result, whoever "operated and controlled" the forklift was
-    responsible for Zielienski's injuries (assuming Sandy Johnson had
+    responsible for Zielinski's injuries (assuming Sandy Johnson had
     been negligent).
     
 2.  Pay close attention to Paragraph 5 of the complaint (quoted in the
@@ -3254,7 +3254,7 @@ answer to deny manufacture of the slide.
 
 Amendment of pleadings in civil actions is governed by Rule 15(a), which
 provides in part that once issue is joined in a lawsuit, a party may
-amend his pleading \[only with the opposing party's written consent or
+amend his pleading \["only with the opposing party's written consent or
 the court's leave. The court should freely give leave when justice so
 requires."\]^\*^ 
 
@@ -3283,7 +3283,7 @@ opposing party, in light of the particular facts of the case.
 Certain principles apply to appellate review of a trial court's grant or
 denial of a motion to amend pleadings. First, as noted in *Foman v.
 Davis*, allowance or denial of leave to amend lies within the sound
-discretion of the trial court, The appellate court must view the case in
+discretion of the trial court. The appellate court must view the case in
 the posture in which the trial court acted in ruling on the motion to
 amend.
 
@@ -3406,7 +3406,7 @@ Georgia's statute of limitations. Accordingly, the statute of
 limitations bars the claim asserted in Moore's proposed amended
 complaint unless the amended complaint relates back to the date of the
 original complaint. An amendment relates back to the original filing
-\[when\] "\[the amendment asserts a claim or defense that arose out of
+\[when\] "the amendment asserts a claim or defense that arose out of
 the conduct, transaction, or occurrence set out---or attempted to be set
 out---in the original pleading." Fed. R. Civ. P. 15(c)\[(1)(B)\]. The
 critical issue in Rule 15(c) determinations is whether the original
@@ -3500,7 +3500,7 @@ forth in the original pleading ... ." In determining whether a claim
 relates back, courts look to the "operational facts" set forth in the
 original complaint to determine whether the defendant was put on notice
 of the claim that the plaintiff later seeks to add. As stated in
-*Tri--Ex Enterprises, Inc. v. Morgan Guaranty Trust Co.,* 586 F. Supp.
+*Tri-Ex Enterprises, Inc. v. Morgan Guaranty Trust Co.,* 586 F. Supp.
 930, 932 (S.D.N.Y. 1984):
 
 > "\[T\]he relation back doctrine is based upon the principle that one
@@ -3582,7 +3582,7 @@ part of plaintiff. \[...\]
 
 ### Krupski v. Costa Crociere S.p.A.
 
-**Justice Sotomayor delivered the opinion of the Court.** [560 U.S. 538 (2010)]{.aside}.
+**Justice Sotomayor delivered the opinion of the Court.** [560 U.S. 538 (2010)]{.aside}
 
 ::: {.column-margin}
 
@@ -3614,7 +3614,7 @@ and fractured her femur while she was on board the cruise ship Costa
 Magica. Upon her return home, she acquired counsel and began the process
 of seeking compensation for her injuries. Krupski's passenger
 ticket---which explained that it was the sole contract between each
-passenger and the carrier \[...\] included a variety of requirements for
+passenger and the carrier \[...\]---included a variety of requirements for
 obtaining damages for an injury suffered on board one of the carrier's
 ships. The ticket identified the carrier as
 
@@ -3703,13 +3703,13 @@ concluded that Costa Cruise was correct that it bore no responsibility
 for her injuries.
 
 Shortly thereafter, Costa Crociere---represented by the same counsel who
-had represented Costa Cruise moved to dismiss, contending that the
+had represented Costa Cruise---moved to dismiss, contending that the
 amended complaint did not relate back under Rule 15(c) and was therefore
 untimely. The District Court agreed. Rule 15(c), the court explained,
 imposes three requirements before an amended complaint against a newly
 named defendant can relate back to the original complaint. First, the
 claim against the newly named defendant must have arisen "out of the
-conduct, transaction, or occurrence set out --- or attempted to be set
+conduct, transaction, or occurrence set out---or attempted to be set
 out---in the original pleading." Fed. Rules Civ. Proc. 15(c)(1)(B), (C).
 Second, "within the period provided by Rule 4(m) for serving the summons
 and complaint" (which is ordinarily 120 days from when the complaint is
@@ -3873,7 +3873,7 @@ requirements for relation back, and the amending party's diligence is
 not among them. Moreover, the Rule mandates relation back once the
 Rule's requirements are satisfied; it does not leave the decision
 whether to grant relation back to the district court's equitable
-discretion. *See* Rule 15(c)(1) ("An amendment ... relates back ...
+discretion. *See* Rule 15(c)(1) ("An amendment *... relates back ...*
 when" the three listed requirements are met (emphasis added)).
 
 The mandatory nature of the inquiry for relation back under Rule 15(c)
@@ -3997,7 +3997,7 @@ text of the Rule that controls.
 #### Notes & Questions
 
 1.  What evidence did the Court rely on in concluding that Costa
-    Crociere "knew or should have known that" that it would have been
+    Crociere "knew or should have known" that it would have been
     made the defendant but for the plaintiff's mistake?
     
 2.  How much do you think the outcome in this case depended on the fact

@@ -347,7 +347,7 @@ unenforceable under the doctrine of unconscionability is AFFIRMED.
 #### Notes & Questions
 
 1.  What kind of motion did Countrywide file seeking to force Ferguson
-    to arbitrate her claims? What legal authority did they rely for
+    to arbitrate her claims? What legal authority did they rely on for
     doing so?
 
 2.  What are the two aspects (and their subparts) of the law of
@@ -648,9 +648,9 @@ aid or protection." 29 U.S.C. § 102. ...
 But Congress did so three years later, in 1935, when it enacted the
 NLRA. Relevant here, § 7 of the NLRA guarantees employees "the right to
 self-organization, to form, join, or assist labor organizations, to
-bargain collectively through representatives of their own choosing, and
+bargain collectively through representatives of their own choosing, *and
 to engage in other concerted activities for the purpose of collective
-bargaining or other mutual aid or protection." 29 U.S.C. § 157 (emphasis
+bargaining or other mutual aid or protection*." 29 U.S.C. § 157 (emphasis
 added). Section 8(a)(1) safeguards those rights by making it an "unfair
 labor practice" for an employer to "interfere with, restrain, or coerce
 employees in the exercise of the rights guaranteed in \[§ 7\]."
@@ -715,7 +715,7 @@ their "mutual aid or protection." \[...\]
     doctrine at issue in *Ferguson*). What did the employees argue was
     their generally applicable defense?
 
-2.  The Court held that the employees defense was contract-specific
+2.  The Court held that the employees' defense was contract-specific
     rather than general. Why?
     
 ## Summary Judgment
@@ -724,7 +724,7 @@ At the close of discovery, the parties have another chance to dispose of
 the case without the need for a jury: summary judgment. Rule 56(a)
 provides that either party may move for summary judgment by showing
 "that there is no genuine dispute as to any material fact" and therefore
-that "the movant is entitle to judgment as a matter of law."
+that "the movant is entitled to judgment as a matter of law."
 
 In many ways, summary judgment is a later-in-time version of a motion to
 dismiss for failure to state a claim under Rule 12(b)(6). Both motions
@@ -932,7 +932,7 @@ entered against him."
 *\[Ed. note: the 2010 amendments moved the substance of this part of
 Rule 56(e) to Rule 56(c)(1).\]*
 
-^20^ The purpose of the 1963 amendment was to overturn a line of cases, primarily in the Third Circuit, that had held that a party opposing summary judgment could successfully create a dispute as to a material fact asserted in an affidavit by the moving party simply by relying on a contrary allegation in a well-pleaded complaint. *E.g.*, *Frederick Hart & Co. v. Recordgraph Corp.*, 169 F.2d 580 (\[3d Cir.\]1948); *United States ex rel. Kolton v. Halpern*, 260 F.2d 590 (\[3d Cir.\] 1958). *See* Advisory Committee Note on 1963 Amendment to subdivision (e) of Rule 56.
+^20^ The purpose of the 1963 amendment was to overturn a line of cases, primarily in the Third Circuit, that had held that a party opposing summary judgment could successfully create a dispute as to a material fact asserted in an affidavit by the moving party simply by relying on a contrary allegation in a well-pleaded complaint. *E.g.*, *Frederick Hart & Co. v. Recordgraph Corp.*, 169 F.2d 580 (\[3d Cir.\] 1948); *United States ex rel. Kolton v. Halpern*, 260 F.2d 590 (\[3d Cir.\] 1958). *See* Advisory Committee Note on 1963 Amendment to subdivision (e) of Rule 56.
 
 :::
 
@@ -1160,7 +1160,7 @@ affidavits, *if any*"^\*^ (emphasis added), suggests the absence of
 such a requirement. And if there were any doubt about the meaning of
 Rule 56(c) in this regard, such doubt is clearly removed by Rules 56(a)
 and (b), which provide that claimants and defendants, respectively, may
-move for summary judgment "*with or without supporting affidavits"*
+move for summary judgment "*with or without supporting affidavits*"
 (emphasis added). The import of these subsections is that, regardless of
 whether the moving party accompanies its summary judgment motion with
 affidavits, the motion may, and should, be granted so long as whatever
@@ -1295,7 +1295,7 @@ dissenting.**
     - *Matsushita Electric Industrial Co. v. Zenith Radio Corp.*, 475
         U.S. 574 (1986), is to summary judgment as *Bell Atlantic
         Corp. v. Twombly* is to the motion to dismiss for failure to
-        state claim. Both cases held, in their respective procedural
+        state a claim. Both cases held, in their respective procedural
         postures, that only a *plausible* showing of conspiracy will be
         enough to survive dismissal. In *Matsushita*, the plaintiffs
         offered circumstantial evidence of a conspiracy, which the court
@@ -1305,14 +1305,14 @@ dissenting.**
     - *Anderson v. Liberty Lobby, Inc.*, 477 U.S. 242 (1986),
         clarified that courts ruling on a motion for summary judgment
         must apply the standard of proof that would apply at trial. The
-        claims in *Anderson* sounded in libel, which carries a heighted
+        claims in *Anderson* sounded in libel, which carries a heightened
         burden of proof on the plaintiff: clear and convincing evidence.
         The Court held that a plaintiff held to such a standard of proof
-        must satisfy it to win summary judgment.
+        must satisfy it to survive summary judgment.
 
 ### Tolan v. Cotton
 
-**PER CURIAM.** [550 U.S. 372 (2007)]{.aside}
+**PER CURIAM.** [572 U.S. 650 (2014)]{.aside}
 
 During the early morning hours of New Year's Eve, 2008, police sergeant
 Jeffrey Cotton fired three bullets at Robert Tolan; one of those bullets
@@ -1337,7 +1337,7 @@ are taken from the record evidence and the opinions below. At around
 2:00 on the morning of December 31, 2008, John Edwards, a police
 officer, was on patrol in Bellaire, Texas, when he noticed a black
 Nissan sport utility vehicle turning quickly onto a residential
-580street. The officer watched the vehicle park on the side of the
+street. The officer watched the vehicle park on the side of the
 street in front of a house. Two men exited: Tolan and his cousin,
 Anthony Cooper.
 
@@ -1400,7 +1400,7 @@ testified that Tolan rose to his feet.
 
 Both parties agree that Tolan then exclaimed, from roughly 15 to 20 feet
 away, "\[G\]et your fucking hands off my mom." The parties also agree
-that Cotton then drew 581his pistol and fired three shots at Tolan.
+that Cotton then drew his pistol and fired three shots at Tolan.
 Tolan and his mother testified that these shots came with no verbal
 warning. One of the bullets entered Tolan's chest, collapsing his right
 lung and piercing his liver. While Tolan survived, he suffered a
@@ -1566,7 +1566,7 @@ entered into a representation agreement with Advantage whereby Advantage
 agreed to advise and represent Bias in his affairs. Fentress was the
 particular Advantage representative servicing the Bias account. On June
 17 of that year Bias was picked by the Boston Celtics in the first round
-of the National Basketball Association draft. On the morning of 584June
+of the National Basketball Association draft. On the morning of June
 19, 1986, Bias died of cocaine intoxication. The Estate sued Advantage
 and Fentress for \[...\] injuries allegedly arising out of the
 representation arrangement between Bias and the defendants.
@@ -1825,7 +1825,7 @@ the Court of Appeals did here) the plaintiff's version of the facts.
 
 ::: {.column-margin}
 
-^5^ Justice Stevens suggests that our reaction to the videotape is somehow idiosyncratic, and seems to believe we are misrepresenting its contents. *See* post, at 392 (dissenting opinion) ("In sum, the factual statements by the Court of Appeals quoted by the Court ... were entirely accurate"). We are happy to allow the videotape to speak for itself See Record 36, Exh. A, available at [http://www.supremecourtus.gov/opinions/video/scott_v_harris.html](https://web.archive.org/web/20090117060952/http://www.supremecourtus.gov/opinions/video/scott_v_harris.html) and in Clerk of Court's case file. *\[Ed. note: That page is no longer online; the link above goes to an archived copy. The video is now available from the Supreme Court at <https://www.supremecourt.gov/media/video/mp4files/scott_v_harris.mp4> and is embedded below.\]*
+^5^ Justice Stevens suggests that our reaction to the videotape is somehow idiosyncratic, and seems to believe we are misrepresenting its contents. *See* post, at 392 (dissenting opinion) ("In sum, the factual statements by the Court of Appeals quoted by the Court ... were entirely accurate"). We are happy to allow the videotape to speak for itself. See Record 36, Exh. A, available at [http://www.supremecourtus.gov/opinions/video/scott_v_harris.html](https://web.archive.org/web/20090117060952/http://www.supremecourtus.gov/opinions/video/scott_v_harris.html) and in Clerk of Court's case file. *\[Ed. note: That page is no longer online; the link above goes to an archived copy. The video is now available from the Supreme Court at <https://www.supremecourt.gov/media/video/mp4files/scott_v_harris.mp4> and is embedded below.\]*
 
 {{< video https://www.supremecourt.gov/media/video/mp4files/scott_v_harris.mp4 >}}
 
