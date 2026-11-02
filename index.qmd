@@ -1,5 +1,7 @@
 # Preface {.unnumbered}
 
+![](cover.jpg){width=100%}
+
 ## About This Book
 
 This book is an introductory text for a first-year law school course in federal civil procedure. It is designed to be flexible, lightweight, and open-access. The materials contained here are left to speak primarily for themselves. Where helpful, secondary materials and my own notes and explanations are appended. A supplement containing the Federal Rules of Civil Procedure, selected federal statutes, and the United States Constitution is included.
