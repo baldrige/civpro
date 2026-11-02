@@ -718,6 +718,29 @@ their "mutual aid or protection." \[...\]
 2.  The Court held that the employees' defense was contract-specific
     rather than general. Why?
     
+
+```{r}
+#| label: fig-arbitration
+#| fig-cap: "Share of private-sector nonunion employees covered by mandatory employment arbitration, and by arbitration agreements that also waive class actions, in 2017---the year before *Epic Systems* upheld such waivers. Survey of establishments with 50 or more employees (n = 627). Source: Alexander J.S. Colvin, Econ. Policy Inst., *The Growing Use of Mandatory Arbitration* 2, 11 (2018)."
+#| echo: false
+#| fig-width: 6.5
+#| fig-height: 1.8
+library(ggplot2)
+
+arb <- read.csv("data/arbitration_colvin_2017.csv")
+arb$measure <- factor(arb$measure, levels = rev(arb$measure))
+
+ggplot(arb, aes(pct_nonunion_private_employees, measure)) +
+  geom_col(width = 0.55, fill = "grey35") +
+  geom_text(aes(label = paste0(pct_nonunion_private_employees, "% (",
+                               workers_millions, " million workers)")),
+            hjust = -0.05, size = 3.2) +
+  scale_x_continuous(limits = c(0, 100), labels = function(x) paste0(x, "%"),
+                     expand = expansion(mult = c(0, 0.03))) +
+  labs(x = "Private-sector nonunion employees", y = NULL) +
+  theme_classic(base_size = 11)
+```
+
 ## Summary Judgment
 
 At the close of discovery, the parties have another chance to dispose of
@@ -2022,6 +2045,38 @@ I respectfully dissent.
     Cognitive Illiberalism*, [122 Harv. L. Rev.]{.smallcaps} 837,
     866 (2009) (finding that 26% of people who viewed the video
     recording thought deadly force was not justified in the case).
+
+    ```{r}
+    #| label: fig-scott-harris
+    #| fig-cap: "Average agreement that \"the danger that Harris's driving posed to the police and the public justified Officer Scott's decision to end the chase in a way that put Harris's own life in danger,\" by paired groups of viewers, on a scale from 1 (strongly disagree) to 6 (strongly agree). Pairs are sorted by the size of the gap; every gap except gender and urban/nonurban is statistically significant (p ≤ 0.05). About 1,350 respondents, 2007. Source: Dan M. Kahan, David A. Hoffman & Donald Braman, *Whose Eyes Are You Going to Believe?* Scott v. Harris *and the Perils of Cognitive Illiberalism*, 122 Harv. L. Rev. 837, 868 tbl.1 (2009)."
+    #| echo: false
+    #| fig-width: 6.5
+    #| fig-height: 4.5
+    library(ggplot2)
+
+    sh <- read.csv("data/scott_harris_kahan.csv")
+    gaps <- tapply(sh$mean_deadly_force_justified, sh$dimension, function(x) abs(diff(x)))
+    sh$dimension <- factor(sh$dimension, levels = names(sort(gaps)))
+    ends <- aggregate(mean_deadly_force_justified ~ dimension, sh, range)
+    sh$low <- ave(sh$mean_deadly_force_justified, sh$dimension, FUN = function(x) x == min(x))
+
+    ggplot(sh, aes(mean_deadly_force_justified, dimension)) +
+      geom_segment(data = ends, aes(x = mean_deadly_force_justified[, 1],
+                                    xend = mean_deadly_force_justified[, 2],
+                                    y = dimension, yend = dimension),
+                   colour = "grey70") +
+      geom_point(size = 2.2) +
+      geom_text(data = sh[sh$low == 1, ], aes(label = label), size = 3, hjust = 1, nudge_x = -0.08) +
+    geom_text(data = sh[sh$low == 0, ], aes(label = label), size = 3, hjust = 0, nudge_x = 0.08) +
+      scale_x_continuous(limits = c(1, 6), breaks = 1:6,
+                         labels = c("1
+    Strongly
+    disagree", 2:5, "6
+    Strongly
+    agree")) +
+      labs(x = "Deadly force was justified (mean response)", y = NULL) +
+      theme_classic(base_size = 11)
+    ```
 
 3.  Is the holding in *Scott v. Harris* unique to video evidence? Would
     it apply to other kinds of audiovisual evidence? In other words,
