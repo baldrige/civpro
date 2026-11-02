@@ -18,7 +18,7 @@ ggplot(trials, aes(year, pct_trial)) +
   geom_smooth(method = "loess", formula = y ~ x, se = FALSE,
               method.args = list(family = "symmetric"),
               colour = "black", linewidth = 0.8) +
-  geom_point(size = 1.8) +
+  geom_point(size = 1.8, alpha = 0.5) +
   scale_y_continuous(limits = c(0, NA), labels = function(x) paste0(x, "%"),
                      expand = expansion(mult = c(0, 0.05))) +
   labs(x = NULL, y = "Civil cases reaching trial") +
