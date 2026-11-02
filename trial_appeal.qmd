@@ -1,10 +1,18 @@
 # Trial & Appeal {#sec-trial-appeal}
 
-*\[To come: Chapter introduction.\]*
+The [Seventh Amendment](#sec-amend7) to the Constitution guarantees that "the right of trial by jury shall be preserved" "[i]n Suits at common law, where the value in controversy shall exceed twenty dollars." This short text leaves open two major questions: What are the contours of the "right of trial by jury"? And which cases count as "Suits at common law"? This chapter explores the constitutional right to civil jury trials, along with the provisions of the Federal Rules of Civil Procedure that bear on the trial and appellate process. [Rules 38](#sec-frcp38) and [39](#sec-frcp39) cover the jury trial right itself, and how it can be invoked. [Rules 47](#sec-frcp47)--[51](#sec-frcp51) cover jury selectiohn, verdicts, and jury instructions. [Rule 50](#sec-frcp50) covers a later-in-time cousin of summary judgment: judgment as a matter of law. [Rule 52](#sec-frcp52) covers the principal alternative to jury trials: bench trials. Finally, [Rule 59](#sec-frcp59) specifies the procedures for conducting a new trial. 
+
+Against the backdrop of intricate Rules governing jury trials, bear in mind that the jury trial grows rarer by years. *See* Marc Galanter, *The Vanishing Trial*, 1 J. Empirical Legal Stud. 459 (2004) (reporting that from 1962 to 2002, the rate of federal civil cases reaching a jury fell from 11.5% to 1.8%). Today, less than 1% of civil cases in federal court are tried to a jury. *See* Admin. Off. of the U.S. Cts., *[Judicial Business of the United States Courts](https://www.uscourts.gov/sites/default/files/document/jb_c4_0930.2025.pdf)* tbl. C-4 (2025) (reporting that the percentage had fallen from 1.1% in 2015 to 0.4% in 2025).
+
+Why have jury trials become so rare? Is it because trials are too expensive? Too unpredictable? Too unreliable? Or is it instead because lawyers are better than ever at estimating their clients' chances of prevailing, allowing for efficient settlement of a wider swath of cases?
 
 ## The Right to a Jury
 
-*\[To come: Section introduction.\]*
+The Right to a Jury: section introduction
+- The historical test: "Suits at common law" covers cases tried at law in 1791. Parsons v. Bedford, 28 U.S. (3 Pet.) 433 (1830).
+- Applies to statutory claims too: Curtis v. Loether, 415 U.S. 189 (1974). It's already cited in the chapter.
+- Not binding on the states: the Seventh Amendment has never been incorporated. Minneapolis & St. Louis R. Co. v. Bombolis, 241 U.S. 211 (1916). This sets up Byrd in the Erie chapter.
+- Mechanics: Rule 38 makes the jury right a demand that is waived without one, and Rule 39(b) gives the court discretion to grant a late demand.
 
 ### Beacon Theatres, Inc. v. Westover
 
@@ -294,7 +302,12 @@ have been dismissed.
 
 #### Notes & Questions
 
-*\[To come: Notes & Questions.\]*
+Beacon Theatres: notes
+- Dairy Queen, Inc. v. Wood, 369 U.S. 469 (1962). Calling a claim for money "an accounting," or "incidental" to equitable relief, doesn't defeat the jury right.
+- Ross v. Bernhard, 396 U.S. 531 (1970). The jury right attaches issue by issue, not to the whole case, and footnote 10's three-factor test is often quoted.
+- Lytle v. Household Mfg., Inc., 494 U.S. 545 (1990). When legal claims are wrongly dismissed and the equitable claims are tried to a judge, the judge's findings don't preclude a jury trial of the legal claims.
+- Cross-reference: Parklane Hosiery (Judgments chapter). Collateral estoppel from an equitable SEC action can wipe out a later jury trial. Ask students how that squares with Beacon's priority rule.
+- Question: what if Fox had sued first for a declaratory judgment? Use this to show how declaratory judgments reverse who sues whom.
 
 ### Chauffeurs, Teamsters & Helpers Local No. 391 v. Terry
 
@@ -637,7 +650,13 @@ backpay in no way entitles them to a jury under the Seventh Amendment.
 
 #### Notes & Questions
 
-*\[To come: Notes & Questions.\]*
+Terry: notes
+- Tull v. United States, 481 U.S. 412 (1987). There is a jury right on liability for civil penalties, but not on the amount.
+- Feltner v. Columbia Pictures Television, Inc., 523 U.S. 340 (1998). Statutory damages for copyright infringement go to the jury.
+- Markman v. Westview Instruments, Inc., 517 U.S. 370 (1996). Patent claim construction is for the judge. It's a good example of the "historical plus functional" approach when history runs out.
+- City of Monterey v. Del Monte Dunes, 526 U.S. 687 (1999). § 1983 claims for damages are jury claims.
+- Great-West Life & Annuity Ins. Co. v. Knudson, 534 U.S. 204 (2002). It distinguishes legal from equitable restitution, which complicates Terry's remedy prong.
+- Title VII coda: back pay was historically treated as equitable, but the Civil Rights Act of 1991 added a jury right for compensatory and punitive damages, 42 U.S.C. § 1981a(c).
 
 ### SEC v. Jarkesy
 
@@ -1157,11 +1176,23 @@ here it does not.
 
 #### Notes & Questions
 
-*\[To come: Notes & Questions.\]*
+Jarkesy: notes
+- Atlas Roofing Co. v. OSHRC, 430 U.S. 442 (1977). Read it as narrowed by Jarkesy and ask students whether anything survives.
+- Granfinanciera, S.A. v. Nordberg, 492 U.S. 33 (1989), and Stern v. Marshall, 564 U.S. 462 (2011). These are the public-rights cases in the bankruptcy context. Stern is already cited in the chapter.
+- Oil States Energy Services v. Greene's Energy Group, 584 U.S. 325 (2018). Inter partes review of patents is a public right.
+- Questions:
+  - Which other agencies impose civil penalties in in-house proceedings? The FTC, FCC, OCC, and others; ask what Jarkesy means for them.
+  - What is left of the public-rights exception after Gorsuch's concurrence and Sotomayor's dissent?
 
 ## Judgment as a Matter of Law
 
-*\[To come: Section introduction.\]*
+Judgment as a Matter of Law: section introduction
+- Rule 50's structure: a Rule 50(a) motion before the verdict and a renewed Rule 50(b) motion after it. Before 1991 these were called "directed verdict" and "JNOV." Rule 59 (new trial) is the companion motion.
+- Same standard as summary judgment: Anderson and Celotex (Avoiding Trial chapter). The JMOL cases can be read back against those.
+- Constitutional history:
+  - Slocum v. New York Life Ins. Co., 228 U.S. 364 (1913), held that JNOV violated the Seventh Amendment.
+  - Baltimore & Carolina Line, Inc. v. Redman, 295 U.S. 654 (1935), approved it if the judge reserved the question before verdict.
+  - That history explains why the Rule 50(a) motion matters in Unitherm.
 
 ### Galloway v. United States
 
@@ -1553,7 +1584,12 @@ to me as a judge.
 
 #### Notes & Questions
 
-*\[To come: Notes & Questions.\]*
+Galloway: notes
+- Pennsylvania R.R. Co. v. Chamberlain, 288 U.S. 333 (1933). When the inferences are equally balanced, the case doesn't go to the jury.
+- Lavender v. Kurn, 327 U.S. 645 (1946). This FELA case points the other way: the jury may choose among competing inferences.
+- Questions:
+  - Black's dissent argues the majority is eroding the jury right. Is that fair, given Redman?
+  - What evidence would have filled the 1919–1929 gap in Galloway's case?
 
 ### Reeves v. Sanderson Plumbing Products, Inc.
 
@@ -2082,7 +2118,12 @@ injustice.
 
 #### Notes & Questions
 
-*\[To come: Notes & Questions.\]*
+Reeves: notes
+- The burden-shifting background: McDonnell Douglas Corp. v. Green, 411 U.S. 792 (1973), and St. Mary's Honor Center v. Hicks, 509 U.S. 502 (1993).
+- Cross-reference: Tolan v. Cotton (Avoiding Trial chapter). Ask students to compare the two cases on credibility and on viewing the record in the nonmovant's favor.
+- Questions:
+  - Reeves says the court must "disregard all evidence favorable to the moving party that the jury is not required to believe." What evidence is left after that?
+  - Ginsburg's concurrence: when would pretext evidence plus a prima facie case not be enough?
 
 ### Dupree v. Younger
 
@@ -2276,11 +2317,27 @@ consistent with this opinion.
 
 #### Notes & Questions
 
-*\[To come: Notes & Questions.\]*
+Dupree: notes
+- Ortiz v. Jordan, 562 U.S. 180 (2011). A summary-judgment denial on a factual dispute isn't reviewable after a full trial; Dupree creates an exception for purely legal issues.
+- Questions:
+  - Where is the line between "purely legal" and "fact-bound"? Have students classify qualified immunity, exhaustion, and contract interpretation.
+  - Why might a careful lawyer file a Rule 50 motion anyway?
 
 ## Appeal
 
-*\[To come: Section introduction.\]*
+Appeal: section introduction
+- The final judgment rule: 28 U.S.C. § 1291. A final decision "ends the litigation on the merits and leaves nothing for the court to do but execute the judgment." Catlin v. United States, 324 U.S. 229 (1945).
+- Exceptions:
+  - § 1292(a)(1), orders on injunctions;
+  - § 1292(b), questions the district court certifies;
+  - Rule 54(b), partial final judgment;
+  - Rule 23(f), class certification (Aggregation chapter);
+  - mandamus: Cheney v. U.S. District Court, 542 U.S. 367 (2004).
+- The notice of appeal: 30 days under FRAP 4, and the deadline is jurisdictional. Bowles v. Russell, 551 U.S. 205 (2007).
+- Standards of review:
+  - de novo for law;
+  - clear error for facts: Rule 52(a)(6) and Anderson v. City of Bessemer City, 470 U.S. 564 (1985);
+  - abuse of discretion.
 
 ### Mohawk Industries, Inc. v. Carpenter
 
@@ -2616,4 +2673,11 @@ remainder of the Court's analysis.
 
 #### Notes & Questions
 
+Mohawk: notes
+- Cross-reference: Cohen v. Beneficial Industrial Loan Corp., the source of the collateral-order doctrine, is already in the Erie chapter.
+- Will v. Hallock, 546 U.S. 345 (2006), and Digital Equipment Corp. v. Desktop Direct, Inc., 511 U.S. 863 (1994). The Court keeps the collateral-order class "narrow and selective."
+- Class certification: Coopers & Lybrand v. Livesay, 437 U.S. 463 (1978), rejected appeal from a "death knell" class-certification denial. Rule 23(f) followed in 1998. Microsoft Corp. v. Baker, 582 U.S. 23 (2017), blocks plaintiffs from manufacturing finality by voluntarily dismissing.
+- Coinbase, Inc. v. Bielski, 599 U.S. 736 (2023). When a motion to compel arbitration is denied, the district court must stay the case while that decision is appealed under 9 U.S.C. § 16(a).
+- GEO Group v. Menocal (2026). Whether denial of a "derivative sovereign immunity" defense is immediately appealable. I don't have a reliable record of the holding, so check it before citing.
+- Cross-reference: Hickman (Discovery chapter). Ask students whether work-product rulings are any different from the privilege ruling in Mohawk.
 *\[To come: Notes & Questions.\]*
