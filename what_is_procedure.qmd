@@ -418,6 +418,26 @@ priceless. \[...\]
 
 [Click here to view the article](https://scholars.law.unlv.edu/cgi/viewcontent.cgi?article=1511&context=nlj). [12 Nev. L.J. 591 (2012)]{.aside}
 
+```{r}
+#| label: fig-prose
+#| fig-cap: "Share of federal civil cases filed by self-represented (pro se) litigants, fiscal years 2005--2025. The Northern District of Florida is excluded from every year because the tens of thousands of directly filed 3M earplug MDL cases there in 2020--2024 were mostly recorded as pro se filings. The curve is a LOESS fit. Source: Admin. Off. of the U.S. Cts., *Judicial Business of the United States Courts* tbl. C-13 (2011--2025), tbl. S-23 (2007--2010), tbl. S-24 (2005--2006)."
+#| echo: false
+#| fig-width: 6.5
+#| fig-height: 3.5
+library(ggplot2)
+
+prose <- read.csv("data/prose_share.csv")
+
+ggplot(prose, aes(year, pct_prose_exFLN)) +
+  geom_smooth(method = "loess", formula = y ~ x, se = FALSE,
+              colour = "black", linewidth = 0.8) +
+  geom_point(size = 1.8, alpha = 0.5) +
+  scale_y_continuous(limits = c(0, NA), labels = function(x) paste0(x, "%"),
+                     expand = expansion(mult = c(0, 0.05))) +
+  labs(x = NULL, y = "Civil cases filed pro se") +
+  theme_classic(base_size = 11)
+```
+
 ### Hamdi v. Rumsfeld
 
 **JUSTICE O'CONNOR** [542 U.S. 507 (2004)]{.aside} **announced the judgment of the Court and delivered an
