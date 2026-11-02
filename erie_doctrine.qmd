@@ -1439,7 +1439,7 @@ I would continue to approach _Erie_ questions in a manner mindful of the purpose
 ```{mermaid}
 %%| label: fig-erie-roadmap
 %%| fig-cap: "A roadmap for *Erie* questions in diversity cases. Courts rarely follow the steps this mechanically, and the Justices disagree about several of them (compare the *Shady Grove* plurality and Justice Stevens's concurrence on the Rules Enabling Act step)."
-%%| fig-width: 6.5
+%%| fig-width: 4.7
 %%{init: {"theme": "neutral", "flowchart": {"diagramPadding": 30}}}%%
 flowchart TD
   A["Diversity case: does state or federal law govern the issue?"] --> B["Is a federal statute or Federal Rule broad enough<br/>to control the issue? (Stewart; Hanna; Shady Grove)"]
