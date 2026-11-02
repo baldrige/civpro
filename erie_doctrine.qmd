@@ -1433,3 +1433,23 @@ The Court’s erosion of _Erie_’s federalism grounding impels me to point out 
 **\* \* \***
 
 I would continue to approach _Erie_ questions in a manner mindful of the purposes underlying the Rules of Decision Act and the Rules Enabling Act, faithful to precedent, and respectful of important state interests. I would therefore hold that the New York Legislature’s limitation on the recovery of statutory damages applies in this case, and would affirm the Second Circuit’s judgment.
+
+## Putting It Together
+
+```{mermaid}
+%%| label: fig-erie-roadmap
+%%| fig-cap: "A roadmap for *Erie* questions in diversity cases. Courts rarely follow the steps this mechanically, and the Justices disagree about several of them (compare the *Shady Grove* plurality and Justice Stevens's concurrence on the Rules Enabling Act step)."
+%%| fig-width: 6.5
+%%{init: {"theme": "neutral", "flowchart": {"diagramPadding": 30}}}%%
+flowchart TD
+  A["Diversity case: does state or federal law govern the issue?"] --> B["Is a federal statute or Federal Rule broad enough<br/>to control the issue? (Stewart; Hanna; Shady Grove)"]
+  B -- "Yes: statute" --> C["Is the statute constitutional,<br/>i.e., at least arguably procedural?"]
+  C -- Yes --> D("Apply the federal statute<br/>(Stewart)")
+  B -- "Yes: Rule" --> E["Does the Rule really regulate procedure?<br/>28 U.S.C. § 2072 (Hanna; Shady Grove)"]
+  E -- Yes --> F("Apply the Federal Rule<br/>(Hanna; Shady Grove)")
+  B -- "No: judge-made practice" --> G["Would ignoring state law frustrate the twin aims:<br/>discouraging forum shopping and avoiding<br/>inequitable administration of the laws? (York; Hanna)"]
+  G -- No --> H("Apply federal practice")
+  G -- Yes --> I["Is there a strong countervailing federal interest,<br/>such as the role of the jury? (Byrd)"]
+  I -- Yes --> H
+  I -- No --> J("Apply state law, accommodating<br/>federal interests where possible (Gasperini)")
+```
