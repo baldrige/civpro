@@ -2541,6 +2541,27 @@ Circuit.
     Jonah B. Gelbach, *Locking the Doors to Discovery? Assessing the
     Effects of* Twombly *and* Iqbal *on Access to Discovery*, 121 [Yale
     L.J.]{.smallcaps} 2270, 2277--78 (2012).
+
+    ```{r}
+    #| label: fig-mtd
+    #| fig-cap: "Outcomes of orders deciding Rule 12(b)(6) motions in 23 federal districts, January--June 2006 (before *Twombly*; open circles) and January--June 2010 (after *Iqbal*; filled circles). Grants increased, but only grants with leave to amend; grants that ended the claims did not. Prisoner and pro se cases are excluded. Source: Joe S. Cecil et al., Fed. Judicial Ctr., *Motions to Dismiss for Failure to State a Claim After* Iqbal 14 tbl.4 (2011)."
+    #| echo: false
+    #| fig-width: 6.5
+    #| fig-height: 2.6
+    library(ggplot2)
+
+    mtd <- read.csv("data/mtd_fjc_2011.csv")
+    mtd$outcome <- factor(mtd$outcome, levels = rev(mtd$outcome))
+
+    ggplot(mtd, aes(y = outcome)) +
+      geom_segment(aes(x = pct_2006, xend = pct_2010, yend = outcome), colour = "grey70") +
+      geom_point(aes(x = pct_2006), shape = 21, fill = "white", size = 2.6) +
+      geom_point(aes(x = pct_2010), size = 2.6) +
+      scale_x_continuous(limits = c(0, 50), labels = function(x) paste0(x, "%"),
+                         expand = expansion(mult = c(0, 0.03))) +
+      labs(x = "Share of orders", y = NULL) +
+      theme_classic(base_size = 11)
+    ```
     
 5.  Will certain types of plaintiffs have a harder or easier time
     satisfying *Twombly* and *Iqbal*'s standards? Consider how difficult
