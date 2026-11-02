@@ -1352,8 +1352,8 @@ allegedly covered by a racially restrictive covenant.^\*^ The covenant
 at issue had been recognized as valid and binding in an earlier suit,
 *Burke v. Kleiman*, filed in Illinois state court. In *Burke*, a
 property owner filed a class action "on behalf of herself and other
-property owners in like situation" sued four named individuals allegedly
-in violation of the covenant. The covenant by its terms could not take
+property owners in like situation" against four named individuals who
+had allegedly violated the covenant. The covenant by its terms could not take
 effect unless signed by owners of 95 percent of the covered property.
 Burke was litigated in the Illinois courts, where the parties had
 stipulated (falsely) that the requisite 95 percent had signed. (In fact,
@@ -2257,7 +2257,7 @@ join Part II of the Court's opinion.
     Court held that the plaintiffs had failed to show *commonality*
     under Rule 23(a)(2). The Court explained that, because the class was
     so numerous and geographically dispersed, and because the methods
-    for hiring and promotion in Wal-Mart stores, there were no
+    for hiring and promotion varied from store to store, there were no
     "questions of law or fact common to the class." Is that conclusion
     consistent with *Mosley v. General Motors*, *supra*, which held
     (under Rule 20) that employees alleging discrimination by the same
@@ -2306,8 +2306,8 @@ survival rates even among cancers.
 These features of asbestos posed significant problems for courts trying
 to adjudicate asbestos lawsuits, which began appearing on dockets in
 large numbers in the 1970s. Because the producers of asbestos were not
-making much money selling asbestos products anymore (it was banned for
-most uses by that time), there was a limited amount of money to go
+making much money selling asbestos products anymore (its use had declined
+sharply by that time), there was a limited amount of money to go
 around to those injured by asbestos. Yet it was clear that a large
 number of as-yet unidentified plaintiffs would come forward in the
 future, once injuries manifested from their past asbestos exposure. How

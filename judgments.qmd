@@ -472,8 +472,9 @@ bound by a prior action; (2) preexisting substantive legal relationships
 (such as preceding and succeeding owners of property); (3) adequate
 representation by someone with the same interests who was a party (such
 as trustees, guardians, and other fiduciaries); (4) a party assuming
-control over prior litigation; (5) a party who loses an individual suit
-then sues again, this time as the representative of a class; and (6)
+control over prior litigation; (5) a party bound by a judgment who tries to
+relitigate through a proxy, such as an agent or designated
+representative; and (6)
 special statutory schemes such as bankruptcy and probate proceedings,
 provided those proceedings comport with due process.\] 
 
