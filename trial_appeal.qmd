@@ -311,7 +311,7 @@ the form of backpay for a union's alleged breach of its duty of fair
 representation has a right to trial by jury. We hold that the Seventh
 Amendment entitles such a plaintiff to a jury trial.
 
-I
+**I**
 
 McLean Trucking Company and the Chauffeurs, Teamsters and Helpers Local
 No. 391 (Union) were parties to a collective-bargaining agreement that
@@ -378,7 +378,7 @@ entitled respondents to a jury trial of their claim for monetary relief.
 We granted the petition for certiorari to resolve a Circuit conflict on
 this issue, and now affirm the judgment of the Fourth Circuit.
 
-II
+**II**
 
 \[...\] Because most collective-bargaining agreements accord finality to
 grievance or arbitration procedures established by the
@@ -392,7 +392,7 @@ to recover money damages: that the employer's action violated the terms
 of the collective-bargaining agreement and that the union breached its
 duty of fair representation.
 
-III
+**III**
 
 We turn now to the constitutional issue presented in this case---whether
 respondents are entitled to a jury trial. The Seventh Amendment provides
@@ -423,7 +423,7 @@ legal or equitable in nature." *Tull*, *supra*, at 417-418 (citations
 omitted). The second inquiry is the more important in our analysis.
 *Granfinanciera, S. A.* v. *Nordberg*, 492 U.S. 33, 42 (1989).
 
-A
+**A**
 
 An action for breach of a union's duty of fair representation was
 unknown in 18th-century England; in fact, collective bargaining was
@@ -487,7 +487,7 @@ and legal issues. The first part of our Seventh Amendment inquiry, then,
 leaves us in equipoise as to whether respondents are entitled to a jury
 trial.
 
-B
+**B**
 
 Our determination under the first part of the Seventh Amendment
 analysis is only preliminary. In this case, the only remedy sought is a
@@ -558,7 +558,7 @@ representation action is legal in nature. Considering both parts of the
 Seventh Amendment inquiry, we find that respondents are entitled to a
 jury trial on all issues presented in their suit.
 
-IV
+**IV**
 
 On balance, our analysis of the nature of respondents' duty of fair
 representation action and the remedy they seek convinces us that this
@@ -658,9 +658,9 @@ proceeded before a jury. We consider whether the Seventh Amendment
 permits the SEC to compel respondents to defend themselves before the
 agency rather than before a jury in federal court.
 
-I
+**I**
 
-A
+**A**
 
 In the aftermath of the Wall Street Crash of 1929, Congress passed a
 suite of laws designed to combat securities fraud and increase market
@@ -706,7 +706,7 @@ court." In other words, the SEC may now seek civil penalties in federal
 court, or it may impose them through its own in-house proceedings.
 \[...\]
 
-B
+**B**
 
 Shortly after passage of the Dodd-Frank Act, the SEC began investigating
 Jarkesy and Patriot28 for securities fraud. \[...\] According to the
@@ -735,7 +735,7 @@ U. S. 33 (1989), the panel held that the agency's decision to adjudicate
 the matter in-house violated Jarkesy's and Patriot28's Seventh Amendment
 right to a jury trial. \[...\]
 
-II
+**II**
 
 This case poses a straightforward question: whether the Seventh
 Amendment entitles a defendant to a jury trial when the SEC seeks civil
@@ -758,7 +758,7 @@ III court, without a jury. The Seventh Amendment therefore applies and a
 jury is required. Since the answer to the jury trial question resolves
 this case, we do not reach the nondelegation or removal issues.
 
-A
+**A**
 
 We first explain why this action implicates the Seventh Amendment.
 
@@ -860,7 +860,7 @@ are identical. \[...\] Nevertheless, the close relationship between
 federal securities fraud and common law fraud confirms that this action
 is "legal in nature." *Granfinanciera*, 492 U. S., at 53.
 
-B
+**B**
 
 1
 
@@ -1192,7 +1192,7 @@ deprived him of trial by jury, contrary to the Seventh Amendment.
 
 \[...\]
 
-I.
+**I**
 
 Certain facts are undisputed. Petitioner worked as a longshoreman in
 Philadelphia and elsewhere prior to enlistment in the Army November 1,
@@ -1239,7 +1239,7 @@ position, stating it would not be necessary or helpful for him to know
 what petitioner was doing from 1925 to 1930: "I testified from the
 information I had."
 
-II.
+**II**
 
 This, we think, is the crux of the case and distinguishes it from the
 cases on which petitioner has relied. His burden was to prove total and
@@ -1286,7 +1286,7 @@ In the circumstances exhibited, the former is not equal to the feat,
 and the latter will not permit it. \[...\] This would substitute
 speculation for proof. \[...\]
 
-III.
+**III**
 
 What has been said disposes of the case as the parties have made it.
 For that reason perhaps nothing more need be said. But objection has
@@ -1417,7 +1417,7 @@ a major portion of the essential guarantee of the Seventh Amendment.
 
 :::
 
-I.
+**I**
 
 \[...\]
 
@@ -1519,7 +1519,7 @@ continue to believe that in all other cases a judge should, in
 obedience to the command of the Seventh Amendment, not interfere with
 the jury's function. \[...\]
 
-II.
+**II**
 
 \[...\]
 
@@ -1575,7 +1575,7 @@ legitimate, nondiscriminatory explanation for its action. We must also
 decide whether the employer was entitled to judgment as a matter of law
 under the particular circumstances presented here.
 
-I
+**I**
 
 In October 1995, petitioner Roger Reeves was 57 years old and had spent
 40 years in the employ of respondent, Sanderson Plumbing Products,
@@ -1650,7 +1650,7 @@ because of his age.
 
 \[...\]
 
-II
+**II**
 
 \[...\]
 
@@ -1710,9 +1710,9 @@ employer's explanation may permit a finding of liability, the Court of
 Appeals erred in proceeding from the premise that a plaintiff must
 always introduce additional, independent evidence of discrimination.
 
-III
+**III**
 
-A
+**A**
 
 The remaining question is whether, despite the Court of Appeals'
 misconception of petitioner's evidentiary burden, respondent was
@@ -1760,7 +1760,7 @@ give credence to the evidence favoring the nonmovant as well as that
 unimpeached, at least to the extent that that evidence comes from
 disinterested witnesses."
 
-B
+**B**
 
 Applying this standard here, it is apparent that respondent was not
 entitled to judgment as a matter of law. In this case, in addition to
@@ -1864,7 +1864,7 @@ upon a finding that the evidence was insufficient, remanded the case for
 a new trial. Because our cases addressing the requirements of Rule 50
 compel a contrary result, we reverse.
 
-I
+**I**
 
 The genesis of the underlying litigation in this case was ConAgra's
 attempt to enforce its patent for "A Method for Browning Precooked Whole
@@ -1904,7 +1904,7 @@ antitrust claim. Accordingly, it vacated the jury's judgment in favor of
 Unitherm and remanded for a new trial. We granted certiorari, and now
 reverse.
 
-II
+**II**
 
 Federal Rule of Civil Procedure 50 sets forth the procedural
 requirements for challenging the sufficiency of the evidence in a civil
@@ -2102,11 +2102,11 @@ post-trial motion. The question presented in this case is whether this
 preservation requirement extends to a purely legal issue resolved at
 summary judgment. The answer is no.
 
-I
+**I**
 
 \[...\]
 
-B
+**B**
 
 While Kevin Younger was being held as a pretrial detainee in a Maryland
 state prison, three corrections officers assaulted him. Younger believed
@@ -2143,9 +2143,9 @@ appeal.
 
 \[...\]
 
-II
+**II**
 
-A
+**A**
 
 The jurisdiction of the Courts of Appeals under 28 U. S. C. § 1291 is
 limited to "appeals from . . . final decisions of the district courts."
@@ -2192,7 +2192,7 @@ appellate court is 'powerless' to review the sufficiency of the evidence
 after trial." *Ortiz*, 562 U. S., at 189 (quoting *Unitherm Food
 Systems, Inc.* v. *Swift-Eckrich, Inc.*, 546 U. S. 394, 405 (2006)).
 
-B
+**B**
 
 Younger urges us to extend *Ortiz*'s holding to cover pure questions of
 law resolved in an order denying summary judgment. We decline the
@@ -2223,7 +2223,7 @@ analysis. We therefore hold that a post-trial motion under Rule 50 is
 not required to preserve for appellate review a purely legal issue
 resolved at summary judgment.
 
-C
+**C**
 
 Younger's counterarguments do not persuade us otherwise. First, he
 argues that under *Ortiz*, an order denying summary judgment is not a
@@ -2262,7 +2262,7 @@ exercise.
 
 \[...\]
 
-III
+**III**
 
 The Fourth Circuit was wrong to hold that purely legal issues resolved
 at summary judgment must be renewed in a post-trial motion. We need not
@@ -2312,7 +2312,7 @@ that they do not. Postjudgment appeals, together with other review
 mechanisms, suffice to protect the rights of litigants and preserve the
 vitality of the attorney-client privilege.
 
-I
+**I**
 
 In 2007, respondent Norman Carpenter, a former shift supervisor at a
 Mohawk manufacturing facility, filed suit in the United States District
@@ -2366,9 +2366,9 @@ abuse of discretion" by the District Court. We granted certiorari to
 resolve a conflict among the Circuits concerning the availability of
 collateral appeals in the attorney-client privilege context.
 
-II
+**II**
 
-A
+**A**
 
 By statute, courts of appeals "have jurisdiction of appeals from all
 final decisions of the district courts of the United States, . . .
@@ -2418,7 +2418,7 @@ whole, can be adequately vindicated by other means, "the chance that the
 litigation at hand might be speeded, or a 'particular injustic\[e\]'
 averted," does not provide a basis for jurisdiction under § 1291.
 
-B
+**B**
 
 In the present case, the Court of Appeals concluded that the District
 Court's privilege-waiver order satisfied the first two conditions of the
@@ -2558,7 +2558,7 @@ seek to extend such a ruling to disclosure orders implicating many other
 categories of sensitive information, raising an array of line-drawing
 difficulties.
 
-C
+**C**
 
 In concluding that sufficiently effective review of adverse
 attorney-client privilege rulings can be had without resort to the
