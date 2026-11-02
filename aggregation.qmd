@@ -2755,7 +2755,7 @@ subject matter, as the following case shows.
 
 ```{r}
 #| label: fig-mdl-share
-#| fig-cap: "Actions pending in MDL proceedings as a share of all pending federal civil cases, as of September 30 of each year, 1998--2025. The 2020--2024 surge reflects the 3M Combat Arms earplug MDL, whose more than 200,000 directly filed cases are counted in both figures. Sources: Admin. Off. of the U.S. Cts., *Judicial Business of the United States Courts* tbls. S-20, C-1 (1998--2025)."
+#| fig-cap: "Actions pending in MDL proceedings as a share of all pending federal civil cases, as of September 30 of each year, 1998--2025. The 2020--2024 surge reflects the 3M Combat Arms earplug MDL, whose more than 200,000 directly filed cases are counted in both figures. The curve is a LOESS fit. Sources: Admin. Off. of the U.S. Cts., *Judicial Business of the United States Courts* tbls. S-20, C-1 (1998--2025)."
 #| echo: false
 #| fig-width: 6.5
 #| fig-height: 3.5
@@ -2764,6 +2764,8 @@ library(ggplot2)
 mdl <- read.csv("data/mdl_share.csv")
 
 ggplot(mdl, aes(year, pct_mdl)) +
+  geom_smooth(method = "loess", formula = y ~ x, se = FALSE,
+              colour = "black", linewidth = 0.8) +
   geom_point(size = 1.8) +
   scale_y_continuous(limits = c(0, NA), labels = function(x) paste0(x, "%"),
                      expand = expansion(mult = c(0, 0.05))) +
