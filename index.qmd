@@ -20,6 +20,6 @@ Thank you to all my students over the years, especially those of you who emailed
 If you have any questions or spot any errors, please email them to [me](mailto:tbbennett@smu.edu). You can also click "Report an issue" in the sidebar of any chapter.
 :::
 
-## Copyright
-
+::: {.callout-tip title="Copyright"}
 These materials are free to use and are licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): you can share and adapt them for noncommercial purposes, with attribution, as long as you share your adaptations under the same terms. Judicial opinions, statutes, and rules reproduced here are public domain. 
+:::
