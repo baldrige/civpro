@@ -6,29 +6,23 @@ Against the backdrop of intricate Rules governing jury trials, bear in mind that
 
 ```{r}
 #| label: fig-trial-rate
-#| fig-cap: "Federal civil cases reaching trial, fiscal years 1997--2025. The 2007 spike reflects thousands of mass-tort cases recorded as terminated during or after trial. Source: Admin. Off. of the U.S. Cts., *Judicial Business of the United States Courts* tbl. C-4 (1997--2025)."
+#| fig-cap: "Percent of federal civil cases reaching trial, fiscal years 1997--2025. The curve is a robust LOESS fit, which downweights the 2007 outlier (thousands of mass-tort cases recorded as terminated during or after trial). Source: Admin. Off. of the U.S. Cts., *Judicial Business of the United States Courts* tbl. C-4 (1997--2025)."
 #| echo: false
 #| fig-width: 6.5
-#| fig-height: 4.5
+#| fig-height: 3.5
 library(ggplot2)
 
 trials <- read.csv("data/c4_trial_rates.csv")
-panels <- rbind(
-  data.frame(year = trials$year, value = trials$pct_trial,
-             panel = "Percent of terminated civil cases reaching trial"),
-  data.frame(year = trials$year, value = trials$jury,
-             panel = "Number of civil jury trials")
-)
-panels$panel <- factor(panels$panel, levels = unique(panels$panel))
 
-ggplot(panels, aes(year, value)) +
-  geom_line(linewidth = 0.7) +
-  geom_point(size = 1.4) +
-  facet_wrap(~panel, ncol = 1, scales = "free_y") +
-  scale_y_continuous(limits = c(0, NA), labels = scales::label_comma()) +
-  labs(x = NULL, y = NULL) +
-  theme_minimal(base_size = 11) +
-  theme(strip.text = element_text(hjust = 0, face = "bold"))
+ggplot(trials, aes(year, pct_trial)) +
+  geom_smooth(method = "loess", formula = y ~ x, se = FALSE,
+              method.args = list(family = "symmetric"),
+              colour = "black", linewidth = 0.8) +
+  geom_point(size = 1.8) +
+  scale_y_continuous(limits = c(0, NA), labels = function(x) paste0(x, "%"),
+                     expand = expansion(mult = c(0, 0.05))) +
+  labs(x = NULL, y = "Civil cases reaching trial") +
+  theme_classic(base_size = 11)
 ```
 
 Why have jury trials become so rare? Is it because trials are too expensive? Too unpredictable? Too unreliable? Or is it instead because lawyers are better than ever at estimating their clients' chances of prevailing, allowing for efficient settlement of a wider swath of cases?
