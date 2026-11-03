@@ -28,7 +28,7 @@ All persons born or naturalized in the United States, and subject to the jurisdi
 
 ::: {.column-margin}
 
-![](images/justices/potter_stewart.png){width=150}
+![](images/justices/potter_stewart.png){width=150 fig-alt="Justice Potter Stewart"}
 
 :::
 
@@ -185,7 +185,7 @@ For the reasons stated in this opinion, the judgment is affirmed.
 
 ::: {.column-margin}
 
-![](images/justices/harry_a_blackmun.png){width=150}
+![](images/justices/harry_a_blackmun.png){width=150 fig-alt="Justice Harry A. Blackmun"}
 
 :::
 
@@ -375,7 +375,7 @@ I respectfully dissent.
 
 ::: {.column-margin}
 
-![](images/justices/john_paul_stevens.png){width=150}
+![](images/justices/john_paul_stevens.png){width=150 fig-alt="Justice John Paul Stevens"}
 
 :::
 
@@ -420,6 +420,7 @@ priceless. \[...\]
 
 ```{r}
 #| label: fig-prose
+#| fig-alt: "Scatterplot of the share of federal civil filings by self-represented litigants, fiscal years 2005 to 2025, with a smoothed trend staying between about 25 and 30 percent."
 #| fig-cap: "Share of federal civil cases filed by self-represented (pro se) litigants, fiscal years 2005--2025. The Northern District of Florida is excluded from every year because the tens of thousands of directly filed 3M earplug MDL cases there in 2020--2024 were mostly recorded as pro se filings. The curve is a LOESS fit. Source: Admin. Off. of the U.S. Cts., *Judicial Business of the United States Courts* tbl. C-13 (2011--2025), tbl. S-23 (2007--2010), tbl. S-24 (2005--2006)."
 #| echo: false
 #| fig-width: 6.5
@@ -446,7 +447,7 @@ join.**
 
 ::: {.column-margin}
 
-![](images/justices/sandra_day_oconnor.png){width=150}
+![](images/justices/sandra_day_oconnor.png){width=150 fig-alt="Justice Sandra Day O'Connor"}
 
 :::
 
@@ -864,7 +865,7 @@ dissenting in part, and concurring in the judgment.**
 
 ::: {.column-margin}
 
-![](images/justices/david_h_souter.png){width=150}
+![](images/justices/david_h_souter.png){width=150 fig-alt="Justice David H. Souter"}
 
 :::
 
@@ -963,7 +964,7 @@ case.
 
 ::: {.column-margin}
 
-![](images/justices/antonin_scalia.png){width=150}
+![](images/justices/antonin_scalia.png){width=150 fig-alt="Justice Antonin Scalia"}
 
 :::
 
@@ -1151,7 +1152,7 @@ does not envision, I respectfully dissent.
 
 ::: {.column-margin}
 
-![](images/justices/clarence_thomas.png){width=150}
+![](images/justices/clarence_thomas.png){width=150 fig-alt="Justice Clarence Thomas"}
 
 :::
 

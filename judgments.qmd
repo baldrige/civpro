@@ -31,7 +31,7 @@ suit. The next case shows some of the scars of that change.
 
 ::: {.column-margin}
 
-![](easterbrook.png){width=150}
+![](easterbrook.png){width=150 fig-alt="Judge Easterbrook"}
 
 :::
 
@@ -195,7 +195,7 @@ AFFIRMED.
 
 ::: {.column-margin}
 
-![](swygert.png){width=150}
+![](swygert.png){width=150 fig-alt="Judge Swygert"}
 
 :::
 
@@ -333,7 +333,7 @@ affirm the judgment below.
 
 ::: {.column-margin}
 
-![](images/justices/ruth_bader_ginsburg.png){width=150}
+![](images/justices/ruth_bader_ginsburg.png){width=150 fig-alt="Justice Ruth Bader Ginsburg"}
 
 :::
 
@@ -665,7 +665,7 @@ important to keep the two doctrines straight in your mind.
 
 ::: {.column-margin}
 
-![](lybrook.png){width=150}
+![](lybrook.png){width=150 fig-alt="Judge Lybrook"}
 
 :::
 
@@ -786,7 +786,7 @@ whether Jessie sustained personal injuries and compensable damages.
 
 ::: {.column-margin}
 
-![](images/justices/potter_stewart.png){width=150}
+![](images/justices/potter_stewart.png){width=150 fig-alt="Justice Potter Stewart"}
 
 :::
 

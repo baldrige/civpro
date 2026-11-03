@@ -1,6 +1,6 @@
 # Preface {.unnumbered}
 
-![](cover.jpg){width=100%}
+![](cover.jpg){width=100% fig-alt="Cover of Civil Procedure by Thomas B. Bennett"}
 
 ## About This Book
 

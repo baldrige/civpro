@@ -22,3 +22,12 @@ body.quarto-dark {
     filter: invert(0.867) hue-rotate(180deg);
   }
 }
+
+// In dark mode, the gray of the previous/next page links and the breadcrumbs
+// is too faint against the background; lighten it to meet WCAG AA contrast.
+body.quarto-dark {
+  .nav-page-text,
+  .quarto-title-breadcrumbs .breadcrumb-item a {
+    color: #ced4da;
+  }
+}

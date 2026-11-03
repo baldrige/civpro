@@ -135,7 +135,7 @@ requests. \[...\]
 
 ::: {.column-margin}
 
-![](pregerson.png){width=150}
+![](pregerson.png){width=150 fig-alt="Judge Pregerson"}
 
 :::
 
@@ -365,7 +365,7 @@ unenforceable under the doctrine of unconscionability is AFFIRMED.
 
 ::: {.column-margin}
 
-![](images/justices/neil_gorsuch.png){width=150}
+![](images/justices/neil_gorsuch.png){width=150 fig-alt="Justice Neil Gorsuch"}
 
 :::
 
@@ -579,7 +579,7 @@ dissenting.**
 
 ::: {.column-margin}
 
-![](images/justices/ruth_bader_ginsburg.png){width=150}
+![](images/justices/ruth_bader_ginsburg.png){width=150 fig-alt="Justice Ruth Bader Ginsburg"}
 
 :::
 
@@ -721,6 +721,7 @@ their "mutual aid or protection." \[...\]
 
 ```{r}
 #| label: fig-arbitration
+#| fig-alt: "Bar chart: 56.2 percent of nonunion private-sector employees, about 60 million workers, are subject to mandatory arbitration, and 23.1 percent, about 25 million, are also barred from class actions."
 #| fig-cap: "Share of private-sector nonunion employees covered by mandatory employment arbitration, and by arbitration agreements that also waive class actions, in 2017---the year before *Epic Systems* upheld such waivers. Survey of establishments with 50 or more employees (n = 627). Source: Alexander J.S. Colvin, Econ. Policy Inst., *The Growing Use of Mandatory Arbitration* 2, 11 (2018)."
 #| echo: false
 #| fig-width: 6.5
@@ -772,7 +773,7 @@ summary judgment.
 
 ::: {.column-margin}
 
-![](images/justices/john_m_harlan2.png){width=150}
+![](images/justices/john_m_harlan2.png){width=150 fig-alt="Justice John Marshall Harlan II"}
 
 ^1^ Rev. Stat. § 1979, 42 U.S.C. § 1983 provides:
 
@@ -1018,7 +1019,7 @@ opinion.
 
 ::: {.column-margin}
 
-![](images/justices/hugo_l_black.png){width=150}
+![](images/justices/hugo_l_black.png){width=150 fig-alt="Justice Hugo L. Black"}
 
 :::
 
@@ -1101,7 +1102,7 @@ substitute for trial by jury which so long has been the hallmark of
 
 ::: {.column-margin}
 
-![](images/justices/william_h_rehnquist.png){width=150}
+![](images/justices/william_h_rehnquist.png){width=150 fig-alt="Justice William H. Rehnquist"}
 
 :::
 
@@ -1276,7 +1277,7 @@ case is remanded for further proceedings consistent with this opinion.
 
 ::: {.column-margin}
 
-![](images/justices/byron_r_white.png){width=150}
+![](images/justices/byron_r_white.png){width=150 fig-alt="Justice Byron R. White"}
 
 :::
 
@@ -1570,7 +1571,7 @@ judgment.**
 
 ::: {.column-margin}
 
-![](sentelle.png){width=150}
+![](sentelle.png){width=150 fig-alt="Judge Sentelle"}
 
 :::
 
@@ -1767,7 +1768,7 @@ Court's award of summary judgment to the defendants in this case.
 
 ::: {.column-margin}
 
-![](images/justices/antonin_scalia.png){width=150}
+![](images/justices/antonin_scalia.png){width=150 fig-alt="Justice Antonin Scalia"}
 
 :::
 
@@ -1936,7 +1937,7 @@ reversed.
 
 ::: {.column-margin}
 
-![](images/justices/john_paul_stevens.png){width=150}
+![](images/justices/john_paul_stevens.png){width=150 fig-alt="Justice John Paul Stevens"}
 
 :::
 
@@ -2048,6 +2049,7 @@ I respectfully dissent.
 
     ```{r}
     #| label: fig-scott-harris
+    #| fig-alt: "Dumbbell chart of mean agreement, on a 1 to 6 scale, that deadly force was justified in Scott v. Harris, compared across pairs of demographic and cultural groups; for example, communitarians averaged 4.23 and individualists 4.65."
     #| fig-cap: "Average agreement that \"the danger that Harris's driving posed to the police and the public justified Officer Scott's decision to end the chase in a way that put Harris's own life in danger,\" by paired groups of viewers, on a scale from 1 (strongly disagree) to 6 (strongly agree). Pairs are sorted by the size of the gap; every gap except gender and urban/nonurban is statistically significant (p ≤ 0.05). About 1,350 respondents, 2007. Source: Dan M. Kahan, David A. Hoffman & Donald Braman, *Whose Eyes Are You Going to Believe?* Scott v. Harris *and the Perils of Cognitive Illiberalism*, 122 Harv. L. Rev. 837, 868 tbl.1 (2009)."
     #| echo: false
     #| fig-width: 6.5

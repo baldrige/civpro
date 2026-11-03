@@ -53,9 +53,9 @@ This matter comes before the Court on Plaintiff’s Motion to designate location
 |           United States District Judge
 
 ::: {#fig-order-1 layout-ncol=1}
-![Page 1](avista_order1_Page_1.png){group="avista-order-1"}
+![Page 1](avista_order1_Page_1.png){group="avista-order-1" fig-alt="Page 1 of Judge Presnell's first order in Avista Management v. Wausau Underwriters"}
 
-![Page 2](avista_order1_Page_2.png){group="avista-order-1"}
+![Page 2](avista_order1_Page_2.png){group="avista-order-1" fig-alt="Page 2 of Judge Presnell's first order in Avista Management v. Wausau Underwriters"}
 
 June 6, 2006 Order
 :::
@@ -71,9 +71,9 @@ Two days after Judge Presnell entered the order above (@sec-order1), counsel for
 
 ::: {#fig-avista-correspondence layout-ncol=1}
 
-![Page 1](avista1_Page_1.png){group="avista-correspondence-1"}
+![Page 1](avista1_Page_1.png){group="avista-correspondence-1" fig-alt="Page 1 of the June 8, 2006 letter between counsel in Avista"}
 
-![Page 2](avista1_Page_2.png){group="avista-correspondence-1"}
+![Page 2](avista1_Page_2.png){group="avista-correspondence-1" fig-alt="Page 2 of the June 8, 2006 letter between counsel in Avista"}
 
 Correspondence of June 8, 2006
 :::
@@ -82,9 +82,9 @@ Several days later, Mr. Craig again wrote to Mr. Pettinato.
 
 ::: {#fig-avista-correspondence2 layout-ncol=1}
 
-![Page 1](avista2_Page_1.png){group="avista-correspondence-2"}
+![Page 1](avista2_Page_1.png){group="avista-correspondence-2" fig-alt="Page 1 of the June 20, 2006 letter between counsel in Avista"}
 
-![Page 2](avista2_Page_2.png){group="avista-correspondence-2"}
+![Page 2](avista2_Page_2.png){group="avista-correspondence-2" fig-alt="Page 2 of the June 20, 2006 letter between counsel in Avista"}
 
 Correspondence of June 20, 2006
 :::
@@ -104,7 +104,7 @@ Since the dispute underlying this Court’s Order has been resolved, there is no
 |           United States District Judge
 
 ::: {#fig-order-2 layout-ncol=1}
-![Page 1](avista_order2.png){group="avista-order-2"}
+![Page 1](avista_order2.png){group="avista-order-2" fig-alt="Judge Presnell's June 26, 2006 order in Avista"}
 
 June 26, 2006 Order
 :::
@@ -117,7 +117,7 @@ June 26, 2006 Order
 
 ::: {.column-margin}
 
-![](images/justices/potter_stewart.png){width=150}
+![](images/justices/potter_stewart.png){width=150 fig-alt="Justice Potter Stewart"}
 
 :::
 
@@ -161,7 +161,7 @@ The rule of law that Alabama followed in this case reflects a belief that in the
 
 ::: {.column-margin}
 
-![](images/justices/earl_warren.png){width=150}
+![](images/justices/earl_warren.png){width=150 fig-alt="Justice Earl Warren"}
 
 :::
 
@@ -171,7 +171,7 @@ Petitioners in this case contend that they were convicted under an ordinance tha
 
 ::: {.column-margin}
 
-![](images/justices/william_o_douglas.png){width=150}
+![](images/justices/william_o_douglas.png){width=150 fig-alt="Justice William O. Douglas"}
 
 :::
 
@@ -227,7 +227,7 @@ Which of these do you think is unjust? Which did the SCLC disobey?
 
 ::: {.column-margin}
 
-![](images/justices/potter_stewart.png){width=150}
+![](images/justices/potter_stewart.png){width=150 fig-alt="Justice Potter Stewart"}
 
 :::
 

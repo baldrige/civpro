@@ -14,7 +14,7 @@ We will begin our study of subject-matter jurisdiction with one of the chief cat
 
 ::: {.column-margin}
 
-![](images/justices/john_marshall.png){width=150}
+![](images/justices/john_marshall.png){width=150 fig-alt="Justice John Marshall"}
 
 :::
 
@@ -39,7 +39,7 @@ The appellants say, that the case arises on the contract; but the validity of th
 
 ::: {.column-margin}
 
-![](images/justices/william_h_moody.png){width=150}
+![](images/justices/william_h_moody.png){width=150 fig-alt="Justice William H. Moody"}
 
 :::
 
@@ -75,7 +75,7 @@ It is ordered that the judgment be reversed and the case remitted to the circuit
 
 ::: {.column-margin}
 
-![](images/justices/oliver_w_holmes_jr.png){width=150}
+![](images/justices/oliver_w_holmes_jr.png){width=150 fig-alt="Justice Oliver Wendell Holmes, Jr."}
 
 :::
 
@@ -100,7 +100,7 @@ _Judgment reversed._
 
 ::: {.column-margin}
 
-![](images/justices/william_r_day.png){width=150}
+![](images/justices/william_r_day.png){width=150 fig-alt="Justice William R. Day"}
 
 :::
 
@@ -122,7 +122,7 @@ In the instant case the averments of the bill show that the directors were proce
 
 ::: {.column-margin}
 
-![](images/justices/oliver_w_holmes_jr.png){width=150}
+![](images/justices/oliver_w_holmes_jr.png){width=150 fig-alt="Justice Oliver Wendell Holmes, Jr."}
 
 :::
 
@@ -139,7 +139,7 @@ No doubt it is desirable that the question raised in this case should be set at 
 
 ::: {.column-margin}
 
-![](images/justices/john_paul_stevens.png){width=150}
+![](images/justices/john_paul_stevens.png){width=150 fig-alt="Justice John Paul Stevens"}
 
 :::
 
@@ -197,7 +197,7 @@ _It is so ordered._
 
 ::: {.column-margin}
 
-![](images/justices/david_h_souter.png){width=150}
+![](images/justices/david_h_souter.png){width=150 fig-alt="Justice David H. Souter"}
 
 :::
 
@@ -257,7 +257,7 @@ _It is so ordered._
 
 ::: {.column-margin}
 
-![](images/justices/clarence_thomas.png){width=150}
+![](images/justices/clarence_thomas.png){width=150 fig-alt="Justice Clarence Thomas"}
 
 :::
 
@@ -273,7 +273,7 @@ Whatever the vices of the _American Well Works_ rule, it is clear. Moreover, it 
 
 ::: {.column-margin}
 
-![](images/justices/john_g_roberts_jr.png){width=150}
+![](images/justices/john_g_roberts_jr.png){width=150 fig-alt="Justice John G. Roberts, Jr."}
 
 :::
 
@@ -361,7 +361,7 @@ Recall that subject-matter jurisdiction requires both constitutional and statuto
 
 ::: {.column-margin}
 
-![](images/justices/john_marshall.png){width=150}
+![](images/justices/john_marshall.png){width=150 fig-alt="Justice John Marshall"}
 
 :::
 
@@ -397,7 +397,7 @@ _Louisville, Cincinnati & Charleston R.R. Co. v. Letson_, 43 U.S. 497, 555 (1844
 
 ::: {.column-margin}
 
-![](images/judges/ainsworth.jpg){width=150}
+![](images/judges/ainsworth.jpg){width=150 fig-alt="Judge Ainsworth"}
 
 :::
 
@@ -434,6 +434,7 @@ Nevertheless, questions frequently arise about how to value non-monetary forms o
 
 ```{r}
 #| label: fig-aic
+#| fig-alt: "Step chart of the diversity amount-in-controversy threshold from 1800 to 2025, in nominal dollars (a step line rising from 500 dollars to 75,000 dollars) and in 2025 dollars."
 #| fig-cap: "The diversity amount-in-controversy threshold, 1800--2025, in nominal dollars (gray) and in 2025 dollars (black). Each step marks the year Congress raised the threshold. Sources: 28 U.S.C. § 1332 (amendment notes); Fed. Judicial Ctr., *Jurisdiction: Diversity of Citizenship*; Fed. Reserve Bank of Minneapolis, *Consumer Price Index, 1800--* (annual averages)."
 #| echo: false
 #| fig-width: 6.5
@@ -468,7 +469,7 @@ ggplot(aic, aes(year)) +
 
 ::: {.column-margin}
 
-![](images/justices/stephen_g_breyer.png){width=150}
+![](images/justices/stephen_g_breyer.png){width=150 fig-alt="Justice Stephen G. Breyer"}
 
 :::
 
@@ -518,7 +519,7 @@ Often a lawsuit will include a mix of claims that arise under both federal and s
 
 ::: {.column-margin}
 
-![](images/justices/william_j_brennan_jr.png){width=150}
+![](images/justices/william_j_brennan_jr.png){width=150 fig-alt="Justice William J. Brennan, Jr."}
 
 :::
 
@@ -563,7 +564,7 @@ We are not prepared to say that in the present case the District Court exceeded 
 
 ::: {.column-margin}
 
-![](images/justices/william_h_rehnquist.png){width=150}
+![](images/justices/william_h_rehnquist.png){width=150 fig-alt="Justice William H. Rehnquist"}
 
 :::
 
@@ -628,7 +629,7 @@ _Affirmed._
 
 ::: {.column-margin}
 
-![](images/justices/potter_stewart.png){width=150}
+![](images/justices/potter_stewart.png){width=150 fig-alt="Justice Potter Stewart"}
 
 :::
 
@@ -693,7 +694,7 @@ _It is so ordered._
 
 ::: {.column-margin}
 
-![](images/justices/byron_r_white.png){width=150}
+![](images/justices/byron_r_white.png){width=150 fig-alt="Justice Byron R. White"}
 
 :::
 
@@ -713,7 +714,7 @@ The complete-diversity requirement, of course, could be viewed as meaning that i
 
 ::: {.column-margin}
 
-![](images/justices/antonin_scalia.png){width=150}
+![](images/justices/antonin_scalia.png){width=150 fig-alt="Justice Antonin Scalia"}
 
 :::
 
@@ -758,7 +759,7 @@ _Affirmed._
 
 ::: {.column-margin}
 
-![](images/justices/john_paul_stevens.png){width=150}
+![](images/justices/john_paul_stevens.png){width=150 fig-alt="Justice John Paul Stevens"}
 
 :::
 
@@ -794,7 +795,7 @@ I respectfully dissent.
 
 ::: {.column-margin}
 
-![](images/justices/anthony_m_kennedy.png){width=150}
+![](images/justices/anthony_m_kennedy.png){width=150 fig-alt="Justice Anthony M. Kennedy"}
 
 :::
 
@@ -884,7 +885,7 @@ The plaintiff gets the first choice of forum. Wherever she files her complaint w
 
 ::: {.column-margin}
 
-![](images/justices/ruth_bader_ginsburg.png){width=150}
+![](images/justices/ruth_bader_ginsburg.png){width=150 fig-alt="Justice Ruth Bader Ginsburg"}
 
 :::
 
@@ -932,7 +933,7 @@ For the reasons stated, the judgment of the Court of Appeals is reversed, and th
 
 ::: {.column-margin}
 
-![](images/justices/stephen_g_breyer.png){width=150}
+![](images/justices/stephen_g_breyer.png){width=150 fig-alt="Justice Stephen G. Breyer"}
 
 :::
 
