@@ -18,11 +18,16 @@ pj$row <- seq_len(nrow(pj))
 pj$label <- paste0(pj$case, " (", pj$year, ")")
 right <- pj$year <= 1950  # label early cases to the right of the point, later ones to the left
 
+# Okabe-Ito colors, distinguishable with common forms of color blindness.
+strand_colours <- c(Presence = "#E69F00", Consent = "#009E73",
+                    Specific = "#0072B2", General = "#D55E00")
+
 ggplot(pj, aes(year, row)) +
-  geom_point(size = 2.2) +
+  geom_point(aes(colour = strand), size = 2.4, show.legend = FALSE) +
   geom_text(aes(label = label), hjust = ifelse(right, 0, 1),
             nudge_x = ifelse(right, 3, -3), size = 3.1, fontface = "italic") +
   facet_grid(strand ~ ., scales = "free_y", space = "free_y") +
+  scale_colour_manual(values = strand_colours) +
   scale_y_reverse(breaks = NULL, expand = expansion(add = 0.7)) +
   scale_x_continuous(breaks = seq(1880, 2020, 20), limits = c(1870, 2030)) +
   labs(x = NULL, y = NULL) +
