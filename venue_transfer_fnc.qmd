@@ -129,6 +129,30 @@ We reverse the judgment of the Court of Appeals for the Fifth Circuit. Although 
 
 *It is so ordered.*
 
+::: {.callout-note .oral-argument icon=false}
+## Listen to the Argument
+
+::: {.content-visible when-format="html"}
+<audio controls preload="none" src="audio/atlantic-marine.mp3" style="width: 100%;"></audio>
+:::
+
+Justice Ginsburg questions William S. Hastings, counsel for Atlantic Marine, about whether a forum-selection clause can make an otherwise proper venue "wrong." Argued October 9, 2013; this clip runs 0:07:09–0:08:49 of the recording. Recording and transcript: [Oyez](https://www.oyez.org/cases/2013/12-929) (CC BY-NC 4.0), where the full argument is available.
+
+::: {.callout-tip collapse="true" icon=false}
+## Transcript of the Clip
+
+**Justice Ginsburg:** That's only -- what that tells us is that venue is a highly waiverable thing. You can stand on your venue right, but you don't have to. My problem with your interpretation is you are allowing a private agreement to make a venue prescription that Congress enacted improper. Congress said it was proper. It may be that it should not apply in this case because the parties have consented to something else, but it's not a wrong venue. I mean, suppose the question had never come up. The -- there wasn't a claim that this was a wrong venue. The -- the case could have proceeded, and it would have been a place of proper venue, right?
+
+**William S. Hastings:** Your Honor, if there was no objection raised, yes.
+
+**Justice Ginsburg:** But it doesn't become -- it's a place of proper venue. There may be a reason why another venue is the one that should control in this case. But you can't make a private agreement -- can't say what Congress says is proper is improper.
+
+**William S. Hastings:** And, Your Honor, in response to that, first of all, the venue rights have always been, like many Federal rights, waiverable provisions. And when a contract--
+
+**Justice Ginsburg:** That doesn't mean it's improper. It means it's waiverable.
+:::
+:::
+
 ## *Forum Non Conveniens*
 
 Transferring venue within the federal court system is easy enough, especially in light of cases like *Atlantic Marine*. But a much trickier problem results when a party claims that the appropriate forum for a suit is in an entirely different court system---either a different state court or a court in a foreign country. In that circumstance, the most effective mechanism for a defendant to seek to move a case is a motion to dismiss on grounds of *forum non conveniens.* This common-law doctrine directs courts to weigh the comparative convenience of two alternative forums and to dismiss if the alternate forum is adequate and more convenient. The following two cases provide 1) the Supreme Court’s most authoritative statement on the law of *forum non conveniens*; and 2) a look at how the doctrine is applied in lower courts.

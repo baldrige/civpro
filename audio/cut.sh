@@ -6,7 +6,8 @@
 # Sources: the Supreme Court's own recordings (public domain), with times from
 # the line-by-line alignment at supremecourt.report/arguments/; and, for
 # arguments before October 2017, Oyez's recordings and timed transcripts
-# (oyez.org, CC BY-NC 4.0).
+# (oyez.org, CC BY-NC 4.0). Oyez's Daimler (11-965) recording runs about 13 s
+# ahead of its transcript by the clip, so that clip's times were set by the audio.
 set -euo pipefail
 here="$(cd "$(dirname "$0")" && pwd)"
 work="$(mktemp -d)"

@@ -509,6 +509,44 @@ We understand that such seeming anomalies will arise. However, in view of the ne
 
 […]
 
+::: {.callout-note .oral-argument icon=false}
+## Listen to the Argument
+
+::: {.content-visible when-format="html"}
+<audio controls preload="none" src="audio/hertz.mp3" style="width: 100%;"></audio>
+:::
+
+Chief Justice Roberts asks Todd M. Schneider, counsel for the Hertz employees, where Starbucks's principal place of business would be under the Ninth Circuit's test, and Justices Scalia, Ginsburg, and Sotomayor follow up. Argued November 10, 2009; this clip runs 0:44:05–0:45:46 of the recording. Recording and transcript: [Oyez](https://www.oyez.org/cases/2009/08-1107) (CC BY-NC 4.0), where the full argument is available.
+
+::: {.callout-tip collapse="true" icon=false}
+## Transcript of the Clip
+
+**Chief Justice Roberts:** Where is -- under the Ninth Circuit test, where is -- what is the principal place of business of Starbucks?
+
+**Todd M.  Schneider:** Under the Ninth Circuit test, the principal place of Starbucks, there is a case that says Starbucks is in California. Let me give you, Mr. Chief Justice--
+
+**Justice Scalia:** That's a surprise. [Laughter]
+
+**Todd M.  Schneider:** --I was -- I was surprised as well. But -- but let me give you the numbers so that it makes sense, because I have read the case.
+
+**Justice Ginsburg:** Where is -- where is its headquarters.
+
+**Todd M.  Schneider:** Headquarters is in Seattle, Washington. But over -- that's correct, Your Honor.
+
+**Justice Sotomayor:** That's the very first little shop was there.
+
+**Todd M.  Schneider:** That's my understanding, yes. However, over 100 percent more workers from Starbucks are in California than Washington.
+
+**Justice Sotomayor:** Can you tell me what 100 percent means? Are the number of workers in Seattle inconsequential? Is there one worker there or are we talking about 1,000 in--
+
+**Todd M.  Schneider:** I don't know the total numbers of the workers.
+
+**Justice Sotomayor:** --Isn't that important? As Justice Scalia said that per capita California is going to dwarf anybody anywhere if you are going to have a multi-location place of business. So don't you have to know the raw numbers?
+
+**Todd M.  Schneider:** I -- I don't know the raw numbers from Starbucks, I'm sorry. I just read the opinion. And what the opinion tells us is that Starbucks has 10 percent of its employees in Washington and 27 percent in California. Over 300 percent more of its gross revenue comes from California than any other State, 200 percent more of its retail stores are in California than in any other State.
+:::
+:::
+
 ## Supplemental
 
 Often a lawsuit will include a mix of claims that arise under both federal and state law. In that circumstance, federal courts have recognized a power to take jurisdiction over related state-law claims, even in the absence of diversity jurisdiction, so long as there is at least one “anchor claim” over which there is an independent jurisdictional basis. This “supplemental” jurisdiction—formerly known by the twin terms “pendent” and “ancillary” jurisdiction—illustrates the ways in which the different grants of subject-matter jurisdiction interact with and relate to one another.
