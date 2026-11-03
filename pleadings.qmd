@@ -2540,6 +2540,52 @@ before us. For this reason, as well as for the independently sufficient
 reasons set forth in Justice Souter's opinion, I would affirm the Second
 Circuit.
 
+::: {.callout-note .oral-argument icon=false}
+## Listen to the Argument
+
+::: {.content-visible when-format="html"}
+<audio controls preload="none" src="audio/iqbal.mp3" style="width: 100%;"></audio>
+:::
+
+Justice Breyer presses Solicitor General Gregory G. Garre, arguing for Ashcroft and Mueller, on what in the Rules lets a busy official stop discovery on a baseless claim; Justice Souter, who wrote *Twombly*, then asks what "plausible" means. Argued December 10, 2008; this clip runs 0:11:54–0:14:11 of the recording. Recording and transcript: [Oyez](https://www.oyez.org/cases/2008/07-1015) (CC BY-NC 4.0), where the full argument is available.
+
+::: {.callout-tip collapse="true" icon=false}
+## Transcript of the Clip
+
+**Justice Breyer:** How does -- how does this work in an ordinary case? I should know the answer to this, but I don't. It's a very elementary question. Jones sues the president of Coca-Cola. His claim is the president personally put a mouse in the bottle. Now, he has no reason for thinking that. Then his lawyer says: Okay, I'm now going to take seven depositions of the president of Coca-Cola. The president of Coca-Cola says: You know, I don't have time for this; there's no basis. He's -- he's -- I agree he's in good faith, but he's -- there is no basis. Okay, I don't want to go and spend the time to answer a question. Where in the rules does it say he can go to the judge and say, judge -- his lawyer will say -- my client has nothing to do with this; there's no basis for it; don't make him answer the depositions, please?
+
+**Gregory G. Garre:** And I think it would be--
+
+**Justice Breyer:** Where does it say that in the rules?
+
+**Gregory G. Garre:** --It -- it says that, as this Court interpreted it, in Rule 8 of the rules, Justice Breyer.
+
+**Justice Breyer:** In Rule 8?
+
+**Gregory G. Garre:** Yes, because in Rule 8--
+
+**Justice Breyer:** I thought Rule 8 was move for a more definite statement.
+
+**Gregory G. Garre:** --No. Rule 8 is the -- is the plain statement showing entitlement to relief. It is the rule interpreted in Bell Atlantic, and there the Bell Atlantic Court said that the plaintiff had the obligation to show a plausible entitlement to relief. And--
+
+**Justice Breyer:** He shows a plausible entitlement. He says -- there's no doubt it's a claim if the president of Coca-Cola did put the mouse in the bottle. It's just there is no basis for thinking that.
+
+**Gregory G. Garre:** --It's--
+
+**Justice Breyer:** So he wants to go to the judge and say: I've set out a claim here; I copied it right out of the rules. All right? Now, what allows the judge to stop this deposition?
+
+**Gregory G. Garre:** --Rule 8 does, as interpreted--
+
+**Justice Breyer:** Where?
+
+**Gregory G. Garre:** --in Bell Atlantic, because that is not a plausible entitlement of a claim to relief--
+
+**Justice Souter:** But, Mr. Garre, you are using the word "plausible" or you're taking the word "plausible" out of Bell Atlantic, I think, and you are using it to mean something that probably can be proven to be true. Bell Atlantic drew that distinction. They -- the plausibility there is a plausibility that if they prove what they say, they will -- they will establish a violation.
+
+**Gregory G. Garre:** --I certainly agree with you. You don't have to show that it probably is, but you have to show facts suggesting -- above the speculative level. And just as in Bell Atlantic--
+:::
+:::
+
 #### Notes & Questions
 
 1.  Why did Iqbal's complaint fail to satisfy Rule 8(a)? The Court

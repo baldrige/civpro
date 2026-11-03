@@ -1440,6 +1440,26 @@ The Court’s erosion of _Erie_’s federalism grounding impels me to point out 
 
 I would continue to approach _Erie_ questions in a manner mindful of the purposes underlying the Rules of Decision Act and the Rules Enabling Act, faithful to precedent, and respectful of important state interests. I would therefore hold that the New York Legislature’s limitation on the recovery of statutory damages applies in this case, and would affirm the Second Circuit’s judgment.
 
+::: {.callout-note .oral-argument icon=false}
+## Listen to the Argument
+
+::: {.content-visible when-format="html"}
+<audio controls preload="none" src="audio/shady-grove.mp3" style="width: 100%;"></audio>
+:::
+
+Justice Ginsburg and Chief Justice Roberts question Christopher Landau, counsel for Allstate, about whether New York's bar on class actions for statutory penalties is substantive or procedural. Argued November 2, 2009; this clip runs 0:41:56–0:43:59 of the recording. Recording and transcript: [Oyez](https://www.oyez.org/cases/2009/08-1008) (CC BY-NC 4.0), where the full argument is available.
+
+::: {.callout-tip collapse="true" icon=false}
+## Transcript of the Clip
+
+**Justice Ginsburg:** One -- one question that was raised by the other side is, well, if you're saying this kind of restriction -- restriction on class action -- applies in a diversity case, why not a State that says we love class actions and we want class actions to be -- not to be hemmed in by all of the Rule 23 requirements?
+
+**Christopher Landau:** --Then, Your Honor, you would have a Hanna issue because Rule 23 does set forth the criteria for a Federal court to certify a class. State law cannot change or water down those criteria or direct that you get to the goal line of a certified class by some mechanism other than the Rule 23 criteria. Our position, Your Honor, our point is that you don't get to the Rule 23 criteria if the State law or the substantive law that creates the cause of action sends you off the highway before you get into the land of the criteria. If it just says, this is categorically unavailable as a class, as many States have, in fact, done in the statutes in Appendix B -- they have come up with novel causes of action sometimes, abusive e-mail cause of action. And they said, well, we do not want a class action to be brought for this kind of claim. That is a decision that reflects a substantive choice by the legislature that it would be overdeterrence and overenforcement to have this brought on a class-wide basis.
+
+**Chief Justice Roberts:** Well, it -- it only reflects a substantive choice -- if it is a substantive choice. If they say, we are not going to allow class actions because we think, procedurally, they are a bad idea because we think lawyers get too much recovery when they recover -- in other words, it -- your -- your position depends upon a characterization of the ban, and the restriction on class actions is either substantive or procedural.
+:::
+:::
+
 ## Putting It Together
 
 ![A roadmap for *Erie* questions in diversity cases. Courts rarely follow the steps this mechanically, and the Justices disagree about several of them (compare the *Shady Grove* plurality and Justice Stevens's concurrence on the Rules Enabling Act step).](diagrams/erie_roadmap.png){#fig-erie-roadmap fig-alt="Flowchart of the Erie analysis: whether a federal statute or Federal Rule controls; if not, the twin aims of Erie, Byrd balancing, and accommodation of state law under Gasperini."}

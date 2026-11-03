@@ -549,6 +549,32 @@ I believe that the approach adopted by Justice Scalia's opinion today---reliance
 
 As I explained in my separate writing, I did not join the Court's opinion in *Shaffer v. Heitner* because I was concerned by its unnecessarily broad reach. The same concern prevents me from joining either Justice Scalia's or Justice Brennan's opinion in this case. For me, it is sufficient to note that the historical evidence and consensus identified by Justice Scalia, the considerations of fairness identified by Justice Brennan, and the common sense displayed by Justice White, all combine to demonstrate that this is, indeed, a very easy case.^\*^ 
 
+::: {.callout-note .oral-argument icon=false}
+## Listen to the Argument
+
+::: {.content-visible when-format="html"}
+<audio controls preload="none" src="audio/burnham.mp3" style="width: 100%;"></audio>
+:::
+
+Justices Scalia and Kennedy question Richard Sherman, counsel for Dennis Burnham, about whether being served while in the state should still be enough for jurisdiction. Argued February 28, 1990; this clip runs 0:05:23–0:07:14 of the recording. Recording and transcript: [Oyez](https://www.oyez.org/cases/1989/89-44) (CC BY-NC 4.0), where the full argument is available.
+
+::: {.callout-tip collapse="true" icon=false}
+## Transcript of the Clip
+
+**Justice Scalia:** --This sort of points out... points up one of the problems with... with abandoning the gotcha test. One of the nice things about the gotcha test was that it made very simple the preliminary question of jurisdiction, which ought to be simple, it being a preliminary question. It's very silly to have to litigate about that and what you're saying is by abandoning the gotcha test we're going to have to look in every single case to see whether the individual is not only served... or... or the state courts will... not only whether the individual was served there but whether the suit pertains to his presence there and so forth. It's a big deal.
+
+**Richard Sherman:** Well, Your Honor, if there were no Fourteenth Amendment to the Constitution and we didn't have to worry about due process and we're looking for an easy test, then that might be an easy test that a court would want to--
+
+**Justice Scalia:** But for 200 years--
+
+**Richard Sherman:** --Well, that's true. It's been around for a long time. But quasi in rem jurisdiction was around for a long time too and this Court said in Shaffer that it was fundamentally unfair and did not comport with the Fourteenth Amendment and, notwithstanding its lineage, it was consigned to the dustbin of judicial history.
+
+**Justice Kennedy:** --Well, easy tests are not unrelated to the due process clause. There's a high degree of predictability. I think many lay people understand, without thinking about... in terms of jurisdiction or in rem or in personam, that if you're within the borders of a state, you're subject to that state. That's all.
+
+**Richard Sherman:** I think what most people would think is if you're within the borders of the state, you're subject to the power, if you will, of the state. If you do something in the state that's wrong, they can arrest you. If you're injured, you can go to the hospital and get treated. And if a cause of action arises out of those activities, I think a defendant could rightfully expect to be sued on them. But if you are in the state for reasons which do not give rise to the cause of action that is sued on, then I don't think you would expect to be subject to a lawsuit over them, which is what happened in this case.
+:::
+:::
+
 #### Notes & Questions
 
 1.  This case is one in which it is important to count votes. When the Supreme Court has nine members, as it typically does, it takes five votes to create a majority. How many votes did Justice Scalia get for his opinion?
@@ -1217,6 +1243,28 @@ Well-established principles of personal jurisdiction are sufficient to decide th
 
 \[...\]
 
+::: {.callout-note .oral-argument icon=false}
+## Listen to the Argument
+
+::: {.content-visible when-format="html"}
+<audio controls preload="none" src="audio/walden.mp3" style="width: 100%;"></audio>
+:::
+
+Justice Kagan gives Jeffrey S. Bucholtz, counsel for Officer Walden, a hypothetical: what if Walden's Georgia affidavit had frozen a bank account in Nevada? Argued November 4, 2013; this clip runs 0:13:10–0:14:51 of the recording. Recording and transcript: [Oyez](https://www.oyez.org/cases/2013/12-574) (CC BY-NC 4.0), where the full argument is available.
+
+::: {.callout-tip collapse="true" icon=false}
+## Transcript of the Clip
+
+**Justice Kagan:** Would you -- would your answer be different, suppose that the officer had said, you can keep -- you can keep your money, go on to Nevada with it, and then, once the Fiores had reached Nevada the officer said -- the officer filed a false affidavit, which, let's say, froze the Fiores' bank accounts. Would your -- would your answer be different? The affidavit was filed in Georgia, but the money was not seized in Georgia, instead, the money has gone on to Nevada. Is there personal jurisdiction in Nevada?
+
+**Jeffrey S. Bucholtz:** --Justice Kagan, I think if -- if what Officer Walden allegedly had done -- of course, that's not this case -- is freeze a bank account in Nevada, then--
+
+**Justice Kagan:** Well, he did it by filing an affidavit in Georgia and then it froze a bank account.
+
+**Jeffrey S. Bucholtz:** --No, I understand that. I understand the question. But if what he had done is freeze a bank account in Nevada, then maybe it would be fair to say that he had entered into Nevada by freezing the bank account in Nevada. But here the cash was in Atlanta. The plaintiffs brought the cash to Atlanta. Officer Walden didn't seek them out knowing that they had any connection to Nevada. They -- he didn't go to Nevada. He didn't direct anyone in Nevada to do anything. He didn't seize a -- or freeze a bank account in Nevada or direct anyone to do anything like that. He never had any contact with Nevada at all except for the very intangible contact, if you can call it that, of -- of allegedly writing this affidavit to keep the plaintiffs from getting the money back sooner than they would have. But the plaintiffs would have gotten the money back wherever they happened to be or really, more precisely, wherever their lawyer happened to be. The fact that they chose a lawyer in Nevada and that's where asked the government to send them their money back ultimately is the very definition of fortuitous contact between Walden and Nevada.
+:::
+:::
+
 #### Notes & Questions
 
 1.  There is at least some tension between the Court's holdings in *Calder* and *Keeton*, on the one hand, and *Walden*, on the other. All three cases involved allegedly tortious actions taken outside the forum state by defendants who knew that their conduct would have effects in the forum state. What explains why *Walden* came out differently from the other two? Two factors seem relevant. First, in *Walden*, the claims did not involve any allegation that the officer targeted the plaintiffs in particular with his allegedly tortious conduct; it was purely incidental who they were or where they lived. By contrast, in *Calder* and *Keeton*, the plaintiffs' identities were essential to the defendants' conduct. Second, drawing from *Hanson*, the fact that the plaintiffs kept their bank accounts in Nevada is arguably the unilateral conduct of the plaintiffs, and therefore cannot support personal jurisdiction over the defendant.
@@ -1581,6 +1629,38 @@ Regrettably, these errors are unforced. The Court can and should decide this cas
 
 \[...\]
 
+::: {.callout-note .oral-argument icon=false}
+## Listen to the Argument
+
+::: {.content-visible when-format="html"}
+<audio controls preload="none" src="audio/daimler.mp3" style="width: 100%;"></audio>
+:::
+
+Justice Kagan asks Kevin Russell, counsel for the plaintiffs, how Daimler, with 2.4 percent of its sales in California, could be subject to general jurisdiction there. Argued October 15, 2013; this clip runs 0:49:54–0:51:57 of the recording. Recording and transcript: [Oyez](https://www.oyez.org/cases/2013/11-965) (CC BY-NC 4.0), where the full argument is available.
+
+::: {.callout-tip collapse="true" icon=false}
+## Transcript of the Clip
+
+**Justice Kagan:** Mr. Russell, how would you make the argument, and again with Justice Alito, sort of putting these waiver questions aside for a second, a German corporation incorporated in Germany, headquartered in Germany, 2.4 percent of its sales are in California. How do you argue that it's subject to jurisdiction, general jurisdiction, not specific jurisdiction, general jurisdiction, which means over suits that have nothing to do with California or indeed, as here, over in the United States, have anything to do with anything that happened in the United States. How do you make the argument that Daimler is subject to general jurisdiction?
+
+**Kevin Russell:** I would say a couple things. I haven't briefed this, but this is what I would say in a brief if we had the opportunity to brief it. And that is it has done billions of dollars in business in California. It's--
+
+**Justice Kagan:** It's 2.4 percent of its sales. That would make it subject to general jurisdiction every place.
+
+**Kevin Russell:** --But the problem is a corporation shouldn't be jurisdictionally better off simply because it's bigger than its competitors who are smaller and therefore necessarily do a bigger portion of their business in a smaller number of places. I think there is a very significant fairness problem with the proportionality test suggested by the government, again never raised in this case. Nobody ever argued that MBUSA didn't do enough business in California, and in fact it's done billions of dollars of business there and it's enjoyed the benefits of being in the State, of doing business in the State, to a far greater degree than many of its competitors, say Tesla, which is subject to general jurisdiction for suits for anything that it does anywhere in the world.
+
+**Justice Kagan:** If it is subject to general jurisdiction in California, is it subject to general jurisdiction in all 49 other States?
+
+**Kevin Russell:** I think there would still be a question of whether -- they would be able to raise the arguments that they haven't raised in other jurisdictions. It may be that the billions of dollars that they are doing business in California is enough, but the few millions of dollars they do in Iowa is not.
+
+**Justice Kagan:** So everybody is subject to general jurisdiction in like California and New York and Florida because they are big markets, but no worries about, you know, Delaware?
+
+**Kevin Russell:** That may be the result.
+
+**Justice Kagan:** That's a bad example. Rhode Island.
+:::
+:::
+
 #### Notes & Questions
 
 1.  In the wake of *Goodyear* and *Daimler*, is a corporate defendant ever "at home" someplace other than where it is headquartered or incorporated? If so, when? If not, what do you make of footnote 19 in the Court's opinion in *Daimler*?
@@ -1712,6 +1792,30 @@ The majority chides respondents for conjuring a "parade of horribles," but says 
 It "does not offend 'traditional notions of fair play and substantial justice'" to permit plaintiffs to aggregate claims arising out of a single nationwide course of conduct in a single suit in a single State where some, but not all, were injured. But that is exactly what the Court holds today is barred by the Due Process Clause.
 
 This is not a rule the Constitution has required before. I respectfully dissent.
+
+::: {.callout-note .oral-argument icon=false}
+## Listen to the Argument
+
+::: {.content-visible when-format="html"}
+<audio controls preload="none" src="audio/bristol-myers.mp3" style="width: 100%;"></audio>
+:::
+
+Justice Kagan asks Thomas C. Goldstein, counsel for the plaintiffs, how an Ohio plaintiff's claim arises out of or relates to Bristol-Myers's contacts with California. Argued April 25, 2017; this clip runs 0:37:30–0:39:05 of the recording. Recording and transcript: [Oyez](https://www.oyez.org/cases/2016/16-466) (CC BY-NC 4.0), where the full argument is available.
+
+::: {.callout-tip collapse="true" icon=false}
+## Transcript of the Clip
+
+**Justice Kagan:** No, I understand that that's your point. But I guess what I've always thought that our personal jurisdiction cases require is somebody to state in -- state something like this: The plaintiff's claim relates to or arises out of the defendant's contacts with the forum State. So here, Bristol-Myers' contacts with California. And I just want you to tell me how an Ohio plaintiff's claim arises out of or relates to the defendant's contacts with California. Just it -- it does because why?
+
+**Thomas C. Goldstein:** It does because the relevant contact is the nationwide activity. That has to be correct, by the way, because just take a company that is trying to exploit -- it manufactures something in New Jersey, hands it off to a distributor, knowing that the distributor will exploit the California market. The only thing the defendant does is do something in New Jersey, right? It's not activity in California that gives rise to specific jurisdiction. The California court's jurisdiction attaches to the activity outside. It's the same conduct. It is not --
+
+**Justice Kagan:** Let me see if I understand that, because you're saying -- usually we say how does the claim relate to the contacts in a particular State, say in California. Here we can't answer that question, really. So we say now the contacts in California are nationwide contacts, and the plaintiff's claim relates to those nationwide contacts.
+
+**Thomas C. Goldstein:** It arises from those same nationwide contacts. But I have a second answer --
+
+**Justice Kagan:** Those nationwide contacts being a nationwide advertising campaign, a nationwide marketing campaign, and so forth.
+:::
+:::
 
 #### Notes & Questions
 
