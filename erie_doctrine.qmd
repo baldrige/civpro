@@ -1433,3 +1433,9 @@ The Court’s erosion of _Erie_’s federalism grounding impels me to point out 
 **\* \* \***
 
 I would continue to approach _Erie_ questions in a manner mindful of the purposes underlying the Rules of Decision Act and the Rules Enabling Act, faithful to precedent, and respectful of important state interests. I would therefore hold that the New York Legislature’s limitation on the recovery of statutory damages applies in this case, and would affirm the Second Circuit’s judgment.
+
+## Putting It Together
+
+![A roadmap for *Erie* questions in diversity cases. Courts rarely follow the steps this mechanically, and the Justices disagree about several of them (compare the *Shady Grove* plurality and Justice Stevens's concurrence on the Rules Enabling Act step).](diagrams/erie_roadmap.png){#fig-erie-roadmap fig-alt="Flowchart of the Erie analysis: whether a federal statute or Federal Rule controls; if not, the twin aims of Erie, Byrd balancing, and accommodation of state law under Gasperini."}
+
+<!-- Source: diagrams/erie_roadmap.mmd. After editing it, run `bash diagrams/render.sh` and commit the PNG. -->
