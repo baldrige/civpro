@@ -1,3 +1,20 @@
+---
+# Describe the book to Google Scholar and other indexers with Highwire Press
+# <meta name="citation_..."> tags. Only this home page carries them, so the
+# book is indexed as one work rather than as a separate item per chapter.
+google-scholar: true
+citation:
+  type: book
+  title: "Civil Procedure"
+  author:
+    - name: Thomas B. Bennett
+  issued: 2026
+  url: https://civ.pro/
+  pdf-url: https://civ.pro/Civil-Procedure.pdf
+  language: en
+appendix-cite-as: false
+---
+
 # Preface {.unnumbered}
 
 ![](cover.jpg){width=100% fig-alt="Cover of Civil Procedure by Thomas B. Bennett"}
