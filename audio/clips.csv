@@ -1,5 +1,8 @@
-file,docket,term,start_s,end_s
-epic-systems,16-285,2017,1590.0,1686.3
-ford,19-368,2020,1987.4,2068.2
-mallory,21-1168,2022,4611.7,4682.2
-jarkesy,22-859,2023,455.2,586.8
+file,start_s,end_s,source
+epic-systems,1590.0,1686.3,https://www.supremecourt.gov/media/audio/mp3files/16-285.mp3
+ford,1987.4,2068.2,https://www.supremecourt.gov/media/audio/mp3files/19-368.mp3
+mallory,4611.7,4682.2,https://www.supremecourt.gov/media/audio/mp3files/21-1168.mp3
+jarkesy,455.2,586.8,https://www.supremecourt.gov/media/audio/mp3files/22-859.mp3
+scott-v-harris,2377.6,2508.4,https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2006/05-1631/20070226a_05-1631.delivery.mp3
+twombly,587.0,662.3,https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2006/05-1126/20061127a_05-1126.delivery.mp3
+wal-mart,531.6,637.5,https://s3.amazonaws.com/oyez.case-media.mp3/case_data/2010/10-277/20110329a_10-277.delivery.mp3

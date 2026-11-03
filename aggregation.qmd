@@ -2233,6 +2233,28 @@ The Court errs in importing a "dissimilarities" notion suited to Rule
 23(b)(3) into the Rule 23(a) commonality inquiry. I therefore cannot
 join Part II of the Court's opinion.
 
+::: {.callout-note .oral-argument icon=false}
+## Listen to the Argument
+
+::: {.content-visible when-format="html"}
+<audio controls preload="none" src="audio/wal-mart.mp3" style="width: 100%;"></audio>
+:::
+
+Justices Alito and Kagan question Theodore J. Boutrous Jr., counsel for Wal-Mart, about whether a policy of managerial discretion can supply commonality. Argued March 29, 2011; this clip runs 0:08:52–0:10:38 of the recording. Recording and transcript: [Oyez](https://www.oyez.org/cases/2010/10-277) (CC BY-NC 4.0), where the full argument is available.
+
+::: {.callout-tip collapse="true" icon=false}
+## Transcript of the Clip
+
+**Justice Alito:** What do you think is the difference between the standard that the district court was required to apply at the certification stage on the question whether there was a company-wide policy and the -- the standard that would be applied on the merits?
+
+**Theodore J. Boutrous Jr.:** At the certification stage, Justice Alito, the plaintiffs did not have to prove that there was an actual policy of discrimination and that that was the company's policy, but they at least needed to point to a policy that was common and that linked all of these disparate individuals and disparate locations and different people together. And -- and one -- their argument is that the common policy is giving tens of thousands of individuals discretion to do whatever they want. That is not commonality. It's the opposite.
+
+**Justice Kagan:** I don't think that's quite fair, Mr. Boutrous. I think their argument was that the common policy was one of complete subjectivity, was one of using factors that allowed gender discrimination to come into all employment decisions. And in Watson, we suggested that that was a policy, a policy of using subjective factors only, when making employment decisions. That's exactly the policy that was alleged here.
+
+**Theodore J. Boutrous Jr.:** Justice Kagan, they do not argue that it was an entirely subjective process. As the Court suggested in Falcon, entirely subjective would -- would be a different issue. They argue that it was excessive subjectivity and that there were general overarching company standards that exerted control. On page -- I think it's on page 13 of their brief, they say the discretion was unguided. Three pages later they say it was guided by these nondiscriminatory policies. So, it's really an incoherent theory that does not have -- pose the kind of situation you're suggesting.
+:::
+:::
+
 #### Notes & Questions
 
 1.  Rule 23 governs class actions in federal court. It both states the

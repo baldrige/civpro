@@ -1957,6 +1957,42 @@ allegations, that could account for this stark break from precedent.
 
 \[...\]
 
+::: {.callout-note .oral-argument icon=false}
+## Listen to the Argument
+
+::: {.content-visible when-format="html"}
+<audio controls preload="none" src="audio/twombly.mp3" style="width: 100%;"></audio>
+:::
+
+Justice Stevens, who wrote the dissent, questions Michael K. Kellogg, counsel for the telephone companies, about whether an allegation of agreement is a fact or a conclusion. Argued November 27, 2006; this clip runs 0:09:47–0:11:02 of the recording. Recording and transcript: [Oyez](https://www.oyez.org/cases/2006/05-1126) (CC BY-NC 4.0), where the full argument is available.
+
+::: {.callout-tip collapse="true" icon=false}
+## Transcript of the Clip
+
+**Justice Stevens:** Of course, that may be true on summary judgment, you may be dead right on the merits, but are you telling me that an allegation that the defendants have agreed not to compete with one another is not a statement of fact?
+
+**Michael K. Kellogg:** I am. I would say that that's a... that's a conclusion--
+
+**Justice Stevens:** Well, what if they said they agreed in writing not to compete with one another, would that be sufficient? Or if they have agreed orally not to compete with one another, would that be sufficient?
+
+**Michael K. Kellogg:** --If there were a specific context and they said--
+
+**Justice Stevens:** If they said they have agreed orally not to compete with one another, would that be a statement of fact, an allegation of fact?
+
+**Michael K. Kellogg:** --Yes. Because you require--
+
+**Justice Stevens:** Then why did you leave the words orally out? Why is it not a statement, allegation of fact?
+
+**Michael K. Kellogg:** --Because the plaintiffs here were very careful, in light of Rule 11, not to make any direct allegations of conspiracy, not to suggest that there was a time and place--
+
+**Justice Stevens:** But that's a direct allegation of conspiracy, that very statement.
+
+**Michael K. Kellogg:** --But they make it clear in that paragraph that it's an inference.
+
+**Justice Stevens:** They make it fairly clear that they may only have the evidence of parallel conduct that you describe, and that may not be sufficient, and maybe for that reason, you get a summary judgment. But how you can say this is not an allegation of fact, I find mind-boggling.
+:::
+:::
+
 #### Notes & Questions
 
 1.  Did the *Twombly* Court overrule *Conley v. Gibson*?
