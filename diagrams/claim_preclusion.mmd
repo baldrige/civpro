@@ -1,0 +1,10 @@
+%%{init: {"theme": "neutral", "flowchart": {"diagramPadding": 30}}}%%
+flowchart TD
+  A["Did the first suit end in a valid, final judgment on the merits?"] -- No --> N("No claim preclusion")
+  A -- Yes --> B["Does the new claim arise from the same transaction or occurrence? (Frier)"]
+  B -- No --> N2("No claim preclusion; consider issue preclusion")
+  B -- Yes --> C["Was the party to be bound a party to the first suit?"]
+  C -- Yes --> Y("The claim is barred, including theories that could have been raised")
+  C -- No --> D["Does one of the six Taylor exceptions apply?"]
+  D -- Yes --> Y
+  D -- No --> N3("No claim preclusion")

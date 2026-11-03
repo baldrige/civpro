@@ -635,6 +635,14 @@ It is so ordered.
 2.  What tradeoffs does our civil justice system make by insisting on a
     strict rule of mutuality in the context of claim preclusion?
 
+### Putting It Together
+
+@fig-claim-preclusion sums up the elements of claim preclusion.
+
+![A roadmap for claim preclusion. A claim that arises from the same transaction is barred even if the plaintiff never raised it, unless the first court could not have heard it (for example, for lack of jurisdiction) or the parties agreed to split the claim. *Taylor* lists six categories of nonparty preclusion and rejects any broader theory of "virtual representation."](diagrams/claim_preclusion.png){#fig-claim-preclusion width="73%" fig-alt="Flowchart of claim preclusion: whether the first suit ended in a valid, final judgment on the merits; whether the new claim arises from the same transaction or occurrence; and whether the party to be bound was a party to the first suit or falls within one of the six Taylor exceptions. If all are met, the claim is barred, including theories that could have been raised."}
+
+<!-- Source: diagrams/claim_preclusion.mmd. After editing it, run `bash diagrams/render.sh` and commit the PNG. -->
+
 ## Issue Preclusion
 
 When it applies, claim preclusion bars relitigation of entire
@@ -1104,3 +1112,11 @@ mutuality there would have been no collateral estoppel in 1791. \[...\]
 5.  Finally, note that even when offensive non-mutual issue preclusion
     *could* apply, it is left to the discretion of a trial judge whether
     to apply the doctrine. Why might that be a good idea?
+
+### Putting It Together
+
+@fig-issue-preclusion sums up the elements of issue preclusion, including when someone who was not a party to the first suit may invoke it.
+
+![A roadmap for issue preclusion. Only a party to the first suit (or someone within a *Taylor* exception) can be bound, but under *Blonder-Tongue* and *Parklane*, a stranger to the first suit can sometimes invoke it. Even when the *Parklane* factors favor offensive use, the trial court has discretion to refuse it (see Note 5).](diagrams/issue_preclusion.png){#fig-issue-preclusion width="94%" fig-alt="Flowchart of issue preclusion: whether the issue is the same one decided in the first suit, was actually litigated and decided, and was necessary to the judgment; whether the party to be bound was a party to the first suit or within a Taylor exception; then whether the party invoking preclusion was also a party (mutual preclusion), invokes it defensively (defensive non-mutual, Blonder-Tongue), or invokes it offensively, which is allowed only if fair under the Parklane factors."}
+
+<!-- Source: diagrams/issue_preclusion.mmd. After editing it, run `bash diagrams/render.sh` and commit the PNG. -->
