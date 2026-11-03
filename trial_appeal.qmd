@@ -1196,6 +1196,30 @@ rights to civil penalties" to non-Article III adjudicators, and thus
 world where precedent means something, this should end the case. Yet
 here it does not.
 
+::: {.callout-note .oral-argument icon=false}
+## Listen to the Argument
+
+::: {.content-visible when-format="html"}
+<audio controls preload="none" src="audio/jarkesy.mp3" style="width: 100%;"></audio>
+:::
+
+Chief Justice Roberts and Justice Jackson question Brian H. Fletcher, arguing for the SEC. Argued November 29, 2023; this clip runs 0:07:35–0:09:47 of the recording. Full argument, with a synchronized transcript: [supremecourt.report](https://supremecourt.report/arguments/2023/22-859.html).
+
+::: {.callout-tip collapse="true" icon=false}
+## Transcript of the Clip
+
+**Chief Justice Roberts:** Well, but, on the private side, I guess they would be normal fraud claims, right? I mean, the -- the securities claims regulated by the SEC look a lot like claims that could be brought in private -- in court before a jury for fraud.
+
+**Mr. Fletcher:** So there's some analogy there. There was also some analogy in Atlas Roofing, you know, the OSH Act. The claims that were brought there looked in some ways like negligence or wrongful death claims for workplace hazards that had long been brought in common law. The difference is that there and here, Congress has enacted a federal regulatory regime that doesn't just federalize securities fraud or federalize negligence in workplaces the way some of Your Honor's hypotheticals were positing, but it erects a comprehensive federal scheme that goes well beyond common law fraud, and it differs in sort of every particular. It's --
+
+**Justice Kavanaugh:** Let's --
+
+**Justice Jackson:** And it's not even purporting to be common law fraud. I mean, I -- I understood that the Seventh -- the -- the Seventh Amendment protects private rights of action that the common law has created and is given to private parties to enforce. And when you have that situation, when you have a common law fraud claim -- that's what you're trying to bring -- you have the right under the Seventh Amendment to bring that in an Article III court with all of the protections that exist, including a jury trial. But, when Congress has created a new right, a new duty, you know, the -- the duty that exists under the Securities and Exchange Act that -- that is created by law, I thought Atlas Roofing was saying you're not worried about stealing a common law claim and putting it into a non-Article III tribunal, that that's really the issue. So, when we're looking for, you know, this circumstance, we're trying to ask at the beginning, is there a common law claim or right that is being implicated here?
+
+**Mr. Fletcher:** So I think that's -- I mostly agree with that. I would supplement it a little bit. I think it's not just the presence of a statute that's important. But, if we're talking about a case in court between private parties, the Seventh Amendment can apply to a case involving legal claims even if they arise under a statute rather than under the common law. The critical point is that the Seventh Amendment right to trial by jury has always depended on the nature of the forum and the nature of the cause of action. By its terms, it applies to suits at common law.
+:::
+:::
+
 #### Notes & Questions
 
 Jarkesy: notes

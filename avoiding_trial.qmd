@@ -706,6 +706,36 @@ this Court to enforce those unbargained-for agreements. The FAA demands
 no such suppression of the right of workers to take concerted action for
 their "mutual aid or protection." \[...\]
 
+::: {.callout-note .oral-argument icon=false}
+## Listen to the Argument
+
+::: {.content-visible when-format="html"}
+<audio controls preload="none" src="audio/epic-systems.mp3" style="width: 100%;"></audio>
+:::
+
+Justice Kagan questions Jeffrey B. Wall, arguing for the United States in support of the employers. Argued October 2, 2017; this clip runs 0:26:30–0:28:06 of the recording. Full argument, with a synchronized transcript: [supremecourt.report](https://supremecourt.report/arguments/2017/16-285.html).
+
+::: {.callout-tip collapse="true" icon=false}
+## Transcript of the Clip
+
+**Justice Kagan:** I take it that both you and Mr. Clement agree that, if you had a discriminatory arbitration agreement, let's say an arbitration agreement that said that the employer will pay the arbitration costs of men but not women, that that would not be enforceable. Why not?
+
+**Mr. Wall:** So I think a couple of reasons, Justice Kagan. The first is I think, if that case came to the Court, I think we'd have no trouble concluding that the ADEA and Title VII and civil rights laws supply a clear congressional command, and --
+
+**Justice Kagan:** Okay. So, if that's the case and you're saying there can be a conflict between statutes and the Title VII would supply a clear congressional command, even though Title VII says absolutely nothing about arbitration.
+
+**Mr. Wall:** Well, again, I don't think it's a magic words test -- and we agree with Petitioners on that. That you can have a clear congressional command absent that. You just don't have it in Section 7. You have an agency attempting to supply it, and the other thing I'd say is it's not a fundamental attribute of arbitration --
+
+**Justice Kagan:** Well, here's -- here's one understanding -- may I continue?
+
+**Chief Justice Roberts:** Sure.
+
+**Justice Kagan:** Is one understanding of Title VII says to the employer, you shall not discriminate, and Section 7 says to the employer, you shall not interfere with concerted activity, such as three guys joining together to bring a suit if they want to.
+
+**Mr. Wall:** Justice Kagan, it is not a fundamental attribute of arbitration to discriminate on the basis of race, age, or gender. It is a fundamental attribute of arbitration, and this Court said it three times, to pick the parties with whom you arbitrate. And our simple point is this case is at the heartland of the FAA. It is, at best, at the periphery of the NLRA, on the margins of its ambiguity, and you simply can't get there under the Court's cases.
+:::
+:::
+
 #### Notes & Questions
 
 1.  *Epic Systems* involves a purported clash between two federal
