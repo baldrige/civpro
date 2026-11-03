@@ -1886,6 +1886,28 @@ If that is the logic at play here, I cannot help but wonder if we are destined t
 
 None of this is to cast doubt on the outcome of these cases. The parties have not pointed to anything in the Constitution's original meaning or its history that might allow Ford to evade answering the plaintiffs' claims in Montana or Minnesota courts. No one seriously questions that the company, seeking to do business, entered those jurisdictions through the front door. And I cannot see why, when faced with the process server, it should be allowed to escape out the back. The real struggle here isn't with settling on the right outcome in these cases, but with making sense of our personal jurisdiction jurisprudence and *International Shoe*'s increasingly doubtful dichotomy. On those scores, I readily admit that I finish these cases with even more questions than I had at the start. Hopefully, future litigants and lower courts will help us face these tangles and sort out a responsible way to address the challenges posed by our changing economy in light of the Constitution's text and the lessons of history.
 
+::: {.callout-note .oral-argument icon=false}
+## Listen to the Argument
+
+::: {.content-visible when-format="html"}
+<audio controls preload="none" src="audio/ford.mp3" style="width: 100%;"></audio>
+:::
+
+Chief Justice Roberts poses the decoy-carver hypothetical (see footnote 4) to Deepak Gupta, counsel for the injured plaintiffs. Argued October 7, 2020 (by telephone); this clip runs 0:33:07–0:34:28 of the recording. Full argument, with a synchronized transcript: [supremecourt.report](https://supremecourt.report/arguments/2020/19-368.html).
+
+::: {.callout-tip collapse="true" icon=false}
+## Transcript of the Clip
+
+**Chief Justice Roberts:** Counsel, let's say there's a -- a retired guy in a small town up in Maine who carves decoys. And friends say: These are great, you ought to sell them on the Internet. And so he gets a site on the Internet, and it has a little thing that links to it that says, you know, buy my decoys. Can he be sued in any state if some harm arises from the decoy? You know, say it -- you know, it has lead paint or something. By putting something --
+
+**Mr. Gupta:** Well --
+
+**Chief Justice Roberts:** -- an advertisement on the Internet, is he exposing himself to suit everywhere in the country?
+
+**Mr. Gupta:** No, and I do think that's a much harder problem. I think, first, we'd have to ask, are there isolated sales, or is he really doing something to inject himself into the forum state? If he doesn't have any advertising that's targeted to a particular state, he -- it may be that his sales are sufficiently isolated that he's not even going to -- purposeful availment won't even be satisfied. But -- but assuming that it is, assuming that there's a -- there are sales in the forum, and he knows that and expects that and encourages that, it -- it's possible that -- that that is going to give rise to specific jurisdiction for that injury. But we would need to know at the first step whether he's really doing something to deliberately cultivate a market in the forum state.
+:::
+:::
+
 #### Notes & Questions
 
 1.  In *Bristol-Myers*, out-of-state plaintiffs sued an out-of-state defendant alleging negligence in connection with products made outside the forum. All that is identical in *Ford* as well. Arguably, the only difference is that, in *Ford*, the plaintiffs sued in their home forum. Why, then, do the cases come out in opposite ways (note that even Justice Alito, who authored the Court's opinion in *Bristol-Myers*, agreed that personal jurisdiction was proper in *Ford*)?
@@ -2109,6 +2131,52 @@ The Court finds a way around this settled rule. All a State must do is compel a 
 Such an approach does not formally overrule our traditional contacts-based approach to jurisdiction, but it might as well. By relabeling their long-arm statutes, States may now manufacture "consent" to personal jurisdiction. Because I would not permit state governments to circumvent constitutional limits so easily, I respectfully dissent.
 
 \[...\]
+
+::: {.callout-note .oral-argument icon=false}
+## Listen to the Argument
+
+::: {.content-visible when-format="html"}
+<audio controls preload="none" src="audio/mallory.mp3" style="width: 100%;"></audio>
+:::
+
+Justices Gorsuch and Kavanaugh question Carter G. Phillips, counsel for Norfolk Southern. Argued November 8, 2022; this clip runs 1:16:52–1:18:02 of the recording. Full argument, with a synchronized transcript: [supremecourt.report](https://supremecourt.report/arguments/2022/21-1168.html).
+
+::: {.callout-tip collapse="true" icon=false}
+## Transcript of the Clip
+
+**Justice Gorsuch:** I just want to make sure I understand where we're at. Consent lives on after International Shoe, right?
+
+**Mr. Phillips:** Yes.
+
+**Justice Gorsuch:** Okay.
+
+**Mr. Phillips:** Some version of consent.
+
+**Justice Gorsuch:** Some version of consent. In Pennsylvania Fire, the Court found that consent that, I think, looks -- let's just spot me this -- looks very much like Pennsylvania's statute was sufficient to establish consent. That was Justice Holmes. He was affirming discussions and thoughts by Learned Hand. And you're asking us to overrule that form of consent as extortion, is that right?
+
+**Mr. Phillips:** Yes, Your Honor. And -- and -- and -- and my answer to that would be, if Justice Holmes were here today, he would recognize that --
+
+**Justice Gorsuch:** He would get it right this time?
+
+**Mr. Phillips:** Exactly.
+
+**Mr. Phillips:** The -- the benefit of a little better advocacy.
+
+**Justice Gorsuch:** I appreciate your candor.
+
+**Justice Kavanaugh:** Just to follow up on Justice Gorsuch's question, when he says, consent lives on, you mean, if you're sued in Philadelphia and you show up and say I have a right not to be sued here, but, nonetheless, I'm going to let it go --
+
+**Mr. Phillips:** Right. That --
+
+**Justice Kavanaugh:** -- and that's what you mean by consent --
+
+**Mr. Phillips:** -- that's what I --
+
+**Justice Kavanaugh:** -- lives on?
+
+**Mr. Phillips:** Yes, that's consent that lives on.
+:::
+:::
 
 #### Notes & Questions
 
