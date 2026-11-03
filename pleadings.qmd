@@ -1957,6 +1957,24 @@ allegations, that could account for this stark break from precedent.
 
 \[...\]
 
+::: {.callout-note .primary-document icon=false}
+## Read the Complaint
+
+The plaintiffs' Consolidated Amended Class Action Complaint, filed April 14, 2003, runs 29 pages. Most of it describes what the defendants did in parallel; the allegation that they *agreed* comes in paragraph 51, which the Court quotes above. The first page and the page with paragraph 51 appear in @fig-twombly-complaint.
+
+::: {.content-visible when-format="html"}
+[Read the full complaint (PDF, 29 pages).](documents/twombly-complaint.pdf)
+:::
+:::
+
+::: {#fig-twombly-complaint layout-ncol=2}
+![Page 1](documents/twombly-complaint-p1.png){group="twombly-complaint" fig-alt="Page 1 of the Consolidated Amended Class Action Complaint in Twombly v. Bell Atlantic Corp., with the caption and the court's April 14, 2003 filing stamp"}
+
+![Page 19, with paragraph 51](documents/twombly-complaint-p19.png){group="twombly-complaint" fig-alt="Page 19 of the Twombly complaint, containing paragraph 51's allegation that the defendants entered into a contract, combination or conspiracy and agreed not to compete with one another"}
+
+Consolidated Amended Class Action Complaint, *Twombly v. Bell Atlantic Corp.*, No. 02 Civ. 10220 (GEL) (S.D.N.Y. filed Apr. 14, 2003)
+:::
+
 ::: {.callout-note .oral-argument icon=false}
 ## Listen to the Argument
 
@@ -2539,6 +2557,30 @@ case-management tools inadequate, either in general or in the case
 before us. For this reason, as well as for the independently sufficient
 reasons set forth in Justice Souter's opinion, I would affirm the Second
 Circuit.
+
+::: {.callout-note .primary-document icon=false}
+## Read the Complaint
+
+Ehab Elmaghraby and Javaid Iqbal's First Amended Complaint, filed September 30, 2004, runs 54 pages and 270 paragraphs and names more than thirty defendants, from the Attorney General to individual guards at the Metropolitan Detention Center in Brooklyn. Only Ashcroft and Mueller's motion to dismiss reached the Supreme Court. Here are the paragraphs about them that the Court quoted, followed by one paragraph about two of the guards. Note 1 below asks which allegations the Court set aside as conclusory; try sorting these yourself before you read it.
+
+> **¶ 10.** Defendant JOHN ASHCROFT is the Attorney General of the United States. As Attorney General, Defendant ASHCROFT has ultimate responsibility for the implementation and enforcement of the immigration and federal criminal laws. He is a principal architect of the policies and practices challenged here. He authorized, condoned, and/or ratified the unreasonable and excessively harsh conditions under which Plaintiffs were detained.
+>
+> **¶ 11.** Defendant ROBERT MUELLER is the Director of the Federal Bureau of Investigation ("FBI"). As FBI Director, he was instrumental in the adoption, promulgation, and implementation of the policies and practices challenged here.
+>
+> **¶ 47.** In the months after September 11, 2001, the Federal Bureau of Investigation ("FBI"), under the direction of Defendant MUELLER, arrested and detained thousands of Arab Muslim men, designated herein as "post-September 11th detainees," as part of its investigation of the events of September 11.
+>
+> **¶ 69.** The policy of holding post-September-11th detainees in highly restrictive conditions of confinement until they were "cleared" by the FBI was approved by Defendants ASHCROFT and MUELLER in discussions in the weeks after September 11, 2001.
+>
+> **¶ 96.** Defendants ASHCROFT, MUELLER, SAWYER, RARDIN, COOKSEY, HASTY, ZENK, THOMAS, SHERMAN, LOPRESTI, and SHACKS each knew of, condoned, and willfully and maliciously agreed to subject Plaintiffs to these conditions of confinement as a matter of policy, solely on account of their religion, race, and/or national origin and for no legitimate penological interest.
+>
+> **¶ 119.** In response, Defendant DEFRANCISCO punched Mr. IQBAL in the face and Defendant CUSH punched Mr. IQBAL in the back and his legs and kicked him in the back. As a result, Mr. IQBAL bled from his mouth. There was no legal justification for Defendants' brutal assault of Mr. IQBAL.
+
+First Amended Complaint and Jury Demand, *Elmaghraby v. Ashcroft*, No. 04 CV 1809 (E.D.N.Y. filed Sept. 30, 2004).
+
+::: {.content-visible when-format="html"}
+[Read the full complaint (PDF, 54 pages).](documents/iqbal-complaint.pdf)
+:::
+:::
 
 ::: {.callout-note .oral-argument icon=false}
 ## Listen to the Argument
