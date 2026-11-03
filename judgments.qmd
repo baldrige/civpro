@@ -327,6 +327,12 @@ affirm the judgment below.
     via different paths. What do they disagree about? And what body of
     law do they review to reach their answers?
 
+*Taylor v. Sturgell*, like *Frier*, involves two lawsuits, but here they were brought by different plaintiffs. @fig-history-taylor traces them.
+
+![The procedural history of *Taylor v. Sturgell*. Taylor was not a party to Herrick's suit; the lower courts nonetheless held him bound by its result.](diagrams/history_taylor.png){#fig-history-taylor width="67%" fig-alt="Procedural history of Taylor v. Sturgell in two columns. First suit, Herrick v. FAA: in 1997 Herrick asks the FAA for the F-45 documents and the FAA refuses as trade secrets; Herrick sues and the district court in Wyoming grants summary judgment to the FAA; the Tenth Circuit affirms. Second suit, Taylor v. FAA: in August 2002 Taylor, Herrick's friend, requests the same documents; Taylor sues in the District of Columbia and Fairchild intervenes; the court grants summary judgment on claim preclusion by virtual representation, with a dotted arrow from the Tenth Circuit decision asking whether it binds Taylor; the D.C. Circuit affirms; then the U.S. Supreme Court decides this case in 2008."}
+
+<!-- Source: diagrams/history_taylor.mmd. After editing it, run `bash diagrams/render.sh` and commit the PNG. -->
+
 ### Taylor v. Sturgell
 
 **GINSBURG, J., delivered the opinion of the Court.** [553 U.S. 880 (2008)]{.aside}

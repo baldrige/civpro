@@ -1,0 +1,13 @@
+%%{init: {"theme": "neutral", "flowchart": {"diagramPadding": 30}}}%%
+flowchart TB
+  subgraph T["Second suit: Taylor v. FAA"]
+    T1("Aug. 2002: Taylor, Herrick's friend, requests the same documents") --> T2("Taylor sues in D.D.C.; Fairchild intervenes")
+    T2 --> T3("Summary judgment: barred by claim preclusion (virtual representation)")
+    T3 --> T4("D.C. Circuit affirms")
+    T4 --> T5["U.S. Supreme Court (2008): this opinion"]
+  end
+  subgraph H["First suit: Herrick v. FAA"]
+    H1("1997: Herrick asks the FAA for the F-45 documents; the FAA refuses (trade secrets)") --> H2("Herrick sues; district court (D. Wyo.) grants summary judgment to the FAA")
+    H2 --> H3("Tenth Circuit affirms")
+  end
+  H3 -. "Binds Taylor?" .-> T3

@@ -928,6 +928,12 @@ be ordered.
     court do to prevent that possibility? Do you think those protections
     are enough?
 
+@fig-history-coke shows how the litigation reached the second opinion.
+
+![The road to *Coca-Cola II*.](diagrams/history_coke.png){#fig-history-coke width="32%" fig-alt="Timeline of the Coca-Cola litigation: 1921 consent decrees set the terms for bottlers' syrup; in 1982 the Company introduces diet Coke; bottlers sue in the District of Delaware, claiming diet Coke syrup is covered by their contracts; on August 20, 1985, the court grants the motion to compel the formulae (Coca-Cola I); on September 9, 1985, the Company refuses to disclose; the bottlers move for sanctions (Coca-Cola II)."}
+
+<!-- Source: diagrams/history_coke.mmd. After editing it, run `bash diagrams/render.sh` and commit the PNG. -->
+
 ### Coca-Cola Bottling Co. v. Coca-Cola Co. (II)
 
 **MURRAY M. SCHWARTZ, Chief Judge.** [110 F.R.D. 363 (D. Del. 1986)]{.aside}
