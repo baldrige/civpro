@@ -1,0 +1,12 @@
+%%{init: {"theme": "neutral", "flowchart": {"diagramPadding": 30}}}%%
+flowchart TD
+  A["Is there an anchor claim within the court's original jurisdiction? §&nbsp;1367(a)"] -- No --> N1("No supplemental jurisdiction")
+  A -- Yes --> B["Is the other claim part of the same case or controversy: a common nucleus of operative fact? (Gibbs)"]
+  B -- No --> N2("No supplemental jurisdiction; the claim needs its own basis")
+  B -- Yes --> C["Is jurisdiction founded solely on diversity?"]
+  C -- No --> E
+  C -- Yes --> D["Is it a plaintiff's claim that §&nbsp;1367(b) excludes? (Kroger; Allapattah)"]
+  D -- Yes --> N3("No supplemental jurisdiction")
+  D -- No --> E["Supplemental jurisdiction exists. Should the court decline it under §&nbsp;1367(c)?"]
+  E -- No --> Y("The court hears the claim")
+  E -- Yes --> Z("The court dismisses the claim; §&nbsp;1367(d) tolls the limitations period")
