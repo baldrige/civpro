@@ -1,0 +1,16 @@
+%%{init: {"theme": "neutral", "flowchart": {"diagramPadding": 30}}}%%
+flowchart TD
+  A["Does a long-arm statute reach the defendant? (Rule&nbsp;4(k)(1)(A))"] -- No --> N1("No personal jurisdiction")
+  A -- Yes --> B["Did the defendant consent? (Carnival Cruise; Mallory)"]
+  B -- Yes --> Y1("Jurisdiction over any claim")
+  B -- No --> C["Was the defendant served while present in the state? (Burnham)"]
+  C -- Yes --> Y1
+  C -- No --> D["Is the defendant at home in the state? (Goodyear; Daimler)"]
+  D -- Yes --> Y1
+  D -- No --> E["Did the defendant purposefully avail itself of the state? (World-Wide Volkswagen; Walden)"]
+  E -- No --> N2("No personal jurisdiction")
+  E -- Yes --> F["Does the claim arise out of or relate to those contacts? (Bristol-Myers; Ford)"]
+  F -- No --> N2
+  F -- Yes --> G["Would jurisdiction be unreasonable? (Burger King; Asahi)"]
+  G -- Yes --> N2
+  G -- No --> Y3("Specific jurisdiction")

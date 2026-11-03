@@ -1,5 +1,36 @@
 # Personal Jurisdiction {#personaljx}
 
+@fig-pj-timeline shows the Supreme Court cases in this chapter, grouped by the basis of jurisdiction each one addresses. The chapter roughly follows this order, and the flowchart at the end of the chapter (@fig-pj-flowchart) puts the pieces together.
+
+```{r}
+#| label: fig-pj-timeline
+#| fig-alt: "Timeline of 22 Supreme Court personal jurisdiction cases from Pennoyer v. Neff in 1878 to Mallory v. Norfolk Southern Railway in 2023, in four groups: presence (3 cases), consent (3), specific jurisdiction (12, clustered in 1980 to 1987 and 2011 to 2021), and general jurisdiction (4, with a gap between Helicopteros in 1984 and Goodyear in 2011)."
+#| fig-cap: "The Supreme Court's personal jurisdiction cases in this chapter, by year and by the basis of jurisdiction each one chiefly addresses. *International Shoe* set the minimum-contacts test for both general and specific jurisdiction; it appears with the specific-jurisdiction cases that apply it. *Hess* rested on implied consent; *Shaffer* applied minimum contacts to jurisdiction based on property."
+#| echo: false
+#| fig-width: 6.5
+#| fig-height: 6
+library(ggplot2)
+
+pj <- read.csv("data/pj_cases.csv")
+pj$strand <- factor(pj$strand, levels = c("Presence", "Consent", "Specific", "General"))
+pj <- pj[order(pj$strand, pj$year, pj$case), ]
+pj$row <- seq_len(nrow(pj))
+pj$label <- paste0(pj$case, " (", pj$year, ")")
+right <- pj$year <= 1950  # label early cases to the right of the point, later ones to the left
+
+ggplot(pj, aes(year, row)) +
+  geom_point(size = 2.2) +
+  geom_text(aes(label = label), hjust = ifelse(right, 0, 1),
+            nudge_x = ifelse(right, 3, -3), size = 3.1, fontface = "italic") +
+  facet_grid(strand ~ ., scales = "free_y", space = "free_y") +
+  scale_y_reverse(breaks = NULL, expand = expansion(add = 0.7)) +
+  scale_x_continuous(breaks = seq(1880, 2020, 20), limits = c(1870, 2030)) +
+  labs(x = NULL, y = NULL) +
+  theme_classic(base_size = 11) +
+  theme(strip.background = element_blank(), strip.text.y = element_text(face = "bold"),
+        axis.line.y = element_blank(), panel.spacing.y = unit(0.6, "lines"))
+```
+
 ## Origins
 
 Personal jurisdiction refers to a court's ability to assert jurisdiction over a civil defendant. Because of the case that follows, personal jurisdiction is now constitutional in nature. It flows from the due process clauses of the constitution. That makes personal jurisdiction a powerful concept, because a judgment entered without personal jurisdiction is unenforceable in a future suit.
@@ -2123,3 +2154,11 @@ In the absence of any linkage between personal jurisdiction in the federal distr
 Thank you for your consideration of these views. I look forward to discussing them with you and other members of the Committee.
 
 Best regards, A. Benjamin Spencer Professor of Law
+
+## Putting It Together
+
+@fig-pj-flowchart gathers the chapter's questions into one sequence. The order is a convenience: a court may skip straight to the question that decides the case.
+
+![A roadmap for personal jurisdiction over a defendant in state court, or in federal court under Rule 4(k)(1)(A). Consent includes forum-selection clauses, waiver by failing to object under Rule 12(h)(1), and, after *Mallory*, some registration statutes. Under *Daimler*, a corporation is at home in its place of incorporation and principal place of business, and only in an exceptional case anywhere else. *Burnham* did not produce a majority opinion on why presence suffices.](diagrams/pj_flowchart.png){#fig-pj-flowchart width="85%" fig-alt="Flowchart of the personal jurisdiction analysis: whether a long-arm statute reaches the defendant; if so, whether the defendant consented, was served while present in the state, or is at home there, any of which gives jurisdiction over any claim; if not, whether the defendant purposefully availed itself of the state, whether the claim arises out of or relates to those contacts, and whether jurisdiction would be unreasonable, which together decide specific jurisdiction."}
+
+<!-- Source: diagrams/pj_flowchart.mmd. After editing it, run `bash diagrams/render.sh` and commit the PNG. -->
