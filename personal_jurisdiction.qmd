@@ -238,6 +238,8 @@ Technological, economic, and social change put tremendous pressure on the territ
 
 :::
 
+![*International Shoe*. The company, a Delaware corporation with its principal place of business in St. Louis, employed eleven to thirteen salesmen who lived in Washington and solicited orders there. The orders went to St. Louis for acceptance, and the shoes were shipped from points outside Washington. The forum State is orange.](maps/international_shoe.png){#fig-map-shoe fig-alt="Map of the United States: Washington, the forum, in orange; Missouri and Delaware in blue. An arrow runs from Washington to St. Louis, labeled orders sent to St. Louis."}
+
 The questions for decision are (1) whether, within the limitations of the due process clause of the Fourteenth Amendment, the appellant, a Delaware corporation, has by its activities in the State of Washington rendered itself amenable to proceedings in the courts of that state to recover unpaid contributions to the state unemployment compensation fund enacted by state statutes, Washington Unemployment Compensation Act, and (2) whether the state can exact those contributions consistently with the due process clause of the Fourteenth Amendment.
 
 The statutes in question set up a comprehensive scheme of unemployment compensation, the costs of which are defrayed by contributions required to be made by employers to a state unemployment compensation fund. The contributions are a specified percentage of the wages payable annually by each employer for his employees' services in the state. The assessment and collection of the contributions and the fund are administered by appellees. Section 14(c) of the Act authorizes appellee Commissioner to issue an order and notice of assessment of delinquent contributions upon prescribed personal service of the notice upon the employer if found within the state, or, if not so found, by mailing the notice to the employer by registered mail at his last known address. \[...\]
@@ -619,6 +621,8 @@ Turning to this case we think it apparent that the Due Process Clause did not pr
 
 :::
 
+![*Hanson*. Dora Donner created the trust, with a Delaware trustee, while she lived in Pennsylvania. She then moved to Florida, where she lived the rest of her life and named the trust's new owners. The suit over the trust was in a Florida probate court. The forum State is orange.](maps/hanson.png){#fig-map-hanson fig-alt="Map of the eastern United States: Florida, the forum, in orange; Pennsylvania and Delaware in blue. A dashed arrow runs from Pennsylvania to the Delaware trustee, and a solid arrow labeled Donner moves runs from Pennsylvania to Florida."}
+
 \[Dora Browning Donner, then a resident of Pennsylvania, created a trust instrument in Delaware, naming a Delaware bank as trustee. Donner retained power over the trust, including most importantly the power to name a new owner of the trust upon her death. Later, after the trust was created, Donner moved to Florida, where she lived the rest of her life. Shortly before passing, Donner transferred control of the trust to separate Delaware trusts controlled by one of her daughters, for the benefit of two of her grandchildren. After Donner's death, a dispute arose in Florida probate court between Donner's three daughters. In particular, Donner's *other* two daughters claimed that the transfer of the trust was invalid. In connection with that dispute, the two daughters challenging the transfer served process on the Delaware trustee by mail and publication. The trustee challenged the Florida court's personal jurisdiction over it.\]
 
 Appellees \[...\] urge that the circumstances of this case amount to sufficient affiliation with the State of Florida to empower its courts to exercise personal jurisdiction over this nonresident defendant. Principal reliance is placed upon *McGee v. International Life Ins. Co.* In *McGee* the Court noted the trend of expanding personal jurisdiction over nonresidents. As technological progress has increased the flow of commerce between States, the need for jurisdiction over nonresidents has undergone a similar increase. At the same time, progress in communications and transportation has made the defense of a suit in a foreign tribunal less burdensome. In response to these changes, the requirements for personal jurisdiction over nonresidents have evolved from the rigid rule of *Pennoyer v. Neff* to the flexible standard of *International Shoe Co. v. Washington*. But it is a mistake to assume that this trend heralds the eventual demise of all restrictions on the personal jurisdiction of state courts. Those restrictions are more than a guarantee of immunity from inconvenient or distant litigation. They are a consequence of territorial limitations on the power of the respective States. However minimal the burden of defending in a foreign tribunal, a defendant may not be called upon to do so unless he has had the "minimal contacts" with that State that are a prerequisite to its exercise of power over him. *See International Shoe Co. v. Washington*.
@@ -664,6 +668,8 @@ The cases that follow explore the circumstances when knowingly causing effects w
 ![](images/justices/byron_r_white.png){width=150 fig-alt="Justice Byron R. White"}
 
 :::
+
+![*World-Wide Volkswagen*. The Robinsons bought their Audi from Seaway in Massena, New York, and were driving to a new home in Arizona when another car struck them in Oklahoma. World-Wide distributed cars only in New York, New Jersey, and Connecticut (blue). The forum State is orange.](maps/world_wide_volkswagen.png){#fig-map-wwvw fig-alt="Map of the United States: Oklahoma, the forum, in orange; New York, New Jersey, and Connecticut in blue. An arrow runs from Massena, New York, to Creek County, Oklahoma, and a dashed arrow continues to Arizona, the Robinsons' new home."}
 
 The issue before us is whether, consistently with the Due Process Clause of the Fourteenth Amendment, an Oklahoma court may exercise *in personam* jurisdiction over a nonresident automobile retailer and its wholesale distributor in a products-liability action, when the defendants' only connection with Oklahoma is the fact that an automobile sold in New York to New York residents became involved in an accident in Oklahoma.
 
@@ -840,6 +846,8 @@ The judgment of the Court of Appeals is reversed, and the cause is remanded for 
 ![](images/justices/william_j_brennan_jr.png){width=150 fig-alt="Justice William J. Brennan, Jr."}
 
 :::
+
+![*Burger King*. Rudzewicz and MacShara applied for the franchise through Burger King's district office in Birmingham, Michigan, and ran the restaurant in Drayton Plains, Michigan. The contracts sent their payments and notices to the Miami headquarters, where MacShara also took a training course. The forum State is orange.](maps/burger_king.png){#fig-map-burger-king fig-alt="Map of the eastern United States: Florida, the forum, in orange; Michigan in blue. An arrow labeled payments and notices to Miami runs from Drayton Plains, Michigan, to Miami."}
 
 The State of Florida's long-arm statute extends jurisdiction to "\[a\]ny person, whether or not a citizen or resident of this state," who, *inter alia*, "\[b\]reach\[es\] a contract in this state by failing to perform acts required by the contract to be performed in this state," so long as the cause of action arises from the alleged contractual breach. The United States District Court for the Southern District of Florida, sitting in diversity, relied on this provision in exercising personal jurisdiction over a Michigan resident who allegedly had breached a franchise agreement with a Florida corporation by failing to make required payments in Florida. The question presented is whether this exercise of long-arm jurisdiction offended "traditional conception\[s\] of fair play and substantial justice" embodied in the Due Process Clause of the Fourteenth Amendment. *International Shoe Co. v. Washington*.
 
@@ -1187,6 +1195,8 @@ For the reasons stated, I would hold McIntyre UK answerable in New Jersey for th
 ![](images/justices/clarence_thomas.png){width=150 fig-alt="Justice Clarence Thomas"}
 
 :::
+
+![*Walden*. Fiore and Gipson were flying from San Juan, Puerto Rico, to Las Vegas when Walden seized their cash at the Atlanta airport. They flew on without it, and their Nevada attorney then called and sent documents to Walden. They had residences in both California and Nevada. The forum State is orange.](maps/walden.png){#fig-map-walden fig-alt="Map of the United States: Nevada, the forum, in orange; California and Georgia in blue. A solid arrow labeled flight on to Las Vegas runs from Atlanta to Las Vegas, and a dashed arrow labeled Nevada attorney's calls and documents runs back to Atlanta."}
 
 This case asks us to decide whether a court in Nevada may exercise personal jurisdiction over a defendant on the basis that he knew his allegedly tortious conduct in Georgia would delay the return of funds to plaintiffs with connections to Nevada. \[...\]
 
@@ -1835,6 +1845,8 @@ Justice Kagan asks Thomas C. Goldstein, counsel for the plaintiffs, how an Ohio 
 
 :::
 
+![*Ford*. Ford designed both cars in Michigan. It built the Explorer in Kentucky and first sold it in Washington; it built the Crown Victoria in Canada and first sold it in North Dakota. The dashed arrows are the later resales and moves by consumers that brought the cars to Montana and Minnesota, the forum States (orange).](maps/ford.png){#fig-map-ford fig-alt="Map of the United States: Montana and Minnesota, the forums, in orange; Michigan, Kentucky, Washington, and North Dakota in blue. Arrows trace the Explorer from Michigan to Kentucky to Washington, then by a dashed arrow to Montana, and the Crown Victoria from Michigan to Canada to North Dakota, then by a dashed arrow to Minnesota."}
+
 In each of these two cases, a state court held that it had jurisdiction over Ford Motor Company in a products-liability suit stemming from a car accident. The accident happened in the State where suit was brought. The victim was one of the State's residents. And Ford did substantial business in the State---among other things, advertising, selling, and servicing the model of vehicle the suit claims is defective. Still, Ford contends that jurisdiction is improper because the particular car involved in the crash was not first sold in the forum State, nor was it designed or manufactured there. We reject that argument. When a company like Ford serves a market for a product in a State and that product causes injury in the State to one of its residents, the State's courts may entertain the resulting suit.
 
 **I**
@@ -2119,6 +2131,8 @@ Appendix to Justice Stevens's dissent
 ![](images/justices/neil_gorsuch.png){width=150 fig-alt="Justice Neil Gorsuch"}
 
 :::
+
+![*Mallory*. Mallory worked for Norfolk Southern first in Ohio and then in Virginia, where he lived when he sued. The company was incorporated and headquartered in Virginia. He sued in Pennsylvania, where it was registered to do business. The forum State is orange.](maps/mallory.png){#fig-map-mallory fig-alt="Map of the mid-Atlantic United States: Pennsylvania, the forum, in orange; Ohio and Virginia in blue. An arrow runs from Ohio to Virginia, and Norfolk Southern's headquarters is marked in Virginia."}
 
 Imagine a lawsuit based on recent events. A few months ago, a Norfolk Southern train derailed in Ohio near the Pennsylvania border. Its cargo? Hazardous chemicals. Some poured into a nearby creek; some burst into flames. In the aftermath, many residents reported unusual symptoms. Suppose an Ohio resident sued the train conductor seeking compensation for an illness attributed to the accident. Suppose, too, that the plaintiff served his complaint on the conductor across the border in Pennsylvania. Everyone before us agrees a Pennsylvania court could hear that lawsuit consistent with the Due Process Clause of the Fourteenth Amendment. The court could do so even if the conductor was a Virginia resident who just happened to be passing through Pennsylvania when the process server caught up with him.
 
