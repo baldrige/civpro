@@ -25,7 +25,7 @@ jobs:
 
       - uses: quarto-dev/quarto-actions/setup@v2
         with:
-          version: 1.7.31
+          version: 1.11.9
           tinytex: true
 
       # R renders the data figures (see data/README.md).
@@ -43,6 +43,17 @@ jobs:
       - name: Render book (HTML + PDF)
         timeout-minutes: 20
         run: quarto render
+
+      # TEMPORARY: one-time accessibility audit; remove before merging.
+      - name: Accessibility audit
+        continue-on-error: true
+        run: quarto call axe _book --viewports 1440x900 --timeout 120000
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: axe-report
+          path: _axe-checks
 
       - uses: actions/upload-pages-artifact@v4
         with:

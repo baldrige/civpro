@@ -38,6 +38,9 @@ book:
     center: "© Thomas B. Bennett · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
   downloads: [pdf]
   google-analytics: "G-M6E3TREXQZ"
+  # Also publish a plain-Markdown copy of each page and an llms.txt index,
+  # for readers who paste chapters into AI tools.
+  llms-txt: true
 
 format:
 
