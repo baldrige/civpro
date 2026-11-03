@@ -1,0 +1,13 @@
+%%{init: {"theme": "neutral", "flowchart": {"diagramPadding": 30}}}%%
+flowchart TB
+  subgraph MD["Second suit: Maryland"]
+    M1("Semtek sues in Maryland state court, within Maryland's 3-year period") --> M2("Dismissed as barred by res judicata")
+    M2 --> M3("Maryland Court of Special Appeals affirms")
+    M3 --> M4["U.S. Supreme Court (2001): this opinion"]
+  end
+  subgraph CA["First suit: California"]
+    C1("Semtek sues Lockheed in California state court") --> C2("Lockheed removes to federal court (C.D. Cal.) on diversity")
+    C2 --> C3("Dismissed &quot;on the merits and with prejudice&quot; under California's 2-year limitations period")
+    C3 --> C4("Ninth Circuit affirms")
+  end
+  C3 -. "Preclusive effect?" .-> M2

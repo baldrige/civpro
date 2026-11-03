@@ -357,6 +357,12 @@ _Reversed._
 
 3. The question whether state or federal law should govern proliferated across many areas of the law. The next case asks which body of law should govern the inquiry about the preclusive effect of a federal-court judgment in a diversity case---i.e., *res judicata*. For more on this topic, see @sec-judgments.
 
+*Semtek* involves two lawsuits in two court systems. @fig-history-semtek traces them.
+
+![The procedural history of *Semtek*. The second suit was timely under Maryland's longer limitations period, so it survived only if the California federal judgment did not bar it.](diagrams/history_semtek.png){#fig-history-semtek width="69%" fig-alt="Procedural history of Semtek in two columns. First suit, California: Semtek sues Lockheed in California state court; Lockheed removes to federal court on diversity; the court dismisses on the merits and with prejudice under California's two-year limitations period; the Ninth Circuit affirms. Second suit, Maryland: Semtek sues in Maryland state court within Maryland's three-year period; the court dismisses on res judicata, with a dotted arrow from the California dismissal asking about its preclusive effect; the Maryland Court of Special Appeals affirms; then the U.S. Supreme Court decides this case in 2001."}
+
+<!-- Source: diagrams/history_semtek.mmd. After editing it, run `bash diagrams/render.sh` and commit the PNG. -->
+
 ### Semtek Int'l Inc. v. Lockheed Martin Corp.
 
 **Scalia, J., delivered the opinion of the Court.**[531 U.S. 497 (2001)]{.aside}
