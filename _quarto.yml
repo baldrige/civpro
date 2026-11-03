@@ -1,5 +1,7 @@
 project:
   type: book
+  # Tidy the chapter titles in llms.txt (see scripts/clean-llms-txt.R).
+  post-render: scripts/clean-llms-txt.R
 
 book:
   title: "Civil Procedure"
@@ -34,10 +36,14 @@ book:
   repo-actions: [edit, issue]
   sidebar:
     logo: cover.jpg
+    logo-alt: "Civil Procedure: home"
   page-footer:
     center: "© Thomas B. Bennett · [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
   downloads: [pdf]
   google-analytics: "G-M6E3TREXQZ"
+  # Also publish a plain-Markdown copy of each page and an llms.txt index,
+  # for readers who paste chapters into AI tools.
+  llms-txt: true
 
 format:
 
@@ -125,7 +131,7 @@ format:
 
   html:
     theme:
-      light: [flatly, theme.scss]
+      light: [flatly, theme.scss, theme-light.scss]
       dark: [darkly, theme.scss]
     lightbox:
       match: auto

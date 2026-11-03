@@ -134,7 +134,7 @@ intervention.
 
 ::: {.column-margin}
 
-![](ross.png){width=150}
+![](ross.png){width=150 fig-alt="Judge Ross"}
 
 :::
 
@@ -350,7 +350,7 @@ to permit the plaintiffs to proceed jointly. \[...\]
 
 ::: {.column-margin}
 
-![](dement.png){width=150}
+![](dement.png){width=150 fig-alt="Judge De Ment"}
 
 :::
 
@@ -563,7 +563,7 @@ It is so ordered.
 
 ::: {.column-margin}
 
-![](alsop.png){width=150}
+![](alsop.png){width=150 fig-alt="Judge Alsop"}
 
 :::
 
@@ -770,7 +770,7 @@ intervention.
 
 ::: {.column-margin}
 
-![](doyle.png){width=150}
+![](doyle.png){width=150 fig-alt="Judge Doyle"}
 
 :::
 
@@ -1019,7 +1019,7 @@ lose.
 
 ::: {.column-margin}
 
-![](images/justices/william_h_rehnquist.png){width=150}
+![](images/justices/william_h_rehnquist.png){width=150 fig-alt="Justice William H. Rehnquist"}
 
 :::
 
@@ -1230,7 +1230,7 @@ join, dissenting.**
 
 ::: {.column-margin}
 
-![](images/justices/john_paul_stevens.png){width=150}
+![](images/justices/john_paul_stevens.png){width=150 fig-alt="Justice John Paul Stevens"}
 
 :::
 
@@ -1334,7 +1334,7 @@ in the earlier litigation.
 
 ::: {.column-margin}
 
-![](images/justices/harlan_fiske_stone.png){width=150}
+![](images/justices/harlan_fiske_stone.png){width=150 fig-alt="Justice Harlan Fiske Stone"}
 
 ^\*^ \[Such covenants were held unenforceable eight years later
 in *Shelley v. Kraemer*, 334 U.S. 1 (1948). *--Ed*.\]
@@ -1659,7 +1659,7 @@ Like a heavy load.
 
 ::: {.column-margin}
 
-![](images/justices/antonin_scalia.png){width=150}
+![](images/justices/antonin_scalia.png){width=150 fig-alt="Justice Antonin Scalia"}
 
 :::
 
@@ -2202,7 +2202,7 @@ concurring in part and dissenting in part.**
 
 ::: {.column-margin}
 
-![](images/justices/ruth_bader_ginsburg.png){width=150}
+![](images/justices/ruth_bader_ginsburg.png){width=150 fig-alt="Justice Ruth Bader Ginsburg"}
 
 :::
 
@@ -2321,7 +2321,7 @@ complex litigation for the last 50 years, as the next case shows.
 
 ::: {.column-margin}
 
-![](images/justices/ruth_bader_ginsburg.png){width=150}
+![](images/justices/ruth_bader_ginsburg.png){width=150 fig-alt="Justice Ruth Bader Ginsburg"}
 
 :::
 
@@ -2658,7 +2658,7 @@ dissenting in part.**
 
 ::: {.column-margin}
 
-![](images/justices/stephen_g_breyer.png){width=150}
+![](images/justices/stephen_g_breyer.png){width=150 fig-alt="Justice Stephen G. Breyer"}
 
 :::
 
@@ -2755,6 +2755,7 @@ subject matter, as the following case shows.
 
 ```{r}
 #| label: fig-mdl-share
+#| fig-alt: "Scatterplot of the share of pending federal civil cases that were in multidistrict litigation, 1998 to 2025, with a smoothed trend rising from about 15 to 20 percent to a peak of 64 percent in 2022, then falling to about 46 percent in 2025."
 #| fig-cap: "Actions pending in MDL proceedings as a share of all pending federal civil cases, as of September 30 of each year, 1998--2025. The 2020--2024 surge reflects the 3M Combat Arms earplug MDL, whose more than 200,000 directly filed cases are counted in both figures. The curve is a LOESS fit. Sources: Admin. Off. of the U.S. Cts., *Judicial Business of the United States Courts* tbls. S-20, C-1 (1998--2025)."
 #| echo: false
 #| fig-width: 6.5
@@ -2780,7 +2781,7 @@ except insofar as Scalia, J., did not join Part II---C.**
 
 ::: {.column-margin}
 
-![](images/justices/david_h_souter.png){width=150}
+![](images/justices/david_h_souter.png){width=150 fig-alt="Justice David H. Souter"}
 
 :::
 

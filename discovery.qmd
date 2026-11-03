@@ -227,7 +227,7 @@ relevant to the claims in this case.
 
 ::: {.column-margin}
 
-![](sneed.png){width=150}
+![](sneed.png){width=150 fig-alt="Magistrate Judge Sneed"}
 
 :::
 
@@ -310,7 +310,7 @@ numbers, and social security numbers. \[...\]
 
 ::: {.column-margin}
 
-![](ballou.png){width=150}
+![](ballou.png){width=150 fig-alt="Magistrate Judge Ballou"}
 
 :::
 
@@ -603,7 +603,7 @@ in the United States is GRANTED.
 
 ::: {.column-margin}
 
-![](schwartz.png){width=150}
+![](schwartz.png){width=150 fig-alt="Chief Judge Murray M. Schwartz"}
 
 :::
 
@@ -934,7 +934,7 @@ be ordered.
 
 ::: {.column-margin}
 
-![](schwartz.png){width=150}
+![](schwartz.png){width=150 fig-alt="Chief Judge Murray M. Schwartz"}
 
 :::
 
@@ -1018,7 +1018,7 @@ able to amicably resolve payment of attorneys' fees and costs.
 
 ::: {.column-margin}
 
-![](images/justices/frank_murphy.png){width=150}
+![](images/justices/frank_murphy.png){width=150 fig-alt="Justice Frank Murphy"}
 
 :::
 
@@ -1237,7 +1237,7 @@ We therefore affirm the judgment of the Circuit Court of Appeals.
 
 ::: {.column-margin}
 
-![](images/justices/robert_h_jackson.png){width=150}
+![](images/justices/robert_h_jackson.png){width=150 fig-alt="Justice Robert H. Jackson"}
 
 :::
 
@@ -1281,7 +1281,7 @@ an account of what witnesses have told him. \[...\]
 
 ::: {.column-margin}
 
-![](images/justices/william_h_rehnquist.png){width=150}
+![](images/justices/william_h_rehnquist.png){width=150 fig-alt="Justice William H. Rehnquist"}
 
 :::
 
@@ -1816,7 +1816,7 @@ because it would have been unfavorable to UBS.\]
 
 ::: {.column-margin}
 
-![](martinez.png){width=150}
+![](martinez.png){width=150 fig-alt="Judge Martínez"}
 
 :::
 

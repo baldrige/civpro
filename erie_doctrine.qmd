@@ -35,7 +35,7 @@ The question in *Swift* was which body of law applied: the common law as underst
 
 ::: {.column-margin}
 
-![](images/justices/joseph_story.png){width=150}
+![](images/justices/joseph_story.png){width=150 fig-alt="Justice Joseph Story"}
 
 :::
 
@@ -58,7 +58,7 @@ For that reason, under the rule of *Swift v. Tyson*, federal courts---applying t
 
 ::: {.column-margin}
 
-![](images/justices/louis_d_brandeis.png){width=150}
+![](images/justices/louis_d_brandeis.png){width=150 fig-alt="Justice Louis D. Brandeis"}
 
 :::
 
@@ -239,7 +239,7 @@ opinion.
 
 ::: {.column-margin}
 
-![](images/justices/pierce_butler.png){width=150}
+![](images/justices/pierce_butler.png){width=150 fig-alt="Justice Pierce Butler"}
 
 :::
 
@@ -267,7 +267,7 @@ I am of opinion that the constitutional validity of the rule need not be conside
 
 ::: {.column-margin}
 
-![](images/justices/stanley_reed.png){width=150}
+![](images/justices/stanley_reed.png){width=150 fig-alt="Justice Stanley Reed"}
 
 :::
 
@@ -324,7 +324,7 @@ circumstances of this case, to interpret the Constitution.
 
 ::: {.column-margin}
 
-![](images/justices/stanley_reed.png){width=150}
+![](images/justices/stanley_reed.png){width=150 fig-alt="Justice Stanley Reed"}
 
 :::
 
@@ -363,7 +363,7 @@ _Reversed._
 
 ::: {.column-margin}
 
-![](images/justices/antonin_scalia.png){width=150}
+![](images/justices/antonin_scalia.png){width=150 fig-alt="Justice Antonin Scalia"}
 
 :::
 
@@ -623,7 +623,7 @@ opinion.
 
 ::: {.column-margin}
 
-![](images/justices/thurgood_marshall.png){width=150}
+![](images/justices/thurgood_marshall.png){width=150 fig-alt="Justice Thurgood Marshall"}
 
 :::
 
@@ -672,7 +672,7 @@ _It is so ordered._
 
 ::: {.column-margin}
 
-![](images/justices/antonin_scalia.png){width=150}
+![](images/justices/antonin_scalia.png){width=150 fig-alt="Justice Antonin Scalia"}
 
 :::
 
@@ -719,7 +719,7 @@ For the reasons stated, I respectfully dissent.
 
 ::: {.column-margin}
 
-![](images/justices/felix_frankfurter.png){width=150}
+![](images/justices/felix_frankfurter.png){width=150 fig-alt="Justice Felix Frankfurter"}
 
 :::
 
@@ -807,7 +807,7 @@ omitted.\]**
 
 ::: {.column-margin}
 
-![](images/justices/william_j_brennan_jr.png){width=150}
+![](images/justices/william_j_brennan_jr.png){width=150 fig-alt="Justice William J. Brennan, Jr."}
 
 :::
 
@@ -940,7 +940,7 @@ omitted.\]**
 
 ::: {.column-margin}
 
-![](images/justices/earl_warren.png){width=150}
+![](images/justices/earl_warren.png){width=150 fig-alt="Justice Earl Warren"}
 
 :::
 
@@ -992,7 +992,7 @@ We are reminded by the *Erie* opinion that neither Congress nor the federal cour
 
 ::: {.column-margin}
 
-![](images/justices/john_m_harlan2.png){width=150}
+![](images/justices/john_m_harlan2.png){width=150 fig-alt="Justice John Marshall Harlan II"}
 
 :::
 
@@ -1026,7 +1026,7 @@ One can understand the history of the *Erie* doctrine as a dialogue between two 
 
 ::: {.column-margin}
 
-![](images/justices/ruth_bader_ginsburg.png){width=150}
+![](images/justices/ruth_bader_ginsburg.png){width=150 fig-alt="Justice Ruth Bader Ginsburg"}
 
 :::
 
@@ -1141,7 +1141,7 @@ _It is so ordered._
 
 ::: {.column-margin}
 
-![](images/justices/antonin_scalia.png){width=150}
+![](images/justices/antonin_scalia.png){width=150 fig-alt="Justice Antonin Scalia"}
 
 :::
 
@@ -1195,7 +1195,7 @@ When there is added to the revision of the Seventh Amendment the Court’s prece
 
 ::: {.column-margin}
 
-![](images/justices/antonin_scalia.png){width=150}
+![](images/justices/antonin_scalia.png){width=150 fig-alt="Justice Antonin Scalia"}
 
 :::
 
@@ -1279,7 +1279,7 @@ _It is so ordered._
 
 ::: {.column-margin}
 
-![](images/justices/john_paul_stevens.png){width=150}
+![](images/justices/john_paul_stevens.png){width=150 fig-alt="Justice John Paul Stevens"}
 
 :::
 
@@ -1329,7 +1329,7 @@ Accordingly, I concur in part and concur in the judgment.
 
 ::: {.column-margin}
 
-![](images/justices/ruth_bader_ginsburg.png){width=150}
+![](images/justices/ruth_bader_ginsburg.png){width=150 fig-alt="Justice Ruth Bader Ginsburg"}
 
 :::
 

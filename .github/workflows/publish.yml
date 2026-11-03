@@ -25,7 +25,7 @@ jobs:
 
       - uses: quarto-dev/quarto-actions/setup@v2
         with:
-          version: 1.7.31
+          version: 1.11.9
           tinytex: true
 
       # R renders the data figures (see data/README.md).

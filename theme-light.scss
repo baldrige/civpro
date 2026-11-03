@@ -1,0 +1,5 @@
+/*-- scss:defaults --*/
+
+// Flatly's teal links (#18bc9c) are too faint on white (2.4:1). This darker
+// teal meets the WCAG AA contrast ratio of 4.5:1 (5.3:1 on white).
+$link-color: #107a65 !default;

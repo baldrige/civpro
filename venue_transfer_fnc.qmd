@@ -20,7 +20,7 @@ Once you have a handle on how the venue statute works, the subsequent case---*At
 
 ::: {.column-margin}
 
-![](newman.png){width=150}
+![](newman.png){width=150 fig-alt="Judge Newman"}
 
 :::
 
@@ -69,7 +69,7 @@ The judgment of the District Court is reversed, and the matter is remanded for f
 
 ::: {.column-margin}
 
-![](images/justices/samuel_alito_jr.png){width=150}
+![](images/justices/samuel_alito_jr.png){width=150 fig-alt="Justice Samuel A. Alito, Jr."}
 
 :::
 
@@ -139,7 +139,7 @@ Transferring venue within the federal court system is easy enough, especially in
 
 ::: {.column-margin}
 
-![](images/justices/thurgood_marshall.png){width=150}
+![](images/justices/thurgood_marshall.png){width=150 fig-alt="Justice Thurgood Marshall"}
 
 :::
 
@@ -233,8 +233,8 @@ The Court of Appeals erred in holding that the possibility of an unfavorable cha
 
 ::: {.column-margin}
 
-![](leval.png){width=150}
-![](cabranes.png){width=150}
+![](leval.png){width=150 fig-alt="Judge Leval"}
+![](cabranes.png){width=150 fig-alt="Judge Cabranes"}
 
 :::
 
