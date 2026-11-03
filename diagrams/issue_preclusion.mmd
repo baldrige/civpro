@@ -1,0 +1,16 @@
+%%{init: {"theme": "neutral", "flowchart": {"diagramPadding": 30}}}%%
+flowchart TD
+  A["Is the issue the same one decided in the first suit?"] -- Yes --> B["Was it actually litigated and decided? (Parks)"]
+  A -- No --> N("No issue preclusion")
+  B -- No --> N
+  B -- Yes --> C["Was deciding it necessary to the judgment?"]
+  C -- No --> N
+  C -- Yes --> D["Was the party to be bound a party to the first suit (or within a Taylor exception)?"]
+  D -- No --> N
+  D -- Yes --> E["Was the party invoking preclusion also a party to the first suit?"]
+  E -- Yes --> Y("Issue precluded (mutual)")
+  E -- No --> F["Is it invoked defensively? (Blonder-Tongue)"]
+  F -- Yes --> Y2("Issue precluded (defensive non-mutual)")
+  F -- No --> G["Would offensive use be fair under the Parklane factors?"]
+  G -- Yes --> Y3("Issue precluded (offensive non-mutual)")
+  G -- No --> N2("No issue preclusion")
