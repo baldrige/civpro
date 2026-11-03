@@ -11,3 +11,14 @@ $body-text-align: justify !default;
 .nav-footer {
   text-align: left;
 }
+
+// Figures and diagrams are drawn black on white. In dark mode, invert them
+// so they match the page instead of showing as bright white panels:
+// invert(0.867) maps white to the darkly background (#222) and black to
+// light gray. Photos (the justice portraits) are left alone.
+body.quarto-dark {
+  img[src*="diagrams/"],
+  img[src*="figure-html/"] {
+    filter: invert(0.867) hue-rotate(180deg);
+  }
+}
