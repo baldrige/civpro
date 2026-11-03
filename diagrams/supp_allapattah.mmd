@@ -1,0 +1,12 @@
+%%{init: {"theme": "neutral", "flowchart": {"diagramPadding": 30, "wrappingWidth": 400}}}%%
+flowchart LR
+  subgraph Ortega ["Ortega (joined plaintiffs)"]
+    direction LR
+    O1["Beatriz Ortega<br/>(over the amount)"] -- "Diversity claim" --> S["Star-Kist"]
+    O2["Her family members<br/>(under the amount)"] -. "Diversity claim,<br/>under the amount" .-> S
+  end
+  subgraph Exxon ["Exxon (class action)"]
+    direction LR
+    A1["Named dealers<br/>(over the amount)"] -- "Diversity claim" --> X["Exxon"]
+    A2["Absent class members<br/>(some under the amount)"] -. "Diversity claim,<br/>under the amount" .-> X
+  end
