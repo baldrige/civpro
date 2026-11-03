@@ -2059,6 +2059,36 @@ quadriplegic at the age of 19.
 
 I respectfully dissent.
 
+::: {.callout-note .oral-argument icon=false}
+## Listen to the Argument
+
+::: {.content-visible when-format="html"}
+<audio controls preload="none" src="audio/scott-v-harris.mp3" style="width: 100%;"></audio>
+:::
+
+Justices Ginsburg and Scalia question Craig T. Jones, counsel for Harris, about what the videotape shows and whether the Court must accept the lower courts' view of it. Argued February 26, 2007; this clip runs 0:39:38–0:41:48 of the recording. Recording and transcript: [Oyez](https://www.oyez.org/cases/2006/05-1631) (CC BY-NC 4.0), where the full argument is available.
+
+::: {.callout-tip collapse="true" icon=false}
+## Transcript of the Clip
+
+**Justice Ginsburg:** --The key point is that he is endangering the lives and safety of others. Anyone who has watched that tape has got to come to that conclusion, looking at the road and the way that this car was swerving, and the cars coming in the opposite direction. This was a situation fraught with danger.
+
+**Craig T. Jones:** Well, Justice Ginsburg, I hope I don't have you on my jury if that's... but what the trial court found was that construing the facts in a light most favorable to the Plaintiff as a nonmoving party, that reasonable jurors can find that this was simply a person who was driving fast. This was not a person who was driving assaultively. He wasn't driving violently. He wasn't a threat to anyone that would authorize the use of deadly force against him.
+
+**Justice Scalia:** Is that a factual finding of the, of the trial court here?
+
+**Craig T. Jones:** That is a factual finding.
+
+**Justice Scalia:** Are we bound by that fact?
+
+**Craig T. Jones:** We are bound by that. This is an interlocutory appeal, this an interlocutory appeal under Mitchell v. Forsythe, and the Court is bound by its own ruling to accept the facts as found by the court below, and decide the narrow issue of law here which is, one, is there a constitutional violation on these facts. And two, was the law clearly established.
+
+**Justice Scalia:** Even if having watched the tape, there is no way that, that factual finding can be accurate?
+
+**Craig T. Jones:** If you want to repeal Johnson v. Jones and Mitchell v. Forsythe, then yes. This is the Supreme Court. You can make that determination. But based upon the prior rulings of this Court, this Court is bound to accept the findings of fact of the courts below, and then to determine solely the legal issue on an interlocutory basis. The bottom line issue here, Your Honors, is whether the fact that someone is driving in violation of traffic laws in and of itself can be justification for the use of deadly force.
+:::
+:::
+
 #### Notes & Questions
 
 1.  The typical rule on summary judgment is that the court must take the
