@@ -142,6 +142,34 @@ draw_map <- function(file, forum, others, places, arrows = NULL,
 P <- function(...) data.frame(..., stringsAsFactors = FALSE)
 A <- function(...) data.frame(..., stringsAsFactors = FALSE)
 
+# Pennoyer v. Neff --------------------------------------------------------------
+# The excerpt says only that the land was in Oregon and Neff a non-resident, so
+# this map, unlike the others, draws on sources outside the opinion: Deady's
+# circuit-court opinion, Neff v. Pennoyer, 17 F. Cas. 1279 (C.C.D. Or. 1875)
+# (claim 57 in Multnomah County; Mitchell's suit there; Neff a citizen of
+# California in 1874), and Perdue, 62 Wash. L. Rev. 479 (1987) (Iowa, 1848;
+# Mitchell's affidavit; "settled in San Joaquin"). The caption flags that
+# Neff's whereabouts in 1865 are disputed.
+draw_map("maps/pennoyer.png", forum = "OR", others = c("IA", "CA"),
+  places = P(
+    name    = c("ia", "pdx", "sj"),
+    lon     = c(-93.5, -122.68, -121.27),
+    lat     = c(42.0, 45.52, 37.93),
+    label   = c("Iowa
+Neff sets out, 1848",
+                "Multnomah County, Ore.
+Neff's land claim;
+Mitchell's suit, 1865",
+                "San Joaquin, Calif.
+Neff's home by 1874"),
+    nudge_x = c(0, 250, -150), nudge_y = c(-230, 230, -230)),
+  arrows = A(from = c("ia", "pdx"), to = c("pdx", "sj"), curvature = c(0.2, -0.3),
+             dashed = c(FALSE, TRUE),
+             label = c("wagon train", "moves to California
+(when is disputed)"),
+             lx = c(-108, -114.5), ly = c(47.4, 41.0)),
+  xlim = c(-126, -88), ylim = c(33, 49.5), height = 4.4)
+
 # International Shoe Co. v. Washington ---------------------------------------
 draw_map("maps/international_shoe.png", forum = "WA", others = c("MO", "DE"),
   places = P(
