@@ -221,6 +221,19 @@ relevant to the claims in this case.
 2.  What might the plaintiff have done differently at the pleading stage
     in order to make her discovery request relevant under Rule 26?
     
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Favale*
+
+Change the request. Instead of Sister Stobierski's treatment records, the Favales ask the Diocese to produce any complaints it received, before hiring her, that Sister Stobierski had sexually harassed employees at a school where she previously worked. Is that discoverable?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Very likely yes.** Relevance under Rule 26(b)(1) is measured against the parties' actual claims and defenses. The Favales sued for negligent hiring and negligent supervision, which turn on what the Diocese knew. The court in *Favale* rejected the treatment records because, "even if the Diocese was aware" of them, that knowledge "would have no bearing" on those claims: "the wrongful conduct of which the Diocese would have had notice was not the same type" as the harassment alleged. Earlier complaints of sexual harassment are exactly the same type of conduct. They bear directly on whether the Diocese had notice, so they are relevant (subject to proportionality and any protective order for the other employees' privacy).
+
+:::
+:::
+
 ### Cerrato v. Nutribullet, LLC
 
 **SNEED, M.J.** [2017 WL 3608266 (M.D. Fla. 2017)]{.aside}
@@ -303,6 +316,19 @@ Therefore, Defendant shall redact all accident reports and consumer
 complaints produced to Plaintiffs for the consumers' private and
 confidential information, including any names, addresses, telephone
 numbers, and social security numbers. \[...\]
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Cerrato*
+
+In *Cerrato*, suppose the plaintiffs had asked only for complaints about the Pro 900 blender being impossible to turn off, but going back twenty years and covering every country where it was sold. The defendant offers to produce only incidents described exactly as Mrs. Cerrato described hers in her deposition. How should the court rule?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Somewhere in between, as in the real case.** The defendant's proposal is too narrow. Rule 26(b)(1) reaches information relevant to a claim or defense, and other incidents involving the same alleged defect can be relevant even when their details differ, especially "where the exact circumstances of an accident are unknown." But twenty years and every country is out of proportion to a single consumer's injury claim, and the court found the original requests "unduly burdensome" and "disproportionate to the needs of this case." The court's solution was a time limit (five years before the incident through the complaint), confined to the same model and the same alleged defect (it "could not be turned off"), with other consumers' personal information redacted. A court would likely do something similar here.
+
+:::
+:::
 
 ### Wagoner v. Lewis Gale Medical Center, LLC
 
@@ -471,6 +497,19 @@ Accordingly, Wagoner's motion to compel is GRANTED. \[...\]
 
 It is so ORDERED.
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Wagoner*
+
+Change the facts. Lewis Gale says that searching its old e-mail will cost $40,000 because, after Wagoner was fired, it moved the e-mail to an archive that can be searched only with special software. Wagoner's lost wages are a few thousand dollars. Must Lewis Gale search, and who pays?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Probably yes, and probably at Lewis Gale's expense, if the request stays narrow.** The general rule is that "the party responding to a discovery request bears the cost." A party can resist discovery of ESI that is "not reasonably accessible because of undue burden or cost" (Rule 26(b)(2)(B)), but it bears the burden of showing that, and the court can still order discovery, with conditions such as cost sharing, if the requesting party shows good cause. As the notes point out, expense caused by a defendant's own choices about how to store its information is unlikely to count as a good reason. And employment cases weigh heavily toward discovery, since "most, and sometimes all, relevant discovery is in the control of the employer." What made Wagoner's request proportional was that it was "restricted by custodian, search terms, and time period." Keeping it that narrow is Wagoner's best answer to the cost.
+
+:::
+:::
+
 ### Rengifo v. Erevos Enterprises, Inc.
 
 **ELLIS, M.J.** [2007 WL 894376 (S.D.N.Y. Mar. 20, 2007)]{.aside}
@@ -597,6 +636,19 @@ in the United States is GRANTED.
     about how to store information is unlikely to count as a good
     reason. Why?
     
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Rengifo*
+
+The employers in *Rengifo* offer a compromise: Rengifo will answer questions about his immigration status, but the answers will be used only in this lawsuit and never disclosed to anyone else, including the government. Should the court accept it?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**No.** The court considered and rejected exactly this offer: a limitation to "the present litigation and not disclosed to any third party ... does not abate the chilling effect of such disclosure." The concern is not only what happens to the information but what the demand does to the plaintiff. "It is entirely likely that any undocumented [litigant] forced to produce documents related to his or her immigration status will withdraw from the suit rather than produce such documents." Because Rengifo's immigration status is "a collateral issue" in a suit for unpaid wages, and the employers' credibility argument looked like "a back door attempt to learn of immigration status," good cause supports a protective order barring the inquiry altogether.
+
+:::
+:::
+
 ### Coca-Cola Bottling Co. v. Coca-Cola Co.
 
 **MURRAY M. SCHWARTZ, Chief Judge.** [107 F.R.D. 288 (D. Del. 1985)]{.aside}
@@ -1018,6 +1070,19 @@ able to amicably resolve payment of attorneys' fees and costs.
     attempt to resist discovery is a claim of "work product," a doctrine
     recognized by the case that follows.
     
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Coca-Cola*
+
+Change the claims. The bottlers' suit concerned only the Company's delivery schedules, and nothing in it turned on whether diet Coke and Coca-Cola are the same product. The bottlers still ask for the secret formulae. Should the court order disclosure under a protective order?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**No.** Trade secrets are not absolutely privileged, but a party seeking them must show that they are relevant and necessary to its case, and the court then weighs that need against the harm disclosure would cause. In the real case, the formulae went to the heart of the dispute: the bottlers' contract claims depended on whether diet Coke was a different product from Coca-Cola, and even the Company's offered stipulation could not substitute for the actual formulae. Here they would be irrelevant. With no need on the bottlers' side, the court's concern that disclosure "could be a bludgeon in the hands of plaintiffs to force a favorable settlement" would decide the matter, and the court should deny discovery or enter a protective order barring it.
+
+:::
+:::
+
 ### Hickman v. Taylor
 
 **Murphy, J., delivered the opinion of the Court.** [329 U.S. 495 (1947)]{.aside}
@@ -1281,6 +1346,19 @@ an account of what witnesses have told him. \[...\]
     that Rule and the following case to see how it is applied alongside
     the related but distinct doctrine of attorney-client privilege.
     
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Hickman*
+
+Fortenbaugh's file contains two things: (1) a signed statement taken from a surviving crew member, who has since died, and (2) Fortenbaugh's own memo summarizing what other crew members told him, with his views on who was at fault. Under Rule 26(b)(3), can Hickman get either one?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Probably the signed statement, but not the memo.** Both are work product, prepared in anticipation of litigation. Ordinary work product is discoverable on a showing of "substantial need" and inability to obtain the equivalent "without undue hardship." In *Hickman*, Hickman could not make that showing: what he wanted was "readily available to him direct from the witnesses." A dead witness's statement is different, because there is no other way to get his account, which is the classic case of substantial need. The memo is another matter. Rule 26(b)(3) directs courts to "protect against disclosure of the mental impressions, conclusions, opinions, or legal theories" of counsel, and Justice Jackson's concern about requiring a lawyer "to write out and deliver to his adversary an account of what witnesses have told him" applies with full force. Hickman can still depose the surviving witnesses himself.
+
+:::
+:::
+
 ### Upjohn Co. v. United States
 
 **JUSTICE REHNQUIST delivered the opinion of the Court.** [449 U.S. 383 (1981)]{.aside}
@@ -1640,6 +1718,19 @@ case remanded for further proceedings.
     product? Vice versa? Note that if *either* doctrine applies,
     discovery is likely prohibited.
     
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Upjohn*
+
+At a deposition, the IRS asks a mid-level Upjohn manager two questions: (1) "What did you tell Upjohn's lawyers when they interviewed you about the payments?" and (2) "Did you approve payments to foreign officials in 1974?" Upjohn's lawyer objects to both on grounds of attorney-client privilege. Which objection is good?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**The first objection is good; the second is not.** Under *Upjohn*, the manager's communications to company counsel are privileged even though he is not in the "control group" of top officers, because they were "made by Upjohn employees to counsel for Upjohn acting as such, at the direction of corporate superiors in order to secure legal advice from counsel." But "[t]he privilege only protects disclosure of communications; it does not protect disclosure of the underlying facts by those who communicated with the attorney." Whether he approved the payments is a fact. He must answer, even though he also told the lawyers about it. As the Court noted, the government "was free to question the employees who communicated with" counsel.
+
+:::
+:::
+
 ## Ensuring Compliance and Controlling Abuses
 
 Perhaps more than any other phase of civil litigation, discovery is
@@ -1815,6 +1906,19 @@ tapes where available and to submit to additional depositions. The court
 further held that the jury would be given an "adverse inference
 instruction," which allows the jury to conclude that UBS hid evidence
 because it would have been unfavorable to UBS.\]
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Zubulake*
+
+A company's e-mail system automatically deletes messages after 60 days. In March, a fired employee's lawyer sends a letter accusing the company of discrimination and threatening to sue. The company changes nothing until the complaint is served in July, by which time the employee's supervisor's March e-mails are gone. Has the company violated its duty to preserve?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Very likely yes.** As *Zubulake* puts it, "[o]nce a party reasonably anticipates litigation, it must suspend its routine document retention/destruction policy and put in place a 'litigation hold' to ensure the preservation of relevant documents." A lawyer's letter threatening suit for discrimination is a clear signal that litigation is reasonably anticipated, so the duty arose in March, not when the complaint was served. Letting the automatic deletion run destroyed relevant e-mails from the supervisor, a key player. What sanction follows depends on the company's state of mind and the harm to the employee, which is the subject of the next case.
+
+:::
+:::
 
 ### Mueller v. Swift
 
@@ -2088,3 +2192,16 @@ as described above.
     at trial. Why do you think the court concluded that was a lesser
     sanction? Is it possible that it was actually *more* damaging to
     Mueller's defenses?
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Mueller*
+
+Change the facts. Discovery turns up texts in which Mueller tells a friend, after he was fired and had hired a lawyer, that he is deleting the full recording "so Taylor's people can never use it." Could the court now give the jury an adverse inference instruction?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Yes, most likely.** The court in *Mueller* declined to give an adverse inference because "the record does not establish---at least not clearly---that Plaintiff was acting with an intent to deprive Defendants of relevant evidence." For electronically stored information, Rule 37(e)(2) allows that instruction "only upon [a] finding that the party acted with the intent to deprive another party of the information's use in litigation." Texts saying he destroyed the recording so the other side couldn't use it are direct evidence of exactly that intent, and of the "consciousness of a weak case" the court found missing. The court could then instruct the jury that it may presume the recording would have been unfavorable to Mueller.
+
+:::
+:::
