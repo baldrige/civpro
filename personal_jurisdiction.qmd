@@ -924,6 +924,8 @@ Accordingly, I respectfully dissent.
 
 :::
 
+![*Asahi*. Asahi made tire valve assemblies in Japan and sold them to Cheng Shin in Taiwan, which put them into tire tubes and sold the tubes throughout the world; about 20 percent of its U.S. sales were in California. Zurcher's accident, and his suit, were in Solano County, California. The forum State is orange.](maps/asahi.png){#fig-map-asahi fig-alt="Map of the Pacific: California, the forum, in orange; Japan and Taiwan in blue. An arrow labeled valves sold in Taiwan runs from Japan to Taiwan, and an arrow labeled tubes sold around the world, including California, runs from Taiwan to Solano County, California."}
+
 This case presents the question whether the mere awareness on the part of a foreign defendant that the components it manufactured, sold, and delivered outside the United States would reach the forum State in the stream of commerce constitutes "minimum contacts" between the defendant and the forum State such that the exercise of jurisdiction "does not offend 'traditional notions of fair play and substantial justice.'" *International Shoe Co. v. Washington*.
 
 **I**
@@ -1031,6 +1033,8 @@ Second, even assuming that the test ought to be formulated here, Part II-A misap
 ![](images/justices/anthony_m_kennedy.png){width=150 fig-alt="Justice Anthony M. Kennedy"}
 
 :::
+
+![*J. McIntyre*. J. McIntyre made the machine in Nottingham, England, and sold its machines in the United States through an independent distributor. Its officials attended trade shows in Las Vegas, where the buyer first heard of the machine, and in New Orleans, Orlando, San Antonio, and San Francisco, but never in New Jersey. Nicastro was injured at his workplace in Saddle Brook, New Jersey. The forum State is orange.](maps/mcintyre.png){#fig-map-mcintyre fig-alt="Map of the North Atlantic: New Jersey, the forum, in orange; the United Kingdom in blue. An arrow labeled sold through an independent U.S. distributor runs from Nottingham, England, to Saddle Brook, New Jersey. Points mark trade shows in Las Vegas, San Francisco, San Antonio, New Orleans, and Orlando."}
 
 Whether a person or entity is subject to the jurisdiction of a state court despite not having been present in the State either at the time of suit or at the time of the alleged injury, and despite not having consented to the exercise of jurisdiction, is a question that arises with great frequency in the routine course of litigation. The rules and standards for determining when a State does or does not have jurisdiction over an absent party have been unclear because of decades-old questions left open in *Asahi Metal Industry Co. v. Superior Court*.
 
@@ -1462,6 +1466,8 @@ Our interpretation of the Due Process Clause has never been so dependent upon th
 
 :::
 
+![*Goodyear*. The tire was made in Turkey by a Goodyear subsidiary; the other two subsidiaries in the suit were organized and operating in France and Luxembourg. The bus overturned outside Paris as the North Carolina soccer players began their trip home. Their parents sued in Onslow County, North Carolina, where Goodyear USA, an Ohio corporation, had plants. The forum State is orange.](maps/goodyear.png){#fig-map-goodyear fig-alt="Map of the North Atlantic: North Carolina, the forum, in orange; Ohio, France, Luxembourg, and Turkey in blue. A dashed arrow labeled the soccer team's trip runs from Onslow County, North Carolina, to Paris, and a solid arrow runs from Turkey, where the tire was made, to Paris."}
+
 This case concerns the jurisdiction of state courts over corporations organized and operating abroad. We address, in particular, this question: Are foreign subsidiaries of a United States parent corporation amenable to suit in state court on claims unrelated to any activity of the subsidiaries in the forum State?
 
 A bus accident outside Paris that took the lives of two 13-year-old boys from North Carolina gave rise to the litigation we here consider. Attributing the accident to a defective tire manufactured in Turkey at the plant of a foreign subsidiary of The Goodyear Tire and Rubber Company (Goodyear USA), the boys' parents commenced an action for damages in a North Carolina state court; they named as defendants Goodyear USA, an Ohio corporation, and three of its subsidiaries, organized and operating, respectively, in Turkey, France, and Luxembourg. Goodyear USA, which had plants in North Carolina and regularly engaged in commercial activity there, did not contest the North Carolina court's jurisdiction over it; Goodyear USA's foreign subsidiaries, however, maintained that North Carolina lacked adjudicatory authority over them.
@@ -1545,6 +1551,8 @@ For the reasons stated, the judgment of the North Carolina Court of Appeals is
 ![](images/justices/ruth_bader_ginsburg.png){width=150 fig-alt="Justice Ruth Bader Ginsburg"}
 
 :::
+
+![*Daimler*. The alleged abuses centered on MB Argentina's plant in González Catán, Argentina. Daimler, headquartered in Stuttgart, made the cars in Germany. MBUSA, a Delaware company with its principal place of business in New Jersey, imported them and distributed them to dealers, including in California, where it had facilities in Costa Mesa, Carson, and Irvine. The plaintiffs sued in the Northern District of California. The forum State is orange.](maps/daimler.png){#fig-map-daimler fig-alt="Map of the Americas and Europe: California, the forum, in orange; New Jersey, Delaware, Germany, and Argentina in blue. An arrow labeled cars imported by MBUSA runs from Stuttgart to New Jersey, and an arrow labeled distributed to dealers runs on to MBUSA's facilities in Southern California. González Catán, Argentina, is marked with no arrow to the United States."}
 
 This case concerns the authority of a court in the United States to entertain a claim brought by foreign plaintiffs against a foreign defendant based on events occurring entirely outside the United States. The litigation commenced in 2004, when 22 Argentinian residents filed a complaint in the United States District Court for the Northern District of California against DaimlerChrysler Aktiengesellschaft (Daimler), a German public stock company, headquartered in Stuttgart, that manufactures Mercedes-Benz vehicles in Germany. The complaint alleged that during Argentina's 1976--1983 "Dirty War," Daimler's Argentinian subsidiary, Mercedes-Benz Argentina (MB Argentina) collaborated with state security forces to kidnap, detain, torture, and kill certain MB Argentina workers, among them, plaintiffs or persons closely related to plaintiffs. Damages for the alleged human-rights violations were sought from Daimler under the laws of the United States, California, and Argentina. Jurisdiction over the lawsuit was predicated on the California contacts of Mercedes-Benz USA, LLC (MBUSA), a subsidiary of Daimler incorporated in Delaware with its principal place of business in New Jersey. MBUSA distributes Daimler-manufactured vehicles to independent dealerships throughout the United States, including California.
 
@@ -1688,6 +1696,8 @@ Justice Kagan asks Kevin Russell, counsel for the plaintiffs, how Daimler, with 
 ![](images/justices/samuel_alito_jr.png){width=150 fig-alt="Justice Samuel A. Alito, Jr."}
 
 :::
+
+![*Bristol-Myers Squibb*. BMS is incorporated in Delaware and headquartered in New York, and it developed, made, and marketed Plavix in New York and New Jersey. In California it had five research facilities, about 250 sales representatives, and a small office in Sacramento. Of the plaintiffs, 86 lived in California and 592 lived in 33 other States. The forum State is orange.](maps/bristol_myers.png){#fig-map-bms fig-alt="Map of the United States: California, the forum, in orange; New York, New Jersey, and Delaware in blue. A note in the middle of the country reads 86 California plaintiffs and 592 from 33 other States."}
 
 More than 600 plaintiffs, most of whom are not California residents, filed this civil action in a California state court against Bristol-Myers Squibb Company (BMS), asserting a variety of state-law claims based on injuries allegedly caused by a BMS drug called Plavix. The California Supreme Court held that the California courts have specific jurisdiction to entertain the nonresidents' claims. We now reverse.
 
