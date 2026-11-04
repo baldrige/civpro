@@ -272,6 +272,19 @@ remanded for further proceedings not inconsistent with this opinion.
 
 *Reversed.*
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Mullane*
+
+A trustee asks a court to approve its accounts. It knows the names and mailing addresses of 40 beneficiaries, and it cannot identify a handful of others who may have future interests. It gives notice to everyone by publishing it in a local newspaper for four weeks. Is that enough?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Enough for the unknown beneficiaries, but not for the 40 known ones.** *Mullane* requires notice "reasonably calculated, under all the circumstances," to reach interested parties. Publication can suffice for people whose "interests or addresses are unknown," because nothing better is practicable. But "[w]here the names and post-office addresses of those affected by a proceeding are at hand, the reasons disappear for resort to means less likely than the mails to apprise them." The trustee has to mail notice to the 40 beneficiaries it can reach.
+
+:::
+:::
+
 ### Jones v. Flowers
 
 **Chief Justice Roberts delivered the opinion of the Court.** [547 U.S. 220 (2006)]{.aside}
@@ -799,6 +812,19 @@ Accordingly, I would affirm the judgment of the Arkansas Supreme Court.
     - How long does a plaintiff have to effect service? What is the
         consequence of failing to make timely service? *See* Rule 4(m).
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Jones v. Flowers*
+
+Change the facts. After the certified letter comes back marked "unclaimed," the State posts a copy of the notice on the front door of the house and waits several weeks before the sale. Jones, who has moved, never sees it. Did the State give adequate notice?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Probably yes.** *Jones* doesn't require actual notice. It requires the State to take "additional reasonable steps" when it learns that its first attempt failed, "if practicable to do so." The Court listed posting "notice on the front door" as one of those steps, along with resending by regular mail and addressing mail to "occupant." Each is aimed at a different possibility: that Jones still lived there but missed the certified letter, or that he had moved and the occupants might pass the notice along. Having taken a step the Court itself named, the State has likely done what due process requires, even though the notice didn't reach Jones.
+
+:::
+:::
+
 ## The Complaint
 
 This section examines the document that initiates a civil suit: the
@@ -1266,6 +1292,19 @@ remanded for further proceedings consistent with this opinion.
     that allowed most complaints to survive a motion to dismiss for
     failure to state a claim.
     
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Haddle*
+
+Garrison moves to dismiss Haddle's complaint under Rule 12(b)(6). His brief argues that Haddle wasn't fired to keep him from testifying; he was fired for poor job performance, and Garrison attaches the performance reviews to prove it. How should the court rule?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Deny the motion (or, if it considers the reviews, treat it as a motion for summary judgment).** A 12(b)(6) motion "attacks the legal sufficiency of the complaint." The movant in effect says, "Even if everything you allege is true, the law affords you no relief." Garrison's argument is the opposite: it disputes whether Haddle's allegations are true. That is a factual dispute for discovery and later stages, not a ground for dismissal on the pleadings. The legal question in *Haddle* was different: whether an at-will employee fired for testifying is injured within the meaning of § 1985(2), even assuming every fact he alleged.
+
+:::
+:::
+
 ### Conley v. Gibson
 
 **MR. JUSTICE BLACK delivered the opinion of the Court.** [355 U.S. 41 (1957)]{.aside}
@@ -1464,6 +1503,19 @@ recovery is very remote and unlikely but that is not the test." \[...\]
     longer good law. As you read the next case, see if you can figure
     out the rule that replaced it.
     
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Swierkiewicz*
+
+A woman sues her former employer for sex discrimination. Her complaint says when she was hired, what her job was, that she was fired, that a man with less experience replaced her, and that her supervisor made derogatory comments about women. It does not plead each element of the *McDonnell Douglas* prima facie case. Should the complaint be dismissed?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**No.** *Swierkiewicz* holds that the *McDonnell Douglas* prima facie case "is an evidentiary standard, not a pleading requirement." It describes one way a plaintiff can prove discrimination at trial or summary judgment, not what she has to allege in her complaint. Rule 8(a)(2) requires only "a short and plain statement of the claim showing that the pleader is entitled to relief." Her complaint gives the employer fair notice of what she claims and why, with concrete facts about the firing and her replacement. *Twombly*, which follows, describes *Swierkiewicz* as consistent with its plausibility standard.
+
+:::
+:::
+
 ### Bell Atlantic Corp. v. Twombly
 
 **Justice SOUTER delivered the opinion of the Court.** [550 U.S. 544 (2007)]{.aside}
@@ -2022,6 +2074,19 @@ Justice Stevens, who wrote the dissent, questions Michael K. Kellogg, counsel fo
     *transsubstantive*---meaning they apply equally to all cases,
     regardless of their subject matter. The next case illustrates well
     the power of the Rules' transsubstantivity.
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Twombly*
+
+Two gas stations across the street from each other raise their prices by 20 cents on the same morning. A customer sues both under the Sherman Act, alleging the price increases and that, "upon information and belief, defendants agreed to fix prices." Does the complaint survive *Twombly*? What if it also alleged that the two owners met privately the night before and discussed "where prices should go"?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**The first complaint fails; the second probably survives.** *Twombly* holds that allegations of parallel conduct must be "placed in a context that raises a suggestion of a preceding agreement." Matching price increases are just as consistent with each station reacting to the other or to a rise in wholesale costs, and the bare allegation that they "agreed" is a conclusion that adds nothing. The complaint must contain "enough facts to state a claim to relief that is plausible on its face." A private meeting the night before, at which the owners discussed future prices, is a fact that makes agreement plausible rather than merely possible. The plaintiff doesn't have to prove the agreement at this stage.
+
+:::
+:::
 
 ### Ashcroft v. Iqbal
 
@@ -2701,6 +2766,19 @@ Justice Breyer presses Solicitor General Gregory G. Garre, arguing for Ashcroft 
 7.  Read [Rule 9(b)](#sec-frcp9). Consider how and why it differs from Rule 8(a), then
     read the next case, which illustrates Rule 9(b) in practice.
     
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Iqbal*
+
+A prisoner sues the warden, alleging that the warden "knew of, condoned, and willfully and maliciously agreed to subject" him to solitary confinement "solely on account of his religion." Under *Iqbal*'s two steps, does the complaint state a claim? What if it instead alleged that the warden signed a written order directing that all inmates of the prisoner's religion be housed in solitary confinement?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**The first version fails; the second likely survives.** *Iqbal*'s first step sets aside allegations that are legal conclusions: "Threadbare recitals of the elements of a cause of action, supported by mere conclusory statements, do not suffice." Phrases like "knew of, condoned, and willfully and maliciously agreed" track what the plaintiff must eventually prove, and they are close to the language the Court disregarded in *Iqbal* itself. With them set aside, nothing is left to make discrimination plausible. A signed order singling out inmates by religion is a factual allegation, entitled to the assumption of truth, and it plausibly shows the warden's own discriminatory purpose. That is the "context-specific task" of the second step.
+
+:::
+:::
+
 ### Stradford v. Zurich Insurance Co.
 
 **BUCHWALD, District J.** [2002 WL 31027517 (S.D.N.Y. 2002)]{.aside}
@@ -2818,6 +2896,19 @@ defendants leave to amend their counterclaims. \[...\]
     he has made up---in his complaint? The next case tackles that
     question, which is addressed by, among other ethical rules, [Federal
     Rule 11](#sec-frcp11).
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Stradford*
+
+The insurers amend their fraud counterclaim to allege that "in a sworn proof-of-loss statement submitted on February 3, 2000, Dr. Stradford stated that the water damage occurred on January 17, 2000, when in fact it occurred in November 1999, while the policy had lapsed." Does the amended counterclaim satisfy Rule 9(b)?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Very likely yes.** The original counterclaims failed because Rule 9(b) requires disclosing the "time, place, and nature of the [alleged] misrepresentations," and they "simply fail[ed] to identify the statement made by Dr. Stradford that they claim to be false." The amendment identifies the statement (the date of loss in the proof of loss), when and how it was made (in a sworn statement on February 3, 2000), and why it was false (the damage occurred while the policy had lapsed). The court in *Stradford* had already found that the facts pleaded about the timing of the reinstatement and the claim gave rise to an inference of fraudulent intent. Rule 9(b) allows intent and knowledge to be alleged generally.
+
+:::
+:::
 
 ## Ethical Limitations
 
@@ -3026,6 +3117,19 @@ sanctions orders.
     Ninth Circuit emphasized the special findings a district court must
     make before invoking its inherent authority to impose sanctions. Why
     do you think such a special showing might be required?
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Christian v. Mattel*
+
+Change the procedure. Mattel files its Rule 11 motion with the court on the same day it serves the motion on Hicks, without waiting for him to respond. Hicks insists he honestly believed the claim was valid. Can the court sanction him?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Not on Mattel's motion, but it could act on its own.** Rule 11(c)(2) requires the moving party to serve the motion first and give the other side 21 days to withdraw or correct the challenged paper; the motion "must not be filed or be presented to the court" until that safe harbor has run. In the real case Mattel waited, and Hicks declined to withdraw during "the 21-day safe harbor period." Filing early defeats Mattel's motion. Under Rule 11(c)(3), though, the court may order Hicks to show cause on its own initiative. As for Hicks's honest belief, it is no defense. Rule 11(b) asks whether a claim is warranted "after an inquiry reasonable under the circumstances," an objective test. An attorney who could easily have learned that Mattel's sculptures predated the copyrighted doll did not make that inquiry.
+
+:::
+:::
 
 ## Responding to the Complaint
 
@@ -3274,6 +3378,19 @@ requires.
     because of the addition of [Rule 15(c)(1)(C)](#sec-frcp15), which we will read
     about shortly. But the larger lessons about general denials are still important.
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Zielinski*
+
+Change the answer. Instead of denying paragraph 5, Philadelphia Piers answers that it "lacks knowledge or information sufficient to form a belief about the truth of" the allegation that it owned and operated the fork lift. Is that a proper response?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**No.** Rule 8(b)(5) allows that response only when a party truly lacks the knowledge or information. Who owned a fork lift and employed its driver are facts within the defendant's own records and control. A defendant cannot claim ignorance of them to avoid admitting part of an allegation. The answer would cause the same harm as the general denial in *Zielinski*: the plaintiff would not learn which part of the allegation was disputed, and the statute of limitations against the right defendant could run out in the meantime. The court in *Zielinski* stressed that the defendant's statements were ones "it knew (or had the means of knowing within its control) were inaccurate." Rule 8(b)(4) requires a party to admit the part of an allegation that is true and deny only the rest.
+
+:::
+:::
+
 ## Amending Pleadings
 
 If a party wants to change the factual allegations or legal claims made
@@ -3503,6 +3620,19 @@ in allowing the defendant to amend its answer.
     manufactured, or should it instead offer evidence that its own
     slides were safe? Either choice seems absurd.
     
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Beeck*
+
+Change the facts. Aquaslide's insurer learns, early in the case, that the slide was not made by Aquaslide, but Aquaslide waits until after the statute of limitations against the real manufacturer has run before moving to amend its answer, hoping that the delay will leave the Beecks with no one to sue. Should the court grant leave to amend?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Probably not.** Rule 15(a) says leave should be "freely given," but *Foman v. Davis*, which *Beeck* applies, lists reasons to deny it, including "undue delay, bad faith or dilatory motive on the part of the movant" and "undue prejudice to the opposing party." In *Beeck* the trial court "searched the record for evidence of bad faith, prejudice and undue delay" and found none that outweighed the policy of allowing amendment; Aquaslide's mistake about the slide was made in good faith. Deliberately sitting on the information until the plaintiffs' claim against the true manufacturer expired is bad faith that causes exactly that prejudice.
+
+:::
+:::
+
 ### Moore v. Baker
 
 **MORGAN, J.** [989 F.2d 1129 (11th Cir. 1993)]{.aside}
@@ -3725,6 +3855,19 @@ part of plaintiff. \[...\]
     next case involves a different situation: whether an amended
     complaint alleging the same claims against a new defendant should be
     allowed to relate back.
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Moore and Bonerb*
+
+Change *Moore v. Baker*. Moore's original complaint alleged that Dr. Baker failed to tell her about EDTA therapy, and also that she "suffered permanent brain damage as a result of the surgery and its aftermath, including the formation of a blood clot after the operation." Would her later claim of negligence in the surgery and post-operative care relate back?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Very likely yes.** Under Rule 15(c)(1)(B), an amendment relates back if it "arose out of the conduct, transaction, or occurrence set out" in the original pleading. The question, as *Bonerb* put it, is whether the "operational facts" in the original complaint put the defendant on notice of the new claim. In the real *Moore*, the complaint "focuse[d] solely" on the informed-consent theory and contained "nothing to put Dr. Baker on notice that the new claims of negligence might be asserted." A complaint that described the surgery, the clot, and the injury would have pleaded the same operational facts on which the negligence claim rests. That is closer to *Bonerb*, where a new theory (counseling malpractice) related back because the original complaint already described the same occurrence.
+
+:::
+:::
 
 ### Krupski v. Costa Crociere S.p.A.
 
@@ -4157,3 +4300,15 @@ text of the Rule that controls.
     did the Court think the Advisory Committee Notes were helpful in
     understanding the requirements of Rule 15?
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Krupski*
+
+Change the facts. Before filing suit, Krupski's lawyer reads the ticket, sees that Costa Crociere is the carrier, and understands that Costa Cruise is only its U.S. sales agent. He decides to sue Costa Cruise anyway, because it is a U.S. company and he thinks it will be easier to collect from. After the limitations period runs, he moves to substitute Costa Crociere. Does the amendment relate back?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**No.** Rule 15(c)(1)(C)(ii) asks whether the new defendant "knew or should have known that the action would have been brought against it, but for a mistake concerning the proper party's identity." *Krupski* held that the focus is on what the new defendant knew, not on whether the plaintiff could have avoided the error, and that a plaintiff who knows both parties exist can still make a mistake about their roles. But the Court also said that "making a deliberate choice to sue one party instead of another while fully understanding the factual and legal differences between the two parties is the antithesis of making a mistake concerning the proper party's identity." Here the lawyer understood the difference and chose the agent on purpose. Costa Crociere could reasonably conclude that it was left out by design, not by mistake.
+
+:::
+:::
