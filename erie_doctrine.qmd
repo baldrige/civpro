@@ -318,6 +318,19 @@ circumstances of this case, to interpret the Constitution.
 
 4. *Erie* was decided in 1938, the same year that the Federal Rules of Civil Procedure took effect. The late 1930s were a pivotal period in American law, and *Erie* was a key part of the transformation. But *Erie* threatened to undermine the newly adopted Rules. If state law supplies the substantive law in diversity cases, does that mean state rules of practice should govern instead of the Federal Rules? As you will see, *Erie*'s holding is limited to *substantive*---not procedural---law. But the distinction between substance and procedure is maddeningly vague. To see why, consider the next case, which asks an almost recursive question: which body of law governs the question of which body of law applies to a particular dispute? In other words, does state or federal law dictate the horizontal choice of law inquiry in a diversity case? 
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Erie*
+
+In *Black & White Taxicab*, discussed in *Erie*, Brown and Yellow, a Kentucky company, reincorporated in Tennessee so that it could sue its Kentucky competitor, Black and White, in federal court, where the federal courts' general common law under *Swift v. Tyson* would uphold a contract that Kentucky law treated as void. Suppose a company tried the same maneuver the year after *Erie*. Would it still create diversity jurisdiction? Would it still be worth doing?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**It would still create diversity, but it would no longer be worth doing.** Reincorporating changes the company's citizenship, so the parties would be diverse. But after *Erie*, a federal court hearing a state-law claim applies the law the State's own courts would apply, not its own view of the general common law. (*Klaxon*, next, adds that this includes the State's choice-of-law rules.) The federal court in Kentucky would decide the case just as a Kentucky state court would. That removes the reason for the maneuver. *Erie* didn't make forum shopping impossible. It made this particular kind of forum shopping pointless.
+
+:::
+:::
+
 ### Klaxon Co. v. Stentor Elec. Mfg. Co.
 
 **MR. JUSTICE REED delivered the opinion of the Court.**[313 U.S. 487 (1941)]{.aside}
@@ -362,6 +375,19 @@ _Reversed._
 ![The procedural history of *Semtek*. The second suit was timely under Maryland's longer limitations period, so it survived only if the California federal judgment did not bar it.](diagrams/history_semtek.png){#fig-history-semtek width="69%" fig-alt="Procedural history of Semtek in two columns. First suit, California: Semtek sues Lockheed in California state court; Lockheed removes to federal court on diversity; the court dismisses on the merits and with prejudice under California's two-year limitations period; the Ninth Circuit affirms. Second suit, Maryland: Semtek sues in Maryland state court within Maryland's three-year period; the court dismisses on res judicata, with a dotted arrow from the California dismissal asking about its preclusive effect; the Maryland Court of Special Appeals affirms; then the U.S. Supreme Court decides this case in 2001."}
 
 <!-- Source: diagrams/history_semtek.mmd. After editing it, run `bash diagrams/render.sh` and commit the PNG. -->
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Klaxon*
+
+A Pennsylvania company sues a New York company in federal court in Delaware over a contract that was negotiated in New York and was to be performed in Pennsylvania. Delaware's choice-of-law rules would apply New York contract law; the federal judge thinks the better modern rule would apply Pennsylvania law. Which State's contract law should the federal court apply?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**New York's, because Delaware's choice-of-law rules say so.** *Klaxon* extends *Erie* to choice of law: "The conflict of laws rules to be applied by the federal court in Delaware must conform to those prevailing in Delaware's state courts." Otherwise, the result could differ depending on whether the case was in state or federal court across the street in Delaware, which is the forum shopping *Erie* meant to stop. The federal judge's view of the better rule doesn't matter. *Klaxon* does mean that results can differ from one State's federal courts to another's, because each follows its own State's choice-of-law rules.
+
+:::
+:::
 
 ### Semtek Int'l Inc. v. Lockheed Martin Corp.
 
@@ -621,6 +647,19 @@ opinion.
 
 3. A careful reader will have already recognized a potential problem. If the source of the claim-preclusion rules applied in *Semtek* is "federal common law," how can the outcome in *Semtek* be squared with *Erie*, which famously pronounced that "\[t\]here is no federal general common law"? How does the *Semtek* Court deal with this problem? Is the kind of common law at issue in *Semtek* something other than "general"?
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Semtek*
+
+Change the facts. The California federal court dismisses Semtek's state-law claim, not on limitations grounds, but as a sanction for Semtek's willful refusal to obey discovery orders. Assume California's courts would not treat that kind of dismissal as barring a new suit. Semtek refiles in Maryland state court. Is the new suit barred?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Probably yes, even though California law would allow it.** *Semtek* holds that the preclusive effect of a federal diversity judgment is governed by federal common law, which ordinarily borrows the law of the State where the federal court sat. But the Court added an exception: the borrowing "will not obtain, of course, in situations in which the state law is incompatible with federal interests." Its own example was this one: if state law "did not accord claim-preclusive effect to dismissals for willful violation of discovery orders, federal courts' interest in the integrity of their own processes might justify a contrary federal rule." A federal court has a strong interest in making its sanctions stick, and a limitations dismissal raises no comparable interest.
+
+:::
+:::
+
 ## Federal Supremacy
 
 ### Stewart Org., Inc. v. Ricoh Corp.
@@ -717,6 +756,19 @@ For the reasons stated, I respectfully dissent.
 
 3. *Stewart Organization* teaches that an important part of the *Erie* inquiry is determining whether state and federal law are in conflict with one another. If there is no conflict, then there is often no need to choose between them---both can apply. But in cases of genuine conflict, *Erie* demands a choice. The cases that follow explore the extent to which state and federal law conflict in greater detail.
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Stewart*
+
+A dealer and a manufacturer sign a contract requiring suits to be brought only in Manhattan. The dealer sues in federal court in Alabama, where state courts refuse to enforce forum-selection clauses. The manufacturer moves to transfer to the Southern District of New York under § 1404(a). Does Alabama's hostility to the clause govern? How would *Atlantic Marine* affect the result today?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**No; § 1404(a) governs.** When a federal statute is in play, the first question is whether it is "sufficiently broad to control the issue before the Court." *Stewart* held that § 1404(a), which directs the court to weigh convenience and the interest of justice in deciding whether to transfer, covers the question, and Congress has power to enact it. So the federal court applies § 1404(a), not Alabama's rule, and the clause is one factor in that analysis. **Today, *Atlantic Marine* adds that a valid clause gets controlling weight** in the § 1404(a) analysis. The court should ordinarily transfer to Manhattan unless extraordinary circumstances clearly disfavor it, so Alabama's policy matters even less.
+
+:::
+:::
+
 ## Identifying Conflict
 
 ### Guaranty Trust Co. v. York
@@ -806,6 +858,19 @@ omitted.\]**
 4. After *York* was decided, the Supreme Court decided a series of cases that, like *York*, found many questions to be substantive and therefore governed by state law. *See, e.g.*, *Ragan v. Merchants Transfer & Warehouse Co.*, 337 U.S. 530 (1949) (holding that state law governs the question of when a lawsuit is filed, for statute of limitations purposes); *Cohen v. Beneficial Indus. Loan Corp.*, 337 U.S. 541 (1949) (holding that a state law requiring shareholders to post a bond before suing a corporation was substantive for *Erie* purposes); *Woods v. Interstate Realty Co.*, 337 U.S. 535 (1949) (holding that a state law barring out-of-state corporations that had not qualified to do business in the state from suing in state courts was substantive for *Erie* purposes); *Bernhardt v. Polygraphic Co. of America*, 350 U.S. 198 (1956) (holding that state law barring arbitration of employment law matters was substantive for *Erie* purposes).
 
 5. In the wake of these aggressive applications of state law, the next case represents a bit of a retreat.
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *York*
+
+A State requires anyone suing a doctor for malpractice to submit the claim to a medical review panel before filing suit. A suit filed without that step is dismissed. A patient skips the panel and sues a doctor from another State in federal court in diversity. Under *York*, should the federal court apply the panel requirement?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Yes, under *York*.** *York* asks whether "the outcome of the litigation in the federal court should be substantially the same, so far as legal rules determine the outcome of a litigation, as it would be if tried in a State court." In state court, the patient's suit would be dismissed. If the federal court ignored the requirement, the same suit would go forward a few blocks away just because the doctor is from out of state. That is exactly the kind of difference *York* treats as substantive. (Later cases ask whether a Federal Rule covers the issue, as *Hanna* explains, but no Federal Rule addresses pre-suit review panels.)
+
+:::
+:::
 
 ### Byrd v. Blue Ridge Rural Electrical Cooperative
 
@@ -940,6 +1005,19 @@ omitted.\]**
 
 3. Would *Byrd* have come out differently if it had been governed by the rule of *York*? If so, does that mean *Byrd* overruled *York* at least in part?
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Byrd*
+
+Change *Byrd*'s facts. Suppose the South Carolina workers' compensation statute itself provided that whether an injured worker counts as a statutory employee, and so is limited to compensation, must be decided by a judge, because the legislature wanted that question kept away from juries as part of the compensation bargain. Would *Byrd* still require a jury?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**The case for following state law would be much stronger.** *Byrd*'s first step asks whether a state rule "is bound up with these rights and obligations in such a way that its application in the federal court is required." The Court found that South Carolina's rule was not: the State's courts gave no reasons for it, and nothing suggested it was "an integral part of the special relationship created by the statute," so it was "merely a form and mode of enforcing the immunity." A rule written into the statute as part of the compensation scheme would look like part of the definition of the State's right. The federal interest in jury trial that *Byrd* relied on would still weigh on the other side, so the result is not certain, but the first step of *Byrd*'s analysis would now favor the state rule.
+
+:::
+:::
+
 ### Hanna v. Plumer
 
 **WARREN, C.J., delivered the opinion of the Court.** [380 U.S. 460 (1965)]{.aside}
@@ -1021,6 +1099,19 @@ The Court weakens, if indeed it does not submerge, this basic principle by findi
 3. What role does the Rules Enabling Act, 28 U.S.C. § 2072, play in the *Hanna* inquiry?
 
 4. *Hanna* says that the "twin aims" of *Erie* are the "discouragement of forum-shopping and avoidance of inequitable administration of the laws." What does that mean?
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Hanna*
+
+A State's law says that filing a complaint doesn't stop the statute of limitations; only service on the defendant does. Federal Rule 3 says that "[a] civil action is commenced by filing a complaint with the court." A plaintiff files a diversity suit the day before the limitations period runs out and serves the defendant a month later. Under *Hanna*, does Rule 3 save the claim?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**No.** *Hanna*'s Rules Enabling Act analysis applies only when a Federal Rule actually conflicts with the state rule. In *Walker v. Armco Steel Corp.*, cited in *Stewart*, the Court held that Rule 3 is not "sufficiently broad to control the issue": it governs when an action begins for purposes of the Federal Rules' own deadlines, not when a state statute of limitations is tolled. The two rules "can exist side by side … each controlling its own intended sphere of coverage without conflict." With no Federal Rule on point, the court applies *Erie* and the twin aims, and a different limitations result in federal court would invite exactly the forum shopping they guard against. The claim is time-barred.
+
+:::
+:::
 
 ## Accommodating State Law
 
@@ -1194,6 +1285,19 @@ The Court commits the classic _Erie_ mistake of regarding whatever changes the o
 When there is added to the revision of the Seventh Amendment the Court’s precedent-setting disregard of Congress’s instructions in Rule 59, one must conclude that this is a bad day for the Constitution’s distinctive Article III courts in general, and for the role of the jury in those courts in particular. I respectfully dissent.
 
 \[…\]
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Gasperini*
+
+A State caps damages for pain and suffering in medical malpractice cases at $500,000. In a diversity case in federal court, the jury awards $2 million for pain and suffering. What should the court do? Does the Seventh Amendment's Reexamination Clause stand in the way?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Reduce the award to $500,000.** As *Gasperini* puts it, a "statutory cap on damages would supply substantive law for *Erie* purposes." The cap defines how much the State's cause of action allows a plaintiff to recover, so it applies in federal court as it would in state court. Applying it doesn't "reexamine" any fact the jury found. The jury's finding of the plaintiff's damages stands, and the court applies a rule of law that limits recovery. Justice Scalia's dissent drew exactly this line, between a "rule of law" like a cap and a standard for judges to review the jury's findings, which is what made § 5501(c) harder.
+
+:::
+:::
 
 ### Shady Grove Orthopedic Assocs., P.A. v. Allstate Ins. Co.
 
@@ -1457,6 +1561,19 @@ Justice Ginsburg and Chief Justice Roberts question Christopher Landau, counsel 
 **Christopher Landau:** --Then, Your Honor, you would have a Hanna issue because Rule 23 does set forth the criteria for a Federal court to certify a class. State law cannot change or water down those criteria or direct that you get to the goal line of a certified class by some mechanism other than the Rule 23 criteria. Our position, Your Honor, our point is that you don't get to the Rule 23 criteria if the State law or the substantive law that creates the cause of action sends you off the highway before you get into the land of the criteria. If it just says, this is categorically unavailable as a class, as many States have, in fact, done in the statutes in Appendix B -- they have come up with novel causes of action sometimes, abusive e-mail cause of action. And they said, well, we do not want a class action to be brought for this kind of claim. That is a decision that reflects a substantive choice by the legislature that it would be overdeterrence and overenforcement to have this brought on a class-wide basis.
 
 **Chief Justice Roberts:** Well, it -- it only reflects a substantive choice -- if it is a substantive choice. If they say, we are not going to allow class actions because we think, procedurally, they are a bad idea because we think lawyers get too much recovery when they recover -- in other words, it -- your -- your position depends upon a characterization of the ban, and the restriction on class actions is either substantive or procedural.
+:::
+:::
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Shady Grove*
+
+Change the state law. Instead of a general class-action rule like § 901(b), a State's consumer-protection statute creates a new cause of action for deceptive pricing and says, in the same section, that "claims under this section may not be brought as a class action." A plaintiff brings a class action under the statute in federal court in diversity. Does Rule 23 apply?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**It is a closer case than *Shady Grove*.** Justice Scalia's plurality would say yes: Rule 23 "answers the question" whether a class action may proceed, and a Federal Rule that regulates procedure governs regardless of where the State put its contrary rule. Justice Stevens, whose vote was needed for the judgment, took a different view. A Federal Rule cannot displace a state rule that is "procedural in the ordinary use of the term but is so intertwined with a state right or remedy that it functions to define the scope of the state-created right." He found that § 901(b), a general procedural rule, did not qualify. A class-action bar written into the statute that creates the right is a much stronger candidate, because the legislature limited the remedy as part of creating it. Under Justice Stevens's approach, applying Rule 23 could then "abridge, enlarge or modify" a substantive right, and the state limit would govern.
+
 :::
 :::
 
