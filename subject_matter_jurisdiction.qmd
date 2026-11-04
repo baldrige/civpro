@@ -69,6 +69,19 @@ It is ordered that the judgment be reversed and the case remitted to the circuit
 4.	Does it make sense to read the language of § 1331 so differently from that of Art. III, given that they are so textually similar? Even if not, do you think Congress implicitly blessed the divergence between statute and constitution by refusing to expand federal-question jurisdiction to encompass federal defenses, despite many other amendments to § 1331 and its predecessors over the years?
 5.	While *Mottley* rules out federal question jurisdiction based only on a federal defense, it leaves open the question of when a plaintiff’s complaint “arises under” federal law. Does it require that the plaintiff’s cause of action be a creation of federal law, or can the test be satisfied if the plaintiff pleads a state-law claim that necessarily involves federal law? The following cases seek to work out the answer to this question. 
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Osborn and Mottley*
+
+A Kentucky supplier sues a Kentucky buyer in federal court for breach of contract. The complaint says the buyer will defend by arguing that a federal statute made the contract illegal, and then explains why the statute doesn't apply. Does the case arise under federal law for purposes of § 1331? Could Congress constitutionally give federal courts jurisdiction over it?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**No under § 1331, but probably yes under Article III.** *Mottley*'s well-pleaded complaint rule looks only at the plaintiff's own cause of action, which here is a state-law contract claim. "It is not enough that the plaintiff alleges some anticipated defense to his cause of action and asserts that the defense is invalidated by" federal law. Article III is broader. Under *Osborn*, a case arises under federal law whenever federal law is an "original ingredient" of it, and a federal question that will very likely be litigated qualifies. Congress could therefore expand § 1331 to reach cases like this. It just hasn't.
+
+:::
+:::
+
 ### American Well Works Co. v. Layne & Bowler Co.
 
 **Mr. Justice Holmes delivered the opinion of the court.** [241 U.S. 257 (1916)]{.aside}
@@ -93,6 +106,19 @@ _Judgment reversed._
 
 1. The rule of *American Well-Works* is that “\[a\] suit arises under the law that creates the cause of action.” In other words, if a cause of action is created by federal law, it “arises under” federal law; if it is created by state law, it does not. This rule has an obvious strength: it is quite clear and easily applied. But does that advantage come at the cost of relegating some significant questions of federal law to the domain of state courts, at least in the first instance?
 2. Justice Holmes’s vision for a clear, bright-line rule faded quickly. As the legendary Second Circuit Judge Henry Friendly put it, “Mr. Justice Holmes’ formula is more useful for inclusion than for the exclusion for which it was intended. Even though the claim is created by state law, a case may ‘arise under’ a law of the United States if the complaint discloses a need for determining the meaning or application of such a law.” *T.B. Harms Co. v. Eliscu*, 339 F.2d 823, 827 (2d Cir. 1964). The case that follows shows why.
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *American Well Works*
+
+An inventor licenses his patented pump design to a manufacturer in exchange for royalties. The manufacturer stops paying, and the inventor sues for breach of the license agreement. The parties are not diverse. Does the suit arise under federal law?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**No, at least under Holmes's test.** "A suit arises under the law that creates the cause of action," and here that is state contract law. The patent is the subject of the contract, but the inventor's claim is that the manufacturer broke a promise to pay. That is a wrong under state law whatever is being licensed. Compare an infringement suit against someone using the pump design without a license, which the federal Patent Act creates and which therefore arises under federal law. (The cases that follow ask whether a state claim can still arise under federal law when it turns on a federal issue. Here the issue is only whether the manufacturer paid.)
+
+:::
+:::
 
 ### Smith v. Kansas City Title & Trust Co.
 
@@ -190,6 +216,19 @@ We conclude that a complaint alleging a violation of a federal statute as an ele
 The judgment of the Court of Appeals is affirmed.
 
 _It is so ordered._
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Merrell Dow*
+
+A construction worker is injured on a job site and sues the contractor in state court for negligence. Under state law, violating a safety regulation is negligence per se, and the complaint alleges that the contractor violated a federal workplace-safety regulation. Assume that Congress created no private right of action for violating the regulation. Can the contractor remove the case to federal court?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**No.** This is *Merrell Dow* with a different federal statute. The claim is created by state law, and the federal regulation enters only as the standard of care that makes the contractor presumptively negligent. As in *Merrell Dow*, Congress provided no federal remedy, and the Court thought it would "flout, or at least undermine, congressional intent" to open federal courts to such claims "solely because the violation of the federal statute is said to be a 'rebuttable presumption' or a 'proximate cause' under state law." *Grable* later added a further reason: federal violations are "commonly given negligence _per se_ effect" in state tort law, so allowing these claims in would move a huge number of ordinary tort cases into federal court.
+
+:::
+:::
 
 ### Grable & Sons Metal Prods., Inc. v. Darue Eng'g & Mfg.
 
@@ -349,6 +388,19 @@ The judgment of the Supreme Court of Texas is reversed, and the case is remanded
 
 _It is so ordered._
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Grable and Gunn*
+
+Change *Grable*'s facts. Grable agrees that the statute permits notice by certified mail. Its only argument is that the IRS never actually mailed the letter, and the IRS's records of the mailing are incomplete. Does Grable's quiet-title claim still arise under federal law?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Probably not.** Two of *Grable*'s four requirements are still met: the federal issue is necessarily raised (proper notice under the federal statute remains an element of the claim) and actually disputed. What drops away is substantiality. In *Grable* the dispute was over what the statute *means*, which matters to every IRS seizure and every buyer at a tax sale. A dispute about whether one letter was mailed matters only to these parties. *Gunn* says the substantiality inquiry "looks instead to the importance of the issue to the federal system as a whole," and that "fact-bound and situation-specific" effects are not enough.
+
+:::
+:::
+
 ## Diversity of Citizenship
 
 Article III extends the subject-matter jurisdiction of federal courts to “controversies … between citizens of different states.” Why do you think the framers of Article III might have given that class of cases to federal as opposed to state courts? What might their concerns have been? These questions are especially pressing given that diversity jurisdiction was quite controversial, and provided one of the main points of attack for skeptics of the new federal constitution during the ratification debates.
@@ -390,6 +442,19 @@ _Louisville, Cincinnati & Charleston R.R. Co. v. Letson_, 43 U.S. 497, 555 (1844
 > As to its cognizance of disputes between citizens of different states, I will not say it is a matter of such importance. Perhaps it might be left to the state courts. But I sincerely believe this provision will be rather salutary, than otherwise. It may happen that a strong prejudice may arise in some states, against the citizens of others, who may have claims against them. We know what tardy, and even defective administration of justice, has happened in some states. A citizen of another state might not chance to get justice in a state court, and at all events he might think himself injured.
 
 3 Jonathan Elliot, _The Debates in the Several State Conventions on the Adoption of the Federal Constitution_ 533 (2d ed. 1836). Subsequent commentators are skeptical of Madison's justifications. _See, e.g._, Henry J. Friendly, _The Historic Basis of Diversity Jurisdiction_, 41 Harv. L. Rev. 483, 492–97 (1928). As you read the cases that follow, see whether you think that diversity jurisdiction is necessary, salutary, and effective at achieving its stated goals.
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Strawbridge*
+
+Two plaintiffs, citizens of New York and New Jersey, sue two defendants, citizens of Connecticut and New Jersey, on a state-law claim for $200,000. Is there diversity jurisdiction under § 1332? Would Article III allow Congress to provide jurisdiction over this case?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**No under § 1332, but yes under Article III.** *Strawbridge* reads the diversity statute to require complete diversity: no plaintiff may share citizenship with any defendant. The New Jersey plaintiff and the New Jersey defendant destroy it, however diverse everyone else is. Article III requires only "minimal diversity," meaning at least one plaintiff and one defendant from different States, and that is satisfied here. Congress has occasionally used that broader power, as in the Class Action Fairness Act at the end of this chapter.
+
+:::
+:::
 
 ### Mas v. Perry
 
@@ -462,6 +527,19 @@ ggplot(aic, aes(year)) +
 3.	*Mas* turns heavily on the concept of domicile. A person is a citizen of a state if they are domiciled there. What is the test for determining a person’s domicile? What does it take for a person to establish a new domicile?
 
 4.	Where is a corporation domiciled for purposes of diversity jurisdiction? The test applied in Mas seems like a poor fit for a corporation. So what test should apply? The Supreme Court answered that question in the next case.
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Mas*
+
+Priya grew up in Ohio and is in her third year of law school in Austin, Texas. She plans to take whatever job she can get after graduation, and she doesn't know where it will be. She sues her Texas landlord in federal court. Is she a citizen of Ohio or Texas? Would your answer change if she had already accepted a permanent job in Dallas and planned to stay in Texas?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Ohio, on the first set of facts.** Changing domicile takes both "(a) taking up residence in a different domicile with (b) the intention to remain there." Like Mrs. Mas at LSU, Priya lives in Texas as a student with no settled plan to stay, so her Ohio domicile continues. She is diverse from the Texas landlord. **With the Dallas job, the answer changes:** she now lives in Texas and intends to remain, so she is a Texas citizen and cannot sue a Texas landlord in diversity. Citizenship is measured when the complaint is filed, so what matters is her intent on that date.
+
+:::
+:::
 
 ### Hertz Corp. v. Friend
 
@@ -547,6 +625,19 @@ Chief Justice Roberts asks Todd M. Schneider, counsel for the Hertz employees, w
 :::
 :::
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Hertz*
+
+A company is incorporated in Delaware. Its executives work at its headquarters in Chicago, where they direct and coordinate the business. But 80 percent of its stores and employees are in California. A California employee sues it in California state court for $200,000 under California law. Can the company remove the case on the basis of diversity?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Yes.** Under § 1332(c)(1), the company is a citizen of Delaware, where it is incorporated, and of the State of its principal place of business. Under *Hertz*, that is the "nerve center," the place where its officers "direct, control, and coordinate the corporation's activities," which is Chicago. However much business it does in California, it is not a California citizen. It is fully diverse from the California employee, the amount exceeds $75,000, and the forum-defendant rule doesn't apply because the company isn't a citizen of California. This is the kind of result *Hertz* accepted as "the price the legal system must pay" for a simple rule.
+
+:::
+:::
+
 ## Supplemental
 
 Often a lawsuit will include a mix of claims that arise under both federal and state law. In that circumstance, federal courts have recognized a power to take jurisdiction over related state-law claims, even in the absence of diversity jurisdiction, so long as there is at least one “anchor claim” over which there is an independent jurisdictional basis. This “supplemental” jurisdiction—formerly known by the twin terms “pendent” and “ancillary” jurisdiction—illustrates the ways in which the different grants of subject-matter jurisdiction interact with and relate to one another.
@@ -595,6 +686,19 @@ That power need not be exercised in every case in which it is found to exist. It
 The question of power will ordinarily be resolved on the pleadings. But the issue whether pendent jurisdiction has been properly assumed is one which remains open throughout the litigation. Pretrial procedures or even the trial itself may reveal a substantial hegemony of state law claims, or likelihood of jury confusion, which could not have been anticipated at the pleading stage. Although it will of course be appropriate to take account in this circumstance of the already completed course of the litigation, dismissal of the state claim might even then be merited. For example, it may appear that the plaintiff was well aware of the nature of his proofs and the relative importance of his claims; recognition of a federal court's wide latitude to decide ancillary questions of state law does not imply that it must tolerate a litigant's effort to impose upon it what is in effect only a state law case. Once it appears that a state claim constitutes the real body of a case, to which the federal claim is only an appendage, the state claim may fairly be dismissed.
 
 We are not prepared to say that in the present case the District Court exceeded its discretion in proceeding to judgment on the state claim. […] It is true that the § 303 claims ultimately failed and that the only recovery allowed respondent was on the state claim. We cannot confidently say, however, that the federal issues were so remote or played such a minor role at the trial that in effect the state claim only was tried. […]
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Gibbs*
+
+An employee sues her employer in federal court under a federal anti-discrimination statute, alleging that she was fired because of her religion. She adds a state-law claim for overtime pay she says she was owed two years before she was fired. The parties are not diverse. Can the federal court hear the overtime claim? What if she had instead added a state-law claim for wrongful discharge based on the same firing?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**The overtime claim, probably not; the wrongful-discharge claim, yes.** Supplemental jurisdiction (now codified in § 1367(a)) requires that the state and federal claims "derive from a common nucleus of operative fact," so that a plaintiff "would ordinarily be expected to try them all in one judicial proceeding." The discrimination claim is about why she was fired. The overtime claim is about her hours and pay two years earlier, which is a different set of facts and different proof. A wrongful-discharge claim about the same firing shares nearly all its facts with the federal claim, which is the situation in *Gibbs*, where the federal and state claims arose from the same events.
+
+:::
+:::
 
 ### Aldinger v. Howard
 
@@ -746,6 +850,19 @@ The complete-diversity requirement, of course, could be viewed as meaning that i
 
 […]
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Kroger*
+
+In *Kroger*, the defendant (OPPD, a Nebraska citizen) impleaded Owen (an Iowa citizen) under Rule 14. Did the court have jurisdiction over OPPD's claim against Owen? If so, why couldn't Mrs. Kroger, also an Iowa citizen, then assert her own claim against Owen?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Yes over OPPD's claim, but no over Mrs. Kroger's.** OPPD and Owen are diverse, and in any event the Court said that the impleader of a third-party defendant by a defendant is the classic ancillary claim, because it "depends at least in part upon the resolution of the primary lawsuit." Mrs. Kroger's claim is different. She chose the federal forum, and she couldn't have sued Owen there directly because both are from Iowa. Allowing her to add the claim once Owen was impleaded would let plaintiffs get around complete diversity by suing only diverse defendants and waiting for the nondiverse ones to be brought in. Section 1367(b) now codifies the result: in diversity cases, no supplemental jurisdiction over "claims by plaintiffs against persons made parties under Rule 14."
+
+:::
+:::
+
 ### Finley v. United States
 
 **Justice Scalia delivered the opinion of the Court.** [490 U.S. 545 (1989)]{.aside}
@@ -826,6 +943,19 @@ I respectfully dissent.
 2. Consider _Zahn v. International Paper Co._, 414 U.S. 291 (1973), which is discussed in both _Kroger_ and _Finley_. That case involved a state-law tort action brought by owners of property on Lake Champlain, in Vermont, against a New York paper company, for allegedly polluting the waters of the lake. In this putative class action, the lead plaintiffs invoked diversity jurisdiction over their claims, which exceeded the then-applicable \$10,000 jurisdictional amount. The key question when the case came before the Supreme Court was whether individuals whose claims were for less than \$10,000 could be joined as class members under Rule 23. The Court held that each member of a Rule 23(b)(3) class must satisfy the minimum jurisdictional amount under the diversity jurisdiction statute.
 
 3. After the Supreme Court decided _Finley v. United States_, Congress codified the doctrine of supplemental jurisdiction by enacting 28 U.S.C. § 1367 in 1990. Read that statute and consider what effect it has, if any, on the holdings in _Aldinger_, _Kroger_, and _Finley_.
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Finley*
+
+Suppose *Finley* arose today. The plaintiff sues the United States under the Federal Tort Claims Act, and adds related state-law claims against the city and the utility company, which are not diverse from her. Can the federal court hear the state-law claims?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Yes.** *Finley* refused to extend *Gibbs* to "pendent parties," meaning new defendants who are named only on state-law claims, without authorization from Congress. Congress responded with § 1367. Its last sentence provides that supplemental jurisdiction "shall include claims that involve the joinder or intervention of additional parties." This is a federal-question case (the FTCA claim), not a diversity case, so § 1367(b)'s exceptions do not apply. As long as the state claims are part of the same case or controversy (here, the same plane crash), the court may hear them, subject to its discretion under § 1367(c) to decline.
+
+:::
+:::
 
 ### Exxon Mobil Corp. v. Allapattah Servs., Inc.
 
@@ -908,6 +1038,19 @@ The judgment of the Court of Appeals for the Eleventh Circuit is affirmed. The j
 
 _It is so ordered._
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Allapattah*
+
+Two Florida citizens are injured in the same car accident and sue the Georgia driver together in federal court, joined under Rule 20. One claims $150,000; the other claims $20,000. Can the court hear both claims? What if the second plaintiff were a Georgia citizen instead?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Both claims, yes; with a Georgia co-plaintiff, no.** Under *Allapattah*, when "at least one named plaintiff in the action satisfies the amount-in-controversy requirement, § 1367 does authorize supplemental jurisdiction over the claims of other plaintiffs in the same Article III case or controversy," even if those claims fall short of the amount. A nondiverse co-plaintiff is different. The Court explained that the complete-diversity requirement means "a single nondiverse party can contaminate every other claim in the lawsuit," so there would be no original jurisdiction over the action to which anything could be supplemental. The amount-in-controversy shortfall, by contrast, affects only that plaintiff's claim.
+
+:::
+:::
+
 ### Putting It Together
 
 <!-- Source: diagrams/sec1367.mmd; redraw with `bash diagrams/render.sh`. -->
@@ -965,6 +1108,19 @@ For the reasons stated, the judgment of the Court of Appeals is reversed, and th
 1. _Lewis_ seems to fly in the face of a key feature of subject-matter jurisdiction. The usual rule is that a final judgment can be set aside, and the case sent back to square one, if the court lacked power over the case. To see this dynamic in practice, consider _Kroger_, _supra_, in which a jury verdict was vacated based on a jurisdictional defect not discovered until the middle of trial. Yet despite a similar jurisdictional defect, the Court in _Lewis_ allowed the judgment to stand. Why?
 2. Relatedly, why did Caterpillar remove the case when it did? What was their strategy? Was it a mistake for the Court to reward Caterpillar for pursuing that strategy?
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Caterpillar*
+
+Change *Caterpillar*'s facts. Liberty Mutual never settles with Whayne Supply, the nondiverse defendant, and Whayne Supply is still a party when the jury returns its verdict for Caterpillar. Can the judgment stand?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**No.** *Caterpillar* saved the judgment only because the jurisdictional defect had been cured, so that "federal jurisdictional requirements are met at the time judgment is entered." Here they aren't: Lewis (Kentucky) and Whayne Supply (Kentucky) are still on opposite sides. The Court was explicit that "if, at the end of the day and case, a jurisdictional defect remains uncured, the judgment must be vacated." The improper removal itself was forgiven in *Caterpillar*, but only because the case ended in a court that, by then, had jurisdiction.
+
+:::
+:::
+
 ### Standard Fire Ins. Co. v. Knowles
 
 **BREYER, J., delivered the opinion of the Court.** [568 U.S. 588 (2013)]{.aside}
@@ -1015,3 +1171,15 @@ Knowles also points out that federal courts permit individual plaintiffs, who ar
 
 In sum, the stipulation at issue here can tie Knowles’ hands, but it does not resolve the amount-in-controversy question in light of his inability to bind the rest of the class. For this reason, we believe the District Court, when following the statute to aggregate the proposed class members’ claims, should have ignored that stipulation. Because it did not, we vacate the judgment below and remand the case for further proceedings consistent with this opinion.
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Standard Fire*
+
+Instead of filing a class action, Knowles sues State Farm on his own claim alone, in Arkansas state court. His complaint includes a sworn stipulation that he will not seek or accept more than $70,000. The parties are diverse. Can State Farm remove the case under § 1332?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Probably not.** The Court's reasoning turned on whom the stipulation could bind. Knowles's stipulation "can tie Knowles’ hands," but "a plaintiff who files a proposed class action cannot legally bind members of the proposed class before the class is certified," so it couldn't keep the class's claims below CAFA's $5 million threshold. Suing alone, Knowles is the only claimant, and a binding stipulation limits everything at stake to $70,000, which is less than § 1332's $75,000. Lower courts generally treat a binding stipulation like this as keeping an individual case in state court.
+
+:::
+:::
