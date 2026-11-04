@@ -14,6 +14,8 @@
 -- 3. Links whose text is itself a URL. LaTeX sets that text as one unbreakable
 --    word, which runs past the narrow margin column. Typeset it with
 --    \nolinkurl so it can break at slashes and dots like other URLs.
+--
+-- 4. Self-check answers move to a key at the end of each chapter (below).
 
 if not quarto.doc.is_format("latex") then
   return {}
@@ -151,10 +153,75 @@ local function breakable_url_text(link)
   return link
 end
 
+-- 4. Self-check answers. On the website each "Check Your Understanding" box
+--    hides its answer in a collapsed callout, but a printed page can't
+--    collapse. Move each answer to a key at the end of its chapter, leaving
+--    "Answer on page N" in the box and a link back to the question's page.
+
+local function rawtex(s) return pandoc.RawInline("latex", s) end
+
+-- The case name from "Check Your Understanding: *Case*".
+local function self_check_case(div)
+  local h = div.content[1]
+  if not h or h.t ~= "Header" then return {} end
+  local case, seen = pandoc.List(), false
+  for _, il in ipairs(h.content) do
+    if seen then
+      if not (#case == 0 and il.t == "Space") then case:insert(il) end
+    elseif il.t == "Str" and il.text == "Understanding:" then
+      seen = true
+    end
+  end
+  return case
+end
+
+local function self_check_key(blocks)
+  local out, key, chapter, n = pandoc.List(), pandoc.List(), 0, 0
+  local function flush()
+    if #key == 0 then return end
+    out:insert(pandoc.Header(2, "Answers to Check Your Understanding",
+      pandoc.Attr("", { "unnumbered", "unlisted" })))
+    out:extend(key)
+    key = pandoc.List()
+  end
+  for _, block in ipairs(blocks) do
+    if block.t == "Header" and block.level == 1 then
+      flush()
+      chapter, n = chapter + 1, 0
+    elseif block.t == "Div" and block.classes:includes("self-check") then
+      local keep, answer = pandoc.List(), nil
+      for _, b in ipairs(block.content) do
+        if b.t == "Div" and b.attributes["collapse"] then answer = b else keep:insert(b) end
+      end
+      if answer then
+        n = n + 1
+        local id = string.format("selfcheck-%d-%d", chapter, n)
+        keep:insert(pandoc.Para({ rawtex("\\label{" .. id .. "-q}"), pandoc.Emph({
+          pandoc.Str("Answer"), pandoc.Space(), pandoc.Str("on"), pandoc.Space(),
+          pandoc.Str("page"), pandoc.Space(), rawtex("\\pageref{" .. id .. "-a}"), pandoc.Str("."),
+        }) }))
+        block.content = keep
+        local head = pandoc.List({ rawtex("\\label{" .. id .. "-a}") })
+        head:insert(pandoc.Strong(self_check_case(block)))
+        head:extend({ pandoc.Space(), pandoc.Str("(question"), pandoc.Space(), pandoc.Str("on"),
+          pandoc.Space(), pandoc.Str("page"), pandoc.Space(), rawtex("\\pageref{" .. id .. "-q}"),
+          pandoc.Str(")") })
+        key:insert(pandoc.Para(head))
+        for _, b in ipairs(answer.content) do
+          if b.t ~= "Header" then key:insert(b) end
+        end
+      end
+    end
+    out:insert(block)
+  end
+  flush()
+  return out
+end
+
 return {
   { Div = split_stacked_figure, Link = breakable_url_text },
   { Pandoc = function(doc)
-      doc.blocks = reserve_portrait_space(doc.blocks)
+      doc.blocks = self_check_key(reserve_portrait_space(doc.blocks))
       return doc
     end },
 }
