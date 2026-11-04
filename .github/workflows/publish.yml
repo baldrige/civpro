@@ -20,20 +20,26 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # A healthy build takes about 5 minutes. Without a limit, a hung download
+    # can hold the job (and the deploy queue) for GitHub's 6-hour default.
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v5
 
       - uses: quarto-dev/quarto-actions/setup@v2
+        timeout-minutes: 10
         with:
           version: 1.11.9
           tinytex: true
 
       # R renders the data figures (see data/README.md).
       - uses: r-lib/actions/setup-r@v2
+        timeout-minutes: 10
         with:
           use-public-rspm: true
 
       - uses: r-lib/actions/setup-r-dependencies@v2
+        timeout-minutes: 10
         with:
           packages: |
             any::knitr
