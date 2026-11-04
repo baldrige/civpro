@@ -118,6 +118,19 @@ In the present case, there is no feature of this kind, and, consequently, no con
 
 6.  What exceptions did the Court note to its general territorial theory of personal jurisdiction?
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Pennoyer*
+
+Change the facts. When Mitchell sues in 1865, Neff owns nothing in Oregon. Mitchell serves him by publication and wins a default judgment. A year later, Neff buys land in Portland, and Mitchell asks the sheriff to sell it to satisfy the judgment. Can he?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**No.** Under *Pennoyer*, an Oregon court could reach a non-resident's property only if the property was "brought under the control of the court by seizure or some equivalent act" when the suit began. The court then had power over the land, though not over Neff, and a judgment could be satisfied only out of that land. Here there was nothing to seize at the start. So the judgment is a personal judgment against an absent non-resident, which is void, and land Neff acquires later can't revive it. This is also why the actual judgment failed: the land wasn't attached until after judgment.
+
+:::
+:::
+
 ## Long-Arm Statutes
 
 *Pennoyer v. Neff* constitutionalized personal jurisdiction by making it a requirement of due process. Put differently, *Pennoyer* held that the Fourteenth Amendment limits state courts' ability to exercise personal jurisdiction over persons outside the territorial boundaries of the state. You can think of the due process dimension of personal jurisdiction as the maximum that states can exercise under the Constitution.
@@ -305,6 +318,19 @@ True, the State's power is here upheld. But the rule announced means that tomorr
 2.  Which inquiry is easier? Figuring out where a corporation is "present" or figuring out where it has contacts and how many contacts are enough to satisfy due process? Why? Does the constitution provide any guidance on which one is required?
 
 3.  The major question after *International Shoe* was decided was whether any portion of *Pennoyer* survived the revolutionary transformation from territorial jurisdiction to minimum contacts. The next two cases explore the vitality of two types of service that had traditionally been recognized under the *Pennoyer* regime but were arguably inconsistent with the minimum contacts approach ushered in by *International Shoe*.
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *International Shoe*
+
+A Missouri shoe company has no office or employees in Washington. Five years ago, one of its salesmen made a single sale to a Seattle store while passing through. Now a Washington customer sues the company in Washington for breach of a contract that was negotiated and signed in Missouri and has nothing to do with that sale. Is there jurisdiction?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Almost certainly not.** *International Shoe* describes a spectrum. At one end are activities that are "continuous and systematic" and give rise to the claim, which plainly support jurisdiction. At the other end are "single or isolated items of activities" that are unrelated to the claim, which do not. One stale sale, unconnected to the contract in suit, sits at that second end. Compare the actual case: about a dozen resident salesmen, years of regular solicitation, and a claim (unpaid unemployment contributions) that arose from exactly that activity.
+
+:::
+:::
 
 ### Shaffer v. Heitner
 
@@ -589,6 +615,19 @@ Justices Scalia and Kennedy question Richard Sherman, counsel for Dennis Burnham
 
 4.  What does *Burnham* tell us, if anything, about what remains of Pennoyer? Does it signal a willingness to return to *Pennoyer*'s territorial paradigm, even if only sometimes?
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Burnham*
+
+A New Jersey resident is flying from Newark to Los Angeles when a storm forces her plane to land in Dallas. While she waits in the terminal, she is served with a Texas summons in a suit that has nothing to do with Texas. Is service in Texas enough for jurisdiction under *Burnham*?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**It depends on whose opinion you follow, which is the point of the question.** No rationale in *Burnham* drew five votes. Under Justice Scalia's plurality opinion, the answer is yes: in-state service has been enough by long tradition, and the circumstances of the visit don't matter. Justice Brennan's concurrence upholds jurisdiction over a defendant served "while voluntarily present in the forum State," reasoning that a visitor knowingly enjoys the State's benefits. A diverted passenger chose neither to come nor to stay, so his reasoning gives her a real argument that she is outside the rule.
+
+:::
+:::
+
 ## Specific Personal Jurisdiction
 
 An important line in modern personal jurisdiction doctrine distinguishes between *specific* personal jurisdiction and *general* personal jurisdiction. The former refers to personal jurisdiction resting only on those of defendants' contacts with the forum state that are related to the lawsuit itself. Unrelated contacts with the forum are not relevant to specific jurisdiction. By contrast, general jurisdiction looks at all of defendants' contacts with the forum state, but applies a much higher bar of "minimum contacts": for general jurisdiction, due process demands that the defendant be "essentially at home" in the forum state. We will begin by looking in some depth at specific personal jurisdiction. As we do so, keep in mind that only the defendants' contacts with the forum state that are related to the lawsuit are relevant for personal jurisdiction purposes. Later, we will turn to general jurisdiction and the standards for being "at home" in a forum.
@@ -781,6 +820,19 @@ The Court's opinion \[...\] suggests that the defendant ought to be subject to a
 
 2.  In addition to the minimum-contacts analysis required by *International Shoe*, *World-Wide Volkswagen* adds an additional step: a five-factor balancing test aimed at determining the overall fairness of requiring the defendant to litigate in the forum. The factors are: (1) "the burden on the defendant"; (2) "the forum State's interest in adjudicating the dispute"; (3) "the plaintiff's interest in obtaining convenient and effective relief"; (4) "the interstate judicial system's interest in obtaining the most efficient resolution of controversies"; and (5) "the shared interest of the several States in furthering fundamental substantive social policies." This step in the analysis was later clarified in *Asahi*, *infra*.
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *World-Wide Volkswagen*
+
+Audi and Volkswagen of America were also defendants in *World-Wide Volkswagen*, and they did not challenge jurisdiction in the Supreme Court. Why might they have been in a different position from Seaway and World-Wide?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+Because they served the national market, Oklahoma included. The Court said that when the sale of a product "arises from the efforts of the manufacturer or distributor to serve, directly or indirectly, the market for its product in other States, it is not unreasonable to subject it to suit in one of those States if its allegedly defective merchandise has there been the source of injury." Seaway sold cars only in Massena, and World-Wide distributed only in New York, New Jersey, and Connecticut. The car reached Oklahoma only because the Robinsons drove it there, which is the "unilateral activity" of the plaintiffs, not the defendants.
+
+:::
+:::
+
 ### Calder v. Jones
 
 **Justice REHNQUIST delivered the opinion of the Court.** [465 U.S. 783 (1984)]{.aside}
@@ -801,6 +853,19 @@ The allegedly libelous story concerned the California activities of a California
 We hold that jurisdiction over petitioners in California is proper because of their intentional conduct in Florida calculated to cause injury to respondent in California. The judgment of the California Court of Appeal is
 
 *Affirmed.*
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Calder*
+
+A Florida writer publishes, on her own website, an article claiming that a California chef's restaurant in Los Angeles regularly violates the health code. She interviewed former employees in Los Angeles for the story. The chef sues her in California for defamation. Is *Calder* enough?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Probably, though it is a harder case than *Calder*.** The points that favor jurisdiction are the ones *Calder* stressed: the story was about the California activities of a California resident, it was "drawn from California sources," and "the brunt of the harm" fell in California, making California "the focal point both of the story and of the harm suffered." The difference is circulation. The *Enquirer* sold some 600,000 copies a week in California, while a website is equally available everywhere. *Walden* later warned that injury to a forum resident is not enough by itself, so the writer will argue that a website's reach is not the same as the *Enquirer*'s California sales.
+
+:::
+:::
 
 ### Keeton v. Hustler Magazine, Inc.
 
@@ -915,6 +980,19 @@ Throughout the business relationship, appellee's principal contacts with appella
 \[...\]
 
 Accordingly, I respectfully dissent.
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Burger King*
+
+Change the facts. Rudzewicz signs a one-year franchise agreement, deals only with the Michigan district office, and sends his payments there. The only connection to Florida is a clause saying Florida law governs the contract. Can he be sued in Florida?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Probably not.** The Court said a choice-of-law clause, standing alone, would be insufficient to confer jurisdiction. What carried the day was that clause *combined with* the "20-year interdependent relationship" with the Miami headquarters, including payments and notices sent to Miami and the headquarters' close control of the franchise. Take those away, and the Florida-law clause is the only Florida contact left. The case starts to look like *Hanson*, where the agreement had "virtually no connection with the forum State."
+
+:::
+:::
 
 ### Asahi Metal Industry Co. v. Superior Court
 
@@ -1192,6 +1270,19 @@ McIntyre UK dealt with the United States as a single market. Like most foreign m
 
 For the reasons stated, I would hold McIntyre UK answerable in New Jersey for the harm Nicastro suffered at his workplace in that State using McIntyre UK's shearing machine. While I dissent from the Court's judgment, I take heart that the plurality opinion does not speak for the Court, for that opinion would take a giant step away from the "notions of fair play and substantial justice" underlying *International Shoe*.
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Asahi and J. McIntyre*
+
+Change *Asahi*'s facts. Asahi sells its valve assemblies directly to a California distributor, which has agreed to serve as Asahi's sales agent in California and resells them to California tire makers. A California motorcyclist is injured by a defective Asahi valve and sues Asahi in California. Is there jurisdiction?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Yes, under every opinion in both cases.** The stream-of-commerce debate in *Asahi* and *J. McIntyre* is about defendants who merely *expect* their products to reach the forum. Justice O'Connor's plurality in *Asahi* required "[a]dditional conduct" purposefully directed at the forum, and one of her examples is "marketing the product through a distributor who has agreed to serve as the sales agent in the forum State." Selling to an agent for California is purposeful availment of California even on that narrower view. The reasonableness concerns that sank the real case are weaker too: the plaintiff is a Californian, so California has a strong interest in giving him a forum.
+
+:::
+:::
+
 ### Walden v. Fiore
 
 **Justice THOMAS delivered the opinion of the Court.** [571 U.S. 277 (2014)]{.aside}
@@ -1286,6 +1377,21 @@ Justice Kagan gives Jeffrey S. Bucholtz, counsel for Officer Walden, a hypotheti
 1.  There is at least some tension between the Court's holdings in *Calder* and *Keeton*, on the one hand, and *Walden*, on the other. All three cases involved allegedly tortious actions taken outside the forum state by defendants who knew that their conduct would have effects in the forum state. What explains why *Walden* came out differently from the other two? Two factors seem relevant. First, in *Walden*, the claims did not involve any allegation that the officer targeted the plaintiffs in particular with his allegedly tortious conduct; it was purely incidental who they were or where they lived. By contrast, in *Calder* and *Keeton*, the plaintiffs' identities were essential to the defendants' conduct. Second, drawing from *Hanson*, the fact that the plaintiffs kept their bank accounts in Nevada is arguably the unilateral conduct of the plaintiffs, and therefore cannot support personal jurisdiction over the defendant.
 
 2.  What role, if any, should the fact that the underlying events occurred at an international airport play in the personal jurisdiction analysis? Note that this is not the only lawsuit challenging officials' behavior at Atlanta's Hartsfield-Jackson International Airport. *See, e.g.*, *André v. Clayton County*, No. 1:22-CV-4065-MHC (N.D. Ga. Sept. 5, 2023) (dismissing on qualified-immunity grounds claims by comedian Eric André alleging racial profiling by county police officers at the airport).
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Walden*
+
+Dana, who lives in Texas, stays at a hotel in Phoenix. A hotel employee loses her bag, which held her laptop and work files. She flies home to Dallas, where she suffers all of her financial loss when she can't finish a project for a Texas client. She sues the hotel in Texas. The hotel is an Arizona company that does no business in Texas. Is there specific jurisdiction?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**No.** The question under *Walden* is "whether the defendant's conduct connects him to the forum in a meaningful way," and "mere injury to a forum resident is not a sufficient connection to the forum." Everything the hotel did happened in Arizona. Dana felt the loss in Texas only because Texas is where she chose to be, just as Fiore and Gipson felt their loss in Nevada.
+
+**A twist to consider:** suppose the hotel ran ads aimed at Texas travelers and Dana booked through one of them. The hotel now has Texas contacts of its own. Does her claim "arise out of or relate to" those contacts? Keep this question in mind for *Ford*.
+
+:::
+:::
 
 ## General Personal Jurisdiction
 
@@ -1687,6 +1793,19 @@ Justice Kagan asks Kevin Russell, counsel for the plaintiffs, how Daimler, with 
 
 2.  The facts of *Goodyear* and *Daimler* made clear that the lawsuit did not "arise out of" or "relate to" the defendants' forum contacts. But what happens when the answer to that question isn't so clear? For example, what if a defendant manufactures a large volume of identical products, some of which were sold and caused injury in the forum state, but others of which were sold and/or caused injury elsewhere? Do they count for purposes of specific jurisdiction or not? The next section takes up these tricky questions.
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Daimler*
+
+A corporation is incorporated in Delaware and has its headquarters in Texas. A third of its employees and a third of its sales are in California, more than in any other State. An Ohio resident sues it in California over an injury that happened in Ohio. Is the corporation subject to general jurisdiction in California?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**No.** Under *Goodyear* and *Daimler*, a corporation is "at home" in its State of incorporation and its principal place of business (here, Delaware and Texas). Anywhere else, general jurisdiction requires an exceptional case. *Daimler* rejected jurisdiction wherever a corporation "engages in a substantial, continuous, and systematic course of business" as "unacceptably grasping." Large sales and a large workforce in California are that kind of business. The Ohio plaintiff must sue in Delaware, in Texas, or where the claim arose.
+
+:::
+:::
+
 ## The Future of Personal Jurisdiction
 
 ### Bristol-Myers Squibb Co. v. Superior Court
@@ -2042,6 +2161,19 @@ Chief Justice Roberts poses the decoy-carver hypothetical (see footnote 4) to De
 
 2.  One possible answer to question 1 is that the plaintiffs' choice in *Ford* to sue in their home forum made all the difference. But consider that the plaintiffs' choice to take their Ford cars from the state where they were purchased to the eventual forum for suit was arguably a unilateral choice of a third party, as in *Hanson* and especially *World-Wide Volkswagen*. Does *Ford* mean that the requirements of personal jurisdiction are easier to satisfy when the plaintiff sues in her home forum? If that's the answer, how do you explain *Walden*, which rejected a similar argument?
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Bristol-Myers Squibb and Ford*
+
+An Ohio resident buys a new Ford Explorer from a dealer in Ohio and is injured when it rolls over in Ohio. Ford advertises heavily in Montana and sells many Explorers there. Can the Ohio driver sue Ford in Montana?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**No.** The plaintiffs in *Ford* won because their claims had a real connection to the forum: they lived in Montana and Minnesota, used the cars there, and were injured there. That is what made the claims "relate to" Ford's marketing in those States. The Ohio driver has none of those links to Montana. Like the nonresident plaintiffs in *Bristol-Myers*, who did not get Plavix, take it, or suffer injury in California, he is relying on the defendant's similar business with *other* people in the forum. *Bristol-Myers* holds that this is not enough.
+
+:::
+:::
+
 ## Personal Jurisdiction by Consent
 
 Personal jurisdiction is waivable, and defendants are free to consent to jurisdiction before a court that would otherwise not have power over them. (This is why, in many of the cases you have read, defendants entered "special appearances" for the sole purpose of contesting personal jurisdiction.) The next case explores what type of consent is sufficient to waive an objection to a court's personal jurisdiction. To what extent does the prevalence of form contracts render the niceties of personal jurisdiction doctrine irrelevant in the modern economy?
@@ -2317,6 +2449,19 @@ Justices Gorsuch and Kavanaugh question Carter G. Phillips, counsel for Norfolk 
 3.  Meanwhile, Justice Barrett, writing in dissent on behalf of four justices, objected that allowing consent by registration to defeat a personal jurisdiction argument undermines the Court's key general jurisdiction precedents: *Goodyear* and *Daimler*. Isn't she right about that? So far, no states have successfully enacted consent-by-registration statutes like the one in *Mallory*. But some have tried, and Justice Barrett's predictions may yet come to pass.
 
 4.  At this point, first-year law students may rightly scream bloody murder. Throughout this chapter, time and again, we have seen the Supreme Court vacillate between alternate approaches to personal jurisdiction doctrine, often failing to form a majority opinion in the process. Why do you think personal jurisdiction doctrine has proven so divisive? Why has it eluded clarification for so long? And where will it go in the future?
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Mallory*
+
+Change the facts. Mallory sues Norfolk Southern in Texas instead. Norfolk Southern is registered to do business in Texas, but Texas's registration statute says nothing about consenting to jurisdiction. Does *Mallory* support jurisdiction?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**No.** *Mallory* rests on Pennsylvania's statute, which is "explicit" that registering as a foreign corporation permits the courts to "exercise general personal jurisdiction" over the corporation. The plurality treated registration under that statute as consent. Without a statute that tells corporations what registration means, there is no consent to rely on, and the question returns to *Daimler*. Norfolk Southern is not at home in Texas. Even under a Pennsylvania-style statute, Justice Alito's concurrence leaves open a challenge under the dormant Commerce Clause.
+
+:::
+:::
 
 ## Personal Jurisdiction of Federal Courts
 
