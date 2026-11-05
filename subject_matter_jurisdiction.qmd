@@ -638,6 +638,32 @@ A company is incorporated in Delaware. Its executives work at its headquarters i
 :::
 :::
 
+::: {.content-visible when-format="html"}
+::: {.callout-tip .try-it icon=false}
+## Try It: Diversity Checker
+
+Add the parties, give each one's citizenship, and see whether § 1332 is satisfied and why. You can start from one of the examples. To check removal, choose the state where the case was filed.
+
+```{=html}
+<div class="diversity-checker">
+  <div class="dv-row">
+    <label>Start from an example <select class="form-select form-select-sm dv-example"><option value="">Choose an example</option></select></label>
+    <label>Where was the case filed? <select class="form-select form-select-sm dv-removed"></select></label>
+  </div>
+  <div class="dv-parties"></div>
+  <div class="dv-row">
+    <button type="button" class="btn btn-sm btn-outline-primary dv-add-p">Add plaintiff</button>
+    <button type="button" class="btn btn-sm btn-outline-primary dv-add-d">Add defendant</button>
+  </div>
+  <div class="dv-result" aria-live="polite"></div>
+</div>
+<script src="tools/diversity.js"></script>
+```
+
+This is a study aid. It doesn't cover class actions under the Class Action Fairness Act, direct actions against insurers (§ 1332(c)(1)), suits brought by foreign states (§ 1332(a)(4)), or the timing and procedure of removal.
+:::
+:::
+
 ## Supplemental
 
 Often a lawsuit will include a mix of claims that arise under both federal and state law. In that circumstance, federal courts have recognized a power to take jurisdiction over related state-law claims, even in the absence of diversity jurisdiction, so long as there is at least one “anchor claim” over which there is an independent jurisdictional basis. This “supplemental” jurisdiction—formerly known by the twin terms “pendent” and “ancillary” jurisdiction—illustrates the ways in which the different grants of subject-matter jurisdiction interact with and relate to one another.

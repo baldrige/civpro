@@ -3,10 +3,12 @@ project:
   # Tidy the chapter titles in llms.txt (see scripts/clean-llms-txt.R).
   post-render: scripts/clean-llms-txt.R
   # Oral-argument clips, played by <audio> tags (see audio/cut.sh), and the
-  # court filings linked from "Read the Complaint" boxes.
+  # court filings linked from "Read the Complaint" boxes, and the scripts for
+  # the "Try It" tools (tools/).
   resources:
     - audio/*.mp3
     - documents/*.pdf
+    - tools/*.js
 
 book:
   title: "Civil Procedure"

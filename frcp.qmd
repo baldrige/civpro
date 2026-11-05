@@ -735,6 +735,36 @@ service is made under Rule 5(b)(2)(C) (mail), (D) (leaving with the
 clerk), or (F) (other means consented to), 3 days are added after the
 period would otherwise expire under Rule 6(a).
 
+::: {.content-visible when-format="html" #rule6-calculator}
+::: {.callout-tip .try-it icon=false}
+## Try It: Rule 6(a) Deadline Calculator
+
+Pick a common deadline or set your own, enter the date of the triggering event, and see how Rule 6 counts the days. The calculator knows the federal legal holidays in Rule 6(a)(6)(A); add any others that apply.
+
+```{=html}
+<div class="rule6-calculator">
+  <label>Deadline <select class="form-select r6-preset"></select></label>
+  <p class="r6-note"></p>
+  <div class="r6-grid">
+    <label>Date of the triggering event (or of the hearing) <input type="date" class="form-control r6-trigger"></label>
+    <label>Number of days <input type="number" min="1" max="3650" class="form-control r6-days"></label>
+    <label>Counted <select class="form-select r6-direction"><option value="after">after the event</option><option value="before">before the event</option></select></label>
+  </div>
+  <label class="form-check"><input type="checkbox" class="form-check-input r6-mail"> The paper starting the period was served by mail, by leaving it with the clerk, or by other means the party consented to (Rule 6(d))</label>
+  <details>
+    <summary>Other holidays</summary>
+    <label>Days declared a holiday by the President or Congress (Rule 6(a)(6)(B)) <input class="form-control r6-declared" placeholder="e.g., 2026-12-24"></label>
+    <label class="r6-state-wrap">State legal holidays where the district court sits; these count only for periods measured after an event (Rule 6(a)(6)(C)) <input class="form-control r6-state" placeholder="e.g., 2026-11-27, 2027-03-02"></label>
+  </details>
+  <div class="r6-output" aria-live="polite"></div>
+</div>
+<script src="tools/rule6.js"></script>
+```
+
+This is a study aid. Statutes, local rules, and court orders can set different periods or methods of counting, and the calculator doesn't account for days when the clerk's office is inaccessible (Rule 6(a)(3)).
+:::
+:::
+
 ## Pleadings and Motions
 
 ### Rule 7 -- Pleadings Allowed; Form of Motions and Other Papers  {#sec-frcp7}
