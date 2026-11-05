@@ -13,6 +13,8 @@ figure, add the new year's row to its CSV and push; the build redraws it.
 | `prose_share.csv` | `fig-prose` | What Is Procedure? | AO *Judicial Business* tbl. C-13 (S-23/S-24 before 2011) |
 | `reversal_by_circuit.csv` | `fig-reversal` | Trial & Appeal | AO *Judicial Business* tbl. B-5, other private civil, pooled |
 | `mtd_fjc_2011.csv` | `fig-mtd` | Pleadings | Cecil et al., FJC (2011), tbl. 4 (one-time study) |
+| `sj_fjc_2007.csv` | `fig-sj-trends` | Avoiding Trial | Cecil, Eyre, Miletich & Rindskopf, FJC (2007), fig. 1 at 8; values measured from the vector chart, matching the figures stated in the text (one-time study) |
+| `discovery_costs_fjc_2009.csv` | `fig-discovery-costs` | Discovery | Lee & Willging, FJC Civil Rules Survey (2009), tbls. 4, 5, 10 (one-time study) |
 | `scott_harris_kahan.csv` | `fig-scott-harris` | Avoiding Trial | Kahan, Hoffman & Braman, 122 Harv. L. Rev. 837, 868 tbl.1 (one-time study) |
 | `pj_cases.csv` | `fig-pj-timeline` | Personal Jurisdiction | The cases reproduced in the chapter |
 | `arbitration_colvin_2017.csv` | `fig-arbitration` | Avoiding Trial | Colvin, EPI (2018), at 2, 11 (one-time study) |

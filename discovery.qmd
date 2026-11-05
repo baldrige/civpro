@@ -93,6 +93,34 @@ three main limits are *relevance*, *proportionality*, and *privilege*.
 *See* Rule 26(b)(1). The next section will consider each of those limits
 in turn.
 
+How much does discovery cost? @fig-discovery-costs reports what lawyers said about cases that closed in late 2008. In the typical case, discovery cost a small fraction of what was at stake. In the most expensive 5% of cases, it consumed a quarter or more.
+
+```{r}
+#| label: fig-discovery-costs
+#| fig-alt: "Chart of discovery costs as a percent of the stakes, as reported by attorneys in federal civil cases that closed in late 2008. For plaintiff attorneys, the 10th percentile was 0 percent, the median 1.6 percent, and the 95th percentile 25 percent. For defendant attorneys, the 10th percentile was 0.2 percent, the median 3.3 percent, and the 95th percentile 30.5 percent."
+#| fig-cap: "Discovery costs as a percent of the stakes, as estimated by the attorneys in federal civil cases with at least some discovery that closed in October--December 2008: the median (large dot) and the 10th and 95th percentiles (ends of each bar). The stakes are the attorney's estimate of the difference between the client's best and worst likely outcomes. Total litigation costs (discovery plus fees) had a median of \\$15,000 for plaintiffs and \\$20,000 for defendants, and a 95th percentile of \\$280,000 and \\$300,000. The survey excluded prisoner, Social Security, student-loan, asbestos, and MDL cases, and 47% of the attorneys surveyed responded. Source: Emery G. Lee III & Thomas E. Willging, Fed. Jud. Ctr., *National, Case-Based Civil Rules Survey: Preliminary Report to the Judicial Conference Advisory Committee on Civil Rules* 35--43 & tbls. 4, 5, 10 (2009)."
+#| echo: false
+#| fig-width: 6.5
+#| fig-height: 2.4
+library(ggplot2)
+
+costs <- read.csv("data/discovery_costs_fjc_2009.csv")
+costs <- costs[costs$measure == "Discovery costs as a percent of stakes", ]
+costs$side <- factor(costs$side, levels = rev(costs$side))
+
+ggplot(costs, aes(y = side)) +
+  geom_segment(aes(x = p10, xend = p95, yend = side), linewidth = 0.8, colour = "grey60") +
+  geom_point(aes(x = p10), size = 2.2, colour = "grey40") +
+  geom_point(aes(x = p95), size = 2.2, colour = "grey40") +
+  geom_point(aes(x = median), size = 3.2) +
+  geom_text(aes(x = median, label = paste0("median ", median, "%")), vjust = -1.1, hjust = 0.2, size = 3.2) +
+  geom_text(aes(x = p95, label = paste0("95th pct. ", p95, "%")), vjust = -1.1, size = 3.2) +
+  scale_x_continuous(limits = c(0, 33), labels = function(x) paste0(x, "%"),
+                     expand = expansion(mult = c(0, 0.02))) +
+  labs(x = "Discovery costs as a percent of the stakes", y = NULL) +
+  theme_classic(base_size = 11)
+```
+
 ### Favale v. Roman Catholic Diocese of Bridgeport
 
 **SQUATRITO, J.** [233 F.R.D. 243 (D. Conn. 2005)]{.aside}
