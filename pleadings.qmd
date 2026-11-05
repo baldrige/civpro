@@ -3098,6 +3098,29 @@ the scope of the sanctions remedy. On remand, the district court will
 have an opportunity to delineate the factual and legal basis for its
 sanctions orders. 
 
+::: {.callout-note .primary-document icon=false}
+## Read the Record
+
+The district court's file shows each step of the Rule 11 process the Ninth Circuit describes.
+
+- **Mattel's motion.** Mattel's lawyers had Hicks personally served with the motion on June 22, 1999. Its notice states that, under the safe-harbor provision, "this motion shall only be filed if, within 21 days of service on plaintiff, plaintiff and his counsel do not withdraw the complaint in this action." Mattel filed it on July 13, 1999, 21 days later. [(For how Rule 6 counts those days, try the [deadline calculator](#rule6-calculator) earlier in this chapter.)]{.content-visible when-format="html"}
+- **The sanctions order.** Judge Nora M. Manella granted summary judgment and Rule 11 sanctions on January 5, 2000. "A reasonable investigation by Mr. Hicks would have revealed that there was no factual foundation for plaintiff's copyright claim," the court wrote. "Simply by examining the back of the heads of the Barbie dolls he claims were infringing, Mr. Hicks would have noticed the pre-1996 copyright notices on the Cool Blue and University Barbie doll heads." This is one of the orders the Ninth Circuit vacated and remanded.
+- **The fee order.** On June 12, 2000, the court set the sanction. Mattel had sought $526,085.50. The court subtracted $24,520.50 that Mattel spent answering cross-claims by a party Hicks did not represent, and ordered Hicks to pay $501,565.00.
+- **The end of the case.** After the remand, the court's minutes of August 21, 2002 record that the parties had settled Mattel's request for attorney's fees, "the last remaining issue in this case."
+
+::: {.content-visible when-format="html"}
+Read the [motion (PDF, 30 pages)](documents/christian-rule11-motion.pdf), the [sanctions order (PDF, 15 pages)](documents/christian-sanctions-order.pdf), the [fee order (PDF, 5 pages)](documents/christian-fee-order.pdf), and the [2002 minutes (PDF, 1 page)](documents/christian-fee-settlement.pdf). The pages of the scanned sanctions order are out of order: its printed pages 12 and 13 come before pages 8 through 11.
+:::
+:::
+
+::: {#fig-christian-record layout-ncol=2}
+![Mattel's motion, page 2: the safe-harbor notice](documents/christian-rule11-motion-p2.png){group="christian-record" fig-alt="Page 2 of Mattel's notice of motion for Rule 11 sanctions in Christian v. Mattel, stating that under Rule 11(c)(1)(A) the motion shall only be filed if, within 21 days of service, the plaintiff and his counsel do not withdraw the complaint"}
+
+![The sanctions order, page 13: the finding that a reasonable investigation would have revealed no factual basis](documents/christian-sanctions-order-p13.png){group="christian-record" fig-alt="Page 13 of the district court's January 5, 2000 order in Christian v. Mattel, finding that a reasonable investigation by Mr. Hicks would have revealed the pre-1996 copyright notices on the backs of the Barbie doll heads, with a footnote noting that Hicks was served with the motion on June 22, 1999 and did not withdraw the claim"}
+
+Documents from *Christian v. Mattel, Inc.*, No. CV 99-2820 NM (C.D. Cal.): Mattel's Notice of Motion and Motion for Rule 11 Sanctions (filed July 13, 1999), ECF No. 46; Order Granting Mattel's Motion for Summary Judgment and Rule 11 Sanctions (Jan. 5, 2000), ECF No. 138
+:::
+
 #### Notes & Questions
 
 1.  The Ninth Circuit ultimately held that the district court erroneously applied Rule 11 to Hicks's conduct during the discovery process, even though discovery is not
