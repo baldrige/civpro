@@ -6,17 +6,21 @@ Against the backdrop of intricate Rules governing jury trials, bear in mind that
 
 ```{r}
 #| label: fig-trial-rate
-#| fig-alt: "Scatterplot of the percentage of federal civil cases terminated during or after trial, fiscal years 1997 to 2025, with a smoothed trend line falling from about 3 percent to 0.4 percent."
-#| fig-cap: "Percent of federal civil cases reaching trial, fiscal years 1997--2025. The curve is a robust LOESS fit, which downweights the 2007 outlier (thousands of mass-tort cases recorded as terminated during or after trial). Source: Admin. Off. of the U.S. Cts., *Judicial Business of the United States Courts* tbl. C-4 (1997--2025)."
+#| fig-alt: "Scatterplot of the percentage of federal civil cases terminated during or after trial, statistical years 1962 to 2025, with a smoothed trend line falling from about 11 percent in the 1960s to about 4 percent in 1991, 3 percent in the late 1990s, and 0.4 percent in 2025."
+#| fig-cap: "Percent of federal civil cases reaching trial, 1962--2025. The curve is a robust LOESS fit, which downweights the 2007 outlier (thousands of mass-tort cases recorded as terminated during or after trial). Through 1991 the statistical year ended June 30 and the table omitted land condemnation cases; from 1992 it ended September 30 (dotted line). The 1993 table could not be located. In the 1980s the number of terminations swelled with government suits to recover overpayments and enforce judgments, which rarely go to trial. Sources: Admin. Off. of the U.S. Cts., *Annual Report of the Director* tbl. C-4 (1962--1996); *Judicial Business of the United States Courts* tbl. C-4 (1997--2025)."
 #| echo: false
 #| fig-width: 6.5
 #| fig-height: 3.5
 library(ggplot2)
 
-trials <- read.csv("data/c4_trial_rates.csv")
+trials <- rbind(
+  read.csv("data/c4_trial_rates_1962_1996.csv")[, c("year", "pct_trial")],
+  read.csv("data/c4_trial_rates.csv")[, c("year", "pct_trial")]
+)
 
 ggplot(trials, aes(year, pct_trial)) +
-  geom_smooth(method = "loess", formula = y ~ x, se = FALSE,
+  geom_vline(xintercept = 1991.5, linetype = "dotted", colour = "grey50") +
+  geom_smooth(method = "loess", formula = y ~ x, se = FALSE, span = 0.5,
               method.args = list(family = "symmetric"),
               colour = "black", linewidth = 0.8) +
   geom_point(size = 1.8, alpha = 0.5) +
