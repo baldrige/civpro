@@ -1,0 +1,51 @@
+district,district_code,state,city,lat,lon,city_basis,coord_source,principal_courthouse_city,n_mdls,pending_actions,master_docket_office_codes
+N.D. Ala.,ALN,Alabama,Birmingham,33.527174,-86.797036,principal courthouse,Census 2024 Gazetteer place internal point: Birmingham city,Birmingham,1,22,2
+E.D. Ark.,ARE,Arkansas,Little Rock,34.725393,-92.358556,principal courthouse,Census 2024 Gazetteer place internal point: Little Rock city,Little Rock,1,22,4
+D. Ariz.,AZ,Arizona,Phoenix,33.572154,-112.090132,principal courthouse,Census 2024 Gazetteer place internal point: Phoenix city,Phoenix,1,4345,2
+C.D. Cal.,CAC,California,Los Angeles,34.019394,-118.410825,principal courthouse,Census 2024 Gazetteer place internal point: Los Angeles city,Los Angeles,7,389,2 8
+N.D. Cal.,CAN,California,San Francisco,37.7793,-122.4193,principal courthouse,"San Francisco City Hall (approx.; Gazetteer internal point is offshore at 37.727,-123.032)",San Francisco,21,11177,3 4 5
+S.D. Cal.,CAS,California,San Diego,32.814977,-117.135562,principal courthouse,Census 2024 Gazetteer place internal point: San Diego city,San Diego,4,564,3
+D. Colo.,CO,Colorado,Denver,39.76185,-104.881105,principal courthouse,Census 2024 Gazetteer place internal point: Denver city,Denver,1,23,1
+D.D.C.,DC,District of Columbia,Washington,38.904247,-77.016517,principal courthouse,Census 2024 Gazetteer place internal point: Washington city,Washington,3,118,1
+D. Del.,DE,Delaware,Wilmington,39.735651,-75.532104,principal courthouse,Census 2024 Gazetteer place internal point: Wilmington city,Wilmington,1,1,1
+M.D. Fla.,FLM,Florida,Orlando,28.40865,-81.254805,"judge division: sole MDL judge (Dalton), Orlando Division, master docket 6:",Census 2024 Gazetteer place internal point: Orlando city,Tampa,1,36,6
+N.D. Fla.,FLN,Florida,Pensacola,30.440989,-87.191242,"judge division: sole MDL judge (Rodgers), Pensacola Division, master dockets 3:",Census 2024 Gazetteer place internal point: Pensacola city,Tallahassee,2,6415,3
+S.D. Fla.,FLS,Florida,Miami,25.775163,-80.208615,principal courthouse,Census 2024 Gazetteer place internal point: Miami city,Miami,7,949,0 1 9
+N.D. Ga.,GAN,Georgia,Atlanta,33.762909,-84.422675,principal courthouse,Census 2024 Gazetteer place internal point: Atlanta city,Atlanta,4,4151,1
+N.D. Ill.,ILN,Illinois,Chicago,41.837045,-87.684939,principal courthouse,Census 2024 Gazetteer place internal point: Chicago city,Chicago,13,14408,1 3
+S.D. Ill.,ILS,Illinois,East St. Louis,38.616361,-90.130528,"principal courthouse (unconfirmed: multi-division court, single seat not verified)",Census 2024 Gazetteer place internal point: East St. Louis city,East St. Louis,1,6635,3
+S.D. Ind.,INS,Indiana,Indianapolis,39.776664,-86.145935,principal courthouse,Census 2024 Gazetteer place internal point: Indianapolis city (balance),Indianapolis,1,6467,1
+D. Kan.,KS,Kansas,Wichita,37.690638,-97.345836,"judge division: sole MDL judge (Melgren), Wichita, master docket 6:",Census 2024 Gazetteer place internal point: Wichita city,Kansas City,1,45,6
+E.D. La.,LAE,Louisiana,New Orleans,30.05342,-89.934502,principal courthouse,Census 2024 Gazetteer place internal point: New Orleans city,New Orleans,3,142,2
+D. Mass.,MA,Massachusetts,Boston,42.338551,-71.018253,principal courthouse,Census 2024 Gazetteer place internal point: Boston city,Boston,5,2771,1 4
+D. Md.,MD,Maryland,Baltimore,39.300032,-76.610476,principal courthouse,Census 2024 Gazetteer place internal point: Baltimore city,Baltimore,1,69,8
+E.D. Mich.,MIE,Michigan,Detroit,42.383037,-83.102237,principal courthouse,Census 2024 Gazetteer place internal point: Detroit city,Detroit,5,62,2
+D. Minn.,MN,Minnesota,Minneapolis,44.963324,-93.26832,"principal courthouse (unconfirmed: multi-division court, single seat not verified)",Census 2024 Gazetteer place internal point: Minneapolis city,Minneapolis,9,8831,0
+E.D. Mo.,MOE,Missouri,St. Louis,38.635699,-90.244582,principal courthouse,Census 2024 Gazetteer place internal point: St. Louis city,St. Louis,1,28,4
+W.D. Mo.,MOW,Missouri,Kansas City,39.125155,-94.550313,principal courthouse,Census 2024 Gazetteer place internal point: Kansas City city,Kansas City,2,23,4
+D. Mont.,MT,Montana,Billings,45.788538,-108.552475,"principal courthouse (unconfirmed: multi-division court, single seat not verified)",Census 2024 Gazetteer place internal point: Billings city,Billings,1,72,2
+M.D.N.C.,NCM,North Carolina,Greensboro,36.09485,-79.823624,principal courthouse,Census 2024 Gazetteer place internal point: Greensboro city,Greensboro,1,0,1
+W.D.N.C.,NCW,North Carolina,Charlotte,35.209045,-80.83099,principal courthouse,Census 2024 Gazetteer place internal point: Charlotte city,Charlotte,1,6,3
+D.N.H.,NH,New Hampshire,Concord,43.232493,-71.561252,principal courthouse,Census 2024 Gazetteer place internal point: Concord city,Concord,1,91,1
+D.N.J.,NJ,New Jersey,Newark,40.72422,-74.172574,principal courthouse,Census 2024 Gazetteer place internal point: Newark city,Newark,12,84948,1 2 3
+D.N.M.,NM,New Mexico,Albuquerque,35.10478,-106.646809,principal courthouse,Census 2024 Gazetteer place internal point: Albuquerque city,Albuquerque,2,45,1
+E.D.N.Y.,NYE,New York,Brooklyn,40.635045,-73.95064,principal courthouse,Census 2024 Gazetteer county internal point: Kings County (Brooklyn),Brooklyn,3,1954,1
+S.D.N.Y.,NYS,New York,New York (Manhattan),40.776642,-73.970187,principal courthouse,Census 2024 Gazetteer county internal point: New York County (Manhattan),New York (Manhattan),14,712,1
+N.D. Ohio,OHN,Ohio,Cleveland,41.478462,-81.679435,principal courthouse,Census 2024 Gazetteer place internal point: Cleveland city,Cleveland,3,4996,1
+S.D. Ohio,OHS,Ohio,Columbus,39.983938,-82.984882,"judge division: both MDL judges, Eastern Division at Columbus, master docket 2:",Census 2024 Gazetteer place internal point: Columbus city,Columbus,2,23306,2
+N.D. Okla.,OKN,Oklahoma,Tulsa,36.127949,-95.902316,principal courthouse,Census 2024 Gazetteer place internal point: Tulsa city,Tulsa,1,12,4
+E.D. Pa.,PAE,Pennsylvania,Philadelphia,40.009376,-75.133346,principal courthouse,Census 2024 Gazetteer place internal point: Philadelphia city,Philadelphia,8,4783,2
+M.D. Pa.,PAM,Pennsylvania,Scranton,41.404178,-75.665908,"principal courthouse (unconfirmed: multi-division court, single seat not verified)",Census 2024 Gazetteer place internal point: Scranton city,Scranton,1,4,1
+W.D. Pa.,PAW,Pennsylvania,Pittsburgh,40.439936,-79.975676,principal courthouse,Census 2024 Gazetteer place internal point: Pittsburgh city,Pittsburgh,2,638,2
+D.R.I.,RI,Rhode Island,Providence,41.823056,-71.418784,principal courthouse,Census 2024 Gazetteer place internal point: Providence city,Providence,1,32,1
+D.S.C.,SC,South Carolina,Charleston,32.828017,-79.972896,"judge division: sole MDL judge (Gergel), Charleston Division, master docket 2:",Census 2024 Gazetteer place internal point: Charleston city,Columbia,1,15270,2
+M.D. Tenn.,TNM,Tennessee,Nashville,36.1718,-86.785002,principal courthouse,Census 2024 Gazetteer place internal point: Nashville-Davidson metropolitan government (balance),Nashville,1,10,3
+W.D. Tenn.,TNW,Tennessee,Jackson,35.65417,-88.835335,"judge division: sole MDL judge (Anderson), Eastern Division at Jackson, master docket 1:",Census 2024 Gazetteer place internal point: Jackson city,Memphis,1,6,1
+E.D. Tex.,TXE,Texas,Tyler,32.317258,-95.305886,"principal courthouse (unconfirmed: multi-division court, single seat not verified)",Census 2024 Gazetteer place internal point: Tyler city,Tyler,2,139,2 4
+N.D. Tex.,TXN,Texas,Dallas,32.793333,-96.766513,principal courthouse,Census 2024 Gazetteer place internal point: Dallas city,Dallas,2,144,3
+D. Utah,UT,Utah,Salt Lake City,40.776928,-111.930991,principal courthouse,Census 2024 Gazetteer place internal point: Salt Lake City city,Salt Lake City,1,6,2
+E.D. Va.,VAE,Virginia,Richmond,37.531399,-77.476009,"judge division: sole MDL judge (Novak), Richmond; master dockets 1: and 3:",Census 2024 Gazetteer place internal point: Richmond city,Alexandria,2,4,1 3
+W.D. Wash.,WAW,Washington,Seattle,47.619335,-122.351538,principal courthouse,Census 2024 Gazetteer place internal point: Seattle city,Seattle,2,14,2
+E.D. Wis.,WIE,Wisconsin,Green Bay,44.521542,-87.986568,"judge division: sole MDL judge (Griesbach), Green Bay, master docket 2:",Census 2024 Gazetteer place internal point: Green Bay city,Milwaukee,1,78,2
+W.D. Wis.,WIW,Wisconsin,Madison,43.087815,-89.429856,principal courthouse,Census 2024 Gazetteer place internal point: Madison city,Madison,1,21,3
+N.D. W. Va.,WVN,West Virginia,Wheeling,40.073753,-80.696027,"principal courthouse (unconfirmed: multi-division court, single seat not verified)",Census 2024 Gazetteer place internal point: Wheeling city,Wheeling,1,3,1
