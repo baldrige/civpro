@@ -30,6 +30,35 @@ ggplot(trials, aes(year, pct_trial)) +
   theme_classic(base_size = 11)
 ```
 
+The cases that do reach trial also take longer to get there, as @fig-time-to-trial shows.
+
+```{r}
+#| label: fig-time-to-trial
+#| fig-alt: "Scatterplot of median months from filing to disposition for federal civil cases, statistical years 2000 to 2025. For cases that reached trial, the median rises from about 20 months in 2000 to about 31 months in 2025. For all cases, the median stays between about 7 and 10 months until 2023, then rises to 15.6 months in 2025."
+#| fig-cap: "Median months from filing to disposition in federal civil cases, 2000--2025: cases that reached trial and all cases. Each curve is a robust LOESS fit. The 2007 trial median (127.6 months, off the chart) and the high 2008 figure reflect thousands of old cases tried in two Louisiana districts. The recent rise for all cases tracks large mass-tort terminations. The table excludes land condemnation, prisoner petitions, deportation reviews, and government suits to recover overpayments or enforce judgments. Source: Admin. Off. of the U.S. Cts., *Judicial Business of the United States Courts* tbl. C-5 (2000--2025)."
+#| echo: false
+#| fig-width: 6.5
+#| fig-height: 3.5
+library(ggplot2)
+
+c5 <- read.csv("data/c5_median_time.csv")
+c5 <- c5[c5$year >= 2000 & c5$stage %in% c("trial", "total"), ]
+c5$stage <- factor(c5$stage, levels = c("trial", "total"),
+                   labels = c("Cases reaching trial", "All cases"))
+
+ggplot(c5, aes(year, median_months, colour = stage)) +
+  geom_smooth(method = "loess", formula = y ~ x, se = FALSE,
+              method.args = list(family = "symmetric"), linewidth = 0.8) +
+  geom_point(size = 1.8, alpha = 0.5) +
+  annotate("text", x = 2007, y = 39, label = "2007: 127.6 2191", size = 3, hjust = 0.5) +
+  scale_colour_manual(values = c("black", "grey55"), name = NULL) +
+  coord_cartesian(ylim = c(0, 40)) +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.02))) +
+  labs(x = NULL, y = "Median months to disposition") +
+  theme_classic(base_size = 11) +
+  theme(legend.position = "top")
+```
+
 Why have jury trials become so rare? Is it because trials are too expensive? Too unpredictable? Too unreliable? Or is it instead because lawyers are better than ever at estimating their clients' chances of prevailing, allowing for efficient settlement of a wider swath of cases?
 
 ## The Right to a Jury

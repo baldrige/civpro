@@ -6,6 +6,7 @@ figure, add the new year's row to its CSV and push; the build redraws it.
 | File | Figure | Chapter | Source |
 |---|---|---|---|
 | `c4_trial_rates.csv` | `fig-trial-rate` | Trial & Appeal | AO *Judicial Business* tbl. C-4 (total row, Sept. 30) |
+| `c5_median_time.csv` | `fig-time-to-trial` | Trial & Appeal | AO *Judicial Business* tbl. C-5 (total row, Sept. 30), 1997–2025; medians in whole months before 2000, and the table excludes some case types (see the caption) |
 | `c4_trial_rates_1962_1996.csv` | `fig-trial-rate` | Trial & Appeal | AO *Annual Report of the Director* tbl. C-4 (total row; June 30 through 1991, Sept. 30 from 1992; 1993 not located). Each row gives the scan it came from (HathiTrust or Internet Archive) and any OCR corrections |
 | `aic_threshold.csv` | `fig-aic` | Subject Matter Jurisdiction | 28 U.S.C. § 1332 amendment notes; FJC history; Minneapolis Fed CPI |
 | `mdl_share.csv` | `fig-mdl-share` | Aggregation | AO *Judicial Business* tbls. S-20 and C-1 (Sept. 30) |
