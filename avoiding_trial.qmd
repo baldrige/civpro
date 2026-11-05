@@ -1429,6 +1429,34 @@ Celotex moves for summary judgment, pointing out that Mrs. Catrett's interrogato
 :::
 :::
 
+Did the trilogy change summary judgment practice? @fig-sj-trends tracks it in six federal district courts from 1975 to 2000. Most of the rise in motions came *before* the 1986 decisions, and the study's authors found little change afterward in how motions were decided.
+
+```{r}
+#| label: fig-sj-trends
+#| fig-alt: "Line chart of summary judgment activity in six federal district courts in 1975, 1986, 1988, 1989, 1995, and 2000. Cases with a summary judgment motion rose from 12.2 percent in 1975 to 17.3 percent in 1986 and 20.6 percent in 2000. Cases with summary judgment granted in whole or part rose from 5.8 to 12.3 percent, and cases ended by summary judgment from 3.7 to 7.8 percent. A dotted line marks the 1986 trilogy."
+#| fig-cap: "Summary judgment activity in six federal district courts (E.D. Pa., C.D. Cal., D. Md., E.D. La., S.D.N.Y., and N.D. Ill.), 1975--2000, as a percent of civil cases (excluding prisoner cases). The dotted line marks the 1986 trilogy; because the decisions came in June 1986, the 1986 sample mostly predates them. The 1988 spike partly reflects asbestos cases. The study reports these values in a chart; the points here are measured from it, and they match the figures the text states (about 12%, 17%, 19%, and 21% of cases with motions; 3.7% and 7.8% ended by summary judgment). Source: Joe S. Cecil, Rebecca N. Eyre, Dean Miletich & David Rindskopf, Fed. Jud. Ctr., *Trends in Summary Judgment Practice: 1975--2000*, at 8 fig. 1 (2007), *also published at* 4 J. Empirical Legal Stud. 861 (2007)."
+#| echo: false
+#| fig-width: 6.5
+#| fig-height: 3.6
+library(ggplot2)
+
+sj <- read.csv("data/sj_fjc_2007.csv")
+sj$measure <- factor(sj$measure, levels = unique(sj$measure))
+
+ggplot(sj, aes(year, pct, linetype = measure, shape = measure)) +
+  geom_vline(xintercept = 1986.5, linetype = "dotted", colour = "grey50") +
+  annotate("text", x = 1986.7, y = 23.5, label = "Trilogy (1986)", hjust = 0, size = 3) +
+  geom_line(linewidth = 0.6) +
+  geom_point(size = 2) +
+  scale_y_continuous(limits = c(0, 24), labels = function(x) paste0(x, "%"),
+                     expand = expansion(mult = c(0, 0.02))) +
+  scale_x_continuous(breaks = seq(1975, 2000, 5)) +
+  labs(x = NULL, y = "Share of civil cases", linetype = NULL, shape = NULL) +
+  guides(linetype = guide_legend(ncol = 1), shape = guide_legend(ncol = 1)) +
+  theme_classic(base_size = 11) +
+  theme(legend.position = "top", legend.justification = "left")
+```
+
 ### Tolan v. Cotton
 
 **PER CURIAM.** [572 U.S. 650 (2014)]{.aside}
