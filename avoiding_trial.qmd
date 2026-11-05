@@ -129,6 +129,19 @@ requests. \[...\]
 
 5.  What was the Court's holding?
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Kalinauskas*
+
+At Ms. Thomas's deposition, Kalinauskas's lawyer asks two questions: (1) "What did your supervisors at Caesars say and do to you?" and (2) "How much did Caesars pay you to settle your case?" Caesars objects to both, citing the confidential settlement. Which objection should the court sustain under its order?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Only the objection to the second question.** The court protected the settlement itself: "no information regarding the settlement agreement itself shall come forth." But it denied protection for everything else, because barring discovery of "the underlying facts which prompted Ms. Thomas to file suit" would let a defendant "buy[] the silence of a witness with a settlement agreement," and "settlement agreements which suppress evidence violate the greater public policy." What her supervisors did is evidence relevant to Kalinauskas's own discrimination claim. The amount Caesars paid is a term of the settlement.
+
+:::
+:::
+
 ### Ferguson v. Countrywide Credit Industries, Inc.
 
 **PREGERSON, J.** [298 F.3d 778 (9th Cir. 2002)]{.aside}
@@ -358,6 +371,19 @@ unenforceable under the doctrine of unconscionability is AFFIRMED.
     whether to enforce similar arbitration clauses have come out the
     other way. *See, e.g.*, *Carter v. Countrywide Credit Industries,
     Inc.*, 362 F.3d 294 (5th Cir. 2004).
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Ferguson*
+
+Countrywide rewrites its agreement. Now it requires arbitration of all employment claims by either side, Countrywide pays all arbitration costs, and both sides get the same discovery. Applicants still must sign it, unchanged, to get a job. Is the new agreement unconscionable under the test in *Ferguson*?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Probably not.** California law requires "both a procedural and substantive element of unconscionability," though not "in the same degree": "the more substantively oppressive the contract term, the less evidence of procedural unconscionability is required." The procedural element remains, since the agreement is still "a prerequisite to employment" that applicants must "take ... or leave." But the terms that made the old agreement substantively unconscionable are gone. It no longer "compels arbitration of the claims employees are most likely to bring" while exempting "the claims Countrywide is most likely to bring," and the one-sided fee and discovery provisions have been fixed. Without a substantive element, the agreement is enforceable.
+
+:::
+:::
 
 ### Epic Systems v. Lewis
 
@@ -772,6 +798,19 @@ ggplot(arb, aes(pct_nonunion_private_employees, measure)) +
   theme_classic(base_size = 11)
 ```
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Epic Systems*
+
+After *Epic Systems*, an employee in California argues that her arbitration agreement's ban on class proceedings is unenforceable, not under the NLRA, but under a state rule that treats class-action waivers in employment contracts as unconscionable. Does the Federal Arbitration Act's saving clause preserve that defense?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**No.** The saving clause preserves "generally applicable contract defense[s]," such as fraud, duress, or ordinary unconscionability. But *Epic Systems*, following *Concepcion*, held that "an argument that a contract is unenforceable just because it requires bilateral arbitration is a different creature." A defense of that kind "impermissibly disfavors arbitration whether it sounds in illegality or unconscionability." A state rule striking down class waivers targets the very feature (individualized proceedings) that the FAA requires courts to enforce "according to their terms." Relabeling the employees' argument as unconscionability doesn't change the result.
+
+:::
+:::
+
 ## Summary Judgment
 
 At the close of discovery, the parties have another chance to dispose of
@@ -1126,6 +1165,19 @@ substitute for trial by jury which so long has been the hallmark of
     tension with *Adickes*, explores what Rule 56 demands of a party
     seeking summary judgment before the burden of production will shift.
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Adickes*
+
+Suppose Kress, in moving for summary judgment, had filed affidavits from the police officer who was in the area and from every employee working that day, each swearing that no officer entered the store while Adickes was there. Adickes responds only by repeating the allegations of her complaint. Would summary judgment be proper?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Yes.** Kress lost in *Adickes* because, as the moving party, it "had the burden of showing the absence of a genuine issue as to any material fact," and its evidence did not "foreclose the possibility that there was a policeman in the Kress store." Affidavits from the officer and the staff would close that gap. The burden of production would then shift to Adickes, who "may not rest upon the mere allegations or denials of h[er] pleading" but "must set forth specific facts showing that there is a genuine issue for trial." Repeating the complaint doesn't do that. To survive, she would need evidence of her own, such as testimony from someone who saw an officer in the store.
+
+:::
+:::
+
 ### Celotex Corp. v. Catrett
 
 **JUSTICE REHNQUIST delivered the opinion of the Court.** [477 U.S. 317 (1986)]{.aside}
@@ -1364,6 +1416,19 @@ dissenting.**
         The Court held that a plaintiff held to such a standard of proof
         must satisfy it to survive summary judgment.
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Celotex*
+
+Celotex moves for summary judgment, pointing out that Mrs. Catrett's interrogatory answers name no witness who saw her husband exposed to Celotex products. She responds with a deposition in which a former coworker testifies that he and Mr. Catrett installed Celotex-brand insulation together in Chicago in 1970. Should summary judgment be granted?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**No.** *Celotex* makes it easier for a defendant to shift the burden. It doesn't have to disprove exposure; it may discharge its burden by "pointing out to the district court ... that there is an absence of evidence to support the nonmoving party's case." Celotex did that here. But once the burden shifts, the plaintiff can defeat the motion with evidence showing a genuine dispute. A coworker's deposition testimony, from personal knowledge, that Mr. Catrett worked with Celotex insulation is exactly that kind of evidence. Whether to believe him is a question for the jury.
+
+:::
+:::
+
 ### Tolan v. Cotton
 
 **PER CURIAM.** [572 U.S. 650 (2014)]{.aside}
@@ -1595,6 +1660,19 @@ judgment.**
     process. Consider how numerous and detailed the questions must have
     been in order to draw out the key testimony.
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Tolan*
+
+In ruling on Cotton's motion, a district judge writes: "Sergeant Cotton testified that the porch was well lit and that Tolan's mother was shouting and refusing orders. Although Tolan and his mother describe the lighting as dim and her manner as calm, the officer's account is more credible, and the Court adopts it." What is wrong with this reasoning?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**The judge resolved a factual dispute against the nonmoving party.** On summary judgment, "the evidence of the nonmovant is to be believed, and all justifiable inferences are to be drawn in his favor." The court may decide only whether a genuine dispute exists, not which side is telling the truth. That was the Fifth Circuit's error in *Tolan*: it credited Cotton's version of the lighting, Tolan's mother's demeanor, whether Tolan shouted a threat, and his position when he was shot, despite Tolan's contrary evidence. Credibility is for the jury. The court must take Tolan's account as true and ask whether, on that account, Cotton is entitled to judgment as a matter of law.
+
+:::
+:::
+
 ### Bias v. Advantage Int'l, Inc.
 
 **SENTELLE, Circuit Judge:** [905 F.2d 1558 (D.C. Cir. 1990)]{.aside}
@@ -1791,6 +1869,19 @@ Court's award of summary judgment to the defendants in this case.
     create a genuine dispute as to a material fact? What evidence might
     have helped the Biases' argument? How could they have gotten that
     evidence?
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Bias*
+
+Change the facts. In addition to the affidavits of Bias's parents and coach, the Estate submits an affidavit from a friend who swears that she attended the same parties Long and Gregg described, stayed the whole time, and never saw Bias use cocaine. Does that create a genuine issue about Bias's drug use?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Very likely yes.** The parents' and coach's evidence failed because it was "generalized" and "did not contradict the more specific testimony of teammates who knew Bias well and had seen him use cocaine on particular occasions." The court said that "rebuttal testimony either must come from persons familiar with the particular events to which the defendants' witnesses testified or must otherwise cast more than metaphysical doubt on the credibility of that testimony." A witness who was present at those same events and contradicts Long and Gregg is exactly that. The conflict between her account and theirs is a credibility question for the jury, so summary judgment on the drug-use issue would be improper.
+
+:::
+:::
 
 ### Scott v. Harris
 
@@ -2144,3 +2235,16 @@ Justices Ginsburg and Scalia question Craig T. Jones, counsel for Harris, about 
     it apply to other kinds of audiovisual evidence? In other words,
     what kind of evidence is enough to "blatantly contradict\[\]"
     evidence to the contrary?
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Scott v. Harris*
+
+Change the evidence. The only video of the chase is from a distant traffic camera at night. It shows two sets of headlights moving quickly but doesn't show whether other cars were on the road. Deputy Scott testifies that Harris forced several cars off the road; Harris testifies that the road was empty. Should the court view the facts "in the light depicted by the videotape" and grant summary judgment?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**No.** *Scott* is an exception to the ordinary rule, and a narrow one. A court may disregard the nonmovant's account only "[w]hen opposing parties tell two different stories, one of which is blatantly contradicted by the record, so that no reasonable jury could believe it." That was true in *Scott* because the dashboard video plainly showed Harris's driving endangering others. A distant, ambiguous video doesn't contradict Harris's story at all on the disputed point. Without such a contradiction, the usual rule from *Tolan* applies: the court must credit Harris's testimony that the road was empty and draw inferences in his favor. Whether he endangered others is a genuine dispute for trial.
+
+:::
+:::
