@@ -2900,8 +2900,10 @@ Multidistrict Litigation---to transfer and consolidate (for pretrial
 purposes only) cases that concern similar subject matter. To date, the
 JPML has created more than 1800 MDLs comprising more than 1 million
 cases (many of them putative class actions). Today, the biggest MDLs
-concern such topics as earplugs, talc, hernia mesh, heartburn
-medication, nicotine vape products, weed killers, and PFAS. Though MDLs
+concern such topics as talc, hernia mesh, PFAS in firefighting foam,
+hair relaxers, and heartburn medication (see @fig-mdl-map). Others, like
+the earplug MDL---the largest ever---have resolved nearly all of their
+cases. Though MDLs
 are most common for products liability mass torts, they can involve any
 subject matter, as the following case shows.
 
