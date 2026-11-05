@@ -1,0 +1,7 @@
+period,period_start,period_end,origin,per_month,source_page
+Before CAFA,2001-07-01,2005-01-31,Original filings,11.9,6
+Before CAFA,2001-07-01,2005-01-31,Removals,17.2,6
+First 16 months,2005-03-01,2006-06-30,Original filings,33.3,6
+First 16 months,2005-03-01,2006-06-30,Removals,25.1,6
+Next 12 months,2006-07-01,2007-06-30,Original filings,36.0,6
+Next 12 months,2006-07-01,2007-06-30,Removals,18.1,6
