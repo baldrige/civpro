@@ -1086,6 +1086,27 @@ Two Florida citizens are injured in the same car accident and sue the Georgia dr
 
 The plaintiff gets the first choice of forum. Wherever she files her complaint will be the court that first hears her case. But since the earliest days of federal courts, Congress has given some defendants a chance to shift the court that will hear claims against them. In particular, under certain circumstances, defendants can “remove” a case from state to federal court. The general rule, supplied by 28 U.S.C. § 1441, is that a defendant may remove any case over which “the district courts of the United States have original jurisdiction.” In other words, a defendant typically may remove a case to federal court if the plaintiff could have filed it there in the first instance. Notable exceptions include the forum-defendant rule, which bars local defendants from removing cases where the only basis for federal jurisdiction is grounded on diversity of citizenship. _See_ 28 U.S.C. § 1441(b)(2). A separate statute, 28 U.S.C. § 1446, details the procedures to be used for removal and, if appropriate, remand to state court. The cases that follow explore some of the difficult questions that can arise in the context of removal.
 
+Removal is common. In most recent years, roughly one federal civil case in nine arrived by removal from a state court (@fig-removal).
+
+```{r}
+#| label: fig-removal
+#| fig-alt: "Scatterplot of the percentage of federal civil filings removed from state courts, statistical years 1993 to 2025. The share is about 12 percent in 1993, rises to about 16 percent in the mid-1990s and peaks at 20 percent in 2002, holds near 11 to 13 percent from 2004 to 2019, dips to 7 percent in 2020, and returns to 13 percent in 2025."
+#| fig-cap: "Percent of federal civil filings that were removed from state courts, 1993--2025 (years ending September 30). The 2002 peak reflects a wave of removed asbestos cases. The dips in 2020--2023 come from a larger denominator, not fewer removals: tens of thousands of earplug cases were filed directly in the Northern District of Florida's MDL. The total includes reopened, remanded, and transferred cases. Source: Admin. Off. of the U.S. Cts., *Judicial Business of the United States Courts* tbl. S-7 (1997--2010), tbl. C-8 (2011--2025) (“Civil Cases Filed, by Origin”)."
+#| echo: false
+#| fig-width: 6.5
+#| fig-height: 3.3
+library(ggplot2)
+
+removal <- read.csv("data/removal_share.csv")
+
+ggplot(removal, aes(year, pct_removed)) +
+  geom_point(size = 1.8) +
+  scale_y_continuous(limits = c(0, 22), labels = function(x) paste0(x, "%"),
+                     expand = expansion(mult = c(0, 0.02))) +
+  labs(x = NULL, y = "Civil filings removed from state court") +
+  theme_classic(base_size = 11)
+```
+
 ### Caterpillar, Inc. v. Lewis
 
 **GINSBURG, J., delivered the opinion of the Court.** [519 U.S. 61 (1996)]{.aside}

@@ -8,6 +8,7 @@ figure, add the new year's row to its CSV and push; the build redraws it.
 | `c4_trial_rates.csv` | `fig-trial-rate` | Trial & Appeal | AO *Judicial Business* tbl. C-4 (total row, Sept. 30) |
 | `c4_trial_rates_1962_1996.csv` | `fig-trial-rate` | Trial & Appeal | AO *Annual Report of the Director* tbl. C-4 (total row; June 30 through 1991, Sept. 30 from 1992; 1993 not located). Each row gives the scan it came from (HathiTrust or Internet Archive) and any OCR corrections |
 | `aic_threshold.csv` | `fig-aic` | Subject Matter Jurisdiction | 28 U.S.C. § 1332 amendment notes; FJC history; Minneapolis Fed CPI |
+| `removal_share.csv` | `fig-removal` | Subject Matter Jurisdiction | AO *Judicial Business* tbl. S-7 (1997–2010) and C-8 (2011–2025), "Civil Cases Filed, by Origin" (Sept. 30), each year from the latest edition reporting it |
 | `cafa_fjc_2008.csv` | `fig-cafa` | Aggregation | Lee & Willging, FJC, *CAFA Fourth Interim Report* (Apr. 2008), at 6 (monthly averages stated in the text; the report gives its series only as charts) (one-time study) |
 | `mdl_share.csv` | `fig-mdl-share` | Aggregation | AO *Judicial Business* tbls. S-20 and C-1 (Sept. 30) |
 | `jpml_pending_mdls.csv`, `jpml_districts.csv` | `fig-mdl-map` (drawn by `maps/make_mdl_map.R`; commit the PNG) | Aggregation | JPML *MDL Statistics Report*, pending dockets by district, by actions pending, and by MDL number (Nov. 2, 2026), <https://www.jpml.uscourts.gov/node/375>; district plotting cities from the Census 2024 Gazetteer (internal points), noted per row |
