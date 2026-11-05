@@ -2926,6 +2926,8 @@ ggplot(mdl, aes(year, pct_mdl)) +
   theme_classic(base_size = 11)
 ```
 
+![Where the MDLs are: pending actions in each transferee district's MDL dockets as of November 2, 2026, with the largest MDLs named. The 164 pending dockets held 204,987 actions, and the talc MDL in New Jersey alone held 69,376, about a third of the total. The 3M earplug MDL, the largest ever with 391,239 actions, had just 2 left. Each district is plotted at one of its courthouse cities. Source: Jud. Panel on Multidistrict Litig., *MDL Statistics Report: Distribution of Pending MDL Dockets by District* (Nov. 2, 2026).](maps/mdl_districts.png){#fig-mdl-map width="100%" fig-alt="Map of the lower 48 states with a circle for each federal district that has pending MDL dockets, sized by pending actions. The District of New Jersey has by far the largest circle, 84,948 pending actions in the talc and heartburn-drug MDLs. Other large circles are the Southern District of Ohio (hernia mesh, 23,306), the District of South Carolina (firefighting foam, 15,270), the Northern District of Illinois (hair relaxers, 14,408), the Northern District of California (Uber and social media, 11,177), the District of Minnesota (Bair Hugger, 8,831), the Southern District of Illinois (paraquat, 6,635), the Southern District of Indiana (IVC filters, 6,467), and the Northern District of Florida (Depo-Provera, 6,415). Most other districts have small circles."}
+
 ### Lexecon Inc. v. Milberg Weiss Bershad Hynes & Lerach
 
 **Justice Souter** [523 U.S. 26 (1998)]{.aside} **delivered the opinion of the Court, which was unanimous
