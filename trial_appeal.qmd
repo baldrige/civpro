@@ -50,7 +50,7 @@ ggplot(c5, aes(year, median_months, colour = stage)) +
   geom_smooth(method = "loess", formula = y ~ x, se = FALSE,
               method.args = list(family = "symmetric"), linewidth = 0.8) +
   geom_point(size = 1.8, alpha = 0.5) +
-  annotate("text", x = 2007, y = 39, label = "2007: 127.6 2191", size = 3, hjust = 0.5) +
+  annotate("text", x = 2007, y = 39, label = "2007: 127.6 (off the chart)", size = 3, hjust = 0.5) +
   scale_colour_manual(values = c("black", "grey55"), name = NULL) +
   coord_cartesian(ylim = c(0, 40)) +
   scale_y_continuous(expand = expansion(mult = c(0, 0.02))) +
