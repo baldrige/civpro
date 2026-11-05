@@ -120,6 +120,19 @@ for theft and conversion under Rule 12(b)(1). \[...\]
     compulsory? In other words, what is the implicit penalty for failing
     to raise a compulsory counterclaim?
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Cordero*
+
+(a) Suppose Voltaire also counterclaimed against Remi Harvey, one of the laborers, for fraud, alleging that he padded the hours on his own time sheets. Is that counterclaim compulsory? (b) The court dismissed Voltaire's theft and conversion counterclaims. If Voltaire later sues the laborers for theft in state court, will the FLSA judgment bar it?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**(a) Very likely yes. (b) No.** A counterclaim is compulsory under Rule 13(a) when it arises out of the same transaction or occurrence as the opposing party's claim. The court found the fraud counterclaim against Cordero compulsory because "both claims focus on whether Cordero is owed overtime compensation under the Act and if so, the amount actually owed." A claim that Harvey inflated his own hours is the same kind of claim: to win overtime, Harvey must prove the hours he worked, and to win on fraud, Voltaire must prove he didn't work them. The theft counterclaims are different. Taking equipment "plainly does not rest on the same operative facts" as the claim for unpaid overtime. That makes them permissive, which has two consequences. They need their own basis for jurisdiction, which is why they were dismissed. And Voltaire was never required to bring them in this suit, so it remains free to sue on them elsewhere. Only a compulsory counterclaim is lost if it isn't asserted.
+
+:::
+:::
+
 The next several cases shift gears from additional claims to additional
 parties. Rules 19 and 20, respectively, govern whom a plaintiff must or
 may join as additional parties. Rule 14 controls whom a *defendant* may
@@ -344,6 +357,19 @@ to permit the plaintiffs to proceed jointly. \[...\]
 3.  If permissive joinder is denied, what are the would-be plaintiffs'
     options?
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Mosley*
+
+Ten Black employees at ten different General Motors plants want to sue together. Each alleges that his own plant manager, acting alone, denied him a promotion because of his race. They do not allege any company-wide policy. May they join as plaintiffs under Rule 20(a)?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Probably not.** Rule 20(a) requires both a right to relief arising out of "the same transaction, occurrence, or series of transactions or occurrences" and a common question of law or fact. *Mosley* read the first requirement generously, to cover "all reasonably related claims," but the plaintiffs there met it because "[e]ach of the ten plaintiffs alleged that he had been injured by the same general policy of discrimination on the part of General Motors and the Union." That shared policy also supplied the common question: "The discriminatory character of the defendants' conduct is thus basic to each plaintiff's recovery." Ten unrelated managers making ten independent decisions is ten separate transactions, with nothing logically connecting them except that, as the district court in *Mosley* put it, they share "only one common problem, *i.e.*, the defendant." Each plaintiff would have to sue separately.
+
+:::
+:::
+
 ### Price v. CTB, Inc.
 
 **DE MENT, J.** [168 F. Supp. 2d 1299 (M.D. Ala. 2001)]{.aside}
@@ -448,6 +474,19 @@ be and the same is hereby DENIED.
     the third party would be liable, on a dollar-for-dollar basis, to
     the defendant for at least some of the plaintiff's damages against
     the defendant.
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Price*
+
+Change Latco's third-party complaint. Instead of seeking indemnity, Latco alleges only that ITW's defective nails damaged Latco's reputation among farmers and cost it future business, and it seeks those lost profits from ITW. (a) Can Latco implead ITW on that claim alone? (b) Would your answer change if Latco also asserted the indemnity claim from the real case?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**(a) No. (b) Yes.** Under Rule 14(a), "the third party liability must in some way be derivative of the original claim; a third party may be impleaded only when the original defendant is trying to pass all or part of the liability onto that third party." A claim for Latco's own lost profits doesn't pass on any of Price's claim against Latco. Even though it arises "out of the same general set of facts," it is "based upon a separate and independent claim," so Latco would have to bring it in a separate suit. But once Latco properly impleads ITW on a derivative claim, such as implied indemnity, the rest follows: "a properly impleaded claim may serve as an anchor for separate and independent claims under Rule 18(a)." The lost-profits claim could then ride along.
+
+:::
+:::
 
 While Rule 20 governs permissive joinder of parties, Rule 19 controls
 *required* joinder of parties. A "required party," under Rule 19, is one
@@ -556,6 +595,19 @@ It is so ordered.
     under Rule 19(b). That provision specifies what the consequences are
     when a party is required but unable to be joined. The next case
     takes up those rules.
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Temple*
+
+Synthes believes Dr. LaRocca and the hospital, not its device, caused Temple's injury, and it wants them in the federal case. Rule 19 didn't work. What should Synthes have done instead?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Filed a third-party complaint under Rule 14(a).** The Court pointed out that "Synthes did not attempt to bring the doctor and the hospital into the federal action by means of a third-party complaint, as provided in Federal Rule of Civil Procedure 14(a)." Rule 19 was the wrong tool because "a tortfeasor with the usual 'joint-and-several' liability is merely a permissive party," so the plaintiff gets to decide whether to sue all joint tortfeasors together. Impleader leaves that choice to the defendant, but only for a derivative claim. As *Price* shows, Synthes would need a substantive right under Louisiana law to pass on to the doctor and the hospital all or part of any liability it owes Temple, such as contribution or indemnity.
+
+:::
+:::
 
 ### Helzberg's Diamond Shops v. Valley West Des Moines Shopping Center
 
@@ -756,6 +808,19 @@ Court is affirmed.
     West mall? Who would have benefited most from dismissal of
     Helzberg's suit? Do the answers to those two questions help explain
     why the case turned out as it did?
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Helzberg*
+
+Change the relief. Instead of an injunction against Valley West, Helzberg asks the court to declare Lord's lease void and to order Lord's to vacate space 261. Lord's still cannot be served in Missouri. Should the case go forward without Lord's?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Probably not.** *Helzberg* turned on the fact that "Helzberg seeks only to restrain Valley West's breach of the Lease Agreement to which Helzberg and Valley West were the sole parties." The court could "determine all of the rights and obligations of both Helzberg and Valley West" under their lease, while "Lord's will retain all of its rights under its Lease Agreement." A person does not become indispensable "simply because that person's rights or obligations under an entirely separate contract will be affected by the result." A judgment voiding Lord's lease and ordering it out would directly determine Lord's own rights in a suit to which it is not a party. That is the most serious kind of prejudice under Rule 19(b), and it is hard to reduce while Lord's itself is the target of the relief. And Helzberg has another forum: it could sue in Iowa, where Lord's can be joined. The Rule 19(b) factors would likely point toward dismissal.
+
+:::
+:::
 
 Rule 24 allows non-parties to a case an opportunity to join the case
 (usually, but not always, as a plaintiff). Just as Rule 19 distinguishes
@@ -983,6 +1048,19 @@ Kerr-McGee's and American Mining Congress', motions to intervene.
     permitted to intervene? Why didn't the court discuss that aspect of
     the movants' appeal in detail?
     
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *NRDC v. NRC*
+
+The plaintiffs argued that Kerr-McGee didn't need to intervene, because a judgment in a suit to which it was not a party could not bind it. (*Martin v. Wilks*, which comes next, confirms that this is the rule.) Why didn't that argument defeat intervention as of right?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Because Rule 24(a)(2) asks about impairment "as a practical matter."** The court held that it is "not limited to consequences of a strictly legal nature" and "is not restricted to a rigid res judicata test." Even if Kerr-McGee would not be bound, "the stare decisis effect might be sufficient," especially because the case was one "of first impression." And because the considerations for requiring an environmental impact statement would be about the same for every license, the court thought "the chance of getting a contrary result in a case which is substantially similar on its facts to one previously adjudicated seems remote." Kerr-McGee could relitigate in theory, but it would probably lose. That practical harm is enough to satisfy the impairment requirement.
+
+:::
+:::
+
 ## Non-Parties & Judgments
 
 So far we have spoken of aggregation in terms of addition. Instead of
@@ -1326,6 +1404,19 @@ in the earlier litigation.
 (@)  What if anything could the NAACP and the original Black plaintiffs
     have done to ensure no future suits would be possible?
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Martin v. Wilks*
+
+Note 4 asks what the original plaintiffs could have done to prevent later suits. Suppose that, in the 1974 litigation, the plaintiffs or the City had joined the Birmingham Firefighters Association and the individual white firefighters as parties under Rule 19 before the consent decrees were entered. Could Wilks and the others then challenge promotions made under the decrees?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**No, not the firefighters who were joined.** *Martin* holds that "[j]oinder as a party, rather than knowledge of a lawsuit and an opportunity to intervene, is the method by which potential parties are subjected to the jurisdiction of the court and bound by a judgment or decree." The Wilks firefighters could sue because the burden was never on them: "a party seeking a judgment binding on another cannot obligate that person to intervene; he must be joined." The Court placed that burden on the parties, who "are best able to bear the burden of designating those who would be adversely affected if plaintiffs prevail." Joined firefighters would have had their day in court, and the decrees would bind them. (A properly certified and represented class is the other route, as *Hansberry* explains next.)
+
+:::
+:::
+
 ## Class Actions
 
 ### Hansberry v. Lee
@@ -1652,6 +1743,19 @@ Like a heavy load.
 >
 > Lorraine Hansberry, To Be Young, Gifted and Black 51--52
 (Robert Nemiroff ed. 1969).
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Hansberry*
+
+Change *Burke v. Kleiman*. Suppose the plaintiffs sued, as a defendant class, every owner who claimed the covenant was invalid, and the court appointed as class representatives owners who genuinely wanted the covenant struck down. The representatives contested the 95 percent issue in good faith and lost, and absent class members got notice. Would the Hansberrys, as successors to a member of that class, be bound?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Very likely yes.** *Hansberry* did not hold that class judgments can never bind absent members. Members of a class "may be bound by the judgment where they are in fact adequately represented by parties who are present." What went wrong in *Burke* was that nobody represented the Hansberrys' side. The plaintiffs "were not representing the petitioners here whose substantial interest is in resisting performance," and the defendants "were not treated by the pleadings or decree as representing others." Because of "the dual and potentially conflicting interests" of those bound by the covenant, the class the Illinois courts imagined included people on both sides. A defendant class whose representatives share the absent members' interest in defeating the covenant, and who actually litigate the issue, avoids that problem. It provides the "full and fair consideration of the common issue" that due process requires.
+
+:::
+:::
 
 ### Wal-Mart Stores, Inc. v. Dukes
 
@@ -2310,6 +2414,19 @@ Justices Alito and Kagan question Theodore J. Boutrous Jr., counsel for Wal-Mart
     administrative scheme to resolve these cases *en masse*, class
     actions offer one of the only paths out of a decades-long morass.
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Wal-Mart*
+
+Two hundred women who work in one Wal-Mart district allege that the district manager, who personally makes every promotion decision in the district, refuses to promote women. They seek an injunction and back pay. (a) Is there a common question under Rule 23(a)(2)? (b) Can the back pay claims be certified under Rule 23(b)(2)?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**(a) Yes. (b) No.** The Court's own example of a proper common contention is "the assertion of discriminatory bias on the part of the same supervisor." Whether this one manager refuses to promote women is a question whose answer "will resolve an issue that is central to the validity of each one of the claims in one stroke." That is the "glue" missing from the nationwide class, where millions of decisions were made by thousands of managers exercising their own discretion. But commonality isn't the end. The Court held that "individualized monetary claims belong in Rule 23(b)(3)," with its protections of "predominance, superiority, mandatory notice, and the right to opt out." The injunction could proceed under (b)(2), but the back pay claims would have to satisfy (b)(3). And Wal-Mart would still be entitled to litigate its defenses to individual claims, not be bound by a "Trial by Formula."
+
+:::
+:::
+
 Asbestos caused the first, and probably still the paradigmatic, wave of
 mass torts that threatened to overwhelm the courts. Used for millennia
 because of its fire resistance and quality as an insulator, asbestos
@@ -2759,6 +2876,19 @@ willing to give up.
     pausing to ask whether those same absent class members are any better
     off as asbestos litigation drags into its sixth decade?
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Amchem*
+
+The settling parties try again. This time they divide the class into two subclasses, one for the currently injured and one for exposure-only plaintiffs, each with its own named representatives and its own lawyers, who negotiate separately. Does that cure the problems the Court identified?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**It addresses one of them, but not the other.** Subclasses respond directly to the adequacy problem. The Court faulted the single giant class because "for the currently injured, the critical goal is generous immediate payments," which "tugs against the interest of exposure-only plaintiffs in ensuring an ample, inflation-protected fund for the future," and because the settlement had "no structural assurance of fair and adequate representation for the diverse groups and individuals affected." Separate representatives and counsel for each group provide that structural assurance. But predominance is a separate requirement, and the settlement can't satisfy it. The inquiry "trains on the legal or factual questions that qualify each class member's case as a genuine controversy, questions that preexist any settlement." Class members exposed to different products, at different times, with different illnesses, may still raise individual questions that predominate within each subclass.
+
+:::
+:::
+
 ## Multidistrict Litigation
 
 Class actions are not the only way to aggregate and manage large volumes
@@ -3207,3 +3337,16 @@ completed.
 
 Accordingly, the judgment of the Court of Appeals is reversed, and the
 case is remanded for further proceedings consistent with this opinion.
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Lexecon*
+
+Two cases in the same MDL have been transferred to the District of Arizona under § 1407. (a) In the first, the transferee judge grants summary judgment for the defendants. Must the Panel remand that case to the district where it was filed? (b) In the second, pretrial proceedings are over, and the transferee judge thinks Arizona is the most convenient place for trial. May the judge transfer the case to itself under § 1404(a)?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**(a) No. (b) No.** The Panel must remand each transferred case "at or before the conclusion of such pretrial proceedings to the district from which it was transferred unless it shall have been previously terminated." A case resolved on summary judgment has been terminated, and the Court noted that the Panel "is not meant to issue ceremonial remand orders in cases already concluded by summary judgment, say, or dismissal." Pretrial rulings like that are exactly what the transferee court is for. Trial is different. The Court held that a transferee court has no power to "invoke § 1404(a) to assign a transferred case to itself for trial," because self-assignment "conclusively thwarts the Panel's capacity to obey the unconditional command of § 1407(a)." The case must go back to the district where it was filed. That court can then decide any § 1404(a) motion itself.
+
+:::
+:::
