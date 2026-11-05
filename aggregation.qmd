@@ -1757,6 +1757,31 @@ Change *Burke v. Kleiman*. Suppose the plaintiffs sued, as a defendant class, ev
 :::
 :::
 
+In the Class Action Fairness Act of 2005 (CAFA), Congress gave the federal courts jurisdiction over most large interstate class actions, requiring only minimal diversity and an aggregate amount in controversy over $5 million. (*Standard Fire Insurance Co. v. Knowles*, in the subject-matter jurisdiction chapter, interprets the amount requirement.) @fig-cafa shows what happened to diversity class actions in the federal courts.
+
+```{r}
+#| label: fig-cafa
+#| fig-alt: "Bar chart of diversity class actions per month in 88 federal district courts. Before CAFA (July 2001 to January 2005), original filings averaged 11.9 and removals 17.2. In the first 16 months after CAFA, filings averaged 33.3 and removals 25.1. In the next 12 months, filings averaged 36.0 and removals 18.1."
+#| fig-cap: "Diversity class actions per month in 88 federal district courts, before and after CAFA took effect on February 18, 2005. Original filings roughly tripled; removals rose briefly and then fell back to their earlier level. Federal-question class actions, which far outnumber diversity cases, also grew over the period (from 188.5 to 258.3 filings a month), mostly because of Fair Labor Standards Act collective actions rather than CAFA. Counts include any case with class allegations and only the lead case of a consolidated group. Source: Emery G. Lee III & Thomas E. Willging, Fed. Jud. Ctr., *The Impact of the Class Action Fairness Act of 2005 on the Federal Courts: Fourth Interim Report to the Judicial Conference Advisory Committee on Civil Rules* 6 (2008)."
+#| echo: false
+#| fig-width: 6.5
+#| fig-height: 3.2
+library(ggplot2)
+
+cafa <- read.csv("data/cafa_fjc_2008.csv")
+cafa$period <- factor(cafa$period, levels = unique(cafa$period))
+
+ggplot(cafa, aes(period, per_month, fill = origin)) +
+  geom_col(position = position_dodge(width = 0.75), width = 0.7) +
+  geom_text(aes(label = format(per_month, nsmall = 1)),
+            position = position_dodge(width = 0.75), vjust = -0.4, size = 3.2) +
+  scale_fill_manual(values = c("Original filings" = "grey20", "Removals" = "grey65"), name = NULL) +
+  scale_y_continuous(limits = c(0, 40), expand = expansion(mult = c(0, 0.02))) +
+  labs(x = NULL, y = "Diversity class actions per month") +
+  theme_classic(base_size = 11) +
+  theme(legend.position = "top")
+```
+
 ### Wal-Mart Stores, Inc. v. Dukes
 
 **SCALIA, J., delivered the opinion of the Court.** [564 U.S. 338 (2011)]{.aside}
