@@ -327,6 +327,19 @@ affirm the judgment below.
     via different paths. What do they disagree about? And what body of
     law do they review to reach their answers?
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Frier*
+
+Change Illinois law. Suppose an Illinois statute provided that a replevin action may seek only the return of the property, and that no other claim may be joined with it. Frier loses his replevin suits and then brings the same § 1983 suit in federal court. Is it barred by claim preclusion?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Probably not.** Claim preclusion bars claims that were brought and claims that *could have been* brought in the first suit. Judge Easterbrook acknowledged that "Frier could not have obtained punitive damages or declaratory relief in a suit limited to replevin." His conclusion rested on the fact that Frier "was free to join one count seeking such relief with another seeking replevin," and "therefore he had a full and fair opportunity to litigate." If the first court could not have heard the constitutional claim at all, Frier had no such opportunity, and the usual exception applies: a claim isn't barred when the first court couldn't have entertained it. Notice that even Judge Swygert's disagreement wasn't about this. He thought Illinois's narrower "cause of action" test didn't reach the due process claim. Under the transactional test of the Restatement (Second), he agreed, "Frier should have raised both his substantive and procedural objections to the seizure in one initial lawsuit." Either way, the bar assumes that Frier could have brought both theories in one suit.
+
+:::
+:::
+
 *Taylor v. Sturgell*, like *Frier*, involves two lawsuits, but here they were brought by different plaintiffs. @fig-history-taylor traces them.
 
 ![The procedural history of *Taylor v. Sturgell*. Taylor was not a party to Herrick's suit; the lower courts nonetheless held him bound by its result.](diagrams/history_taylor.png){#fig-history-taylor width="67%" fig-alt="Procedural history of Taylor v. Sturgell in two columns. First suit, Herrick v. FAA: in 1997 Herrick asks the FAA for the F-45 documents and the FAA refuses as trade secrets; Herrick sues and the district court in Wyoming grants summary judgment to the FAA; the Tenth Circuit affirms. Second suit, Taylor v. FAA: in August 2002 Taylor, Herrick's friend, requests the same documents; Taylor sues in the District of Columbia and Fairchild intervenes; the court grants summary judgment on claim preclusion by virtual representation, with a dotted arrow from the Tenth Circuit decision asking whether it binds Taylor; the D.C. Circuit affirms; then the U.S. Supreme Court decides this case in 2008."}
@@ -641,6 +654,19 @@ It is so ordered.
 2.  What tradeoffs does our civil justice system make by insisting on a
     strict rule of mutuality in the context of claim preclusion?
 
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Taylor v. Sturgell*
+
+On remand, discovery shows that Herrick asked Taylor to file the FOIA request after Herrick lost, that Herrick is paying the legal fees, and that Taylor agreed to turn the documents over to Herrick for his restoration. Is Taylor's suit now barred?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Very likely yes.** The friendship, the shared lawyer, the membership in the same association, and the fact that Taylor and Herrick are "close associate[s]" were not enough, because the Court rejected preclusion based on a "close enough" relationship. But the fifth recognized category covers "preclusion because a nonparty to an earlier litigation has brought suit as a representative or agent of a party who is bound by the prior adjudication." Taylor conceded that preclusion would be appropriate if he were acting as Herrick's "undisclosed agen[t]." A suit filed at Herrick's request, paid for by Herrick, to get the documents for Herrick is Herrick relitigating through a proxy. That is exactly what the remand was for: "to determine whether Taylor, in pursuing the instant FOIA suit, is acting as Herrick's agent."
+
+:::
+:::
+
 ### Putting It Together
 
 @fig-claim-preclusion sums up the elements of claim preclusion.
@@ -793,6 +819,19 @@ whether Jessie sustained personal injuries and compensable damages.
     Jessie's second suit? (Hint: recall Judge Swygert's concurrence in
     *Frier* to draw a useful inference about Indiana law at the time
     *Parks* was decided.)
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Parks*
+
+Change the first trial. The judge gives the jury special interrogatories, and the jury answers that (1) Jessie suffered a loss of Bertha's services and consortium, and (2) Jessie's own negligence was a proximate cause of the accident. On those answers the court enters judgment against Jessie. In Jessie's second suit, for his own injuries, can the railroad now use issue preclusion on contributory negligence?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**Yes.** The railroad lost in *Parks* because the general verdict against Jessie "may have been based upon either or any of two or more distinct facts": that he was contributorily negligent, or that he had no compensable damages. Under *Town of Flora*, a party relying on such a judgment "must show that it went upon that fact, or else the question will be open to a new contention." The special interrogatories make that showing. The jury found that Jessie did suffer a loss, so the judgment against him "could not have been rendered without deciding" that he was contributorily negligent. That issue was actually litigated, actually decided, and necessary to the judgment, and it is the same issue in Jessie's suit for his own injuries arising from the same accident. Jessie is bound by it.
+
+:::
+:::
 
 ### Parklane Hosiery Co. v. Shore
 
@@ -1118,6 +1157,32 @@ mutuality there would have been no collateral estoppel in 1791. \[...\]
 5.  Finally, note that even when offensive non-mutual issue preclusion
     *could* apply, it is left to the discretion of a trial judge whether
     to apply the doctrine. Why might that be a good idea?
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Parklane*
+
+A single Parklane shareholder sues in state small-claims court for $2,000, alleging the proxy statement was misleading, and wins after a one-hour hearing in which Parklane could take no discovery. A second shareholder, who knew of the first suit and could have joined it, then sues Parklane in federal court for $5 million and asks the court to apply offensive collateral estoppel on whether the proxy statement was misleading. How should the court rule?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**It should refuse.** *Parklane* gives trial courts "broad discretion" and says a judge "should not allow the use of offensive collateral estoppel" where "a plaintiff could easily have joined in the earlier action" or where it "would be unfair to a defendant." Every warning sign is present. The second shareholder sat out the first case, the "wait and see" strategy the Court worried about. A defendant "sued for small or nominal damages ... may have little incentive to defend vigorously." And the second suit "affords the defendant procedural opportunities unavailable in the first action that could readily cause a different result," such as full discovery. *Parklane* itself came out the other way because none of these factors was present: the shareholder "probably could not have joined" the SEC's action, and Parklane had "every incentive to litigate the SEC lawsuit fully and vigorously" over four days of trial.
+
+:::
+:::
+
+::: {.callout-tip .self-check icon=false}
+## Check Your Understanding: *Blonder-Tongue*
+
+In the *Blonder-Tongue* scenario described in Note 3, the university lost its suit against D1 when the court held the patent invalid as obvious. (a) When the university sues D2 for infringing the same patent, can D2 prevent the university from relitigating validity? (b) Now reverse the first result: the university beat D1, and the court held the patent valid. When the university sues D2, can it prevent D2 from arguing that the patent is invalid?
+
+::: {.callout-note collapse="true" icon=false}
+## Answer
+
+**(a) Yes. (b) No.** In (a), D2 uses issue preclusion *defensively*: a defendant "seeks to prevent a plaintiff from asserting a claim the plaintiff has previously litigated and lost against another defendant." *Blonder-Tongue* "abandoned the mutuality requirement" for that situation, because the university already had a full and fair opportunity to litigate validity and lost. Letting it try again against each new defendant would allow relitigation by "switching adversaries," and refusing it "gives a plaintiff a strong incentive to join all potential defendants in the first action." In (b), the university would be trying to bind D2, who never litigated anything. Nonmutual preclusion lets a stranger to the first suit *use* a judgment, but never binds one: "It is a violation of due process for a judgment to be binding on a litigant who was not a party or a privy and therefore has never had an opportunity to be heard." Only the party who lost the first time can be precluded.
+
+:::
+:::
 
 ### Putting It Together
 
